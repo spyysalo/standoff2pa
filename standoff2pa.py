@@ -4,17 +4,25 @@ import sys
 import re
 import fileinput
 import json
+import codecs
 
 from collections import defaultdict
 from itertools import count
 from os import path
 
+DEFAULT_ENCODING='utf-8'
+DEFAULT_DB='PubMed'
+
 def argparser():
     import argparse
 
     parser = argparse.ArgumentParser()
+    parser.add_argument('-s', '--source', metavar='DB', default=DEFAULT_DB,
+                        help='Source database (default %s)' % DEFAULT_DB)
     parser.add_argument('-o', '--output', metavar='DIR', default=None,
                         help='Output directory')
+    parser.add_argument('-t', '--textdir', metavar='DIR', default=None,
+                        help='Text directory')
     parser.add_argument('file', metavar='FILE', nargs='+',
                         help='File(s) to convert')
 
@@ -32,10 +40,14 @@ class Annotation(object):
         self.id = id_
         self.type = type_
 
-    STANDOFF_RE = None
+    def verify_text(self, text):
+        """Verify reference text for textbound annotations."""
+        pass
 
     def to_pubannotation(self, ann_by_id):
         raise NotImplementedError
+
+    STANDOFF_RE = None
 
     @classmethod
     def from_standoff(cls, line):
@@ -60,6 +72,15 @@ class Textbound(Annotation):
             start, end = span.split(' ')
             spans.append((int(start), int(end)))
         return spans
+
+    def verify_text(self, text):
+        offset = 0
+        for start, end in self.get_spans():
+            endoff = offset + (end-start)
+            assert text[start:end] == self.text[offset:endoff], \
+                'Error: text mismatch: "%s" vs. "%s"' % \
+                (text[start:end], self.text[offset:endoff])
+            offset = endoff + 1
 
     def to_pubannotation(self, ann_by_id):        
         spans = self.get_spans()
@@ -230,40 +251,91 @@ def parse_standoff(source):
         annotations.append(parse_standoff_line(line))
     return annotations
 
-def convert_standoff(annotations):
+def get_source_db(files, options=None):
+    if options is not None:
+        return options.source
+    else:
+        # TODO: guess from filenames
+        return DEFAULT_DB
+
+def get_source_id(filenames, options=None):
+    bases = [path.basename(fn) for fn in filenames]
+    roots = [path.splitext(bn)[0] for bn in bases]
+    uniques = set(roots)
+    if len(uniques) > 1:
+        print >> sys.stderr, 'Warning: ambiguous source: %s' % str(uniques)
+    source = list(uniques)[0]
+    # fix common variants
+    m = re.match(r'^(?:(?:PMID|pubmed)[_-]?)?(\d+)$', source)
+    if m:
+        return m.group(1)
+    else:
+        return source
+
+def to_pubannotation(annotations, text, files, options=None):
     ann_by_id = { a.id: a for a in annotations }
     pubann = defaultdict(list)
     for a in annotations:
         for category, annotations in a.to_pubannotation(ann_by_id).items():
             pubann[category].extend(annotations)
-    print pubann
+    pubann['sourcedb'] = get_source_db(files, options)
+    pubann['sourceid'] = get_source_id(files, options)
+    pubann['text'] = text
     print pretty(pubann)
     return pubann
 
 def pretty(doc):
     return json.dumps(doc, sort_keys=True, indent=2, separators=(',', ': '))
 
+def find_texts(annotations, options=None):
+    if options.textdir is not None:
+        dirs = options.textdir
+    else:
+        dirs = [path.dirname(fn) for fn in annotations]
+    base = path.basename(annotations[0])
+    textbase = path.splitext(base)[0] + '.txt'
+    candidates = [path.join(d, textbase) for d in dirs]
+    return [fn for fn in candidates if path.exists(fn)]
+
+def annotations_and_text(filenames, options=None):
+    annotations, texts = [], []
+    for fn in filenames:
+        root, ext = path.splitext(path.basename(fn))
+        if ext in ('.txt',):
+            texts.append(fn)
+        else:
+            annotations.append(fn)
+    if len(texts) == 0:
+        texts = find_texts(annotations, options)
+        assert texts != [], 'Failed to find text for %s' % str(annotations)
+    if len(texts) > 1:
+        print >> sys.stderr, 'Warning: multiple texts for %s' % str(annotations)
+    return annotations, texts[0]
+
+def verify_text(annotations, text):
+    for a in annotations:
+        a.verify_text(text)
+
 def process_files(files, options=None):
-    standoff = parse_standoff(fileinput.input(files))
-    pubann = convert_standoff(standoff)
+    annfiles, textfile = annotations_and_text(files, options)
+    standoff = parse_standoff(fileinput.input(annfiles))
+    text = codecs.open(textfile, encoding=DEFAULT_ENCODING).read()
+    verify_text(standoff, text)
+    pubann = to_pubannotation(standoff, text, files, options)
     print pretty(pubann)
 
 def group_files(filenames):
     files_by_basename = defaultdict(list)
     for fn in filenames:
-        bn = path.basename(fn)
-        root, ext = path.splitext(bn)
-        if ext in ('.txt',):
-            print >> sys.stderr, 'Note: not processing text file', fn
-        else:
-            files_by_basename[root].append(fn)
+        root, ext = path.splitext(path.basename(fn))
+        files_by_basename[root].append(fn)
     return files_by_basename.values()
 
 def main(argv):
     args = argparser().parse_args(argv[1:])
 
     for group in group_files(args.file):
-        process_files(group)
+        process_files(group, args)
 
     return 0
 
