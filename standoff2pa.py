@@ -40,6 +40,10 @@ class Annotation(object):
         self.id = id_
         self.type = type_
 
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
+        raise NotImplementedError
+
     def verify_text(self, text):
         """Verify reference text for textbound annotations."""
         pass
@@ -66,7 +70,8 @@ class Textbound(Annotation):
         self.spans = spans
         self.text = text
 
-    def get_spans(self):
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
         spans = []
         for span in self.spans.split(';'):
             start, end = span.split(' ')
@@ -106,6 +111,17 @@ class Relation(Annotation):
         super(Relation, self).__init__(id_, type_)
         self.args = args
 
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
+        if ann_by_id is None:
+            print >> sys.stderr, 'Relation.get_spans: missing ann_by_id'
+            return []
+        else:
+            arg1, arg2 = self.get_args()
+            a1, a2 = arg1[1], arg2[1]
+            return (ann_by_id[a1].get_spans(ann_by_id) +
+                    ann_by_id[a2].get_spans(ann_by_id))
+
     def get_args(self):
         a1, a2 = self.args.split(' ')
         a1key, a1val = a1.split(':', 1)
@@ -133,6 +149,14 @@ class Event(Annotation):
         super(Event, self).__init__(id_, type_)
         self.trigger = trigger
         self.args = args
+
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
+        if ann_by_id is None:
+            print >> sys.stderr, 'Event.get_spans: missing ann_by_id'
+            return []
+        else:
+            return ann_by_id[self.trigger].get_spans(ann_by_id)
 
     def get_args(self):
         return [a.split(':', 1) for a in self.args.split(' ')]        
@@ -164,10 +188,18 @@ class Normalization(Annotation):
         self.ref = ref
         self.text = text
 
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
+        if ann_by_id is None:
+            print >> sys.stderr, 'Normalization.get_spans: missing ann_by_id'
+            return []
+        else:
+            return ann_by_id[self.arg].get_spans(ann_by_id)
+
     def to_pubannotation(self, ann_by_id):
         # map to denotation + relation using Pierre Zweigenbaum's approach:
         # https://github.com/linkedannotation/blah2015/wiki/PubAnnotation-system
-        spans = ann_by_id[self.arg].get_spans()
+        spans = self.get_spans(ann_by_id)
         start, end = spans[0][0], spans[-1][1]
         denotation = {
             'id': self.id,
@@ -197,6 +229,14 @@ class Attribute(Annotation):
         self.arg = arg
         self.val = val
 
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
+        if ann_by_id is None:
+            print >> sys.stderr, 'Attribute.get_spans: missing ann_by_id'
+            return []
+        else:
+            return ann_by_id[self.arg].get_spans(ann_by_id)
+
     def to_pubannotation(self, ann_by_id):
         pred = self.type + (self.val if self.val is not None else '')
         doc = {
@@ -218,9 +258,28 @@ class Comment(Annotation):
         self.arg = arg
         self.text = text
 
+    def get_spans(self, ann_by_id=None):
+        """Return list of associated (start, end) spans."""
+        if ann_by_id is None:
+            print >> sys.stderr, 'Comment.get_spans: missing ann_by_id'
+        else:
+            return ann_by_id[self.arg].get_spans(ann_by_id)
+
     def to_pubannotation(self, ann_by_id):
-        print >> sys.stderr, 'Warning: comment conversion TODO'
-        return {}
+        # map to denotation using span associated with target
+        spans = self.get_spans(ann_by_id)
+        start, end = spans[0][0], spans[-1][1]
+        doc = {
+            'id': self.id,
+            'obj': self.text,
+            'span': { 'begin': start, 'end': end },
+        }
+        return {
+            'denotations': [doc],
+        }
+
+    def __str__(self):
+        return '%s\t%s %s\t%s' % (self.id, self.type, self.arg, self.text)
 
     STANDOFF_RE = re.compile(r'^(\S+)\t(\S+) (\S+)\t(.*)$')
 
@@ -281,7 +340,6 @@ def to_pubannotation(annotations, text, files, options=None):
     pubann['sourcedb'] = get_source_db(files, options)
     pubann['sourceid'] = get_source_id(files, options)
     pubann['text'] = text
-    print pretty(pubann)
     return pubann
 
 def pretty(doc):
@@ -316,13 +374,32 @@ def verify_text(annotations, text):
     for a in annotations:
         a.verify_text(text)
 
+def output_file_name(annotation, options):
+    source = annotation.get('sourcedb')
+    if source is None:
+        prefix = ''
+    elif source == 'PubMed':
+        prefix = 'PMID-'
+    else:
+        print >> sys.stderr, 'Warning: unrecognized source %s' % source
+        prefix = ''
+    base = prefix + annotation['sourceid'] + '.json'
+    return path.join(options.output, base)
+
+def output_pubannotation(annotation, options=None):
+    if options is None or options.output is None:
+        print >> sys.stdout, pretty(annotation)
+    else:
+        with open(output_file_name(annotation, options), 'wt') as out:
+            print >> out, pretty(annotation)
+
 def process_files(files, options=None):
     annfiles, textfile = annotations_and_text(files, options)
     standoff = parse_standoff(fileinput.input(annfiles))
     text = codecs.open(textfile, encoding=DEFAULT_ENCODING).read()
     verify_text(standoff, text)
     pubann = to_pubannotation(standoff, text, files, options)
-    print pretty(pubann)
+    output_pubannotation(pubann, options)
 
 def group_files(filenames):
     files_by_basename = defaultdict(list)
