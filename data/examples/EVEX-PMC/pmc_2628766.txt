@@ -1,0 +1,164 @@
+Islet Specific Wnt Activation in Human Type II Diabetes
+The Wnt pathway effector gene TCF7L2 has been linked to type II diabetes, making it important to study the role of Wnt signaling in diabetes pathogenesis.
+We examined the expression of multiple Wnt pathway components in pancreases from normal individuals and type II diabetic individuals.
+Multiple members of the Wnt signaling pathway, including TCF7L2, Wnt2b, beta-catenin, pGSK3beta, TCF3, cyclinD1, and c-myc, were undetectable or expressed at low levels in islets from nondiabetic individuals, but were also upregulated specifically in islets of type II diabetic patients.
+Culture of pancreatic tissue and islet isolation led to Wnt activation that was reversed by the Wnt antagonist sFRP, demonstrating that Wnt activation in that setting was due to soluble Wnt factors.
+These data support a model in which the Wnt pathway plays a dynamic role in the pathogenesis of type II diabetes and suggest manipulation of Wnt signaling as a new approach to beta-cell-directed diabetes therapy.
+The beta-cell is a major target organ in the pathogenesis of type II diabetes as evidenced by the fact that overt diabetes does not occur until beta-cell dysfunction/loss has proceeded to the point where hypersecretion of insulin can no longer compensate for peripheral insulin resistance [1].
+A number of signaling pathways have been implicated in beta-cell failure, including insulin signaling [3] and oxidative stress [4].
+Wnt signal transduction is one of the central pathways that control organismal growth and differentiation [5].
+In the best-studied branch of the Wnt pathway, termed the canonical pathway, Wnts bind to frizzled receptors in conjunction with LRP family coreceptors.
+Resultant pathway activation prevents GSK3-mediated phosphorylation of beta-catenin and its subsequent ubiquitin-mediated degradation.
+Stabilized beta-catenin translocates into the nucleus where it interacts with transcription factors of the TCF family to activate target genes, including c-myc and cyclin D family members.
+A calcium-dependent pathway acts through calcium/calmodulin-dependent kinase II (CamKII) primarily to control cell movement.
+In some cell types, activation of the noncanonical pathway leads to activation of the NFAT transcription factor [6], which plays an important role in the maintenance of functional beta-cells [7].
+Wnt signaling is critical in early foregut and pancreatic development [8-10].
+Moreover, homozygous mutation of LRP5 in mice leads to defective glucose-stimulated insulin secretion from isolated islets in vitro [11].
+Components of the Wnt pathway are present in the adult pancreas, and in particular multiple members of the frizzled family of Wnt receptors have been identified in the islet [8].
+There are discrepant data on the role of Wnt signaling in mature islets.
+While most studies have found little evidence that Wnt signaling is involved in endocrine differentiation or in the adult islet [9, 10, 12], there is some evidence for an effect of Wnt signaling on beta-cell replication [13].
+To study the role of Wnt signaling in human diabetes, we systematically examined components of this pathway in the pancreas of normal and type II diabetic individuals.
+Strikingly, Wnt2b, which activates the canonical Wnt pathway, was highly upregulated in type II diabetes.
+Other mediators of the Wnt pathway, including pGSK3beta, TCF/Lef factors, c-myc, and cyclinD1, were also induced in type II diabetes, specifically in the beta-cells. beta-catenin, in contrast to the mouse, in which it is highly expressed in normal islets [14], was low or absent in normal human islets in situ.
+Most alpha-cells did not exhibit Wnt pathway activation and instead expressed high levels of the noncanonical Wnt, Wnt4, which can act to repress canonical Wnt signaling [15].
+The upregulation of TCF factors, including TCF7L2, is particularly interesting as linkage studies have identified a polymorphism in that gene as being tightly linked to type II diabetes in humans and there is some evidence that this polymorphism affects beta-cell function [16-20].
+Ectopic overexpression of the Wnt target gene c-myc in mice has been shown to cause beta-cell apoptosis and diabetes [21].
+To determine whether c-myc was a candidate for being an early effector in diabetes pathogenesis, we examined the effect of high-fat diet on c-myc expression in the murine pancreas.
+Interestingly, mice fed a high-fat diet for three months exhibited upregulated c-myc at a time when the mice were only mildly obese and not yet diabetic.
+The finding that the Wnt pathway is activated in human type II diabetes and that the Wnt target gene c-myc is also upregulated early in progression to diabetes in rodents has important implications for understanding the mechanism of beta-cell compensation and failure in diabetes and provides impetus for the development of new therapies targeted to that pathway.
+Twenty four hours later, they were treated with 0, 100, 500 ng/mL rhsFRP-1(R&D systems, Minn, USA) for 48 hours, harvested by fixing in 4% neutral phosphate-buffered formalin, followed by 30% sucrose/PBS, embedded in OCT freezing media (Sakura, Calif, USA), and snap-frozen at -80degreesC.
+Murine pancreases were obtained from anesthetized Balb/c or C57/bl mice and collected in 4% PFA followed by paraffin embedding.
+Confocal microscopy was performed with an MRC 1024 MP laser scanning microscope (Bio-Rad Laboratories, Inc., Richmond, Calif, USA) equipped with krypton/argon laser and a Millenia-Tsunami two-photon Ti-Sapphire femtosecond laser system (Spectra-Physics, Mountain View, Calif, USA).
+Proteins were transferred onto double nitrocellulose membranes (Immobilon-Psq, Millipore, Bedford, Mass, USA) in Tris/glycine/methanol buffer for 1 hour at 100 V.
+After overnight blocking in PBS-Tween (PBST) with 3% milk, membrane was incubated for 2 hours at room temperature with antibodies: anti-beta-catenin (Pharmingen), anti-CK19 (cytokeratin-19) (DAKO), anti-Actin (Sigma, St Louis, Mo, USA).
+After extensive washing in PBST, the membrane was incubated with secondary antibody conjugated to horseradish peroxidase diluted 1:2000 (Amersham/GE, Buckinghamshire, UK), washed in PBST, and revealed by ECL (Amersham/GE, Buckinghamshire, UK).
+3.1. TCF7L2 is upregulated in islets of type II diabetic patients
+Recently, TCF7L2 has been genetically linked to type II diabetes in multiple populations [16-19].
+The mRNA level of TCF7L2 is higher in cultured isolated islets from type II patients versus normal individuals [20], but expression in situ has not been examined.
+We found that TCF7L2 protein was barely detectable in the pancreas of normal individuals, but it was highly upregulated in an islet-specific manner in patients with type II diabetes (Figures1(a)-1(e)).
+In addition, the expression of TCF3, which has not been linked to type II diabetes, was also upregulated (Figures 1(f)-1(j)).
+3.2. Wnt2b is upregulated in type II diabetes
+Because TCF7L2 is both an effector as well as a downstream target of Wnt signaling [26], the induction of TCF factors suggested that a more global activation of Wnt signaling may be occurring.
+To test that hypothesis, we examined the expression of soluble Wnt factors and the initiators of Wnt signaling.
+Based upon the reported pattern of expression of soluble Wnt factor mRNA in the pancreas, we examined Wnt2b, which was a good candidate as its RNA has been reported to be present in isolated islets [8, 27].
+In nondiabetic individuals, little or no Wnt2b expression was detectable (Figures 2(a), 2(b), 2(c)).
+Robust expression of Wnt2b occurred in both beta-cells (Figures 2(c), 2(d), 2(e)) and alpha-cells (not shown) of diabetic patients.
+3.3. Human beta-cells lack detectable beta-catenin expression but it is strongly upregulated in type II diabetes
+Activation of frizzled receptors by soluble Wnts results in the stabilization of beta-catenin. beta-catenin in human islets of all five nondiabetic individuals examined was markedly lower than in the surrounding exocrine tissue, where it was strongly expressed (Figures 2(f)-2(h), Supplementary Figures 1(a), 1(b) available online at doi:10.1155/2008/728763 ).
+The same pattern was observed in the human fetal pancreas, with high levels of beta-catenin expression in nonendocrine epithelial cells and very low levels in endocrine cells (Supplementary Figures 1(c), 1(d)).
+Colocalization studies with PDX-1 revealed that beta-catenin was substantially restricted to nonendocrine PDX-1 positive, cells in the human fetal pancreas (Supplementary Figure 1(e)).
+Because PDX-1 serves as a precursor for both exocrine and endocrine compartments, beta-catenin expression must be repressed during human, but not murine, endocrine differentiation.
+To determine whether beta-catenin plays a role in beta-cell dysfunction and/or loss in human diabetes, its expression was examined in the pancreases of 9 patients with type II diabetes.
+In contrast, there was no noticeable effect of type II diabetes on the expression of E-cadherin, which is the major islet cadherin and may also influence the level of beta-catenin protein in the cell by sequestering it from degradation (not shown).
+Because beta-catenin is regulated by GSK3beta, we examined the state of GSK3beta activation in normal and type II diabetic pancreases.
+The inactive, phosphorylated form of GSK3beta, pGSK3beta, that leads to stabilization of beta-catenin, was limited to islets in both nondiabetic and diabetic individuals (Supplementary Figure 2).
+In type II diabetics, 95% of islets expressed pGSK3beta, while 80% of islets from nondiabetic individuals expressed pGSK3beta.
+Thus, the majority of normal islets expressed pGSK3beta despite having low or undetectable levels of beta-catenin, suggesting that the upregulation of beta-catenin in islets is not controlled in a simple way by the level of pGSK3beta.
+3.4. gamma-catenin is expressed in human beta-, but not alpha-, cells
+The low level of beta-catenin in normal human islets in vivo prompted us to investigate whether another molecule might be substituting for it in mediating its signaling and/or structural roles in the beta-cell.
+Lower organisms such as Drosophila have a single cadherin-binding catenin, Armadillo.
+However, in mammals, there are two such catenins, beta- and gamma-catenin, the latter also called plakoglobin [28].
+In murine beta-cells, gamma-catenin was upregulated when beta-catenin was deleted, but this was not noted to have any functional significance [10].
+In the adult human pancreas, we found that gamma-catenin was expressed in a highly selective manner in beta-cells (Supplementary Figures 1(f)-1(h)), in contrast to alpha-cells and the surrounding exocrine tissue, where it was low or undetectable (Supplementary Figures 1(i)-1(k)).
+The pattern of catenin expression in the adult was mirrored in the human fetal pancreas, with gamma-catenin being expressed in beta-, but not alpha-cells (Supplementary Figures 1(l)-1(q)).
+Interestingly, in the human fetal pancreas, gamma-catenin was also expressed in nonendocrine PDX-1 positive cells, being absent in PDX-1 negative cells (Supplementary Figures 1(r)-1(u)).
+Thus, in the human fetal pancreas, beta- and gamma-catenin are both expressed in PDX-1 expressing progenitors, but are inversely regulated as those progenitors diverge to form mature exocrine and beta-cells.
+3.5. Terminal effectors of Wnt signaling are upregulated in human type II diabetes
+TCF/LEF factors activate a number of terminal effectors of Wnt signaling.
+A well-studied member of that group is c-myc [29].
+Strikingly, c-myc was expressed in the islets from pancreases from patients with type II diabetes, but not in islets from nondiabetic individuals (Figures 2(p)-2(s)).
+Despite the role of c-myc in promoting cell proliferation, no increase in islet cell proliferation was observed, as measured by Ki67 staining (data not shown).
+In addition to c-myc, cyclinD1 is an important regulator of proliferation that is induced by Wnt signaling [30].
+While upregulation of Wnt2b occurred throughout the islet, activation of Wnt downstream signaling was limited to beta-cells, with alpha-cells in type II diabetic islets lacking expression of activation markers, including cyclinD1 (Figures 2(m)-2(o)).
+The lack of Wnt signaling in alpha-cells is interesting, as significant alpha-cell hyperplasia was observed in the type II diabetic pancreases (Figures 3(a), 3(b)) and is consistent with previous reports of the effect of type II diabetes on the endocrine pancreas [31].
+Mechanistically, the fact that Wnt2b was upregulated in alpha-cells, but downstream signaling was not activated, suggested that the pathway is defective or repressed in those cells.
+Occasional alpha-cells expressing a low level of cyclinD1 and c-myc was more consistent with a repressor being present than with alpha-cells having a completely defective pathway.
+Members of the Wnt family that mediate noncanonical Wnt signaling repress signaling through the canonical pathway under some circumstances [15].
+Thus, we studied the expression of the noncanonical Wnt, Wnt4, which microarray studies had suggested was expressed at a high level in human islets (unpublished).
+Consistent with the model, Wnt4 was expressed in alpha-, but not beta-cells (Figures 3(c)-3(f)).
+3.7. Islet isolation mimics the effect of type II diabetes on beta-catenin expression
+To pursue the role of Wnt activation in the islet, it would be desirable to have an in vitro model.
+Thus, we examined Wnt activation in isolated islets.
+Surprisingly, when cultured human islets were examined by Western blotting, beta-catenin, which is low or absent in the islet compared with surrounding tissue in situ, was expressed at a higher level than in the nonendocrine pancreatic cells (NEPCs) [23] (Figure 4(a)).
+In those fragments, beta-catenin induction occurred to a similar extent as in isolated islets (cf. Figures 4(b), 4(c)) marking it as an early event in the tissue procurement process.
+To determine whether upregulation of beta-catenin in isolated islets indicated active canonical Wnt signaling, we examined them for c-myc expression, finding that it was highly expressed (Figures 4(k), 4(m)).
+3.8. The Wnt inhibitor sFRP reduces beta-catenin and c-myc expression in human islets
+The model suggested by the data in type II diabetes and in isolated islets is that upregulation of soluble Wnts by some aspect of the environment in type II diabetic individuals or in isolated islets then activates the Wnt signaling pathway.
+However, alternative mechanisms for Wnt pathway activation are possible as well.
+For example, insulin, which is hypersecreted at early stages in type II diabetes in response to end organ unresponsiveness, is a potent inhibitor of GSK3 and thus a potential activator of the Wnt pathway [33].
+To distinguish between Wnt-dependent and Wnt-independent activation of downstream signaling, human islets were cultured with or without soluble frizzled receptor protein (sFRP), which represses Wnt signaling by sequestration of Wnt proteins [34].
+sFRP bound at high levels to islets (Figure 4(g)).
+Consistent with canonical activation of the pathway by secreted Wnts interacting with frizzled receptors, sFRP caused a reduction in both cytoplasmic and membrane-associated beta-catenin (Figures 4(h)-4(j)) and c-myc (Figures 4(k)-4(m)).
+Thus, a Wnt inhibitor restored human beta cells to the beta-catenin and c-myc negative state associated with normal tissue in situ, demonstrating clearly that Wnt pathway activation is occurring and suggesting that the process of Wnt activation in isolated islets mimics what occurs in type II diabetes.
+Activation of Wnt signaling in harvested islets has implications for islet transplantation.
+To determine whether Wnt activation was reversible following transplantation, three cultured islet preparations (containing some nonendocrine material) were transplanted under the kidney capsule of immunodeficient mice and analyzed three months later. beta-catenin expression in the islets had reverted back to levels much lower than in the surrounding duct structures within the graft (Figures 4(d), 4(e)), similar to the pattern found in the normal human pancreas.
+3.9. Wnt effectors are inversely correlated with insulin expression in type II diabetes
+In two pancreases from patients with type II diabetes but none of the nondiabetic controls, there were two distinct types of islets, exhibiting a 3.5-fold difference in the level of insulin expression in the beta-cells.
+Interestingly, beta-catenin upregulation was present to a much greater degree in beta-cells with diminished insulin expression (Figures 5(a)-5(e)).
+Since gamma- and beta-catenin were inversely regulated in the normal pancreas, the upregulation in some type II diabetic pancreases of beta-catenin in islets with lower insulin expression suggested the possibility that gamma-catenin expression might be downregulated in those islets.
+Thus, the weak insulin-expressing islets present in the diabetic state mimicked the pattern of catenin expression in the exocrine pancreas, where beta-catenin protein is abundant and gamma-catenin is not expressed.
+To pursue the finding that beta-cells with low-insulin expression had a pattern of catenin expression resembling that in the exocrine pancreas, pancreas sections were immunostained for the acinar marker amylase as well as insulin, revealing that low-insulin beta-cells coexpressed amylase (Figures 5(f), 5(g), 5(h)).
+The insulin/amylase double-positive cells expressed PDX-1 (Figure 5(i)), which in the adult pancreas is restricted to beta-cells and is never expressed in mature acinar cells, indicating that the weak insulin expression was not artifactual.
+The finding of cells expressing both insulin and amylase is consistent with a proposal by some investigators that endocrine and exocrine cells can transdifferentiate [35].
+Insulin-amylase double-positive cells have been found in models of beta-cell regeneration [36-38].
+To further explore whether the areas containing the insulin/amylase double-positive cells arose by alteration of preexisting beta-cells or by induction of insulin expression in preexisting exocrine cells, as has been described in some beta-cell regeneration models [37-39], we examined those areas for glucagon expression.
+Consistently, high levels of glucagon and a lack of amylase were observed in all alpha-cells, whether the islets exhibited high or low insulin expression (Figure 5(l)).
+Thus, the alpha-cells appeared normal, even in low-insulin expressing islets.
+Overall, these data suggest that one effect of type II diabetes on the beta-cell is to promote an aberrant differentiation state in which beta-cells lose insulin expression and begin to express exocrine markers.
+3.10. Expression of the Wnt target gene c-myc is an early response to high-fat diet
+To begin to address the question of whether Wnt activation was an early or late event in diabetes pathogenesis, we moved to a mouse model.
+Mice were placed on either a normal chow (low-fat) or high-fat diet and harvested pancreases were examined for c-myc expression after 12 weeks of high-fat diet, at which point the mice were obese (Figure 6(g)), but had a normal fasting blood glucose.
+Consistent with previous studies [14], we found that the murine pancreas exhibited a pattern of beta-catenin expression opposite from that in the human, with mouse islets expressing high levels of beta-catenin and the exocrine pancreas having less beta-catenin (Figures 6(a)-6(c)).
+However, the high level of beta-catenin expression even in the normal chow group did not reflect Wnt activation, as c-myc was not detectable in either the endocrine or exocrine pancreas (Figures 6(d), 6(f)).
+In contrast, the high-fat fed animals exhibited a high level of c-myc in islets (Figures 6(e), 6(f)).
+Additionally, some but not all ducts in the high-fat fed animals exhibited c-myc expression (Figure 6(e)).
+Unlike in the human, where we were able to identify Wnt2b and Wnt4 as being expressed in the islet, we have thus far been unable to identify the soluble Wnts responsible for activating Wnt targets in the adult mouse pancreas.
+However, combined with the human data, the results in the mouse suggest that obesity alone may be sufficient to induce Wnt activation, which would mark it as an early event in the pathogenesis of type II diabetes.
+The studies presented here are based primarily upon the examination of pancreas samples from normal and type II diabetic humans, from which we conclude that Wnt signaling effectors are upregulated in the islets in type II diabetes.
+A number of components in the Wnt pathway have been found to be associated with type II diabetes or obesity in linkage studies.
+Our finding that TCF3 and TCF7L2 are induced in islets from type II diabetics is particularly interesting in light of recent linkage association studies in which TCF7L2 has been identified as the gene most strongly linked to type II diabetes [17-19].
+TCF7L2 is also a direct downstream target of beta-catenin [26], which we found to be induced in type II diabetes.
+Similarly, lrp5, a component of the Wnt receptor signaling complex is associated with obesity phenotypes [40] and Wnt5b is associated with susceptibility to type II diabetes [41].
+Wnt pathway genes have also been linked to type I diabetes [42].
+Whether the involvement of Wnt signaling on predisposition to diabetes occurs through effects in the islet or in peripheral tissue has not been determined.
+However, we and others have established that c-myc has substantial effects on beta-cell function, exemplified by its ability to repress hormone expression and to induce both proliferation and apoptosis [43, 44].
+Of relevance to the specificity of the changes in Wnt signaling that were observed, alterations in the level of Wnt pathway components in the human pancreas were restricted to the islet, with little change in the exocrine pancreas.
+Consistent changes in Wnt pathway components were evident despite the fact that the human pancreases were obtained from widely divergent patients.
+This is likely to have minimized the extent of any differences, so it is striking that we still observed large changes in the expression of Wnt pathway components in the samples from diabetic patients.
+While no single Wnt downstream effector or pathway intermediate is absolutely specific for the Wnt pathway given the extensive cross-talk between Wnt and other signaling pathways, the evidence for activation of Wnt signaling in beta-cells is strong, with pathway components at all levels being affected, including upregulation of beta-catenin, TCF3, TCF7L2, cyclinD1, c-myc, and Wnt2b.
+Upregulation of Wnt2b is important, as there cannot be true pathway activation in the absence of an initiating signal.
+The downregulation of the downstream target c-myc by sFRP provides direct evidence that Wnt activation through a soluble Wnt occurs in islets, though the stimulus for upregulation of the soluble Wnt may or may not be the same in isolated islets and type II diabetes.
+While Wnt2b was induced throughout the islet, canonical Wnt activation was found predominantly in beta-cells.
+In alpha-cells, the pathway remained inactive, a state that correlated with alpha-cell-specific expression of Wnt4, a member of the Wnt family that mediates noncanonical signaling and that can repress canonical signaling [15, 45].
+While we observed changes in expression of Wnt2b and Wnt4, the Wnt family is large.
+It is likely that additional complexity will be revealed as other members of the Wnt family and other components of the pathway are examined.
+Wnt binding to frizzled receptors leads to stabilization of beta-catenin by inactivation of GSK3beta, which is itself under complex control, including distinct regulation by growth factors as well as Wnt signaling [46].
+Of relevance to diabetes, GSK3beta is inhibited by insulin signaling through the PI3 kinase pathway [47].
+Thus, hyperinsulinemia, a classic feature of type II diabetes that occurs early in the disease, could lead quite directly to upregulation of beta-catenin.
+Interestingly, it has been proposed, on the basis of its involvement in insulin signaling, that inhibitors of GSK3 may be effective in improving insulin sensitivity in rodent models of type II diabetes [48].
+However, based on data presented here, such inhibitors might lead to Wnt activation in the islet.
+The inverse correlation between Wnt pathway activation and insulin gene expression that we found suggests that, at least in the long term, Wnt activation could be deleterious to islet function.
+In contrast to what is believed to occur in the peripheral tissue, it is possible that Wnt inhibition and consequent activation of GSK3beta could have positive effects on islet function.
+Thus, in one tissue, GSK3 inhibition might prove beneficial, while in another, harmful.
+beta-cell specific Wnt effector upregulation occurred in the context of striking differential expression of Wnt pathway components in the endocrine versus exocrine pancreas in nondiabetic humans and mice, as well as significant interspecies differences.
+The best example of this is beta-catenin, which was expressed in an inverse pattern in the normal human and murine pancreases.
+In humans, beta-catenin was virtually absent in islets and expressed at high levels in the exocrine pancreas, while in the murine pancreas the reverse pattern was found.
+In the human exocrine pancreas, beta-catenin appears to be localized to the plasma membrane, which is a pattern that is consistent with its role in mediating connections between cadherins and the actin cytoskeleton.
+Despite decreased beta-catenin expression in islets, only the human endocrine pancreas expressed high levels of phosphorylated GSK3beta, which in the canonical model of Wnt signaling should have led to stabilization and upregulation of beta-catenin.
+Unfortunately, we were unable to assess the expression of the unphosphorylated, active form of GSK3beta due to limitations of the available antibodies.
+gamma-catenin was expressed in a converse fashion to beta-catenin in islets from nondiabetic individuals.
+Further, the dynamic regulation of beta- and gamma-catenin, with beta-catenin being induced and gamma-catenin repressed in islets with activated Wnt signaling, suggests that these molecules play an important role in diabetes pathogenesis.
+In some tissues, beta- and gamma-catenin act antagonistically, with beta-catenin tending to promote cell growth, while gamma-catenin acts as a tumor suppressor [49, 50].
+While both beta- and gamma-catenin can bind to TCF/LEF transcription factors, gamma-catenin does so much less efficiently [51].
+In addition, we have found that TCF genes are specifically activated by beta-, but not gamma-catenin (unpublished results).
+Wnt pathway activation in isolated islets has implications for islet transplantation.
+If, as indicated by the known undesirable effects of c-myc on islet biology [43, 44, 53], Wnt activation has a negative effect on beta-cell function and/or survival, inhibiting that upregulation in transplanted islets could be beneficial.
+The demonstration here that beta-catenin upregulation is reversible following renal subcapsular transplantation or by inhibiting Wnt signaling with sFRP provides a direct means of testing that hypothesis and could also provide a model system to study the effects of Wnt pathway activation in type II diabetes.
+A question of major importance is the functional role of Wnt signaling in diabetes pathogenesis, that is, is it part of an adaptive response or a pathologic response?
+One possibility is that Wnt activation plays an adaptive role early in type II diabetes, perhaps in promoting beta-cell proliferation [13], while chronic pathway activation leads to cell death, a well-recognized function of c-myc [44, 54].
+The mouse studies suggest but do not yet prove definitively that Wnt activation could be an early event in diabetes pathogenesis that is associated with high-fat diet.
+The striking activation of Wnt signaling in human type II diabetes, albeit in a small number of patients, provides insight into the molecular effects of diabetes on the beta-cell and offers a novel potential route to prevent beta-cell failure.
+Direct manipulation of the activation state of the pathway is required to dissect out the complex roles of the Wnt pathway in diabetes.
+Moreover, overexpression of beta-catenin in the mouse pancreas promoted pancreatic cancer [57].
+Thus, activated Wnt signaling may be a critical mechanism of pathogenesis common to both diabetes and pancreatic cancer.
+The inverse expression pattern of gamma- and ss-catenin in normal adult and fetal human pancreas.

@@ -1,0 +1,537 @@
+T1G	GGP 0 30	MAA3 (MAGATAMA3) Helicase Gene
+NT1G4	Reference T1G NCBITaxon:3702	Arabidopsis thaliana
+T2G	GGP 154 158	maa3
+NT2G0	Reference T2G ENSGF:297238	yeast Sen1 protein
+NT2G1	Reference T2G HG:104100	SEN1
+NT2G2	Reference T2G EG:827233	maa3
+NT2G4	Reference T2G NCBITaxon:3702	Arabidopsis thaliana
+T3G	GGP 160 169	magatama3
+NT3G0	Reference T3G ENSGF:297238	yeast Sen1 protein
+NT3G1	Reference T3G HG:104100	SEN1
+NT3G2	Reference T3G EG:827233	maa3
+NT3G4	Reference T3G NCBITaxon:3702	Arabidopsis thaliana
+T4G	GGP 348 357	MAA3 gene
+NT4G1	Reference T4G HG:104100	SEN1
+NT4G4	Reference T4G NCBITaxon:4932	Saccharomyces cerevisiae
+T5G	GGP 379 398	yeast Sen1 helicase
+NT5G4	Reference T5G NCBITaxon:4932	Saccharomyces cerevisiae
+T6G	GGP 450 454	MAA3
+NT6G1	Reference T6G HG:104100	SEN1
+NT6G4	Reference T6G NCBITaxon:4932	Saccharomyces cerevisiae
+T7G	GGP 559 569	FG mutants
+NT7G4	Reference T7G NCBITaxon:4932	Saccharomyces cerevisiae
+T8G	GGP 851 861	FG mutants
+NT8G4	Reference T8G NCBITaxon:4932	Saccharomyces cerevisiae
+T9G	GGP 914 930	maa1 (magatama1)
+NT9G4	Reference T9G NCBITaxon:4932	Saccharomyces cerevisiae
+T10G	GGP 935 947	maa3 mutants
+NT10G1	Reference T10G HG:104100	SEN1
+NT10G4	Reference T10G NCBITaxon:4932	Saccharomyces cerevisiae
+T11G	GGP 1185 1189	maa1
+NT11G1	Reference T11G HG:119383	MAA1
+NT11G4	Reference T11G NCBITaxon:4932	Saccharomyces cerevisiae
+T12G	GGP 1194 1206	maa3 mutants
+NT12G1	Reference T12G HG:104100	SEN1
+NT12G4	Reference T12G NCBITaxon:4932	Saccharomyces cerevisiae
+T13G	GGP 1231 1233	FG
+NT13G4	Reference T13G NCBITaxon:4932	Saccharomyces cerevisiae
+T14G	GGP 1411 1422	maa3 mutant
+NT14G1	Reference T14G HG:104100	SEN1
+NT14G4	Reference T14G NCBITaxon:4932	Saccharomyces cerevisiae
+T15G	GGP 1461 1470	MAA3 gene
+NT15G1	Reference T15G HG:104100	SEN1
+NT15G4	Reference T15G NCBITaxon:4932	Saccharomyces cerevisiae
+T16G	GGP 1504 1512	maa3 FGs
+NT16G4	Reference T16G NCBITaxon:4932	Saccharomyces cerevisiae
+T17G	GGP 1668 1670	FG
+NT17G4	Reference T17G NCBITaxon:4932	Saccharomyces cerevisiae
+T18G	GGP 1672 1694	Supplementary Table S1
+NT18G4	Reference T18G NCBITaxon:4932	Saccharomyces cerevisiae
+T19G	GGP 1714 1725	maa3 plants
+NT19G1	Reference T19G HG:104100	SEN1
+NT19G4	Reference T19G NCBITaxon:4932	Saccharomyces cerevisiae
+T20G	GGP 1776 1787	maa3 plants
+NT20G1	Reference T20G HG:104100	SEN1
+NT20G4	Reference T20G NCBITaxon:4932	Saccharomyces cerevisiae
+T21G	GGP 1833 1844	maa3 allele
+NT21G1	Reference T21G HG:104100	SEN1
+NT21G4	Reference T21G NCBITaxon:4932	Saccharomyces cerevisiae
+T22G	GGP 1970 1973	FGs
+NT22G0	Reference T22G ENSGF:47758	folylpolyglutamate synthetase
+NT22G1	Reference T22G HG:110677	FGS
+NT22G3	Reference T22G ENSF:740	ABO
+NT22G4	Reference T22G NCBITaxon:4932	Saccharomyces cerevisiae
+T23G	GGP 2021 2025	maa3
+NT23G1	Reference T23G HG:104100	SEN1
+NT23G4	Reference T23G NCBITaxon:4932	Saccharomyces cerevisiae
+T24G	GGP 2030 2059	wild-type female gametophytes
+NT24G4	Reference T24G NCBITaxon:4932	Saccharomyces cerevisiae
+T25G	GGP 2063 2080	maa3 heterozygote
+NT25G1	Reference T25G HG:104100	SEN1
+NT25G4	Reference T25G NCBITaxon:4932	Saccharomyces cerevisiae
+T26G	GGP 2109 2123	maa3 phenotype
+NT26G1	Reference T26G HG:104100	SEN1
+NT26G4	Reference T26G NCBITaxon:4932	Saccharomyces cerevisiae
+T27G	GGP 2126 2129	F-J
+NT27G0	Reference T27G ENSGF:179709	F-J
+NT27G1	Reference T27G HG:7717	F-J
+NT27G3	Reference T27G ENSF:22050	F-J
+NT27G4	Reference T27G NCBITaxon:4932	Saccharomyces cerevisiae
+T28G	GGP 2169 2176	maa3 FG
+NT28G4	Reference T28G NCBITaxon:4932	Saccharomyces cerevisiae
+T29G	GGP 2205 2212	maa3 FG
+NT29G4	Reference T29G NCBITaxon:4932	Saccharomyces cerevisiae
+T30G	GGP 2243 2250	maa3 FG
+NT30G4	Reference T30G NCBITaxon:4932	Saccharomyces cerevisiae
+T31G	GGP 2293 2297	maa3
+NT31G1	Reference T31G HG:104100	SEN1
+NT31G4	Reference T31G NCBITaxon:4932	Saccharomyces cerevisiae
+T32G	GGP 2302 2331	wild-type female gametophytes
+NT32G4	Reference T32G NCBITaxon:4932	Saccharomyces cerevisiae
+T33G	GGP 2335 2352	maa3 heterozygote
+NT33G1	Reference T33G HG:104100	SEN1
+NT33G4	Reference T33G NCBITaxon:4932	Saccharomyces cerevisiae
+T34G	GGP 2381 2395	maa3 phenotype
+NT34G1	Reference T34G HG:104100	SEN1
+NT34G4	Reference T34G NCBITaxon:4932	Saccharomyces cerevisiae
+T35G	GGP 2398 2401	F-J
+NT35G0	Reference T35G ENSGF:179709	F-J
+NT35G1	Reference T35G HG:7717	F-J
+NT35G3	Reference T35G ENSF:22050	F-J
+NT35G4	Reference T35G NCBITaxon:4932	Saccharomyces cerevisiae
+T36G	GGP 2441 2448	maa3 FG
+NT36G4	Reference T36G NCBITaxon:4932	Saccharomyces cerevisiae
+T37G	GGP 2477 2484	maa3 FG
+NT37G4	Reference T37G NCBITaxon:4932	Saccharomyces cerevisiae
+T38G	GGP 2515 2522	maa3 FG
+NT38G4	Reference T38G NCBITaxon:4932	Saccharomyces cerevisiae
+T39G	GGP 2603 2610	maa3 FG
+NT39G4	Reference T39G NCBITaxon:4932	Saccharomyces cerevisiae
+T40G	GGP 2762 2769	Fig. 1G
+NT40G4	Reference T40G NCBITaxon:4932	Saccharomyces cerevisiae
+T41G	GGP 2817 2824	maa3 FG
+NT41G4	Reference T41G NCBITaxon:4932	Saccharomyces cerevisiae
+T42G	GGP 2987 3005	maa3 heterozygotes
+NT42G1	Reference T42G HG:104100	SEN1
+NT42G4	Reference T42G NCBITaxon:4932	Saccharomyces cerevisiae
+T43G	GGP 3007 3029	Supplementary Table S1
+NT43G4	Reference T43G NCBITaxon:4932	Saccharomyces cerevisiae
+T44G	GGP 3046 3064	maa3 heterozygotes
+NT44G1	Reference T44G HG:104100	SEN1
+NT44G4	Reference T44G NCBITaxon:4932	Saccharomyces cerevisiae
+T45G	GGP 3099 3107	maa3 FGs
+NT45G4	Reference T45G NCBITaxon:4932	Saccharomyces cerevisiae
+T46G	GGP 3250 3264	maa3 phenotype
+NT46G1	Reference T46G HG:104100	SEN1
+NT46G4	Reference T46G NCBITaxon:4932	Saccharomyces cerevisiae
+T47G	GGP 3359 3367	maa3 FGs
+NT47G4	Reference T47G NCBITaxon:4932	Saccharomyces cerevisiae
+T48G	GGP 3431 3439	maa3 FGs
+NT48G4	Reference T48G NCBITaxon:4932	Saccharomyces cerevisiae
+T49G	GGP 3635 3649	maa3 mutations
+NT49G1	Reference T49G HG:104100	SEN1
+NT49G4	Reference T49G NCBITaxon:4932	Saccharomyces cerevisiae
+T50G	GGP 3765 3782	maa3 homozygosity
+NT50G1	Reference T50G HG:104100	SEN1
+NT50G4	Reference T50G NCBITaxon:4932	Saccharomyces cerevisiae
+T51G	GGP 3904 3915	maa3 mutant
+NT51G1	Reference T51G HG:104100	SEN1
+NT51G4	Reference T51G NCBITaxon:4932	Saccharomyces cerevisiae
+T52G	GGP 4080 4094	At4g15570 gene
+NT52G0	Reference T52G ENSGF:297238	yeast Sen1 protein
+NT52G1	Reference T52G HG:104100	SEN1
+NT52G4	Reference T52G NCBITaxon:4932	Saccharomyces cerevisiae
+T53G	GGP 4188 4197	MAA3 gene
+NT53G1	Reference T53G HG:104100	SEN1
+NT53G4	Reference T53G NCBITaxon:4932	Saccharomyces cerevisiae
+T120R	Entity 4208 4216	sequence
+T54G	GGP 4220 4224	MAA3
+NT54G1	Reference T54G HG:104100	SEN1
+NT54G4	Reference T54G NCBITaxon:4932	Saccharomyces cerevisiae
+T121R	Entity 4258 4264	region
+T55G	GGP 4377 4381	MAA3
+NT55G1	Reference T55G HG:104100	SEN1
+NT55G4	Reference T55G NCBITaxon:4932	Saccharomyces cerevisiae
+T56G	GGP 4433 4443	MAA3 locus
+NT56G4	Reference T56G NCBITaxon:4932	Saccharomyces cerevisiae
+T122R	Entity 4502 4509	regions
+T57G	GGP 4517 4526	MAA3 gene
+NT57G1	Reference T57G HG:104100	SEN1
+NT57G4	Reference T57G NCBITaxon:4932	Saccharomyces cerevisiae
+T58G	GGP 4592 4602	MAA3 locus
+NT58G4	Reference T58G NCBITaxon:4932	Saccharomyces cerevisiae
+T123R	Entity 4661 4668	regions
+T59G	GGP 4676 4685	MAA3 gene
+NT59G1	Reference T59G HG:104100	SEN1
+NT59G4	Reference T59G NCBITaxon:4932	Saccharomyces cerevisiae
+T60G	GGP 4705 4714	MAA3 gene
+NT60G1	Reference T60G HG:104100	SEN1
+NT60G4	Reference T60G NCBITaxon:4932	Saccharomyces cerevisiae
+T61G	GGP 4845 4882	DEAD-like helicase superfamily domain
+NT61G0	Reference T61G ENSGF:293948	SEN1
+NT61G1	Reference T61G HG:104100	SEN1
+NT61G2	Reference T61G EG:851150	SEN1
+NT61G3	Reference T61G ENSF:3273	SEN1
+NT61G4	Reference T61G NCBITaxon:4932	Saccharomyces cerevisiae
+T62G	GGP 4884 4896	DEXDc domain
+NT62G4	Reference T62G NCBITaxon:4932	Saccharomyces cerevisiae
+T63G	GGP 4981 4985	DEAD
+NT63G0	Reference T63G ENSGF:14627	Dead
+NT63G3	Reference T63G ENSF:5452	Abs
+NT63G4	Reference T63G NCBITaxon:4932	Saccharomyces cerevisiae
+T64G	GGP 4991 5006	helicase domain
+NT64G0	Reference T64G ENSGF:293948	SEN1
+NT64G1	Reference T64G HG:104100	SEN1
+NT64G2	Reference T64G EG:851150	SEN1
+NT64G3	Reference T64G ENSF:3273	SEN1
+NT64G4	Reference T64G NCBITaxon:4932	Saccharomyces cerevisiae
+T65G	GGP 5020 5033	Sen1 proteins
+NT65G0	Reference T65G ENSGF:293948	SEN1
+NT65G1	Reference T65G HG:104100	SEN1
+NT65G3	Reference T65G ENSF:3273	SEN1
+NT65G4	Reference T65G NCBITaxon:4932	Saccharomyces cerevisiae
+T66G	GGP 5208 5221	Sen1 homologs
+NT66G0	Reference T66G ENSGF:293948	SEN1
+NT66G1	Reference T66G HG:104100	SEN1
+NT66G3	Reference T66G ENSF:3273	SEN1
+NT66G4	Reference T66G NCBITaxon:3702	Arabidopsis thaliana
+T67G	GGP 5223 5232	At4g30100
+NT67G1	Reference T67G HG:41003	SETX
+NT67G2	Reference T67G EG:829133	At4g30100
+NT67G4	Reference T67G NCBITaxon:3702	Arabidopsis thaliana
+T68G	GGP 5234 5243	At1g16800
+NT68G2	Reference T68G EG:838251	At1g16800
+NT68G4	Reference T68G NCBITaxon:3702	Arabidopsis thaliana
+T69G	GGP 5248 5257	At2g19120
+NT69G0	Reference T69G ENSGF:35123	At2g19120
+NT69G1	Reference T69G HG:41003	SETX
+NT69G2	Reference T69G EG:816429	At2g19120
+NT69G4	Reference T69G NCBITaxon:3702	Arabidopsis thaliana
+T70G	GGP 5340 5344	MAA3
+NT70G1	Reference T70G HG:104100	SEN1
+NT70G4	Reference T70G NCBITaxon:4932	Saccharomyces cerevisiae
+T71G	GGP 5400 5409	MAA3 gene
+NT71G1	Reference T71G HG:104100	SEN1
+NT71G4	Reference T71G NCBITaxon:4932	Saccharomyces cerevisiae
+T72G	GGP 5534 5543	MAA3 gene
+NT72G1	Reference T72G HG:104100	SEN1
+NT72G4	Reference T72G NCBITaxon:4932	Saccharomyces cerevisiae
+T73G	GGP 5559 5568	MAA3 gene
+NT73G1	Reference T73G HG:104100	SEN1
+NT73G4	Reference T73G NCBITaxon:4932	Saccharomyces cerevisiae
+T74G	GGP 5578 5587	ACT8 gene
+NT74G1	Reference T74G HG:74402	beta-actin
+NT74G4	Reference T74G NCBITaxon:4932	Saccharomyces cerevisiae
+T75G	GGP 5627 5636	MAA3 gene
+NT75G1	Reference T75G HG:104100	SEN1
+NT75G4	Reference T75G NCBITaxon:4932	Saccharomyces cerevisiae
+T76G	GGP 5652 5661	MAA3 gene
+NT76G1	Reference T76G HG:104100	SEN1
+NT76G4	Reference T76G NCBITaxon:4932	Saccharomyces cerevisiae
+T77G	GGP 5671 5680	ACT8 gene
+NT77G1	Reference T77G HG:74402	beta-actin
+NT77G4	Reference T77G NCBITaxon:4932	Saccharomyces cerevisiae
+T78G	GGP 5745 5757	maa3 mutants
+NT78G1	Reference T78G HG:104100	SEN1
+NT78G4	Reference T78G NCBITaxon:4932	Saccharomyces cerevisiae
+T79G	GGP 5777 5785	maa3 FGs
+NT79G4	Reference T79G NCBITaxon:4932	Saccharomyces cerevisiae
+T80G	GGP 5862 5871	MAA3 gene
+NT80G1	Reference T80G HG:104100	SEN1
+NT80G4	Reference T80G NCBITaxon:4932	Saccharomyces cerevisiae
+T81G	GGP 5897 5924	yeast Sen1 helicase protein
+NT81G4	Reference T81G NCBITaxon:4932	Saccharomyces cerevisiae
+T82G	GGP 6034 6060	yeast splicing factor PRP4
+NT82G3	Reference T82G ENSF:2963	PRP4
+NT82G4	Reference T82G NCBITaxon:4932	Saccharomyces cerevisiae
+T83G	GGP 6062 6082	GAMETOPHYTIC FACTOR1
+NT83G4	Reference T83G NCBITaxon:4932	Saccharomyces cerevisiae
+T84G	GGP 6083 6089	CLOTHO
+NT84G1	Reference T84G HG:3133	EF-Tu2
+NT84G4	Reference T84G NCBITaxon:4932	Saccharomyces cerevisiae
+T85G	GGP 6133 6148	Snu114 proteins
+NT85G0	Reference T85G ENSGF:32454	Snu114p
+NT85G1	Reference T85G HG:68800	Snu114p
+NT85G2	Reference T85G EG:853681	Snu114p
+NT85G3	Reference T85G ENSF:2080	Snu114p
+NT85G4	Reference T85G NCBITaxon:4932	Saccharomyces cerevisiae
+T86G	GGP 6205 6211	SF3a60
+NT86G0	Reference T86G ENSGF:121132	PRP9
+NT86G1	Reference T86G HG:4949	U2
+NT86G3	Reference T86G ENSF:3482	U2
+NT86G4	Reference T86G NCBITaxon:4932	Saccharomyces cerevisiae
+T87G	GGP 6300 6306	sen1-1
+NT87G0	Reference T87G ENSGF:293948	SEN1
+NT87G1	Reference T87G HG:104100	SEN1
+NT87G2	Reference T87G EG:851150	SEN1
+NT87G3	Reference T87G ENSF:3273	SEN1
+NT87G4	Reference T87G NCBITaxon:4932	Saccharomyces cerevisiae
+T88G	GGP 6460 6472	sen1 mutants
+NT88G0	Reference T88G ENSGF:293948	SEN1
+NT88G1	Reference T88G HG:104100	SEN1
+NT88G2	Reference T88G EG:851150	SEN1
+NT88G3	Reference T88G ENSF:3273	SEN1
+NT88G4	Reference T88G NCBITaxon:4932	Saccharomyces cerevisiae
+T89G	GGP 6751 6768	RNA polymerase II
+NT89G0	Reference T89G ENSGF:293948	SEN1
+NT89G1	Reference T89G HG:104100	SEN1
+NT89G2	Reference T89G EG:851150	SEN1
+NT89G3	Reference T89G ENSF:3273	SEN1
+NT89G4	Reference T89G NCBITaxon:4932	Saccharomyces cerevisiae
+T90G	GGP 6923 6942	human Sen1 ortholog
+NT90G0	Reference T90G ENSGF:293948	SEN1
+NT90G1	Reference T90G HG:104100	SEN1
+NT90G3	Reference T90G ENSF:3273	SEN1
+NT90G4	Reference T90G NCBITaxon:9606	Homo sapiens
+T91G	GGP 6944 6953	Senataxin
+NT91G0	Reference T91G ENSGF:42856	AOA2
+NT91G1	Reference T91G HG:41003	SETX
+NT91G2	Reference T91G EG:23064	AOA2
+NT91G3	Reference T91G ENSF:3273	SEN1
+NT91G4	Reference T91G NCBITaxon:9606	Homo sapiens
+T92G	GGP 7054 7058	Sen1
+NT92G1	Reference T92G HG:96917	SEN1
+NT92G2	Reference T92G EG:829730	SEN1
+NT92G4	Reference T92G NCBITaxon:3702	Arabidopsis thaliana
+T124R	Entity 7195 7201	region
+T93G	GGP 7205 7209	Sen1
+NT93G0	Reference T93G ENSGF:293948	SEN1
+NT93G1	Reference T93G HG:104100	SEN1
+NT93G2	Reference T93G EG:851150	SEN1
+NT93G3	Reference T93G ENSF:3273	SEN1
+NT93G4	Reference T93G NCBITaxon:4932	Saccharomyces cerevisiae
+T94G	GGP 7293 7304	maa3 mutant
+NT94G1	Reference T94G HG:104100	SEN1
+NT94G4	Reference T94G NCBITaxon:4932	Saccharomyces cerevisiae
+T95G	GGP 7439 7456	yeast sen1 mutant
+NT95G0	Reference T95G ENSGF:293948	SEN1
+NT95G1	Reference T95G HG:104100	SEN1
+NT95G3	Reference T95G ENSF:3273	SEN1
+NT95G4	Reference T95G NCBITaxon:4932	Saccharomyces cerevisiae
+T96G	GGP 7643 7655	maa3 mutants
+NT96G1	Reference T96G HG:104100	SEN1
+NT96G4	Reference T96G NCBITaxon:4932	Saccharomyces cerevisiae
+T97G	GGP 7670 7678	maa3 FGs
+NT97G4	Reference T97G NCBITaxon:4932	Saccharomyces cerevisiae
+T98G	GGP 7765 7782	yeast sen1 mutant
+NT98G0	Reference T98G ENSGF:293948	SEN1
+NT98G1	Reference T98G HG:104100	SEN1
+NT98G3	Reference T98G ENSF:3273	SEN1
+NT98G4	Reference T98G NCBITaxon:4932	Saccharomyces cerevisiae
+T99G	GGP 7796 7802	cik3-1
+NT99G0	Reference T99G ENSGF:293948	SEN1
+NT99G1	Reference T99G HG:104100	SEN1
+NT99G2	Reference T99G EG:851150	SEN1
+NT99G3	Reference T99G ENSF:3273	SEN1
+NT99G4	Reference T99G NCBITaxon:4932	Saccharomyces cerevisiae
+T100G	GGP 7945 7958	MAA3 helicase
+NT100G0	Reference T100G ENSGF:293948	SEN1
+NT100G1	Reference T100G HG:104100	SEN1
+NT100G2	Reference T100G EG:851150	SEN1
+NT100G3	Reference T100G ENSF:3273	SEN1
+NT100G4	Reference T100G NCBITaxon:4932	Saccharomyces cerevisiae
+T101G	GGP 8012 8030	yeast sen1 mutants
+NT101G0	Reference T101G ENSGF:293948	SEN1
+NT101G1	Reference T101G HG:104100	SEN1
+NT101G3	Reference T101G ENSF:3273	SEN1
+NT101G4	Reference T101G NCBITaxon:4932	Saccharomyces cerevisiae
+T102G	GGP 8189 8193	sen1
+NT102G0	Reference T102G ENSGF:293948	SEN1
+NT102G1	Reference T102G HG:104100	SEN1
+NT102G2	Reference T102G EG:851150	SEN1
+NT102G3	Reference T102G ENSF:3273	SEN1
+NT102G4	Reference T102G NCBITaxon:4932	Saccharomyces cerevisiae
+T103G	GGP 8255 8282	maa3 pleiotropic phenotypes
+NT103G1	Reference T103G HG:104100	SEN1
+NT103G4	Reference T103G NCBITaxon:4932	Saccharomyces cerevisiae
+T104G	GGP 8342 8346	maa3
+NT104G1	Reference T104G HG:104100	SEN1
+NT104G4	Reference T104G NCBITaxon:4932	Saccharomyces cerevisiae
+T105G	GGP 8504 8513	MAA3 gene
+NT105G1	Reference T105G HG:104100	SEN1
+NT105G4	Reference T105G NCBITaxon:4932	Saccharomyces cerevisiae
+T106G	GGP 8532 8553	Sen1 helicase homolog
+NT106G0	Reference T106G ENSGF:293948	SEN1
+NT106G1	Reference T106G HG:104100	SEN1
+NT106G2	Reference T106G EG:851150	SEN1
+NT106G3	Reference T106G ENSF:3273	SEN1
+NT106G4	Reference T106G NCBITaxon:4932	Saccharomyces cerevisiae
+T107G	GGP 8614 8627	helicase gene
+NT107G0	Reference T107G ENSGF:293948	SEN1
+NT107G1	Reference T107G HG:104100	SEN1
+NT107G2	Reference T107G EG:851150	SEN1
+NT107G3	Reference T107G ENSF:3273	SEN1
+NT107G4	Reference T107G NCBITaxon:4932	Saccharomyces cerevisiae
+T108G	GGP 8824 8832	maa3 FGs
+NT108G4	Reference T108G NCBITaxon:4932	Saccharomyces cerevisiae
+T109G	GGP 8862 8875	MAA3 helicase
+NT109G0	Reference T109G ENSGF:293948	SEN1
+NT109G1	Reference T109G HG:104100	SEN1
+NT109G2	Reference T109G EG:851150	SEN1
+NT109G3	Reference T109G ENSF:3273	SEN1
+NT109G4	Reference T109G NCBITaxon:4932	Saccharomyces cerevisiae
+T110G	GGP 9087 9097	MYB98 gene
+NT110G0	Reference T110G ENSGF:230916	MYB98
+NT110G1	Reference T110G HG:42345	MYB98
+NT110G4	Reference T110G NCBITaxon:3702	Arabidopsis thaliana
+T111G	GGP 9286 9307	CENTRAL CELL GUIDANCE
+NT111G4	Reference T111G NCBITaxon:4932	Saccharomyces cerevisiae
+T112G	GGP 9309 9312	CCG
+NT112G4	Reference T112G NCBITaxon:4932	Saccharomyces cerevisiae
+T113G	GGP 9463 9467	MAA3
+NT113G1	Reference T113G HG:104100	SEN1
+NT113G4	Reference T113G NCBITaxon:4932	Saccharomyces cerevisiae
+T114G	GGP 9606 9610	MAA3
+NT114G1	Reference T114G HG:104100	SEN1
+NT114G4	Reference T114G NCBITaxon:4932	Saccharomyces cerevisiae
+T115G	GGP 9682 9693	maa3 mutant
+NT115G1	Reference T115G HG:104100	SEN1
+NT115G4	Reference T115G NCBITaxon:4932	Saccharomyces cerevisiae
+T116G	GGP 9965 9970	Col-0
+NT116G4	Reference T116G NCBITaxon:3702	Arabidopsis thaliana
+T117G	GGP 9997 10001	ACT8
+NT117G1	Reference T117G HG:74402	beta-actin
+NT117G4	Reference T117G NCBITaxon:4932	Saccharomyces cerevisiae
+T118G	GGP 10152 10159	HindIII
+NT118G4	Reference T118G NCBITaxon:4932	Saccharomyces cerevisiae
+T119G	GGP 10305 10315	NCBI BLAST
+NT119G4	Reference T119G NCBITaxon:3702	Arabidopsis thaliana
+T139G	Regulation 8915 8925	regulation
+T129G	Gene_expression 5199 5207	encoding
+T140G	Gene_expression 9108 9117	expressed
+T135G	Gene_expression 5600 5610	Expression
+T141G	Positive_regulation 9158 9167	necessary
+T125G	Positive_regulation 1821 1828	inherit
+T127G	Localization 4062 4072	disruption
+T137G	Positive_regulation 5638 5644	RT-PCR
+T131G	Gene_expression 5414 5423	expressed
+T123G	Negative_regulation 1172 1181	defective
+T121G	Binding 368 375	homolog
+T143G	Regulation 10021 10028	control
+T133G	Gene_expression 5545 5551	RT-PCR
+T138G	Positive_regulation 8787 8798	consequence
+T142G	Negative_regulation 9596 9602	rescue
+T128G	Gene_expression 4363 4373	expression
+T126G	Gene_expression 3344 3355	development
+T134G	Positive_regulation 5545 5551	RT-PCR
+T136G	Gene_expression 5638 5644	RT-PCR
+T144G	Negative_regulation 10299 10304	using
+T124G	Gene_expression 1737 1742	found
+T122G	Positive_regulation 400 408	required
+T130G	Gene_expression 5318 5328	expression
+T132G	Gene_expression 5507 5517	Expression
+T120G	Positive_regulation 34 42	Required
+E10G	Gene_expression:T128G Theme:T55G
+AE10Gconf	Confidence E10G high
+#E10Gconf	Confidence E10G	4.5649
+E11G	Gene_expression:T129G Theme:T66G
+AE11Gconf	Confidence E11G low
+#E11Gconf	Confidence E11G	1.9582
+E12G	Gene_expression:T129G Theme:T67G
+AE12Gconf	Confidence E12G low
+#E12Gconf	Confidence E12G	1.9582
+E13G	Gene_expression:T129G Theme:T68G
+AE13Gconf	Confidence E13G low
+#E13Gconf	Confidence E13G	1.9582
+E14G	Gene_expression:T129G Theme:T69G
+AE14Gconf	Confidence E14G low
+#E14Gconf	Confidence E14G	1.9582
+E15G	Gene_expression:T130G Theme:T70G
+AE15Gconf	Confidence E15G medium
+#E15Gconf	Confidence E15G	3.2826
+E16G	Gene_expression:T131G Theme:T71G
+AE16Gconf	Confidence E16G medium
+#E16Gconf	Confidence E16G	3.3341
+E17G	Gene_expression:T132G Theme:T72G
+AE17Gconf	Confidence E17G medium
+#E17Gconf	Confidence E17G	3.3597
+E18G	Gene_expression:T133G Theme:T73G
+AE18Gconf	Confidence E18G low
+#E18Gconf	Confidence E18G	1.0228
+E19G	Gene_expression:T133G Theme:T74G
+AE19Gconf	Confidence E19G low
+#E19Gconf	Confidence E19G	1.0228
+E1G	Positive_regulation:T120G Theme:T1G
+AE1Gconf	Confidence E1G medium
+#E1Gconf	Confidence E1G	2.4449
+E20G	Positive_regulation:T134G Theme:E18G
+AE20Gconf	Confidence E20G low
+#E20Gconf	Confidence E20G	1.1810
+E21G	Positive_regulation:T134G Theme:E19G
+AE21Gconf	Confidence E21G low
+#E21Gconf	Confidence E21G	1.1810
+E22G	Gene_expression:T135G Theme:T75G
+AE22Gconf	Confidence E22G medium
+#E22Gconf	Confidence E22G	3.3597
+E23G	Gene_expression:T136G Theme:T76G
+AE23Gconf	Confidence E23G low
+#E23Gconf	Confidence E23G	1.0228
+E24G	Gene_expression:T136G Theme:T77G
+AE24Gconf	Confidence E24G low
+#E24Gconf	Confidence E24G	1.0228
+E25G	Positive_regulation:T137G Theme:E23G
+AE25Gconf	Confidence E25G low
+#E25Gconf	Confidence E25G	1.1810
+E26G	Positive_regulation:T137G Theme:E24G
+AE26Gconf	Confidence E26G low
+#E26Gconf	Confidence E26G	1.1810
+E27G	Positive_regulation:T138G Theme:T108G
+AE27Gconf	Confidence E27G low
+#E27Gconf	Confidence E27G	1.7843
+E28G	Regulation:T139G Theme:T109G
+AE28Gconf	Confidence E28G medium
+#E28Gconf	Confidence E28G	3.2344
+E29G	Gene_expression:T140G Theme:T110G
+AE29Gconf	Confidence E29G high
+#E29Gconf	Confidence E29G	4.2129
+E2G	Binding:T121G Theme:T5G
+AE2Gconf	Confidence E2G medium
+#E2Gconf	Confidence E2G	2.3778
+E30G	Positive_regulation:T141G Theme:E29G
+AE30Gconf	Confidence E30G low
+#E30Gconf	Confidence E30G	1.9002
+E31G	Negative_regulation:T142G Theme:T114G
+AE31Gconf	Confidence E31G low
+#E31Gconf	Confidence E31G	1.8764
+E32G	Regulation:T143G Theme:T117G
+AE32Gconf	Confidence E32G medium
+#E32Gconf	Confidence E32G	3.6096
+E33G	Negative_regulation:T144G Theme:T119G
+AE33Gconf	Confidence E33G medium
+#E33Gconf	Confidence E33G	2.2160
+E3G	Positive_regulation:T122G Theme:E2G
+AE3Gconf	Confidence E3G medium
+#E3Gconf	Confidence E3G	2.7776
+E4G	Negative_regulation:T123G Theme:T11G
+AE4Gconf	Confidence E4G high
+#E4Gconf	Confidence E4G	4.0797
+E5G	Negative_regulation:T123G Theme:T12G
+AE5Gconf	Confidence E5G medium
+#E5Gconf	Confidence E5G	3.9113
+E6G	Gene_expression:T124G Theme:T19G
+AE6Gconf	Confidence E6G medium
+#E6Gconf	Confidence E6G	3.2059
+E7G	Positive_regulation:T125G Theme:T21G
+AE7Gconf	Confidence E7G medium
+#E7Gconf	Confidence E7G	2.2885
+E8G	Gene_expression:T126G Theme:T47G
+AE8Gconf	Confidence E8G low
+#E8Gconf	Confidence E8G	1.8129
+E9G	Localization:T127G Theme:T52G
+AE9Gconf	Confidence E9G low
+#E9Gconf	Confidence E9G	1.3609
+R1R	Protein-Component Arg1:T54G Arg2:T120R
+AR1Rconf	Confidence R1R high
+#R1Rconf	Confidence R1R	4.2734
+R2R	Protein-Component Arg1:T54G Arg2:T121R
+AR2Rconf	Confidence R2R medium
+#R2Rconf	Confidence R2R	3.3004
+R3R	Protein-Component Arg1:T57G Arg2:T122R
+AR3Rconf	Confidence R3R very-high
+#R3Rconf	Confidence R3R	5.2040
+R4R	Protein-Component Arg1:T59G Arg2:T123R
+AR4Rconf	Confidence R4R very-high
+#R4Rconf	Confidence R4R	5.2040
+R5R	Protein-Component Arg1:T93G Arg2:T124R
+AR5Rconf	Confidence R5R high
+#R5Rconf	Confidence R5R	4.8790

@@ -1,0 +1,164 @@
+T1G	GGP 220 231	MF1 mothers
+NT1G0	Reference T1G ENSGF:203720	Ch
+NT1G1	Reference T1G HG:20373	Foxc1
+NT1G3	Reference T1G ENSF:5446	Foxc2
+NT1G4	Reference T1G NCBITaxon:10090	Mus musculus
+T2G	GGP 528 531	MF1
+NT2G0	Reference T2G ENSGF:203720	Ch
+NT2G1	Reference T2G HG:20373	Foxc1
+NT2G3	Reference T2G ENSF:5446	Foxc2
+NT2G4	Reference T2G NCBITaxon:10090	Mus musculus
+T3G	GGP 533 541	DK 6 5 1
+NT3G4	Reference T3G NCBITaxon:10090	Mus musculus
+T4G	GGP 689 692	RBC
+NT4G0	Reference T4G ENSGF:115036	RBC
+NT4G1	Reference T4G HG:55484	RBC
+NT4G3	Reference T4G ENSF:583	RBC
+NT4G4	Reference T4G NCBITaxon:10090	Mus musculus
+T5G	GGP 732 735	RBC
+NT5G0	Reference T5G ENSGF:115036	RBC
+NT5G1	Reference T5G HG:55484	RBC
+NT5G3	Reference T5G ENSF:583	RBC
+NT5G4	Reference T5G NCBITaxon:10090	Mus musculus
+T6G	GGP 891 895	MSP1
+NT6G0	Reference T6G ENSGF:153124	MSP1
+NT6G3	Reference T6G ENSF:6066	MSP1
+NT6G4	Reference T6G NCBITaxon:5825	Plasmodium chabaudi
+T7G	GGP 1090 1103	serum albumin
+NT7G0	Reference T7G ENSGF:181484	albumin
+NT7G1	Reference T7G HG:405	albumin
+NT7G3	Reference T7G ENSF:3828	albumin
+NT7G4	Reference T7G NCBITaxon:10090	Mus musculus
+T8G	GGP 1105 1110	Sigma
+NT8G4	Reference T8G NCBITaxon:10090	Mus musculus
+T9G	GGP 1191 1242	horseradish peroxidase-conjugated anti-murine IgG2a
+NT9G4	Reference T9G NCBITaxon:10090	Mus musculus
+T10G	GGP 1300 1303	MF1
+NT10G0	Reference T10G ENSGF:203720	Ch
+NT10G1	Reference T10G HG:20373	Foxc1
+NT10G3	Reference T10G ENSF:5446	Foxc2
+NT10G4	Reference T10G NCBITaxon:10090	Mus musculus
+T11G	GGP 1308 1319	BalbC and 1
+NT11G0	Reference T11G ENSGF:57057	CTF4
+NT11G1	Reference T11G HG:56019	CTF4
+NT11G3	Reference T11G ENSF:4869	WDHD1
+NT11G4	Reference T11G NCBITaxon:10090	Mus musculus
+T12G	GGP 1349 1362	IgG2a isotype
+NT12G4	Reference T12G NCBITaxon:10090	Mus musculus
+T13G	GGP 1368 1383	ABTS peroxidase
+NT13G0	Reference T13G ENSGF:53377	peroxidase
+NT13G3	Reference T13G ENSF:1226	peroxidase
+NT13G4	Reference T13G NCBITaxon:10090	Mus musculus
+T14G	GGP 1450 1455	ANOVA
+NT14G0	Reference T14G ENSGF:104228	ANOVA
+NT14G1	Reference T14G HG:20563	ANOVA
+NT14G3	Reference T14G ENSF:3877	ANOVA
+NT14G4	Reference T14G NCBITaxon:10090	Mus musculus
+T15G	GGP 1456 1462	ANCOVA
+NT15G4	Reference T15G NCBITaxon:10090	Mus musculus
+T16G	GGP 1587 1617	survival pup parasite genotype
+NT16G0	Reference T16G ENSGF:173127	Pup
+NT16G4	Reference T16G NCBITaxon:10090	Mus musculus
+T33R	Entity 1666 1672	effect
+T17G	GGP 1754 1785	RBC count pup parasite genotype
+NT17G0	Reference T17G ENSGF:115036	RBC
+NT17G1	Reference T17G HG:55484	RBC
+NT17G3	Reference T17G ENSF:583	RBC
+NT17G4	Reference T17G NCBITaxon:10090	Mus musculus
+T18G	GGP 2149 2160	MF1 females
+NT18G0	Reference T18G ENSGF:203720	Ch
+NT18G1	Reference T18G HG:20373	Foxc1
+NT18G3	Reference T18G ENSF:5446	Foxc2
+NT18G4	Reference T18G NCBITaxon:10090	Mus musculus
+T19G	GGP 2185 2189	MSP1
+NT19G0	Reference T19G ENSGF:153124	MSP1
+NT19G3	Reference T19G ENSF:6066	MSP1
+NT19G4	Reference T19G NCBITaxon:10090	Mus musculus
+T20G	GGP 2355 2359	MSP1
+NT20G0	Reference T20G ENSGF:153124	MSP1
+NT20G3	Reference T20G ENSF:6066	MSP1
+NT20G4	Reference T20G NCBITaxon:10090	Mus musculus
+T21G	GGP 2568 2572	MSP1
+NT21G0	Reference T21G ENSGF:153124	MSP1
+NT21G3	Reference T21G ENSF:6066	MSP1
+NT21G4	Reference T21G NCBITaxon:10090	Mus musculus
+T22G	GGP 2703 2706	MF1
+NT22G0	Reference T22G ENSGF:203720	Ch
+NT22G1	Reference T22G HG:20373	Foxc1
+NT22G3	Reference T22G ENSF:5446	Foxc2
+NT22G4	Reference T22G NCBITaxon:10090	Mus musculus
+T23G	GGP 2774 2778	MSP1
+NT23G0	Reference T23G ENSGF:153124	MSP1
+NT23G3	Reference T23G ENSF:6066	MSP1
+NT23G4	Reference T23G NCBITaxon:10090	Mus musculus
+T24G	GGP 2909 2912	MF1
+NT24G0	Reference T24G ENSGF:203720	Ch
+NT24G1	Reference T24G HG:20373	Foxc1
+NT24G3	Reference T24G ENSF:5446	Foxc2
+NT24G4	Reference T24G NCBITaxon:10090	Mus musculus
+T25G	GGP 3017 3022	BalbC
+NT25G4	Reference T25G NCBITaxon:10090	Mus musculus
+T26G	GGP 3031 3034	MF1
+NT26G0	Reference T26G ENSGF:203720	Ch
+NT26G1	Reference T26G HG:20373	Foxc1
+NT26G3	Reference T26G ENSF:5446	Foxc2
+NT26G4	Reference T26G NCBITaxon:10090	Mus musculus
+T27G	GGP 3139 3144	BalbC
+NT27G4	Reference T27G NCBITaxon:10090	Mus musculus
+T28G	GGP 3153 3156	MF1
+NT28G0	Reference T28G ENSGF:203720	Ch
+NT28G1	Reference T28G HG:20373	Foxc1
+NT28G3	Reference T28G ENSF:5446	Foxc2
+NT28G4	Reference T28G NCBITaxon:10090	Mus musculus
+T29G	GGP 3189 3192	Th1
+NT29G0	Reference T29G ENSGF:268906	Th1
+NT29G1	Reference T29G HG:3545	Th1
+NT29G3	Reference T29G ENSF:6581	Th1
+NT29G4	Reference T29G NCBITaxon:10090	Mus musculus
+T30G	GGP 3328 3331	IgG
+NT30G4	Reference T30G NCBITaxon:10090	Mus musculus
+T31G	GGP 3554 3561	C57Bl/6
+NT31G4	Reference T31G NCBITaxon:10090	Mus musculus
+T32G	GGP 3566 3579	BalbC strains
+NT32G4	Reference T32G NCBITaxon:10090	Mus musculus
+T34G	Positive_regulation 1322 1325	200
+T33G	Binding 1164 1171	binding
+T35G	Regulation 1666 1672	effect
+E10G	Positive_regulation:T34G Theme:E4G
+AE10Gconf	Confidence E10G low
+#E10Gconf	Confidence E10G	1.8347
+E11G	Regulation:T35G Theme:T16G
+AE11Gconf	Confidence E11G medium
+#E11Gconf	Confidence E11G	2.1300
+E1G	Binding:T33G Theme:T10G
+AE1Gconf	Confidence E1G medium
+#E1Gconf	Confidence E1G	3.2121
+E2G	Binding:T33G Theme:T9G Theme:T10G
+AE2Gconf	Confidence E2G medium
+#E2Gconf	Confidence E2G	3.4048
+E3G	Binding:T33G Theme:T12G Theme:T9G
+AE3Gconf	Confidence E3G medium
+#E3Gconf	Confidence E3G	3.1586
+E4G	Binding:T33G Theme:T12G Theme:T10G
+AE4Gconf	Confidence E4G medium
+#E4Gconf	Confidence E4G	3.1586
+E5G	Positive_regulation:T34G Theme:T11G
+AE5Gconf	Confidence E5G low
+#E5Gconf	Confidence E5G	1.7831
+E6G	Positive_regulation:T34G Theme:T13G
+AE6Gconf	Confidence E6G low
+#E6Gconf	Confidence E6G	1.9067
+E7G	Positive_regulation:T34G Theme:E1G
+AE7Gconf	Confidence E7G low
+#E7Gconf	Confidence E7G	1.8347
+E8G	Positive_regulation:T34G Theme:E2G
+AE8Gconf	Confidence E8G low
+#E8Gconf	Confidence E8G	1.8347
+E9G	Positive_regulation:T34G Theme:E3G
+AE9Gconf	Confidence E9G low
+#E9Gconf	Confidence E9G	1.8347
+AE11GN	Negation E11G
+#E11GNconf	Confidence AE11GN	33.7986
+R1R	Protein-Component Arg1:T16G Arg2:T33R
+AR1Rconf	Confidence R1R low
+#R1Rconf	Confidence R1R	1.9714

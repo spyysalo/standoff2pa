@@ -1,0 +1,353 @@
+T1G	GGP 4 18	cytokines IL-6
+NT1G0	Reference T1G ENSGF:135446	IL-6
+NT1G1	Reference T1G HG:502	IL-6
+NT1G3	Reference T1G ENSF:33123	IL-6
+NT1G4	Reference T1G NCBITaxon:10090	Mus musculus
+T2G	GGP 23 25	KC
+NT2G0	Reference T2G ENSGF:314539	KC
+NT2G1	Reference T2G HG:105490	KC
+NT2G3	Reference T2G ENSF:67552	KC
+NT2G4	Reference T2G NCBITaxon:10090	Mus musculus
+T3G	GGP 39 42	TNF
+NT3G0	Reference T3G ENSGF:225665	TNF-alpha
+NT3G1	Reference T3G HG:496	TNF-alpha
+NT3G2	Reference T3G EG:21926	TNF-alpha
+NT3G3	Reference T3G ENSF:5399	TNF-alpha
+NT3G4	Reference T3G NCBITaxon:10090	Mus musculus
+T4G	GGP 47 52	IP-10
+NT4G1	Reference T4G HG:1203	IP-10
+NT4G2	Reference T4G EG:15945	IP-10
+NT4G3	Reference T4G ENSF:57017	IP-10
+NT4G4	Reference T4G NCBITaxon:10090	Mus musculus
+T5G	GGP 204 208	VILI
+NT5G4	Reference T5G NCBITaxon:10090	Mus musculus
+T6G	GGP 343 347	VILI
+NT6G4	Reference T6G NCBITaxon:10090	Mus musculus
+T7G	GGP 565 567	RM
+NT7G0	Reference T7G ENSGF:327325	RM
+NT7G1	Reference T7G HG:7410	RM
+NT7G3	Reference T7G ENSF:3451	RM
+NT7G4	Reference T7G NCBITaxon:10090	Mus musculus
+T8G	GGP 681 689	cytospin
+NT8G4	Reference T8G NCBITaxon:10090	Mus musculus
+T9G	GGP 762 775	serum albumin
+NT9G0	Reference T9G ENSGF:181484	albumin
+NT9G1	Reference T9G HG:405	albumin
+NT9G2	Reference T9G EG:11657	albumin
+NT9G3	Reference T9G ENSF:3828	albumin
+NT9G4	Reference T9G NCBITaxon:10090	Mus musculus
+T10G	GGP 777 780	BSA
+NT10G0	Reference T10G ENSGF:181484	albumin
+NT10G1	Reference T10G HG:405	albumin
+NT10G3	Reference T10G ENSF:3828	albumin
+NT10G4	Reference T10G NCBITaxon:10090	Mus musculus
+T11G	GGP 912 917	JMP 7
+NT11G4	Reference T11G NCBITaxon:10090	Mus musculus
+T12G	GGP 1046 1048	RM
+NT12G0	Reference T12G ENSGF:327325	RM
+NT12G1	Reference T12G HG:7410	RM
+NT12G3	Reference T12G ENSF:3451	RM
+NT12G4	Reference T12G NCBITaxon:10090	Mus musculus
+T13G	GGP 1198 1200	RM
+NT13G0	Reference T13G ENSGF:327325	RM
+NT13G1	Reference T13G HG:7410	RM
+NT13G3	Reference T13G ENSF:3451	RM
+NT13G4	Reference T13G NCBITaxon:10090	Mus musculus
+T14G	GGP 1202 1209	Fig. 4A
+NT14G0	Reference T14G ENSGF:270967	Fig. 4a
+NT14G4	Reference T14G NCBITaxon:10090	Mus musculus
+T15G	GGP 1424 1431	Fig. 4B
+NT15G0	Reference T15G ENSGF:64833	Fig. 4b
+NT15G4	Reference T15G NCBITaxon:10090	Mus musculus
+T16G	GGP 1434 1447	Interleukin-6
+NT16G0	Reference T16G ENSGF:135446	IL-6
+NT16G1	Reference T16G HG:502	IL-6
+NT16G2	Reference T16G EG:16193	IL-6
+NT16G3	Reference T16G ENSF:33123	IL-6
+NT16G4	Reference T16G NCBITaxon:10090	Mus musculus
+T17G	GGP 1449 1453	IL-6
+NT17G0	Reference T17G ENSGF:135446	IL-6
+NT17G1	Reference T17G HG:502	IL-6
+NT17G2	Reference T17G EG:16193	IL-6
+NT17G3	Reference T17G ENSF:33123	IL-6
+NT17G4	Reference T17G NCBITaxon:10090	Mus musculus
+T18G	GGP 1622 1626	IL-6
+NT18G0	Reference T18G ENSGF:135446	IL-6
+NT18G1	Reference T18G HG:502	IL-6
+NT18G2	Reference T18G EG:16193	IL-6
+NT18G3	Reference T18G ENSF:33123	IL-6
+NT18G4	Reference T18G NCBITaxon:10090	Mus musculus
+T19G	GGP 1706 1738	Interferon-gamma induced protein
+NT19G1	Reference T19G HG:1203	IP-10
+NT19G2	Reference T19G EG:15945	IP-10
+NT19G3	Reference T19G ENSF:57017	IP-10
+NT19G4	Reference T19G NCBITaxon:10090	Mus musculus
+T20G	GGP 1740 1745	IP-10
+NT20G1	Reference T20G HG:1203	IP-10
+NT20G2	Reference T20G EG:15945	IP-10
+NT20G3	Reference T20G ENSF:57017	IP-10
+NT20G4	Reference T20G NCBITaxon:10090	Mus musculus
+T21G	GGP 1751 1779	Tumour necrosis factor-alpha
+NT21G0	Reference T21G ENSGF:135446	IL-6
+NT21G1	Reference T21G HG:502	IL-6
+NT21G2	Reference T21G EG:16193	IL-6
+NT21G3	Reference T21G ENSF:33123	IL-6
+NT21G4	Reference T21G NCBITaxon:10090	Mus musculus
+T22G	GGP 1781 1790	TNF-alpha
+NT22G0	Reference T22G ENSGF:225665	TNF-alpha
+NT22G1	Reference T22G HG:496	TNF-alpha
+NT22G2	Reference T22G EG:21926	TNF-alpha
+NT22G3	Reference T22G ENSF:5399	TNF-alpha
+NT22G4	Reference T22G NCBITaxon:10090	Mus musculus
+T23G	GGP 2140 2144	RM60
+NT23G4	Reference T23G NCBITaxon:10090	Mus musculus
+T24G	GGP 2224 2228	IL-6
+NT24G0	Reference T24G ENSGF:135446	IL-6
+NT24G1	Reference T24G HG:502	IL-6
+NT24G2	Reference T24G EG:16193	IL-6
+NT24G3	Reference T24G ENSF:33123	IL-6
+NT24G4	Reference T24G NCBITaxon:10090	Mus musculus
+T25G	GGP 2233 2235	KC
+NT25G0	Reference T25G ENSGF:314539	KC
+NT25G1	Reference T25G HG:105490	KC
+NT25G3	Reference T25G ENSF:67552	KC
+NT25G4	Reference T25G NCBITaxon:10090	Mus musculus
+T26G	GGP 2345 2349	IL-6
+NT26G0	Reference T26G ENSGF:135446	IL-6
+NT26G1	Reference T26G HG:502	IL-6
+NT26G2	Reference T26G EG:16193	IL-6
+NT26G3	Reference T26G ENSF:33123	IL-6
+NT26G4	Reference T26G NCBITaxon:10090	Mus musculus
+T27G	GGP 2429 2437	Fig. 11C
+NT27G0	Reference T27G ENSGF:142715	Fig
+NT27G1	Reference T27G HG:10695	Fig
+NT27G3	Reference T27G ENSF:6858	Fig
+NT27G4	Reference T27G NCBITaxon:10090	Mus musculus
+T28G	GGP 2495 2497	RM
+NT28G0	Reference T28G ENSGF:327325	RM
+NT28G1	Reference T28G HG:7410	RM
+NT28G3	Reference T28G ENSF:3451	RM
+NT28G4	Reference T28G NCBITaxon:10090	Mus musculus
+T29G	GGP 2561 2564	RM5
+NT29G4	Reference T29G NCBITaxon:10090	Mus musculus
+T30G	GGP 2569 2577	RM60 Fig
+NT30G4	Reference T30G NCBITaxon:10090	Mus musculus
+T31G	GGP 2579 2582	11D
+NT31G4	Reference T31G NCBITaxon:10090	Mus musculus
+T32G	GGP 2722 2724	RM
+NT32G0	Reference T32G ENSGF:327325	RM
+NT32G1	Reference T32G HG:7410	RM
+NT32G3	Reference T32G ENSF:3451	RM
+NT32G4	Reference T32G NCBITaxon:9606	Homo sapiens
+T33G	GGP 2949 2953	VILI
+NT33G4	Reference T33G NCBITaxon:10090	Mus musculus
+T34G	GGP 3032 3056	adequate RM (noRM, RM60)
+NT34G4	Reference T34G NCBITaxon:10090	Mus musculus
+T35G	GGP 3058 3064	Fig. 4
+NT35G0	Reference T35G ENSGF:58950	Fig. 4
+NT35G1	Reference T35G HG:6713	Fig. 4
+NT35G2	Reference T35G EG:103199	Fig. 4
+NT35G3	Reference T35G ENSF:2435	Fig. 4
+NT35G4	Reference T35G NCBITaxon:10090	Mus musculus
+T36G	GGP 3067 3071	IL-6
+NT36G0	Reference T36G ENSGF:135446	IL-6
+NT36G1	Reference T36G HG:502	IL-6
+NT36G2	Reference T36G EG:16193	IL-6
+NT36G3	Reference T36G ENSF:33123	IL-6
+NT36G4	Reference T36G NCBITaxon:10090	Mus musculus
+T37G	GGP 3076 3078	KC
+NT37G0	Reference T37G ENSGF:314539	KC
+NT37G1	Reference T37G HG:105490	KC
+NT37G3	Reference T37G ENSF:67552	KC
+NT37G4	Reference T37G NCBITaxon:10090	Mus musculus
+T38G	GGP 3288 3292	IL-6
+NT38G0	Reference T38G ENSGF:135446	IL-6
+NT38G1	Reference T38G HG:502	IL-6
+NT38G2	Reference T38G EG:16193	IL-6
+NT38G3	Reference T38G ENSF:33123	IL-6
+NT38G4	Reference T38G NCBITaxon:10090	Mus musculus
+T39G	GGP 3572 3576	IL-6
+NT39G0	Reference T39G ENSGF:135446	IL-6
+NT39G1	Reference T39G HG:502	IL-6
+NT39G2	Reference T39G EG:16193	IL-6
+NT39G3	Reference T39G ENSF:33123	IL-6
+NT39G4	Reference T39G NCBITaxon:10090	Mus musculus
+T40G	GGP 3581 3583	KC
+NT40G0	Reference T40G ENSGF:314539	KC
+NT40G1	Reference T40G HG:105490	KC
+NT40G3	Reference T40G ENSF:67552	KC
+NT40G4	Reference T40G NCBITaxon:10090	Mus musculus
+T41G	GGP 3663 3667	IL-6
+NT41G0	Reference T41G ENSGF:135446	IL-6
+NT41G1	Reference T41G HG:502	IL-6
+NT41G2	Reference T41G EG:16193	IL-6
+NT41G3	Reference T41G ENSF:33123	IL-6
+NT41G4	Reference T41G NCBITaxon:10090	Mus musculus
+T42G	GGP 3672 3674	KC
+NT42G0	Reference T42G ENSGF:314539	KC
+NT42G1	Reference T42G HG:105490	KC
+NT42G3	Reference T42G ENSF:67552	KC
+NT42G4	Reference T42G NCBITaxon:10090	Mus musculus
+T43G	GGP 3798 3803	IP-10
+NT43G1	Reference T43G HG:1203	IP-10
+NT43G2	Reference T43G EG:15945	IP-10
+NT43G3	Reference T43G ENSF:57017	IP-10
+NT43G4	Reference T43G NCBITaxon:10090	Mus musculus
+T44G	GGP 3811 3820	TNF-alpha
+NT44G0	Reference T44G ENSGF:225665	TNF-alpha
+NT44G1	Reference T44G HG:496	TNF-alpha
+NT44G2	Reference T44G EG:21926	TNF-alpha
+NT44G3	Reference T44G ENSF:5399	TNF-alpha
+NT44G4	Reference T44G NCBITaxon:10090	Mus musculus
+T45G	GGP 4024 4034	TNF- alpha
+NT45G0	Reference T45G ENSGF:225665	TNF-alpha
+NT45G1	Reference T45G HG:496	TNF-alpha
+NT45G2	Reference T45G EG:21926	TNF-alpha
+NT45G3	Reference T45G ENSF:5399	TNF-alpha
+NT45G4	Reference T45G NCBITaxon:10090	Mus musculus
+T46G	GGP 4169 4174	IP-10
+NT46G1	Reference T46G HG:1203	IP-10
+NT46G2	Reference T46G EG:15945	IP-10
+NT46G3	Reference T46G ENSF:57017	IP-10
+NT46G4	Reference T46G NCBITaxon:10090	Mus musculus
+T47G	GGP 4302 4311	TNF-alpha
+NT47G0	Reference T47G ENSGF:225665	TNF-alpha
+NT47G1	Reference T47G HG:496	TNF-alpha
+NT47G2	Reference T47G EG:21926	TNF-alpha
+NT47G3	Reference T47G ENSF:5399	TNF-alpha
+NT47G4	Reference T47G NCBITaxon:10090	Mus musculus
+T48G	GGP 4575 4577	RM
+NT48G0	Reference T48G ENSGF:327325	RM
+NT48G1	Reference T48G HG:7410	RM
+NT48G3	Reference T48G ENSF:3451	RM
+NT48G4	Reference T48G NCBITaxon:10090	Mus musculus
+T49G	GGP 4619 4623	IL-6
+NT49G0	Reference T49G ENSGF:135446	IL-6
+NT49G1	Reference T49G HG:502	IL-6
+NT49G2	Reference T49G EG:16193	IL-6
+NT49G3	Reference T49G ENSF:33123	IL-6
+NT49G4	Reference T49G NCBITaxon:10090	Mus musculus
+T50G	GGP 4717 4721	IL-6
+NT50G0	Reference T50G ENSGF:135446	IL-6
+NT50G1	Reference T50G HG:502	IL-6
+NT50G2	Reference T50G EG:16193	IL-6
+NT50G3	Reference T50G ENSF:33123	IL-6
+NT50G4	Reference T50G NCBITaxon:10090	Mus musculus
+T51G	GGP 4726 4732	KC BAL
+NT51G0	Reference T51G ENSGF:314539	KC
+NT51G1	Reference T51G HG:105490	KC
+NT51G3	Reference T51G ENSF:67552	KC
+NT51G4	Reference T51G NCBITaxon:10090	Mus musculus
+T52G	GGP 4961 4965	VILI
+NT52G4	Reference T52G NCBITaxon:10090	Mus musculus
+T65G	Gene_expression 4178 4186	proposed
+T66G	Localization 4366 4374	released
+T56G	Negative_regulation 217 221	lack
+T59G	Binding 1411 1422	recruitment
+T57G	Gene_expression 741 749	received
+T55G	Regulation 177 182	focus
+T58G	Gene_expression 1168 1175	highest
+T62G	Gene_expression 2959 2966	highest
+T54G	Negative_regulation 121 128	reduced
+T61G	Positive_regulation 1815 1824	increased
+T60G	Positive_regulation 1500 1508	elevated
+T67G	Positive_regulation 4745 4753	detected
+T63G	Positive_regulation 3084 3093	increased
+T53G	Positive_regulation 59 67	elevated
+T64G	Regulation 3907 3914	altered
+E10G	Negative_regulation:T56G Theme:T5G
+AE10Gconf	Confidence E10G medium
+#E10Gconf	Confidence E10G	3.0394
+E11G	Regulation:T55G Theme:E10G
+AE11Gconf	Confidence E11G medium
+#E11Gconf	Confidence E11G	2.4208
+E12G	Gene_expression:T57G Theme:T9G
+AE12Gconf	Confidence E12G low
+#E12Gconf	Confidence E12G	1.6736
+E13G	Gene_expression:T57G Theme:T10G
+AE13Gconf	Confidence E13G low
+#E13Gconf	Confidence E13G	1.6736
+E14G	Gene_expression:T58G Theme:T13G
+AE14Gconf	Confidence E14G medium
+#E14Gconf	Confidence E14G	2.2706
+E15G	Gene_expression:T58G Theme:T14G
+AE15Gconf	Confidence E15G medium
+#E15Gconf	Confidence E15G	2.2706
+E16G	Binding:T59G Theme:T15G
+AE16Gconf	Confidence E16G medium
+#E16Gconf	Confidence E16G	2.6551
+E17G	Positive_regulation:T60G Theme:T16G
+AE17Gconf	Confidence E17G high
+#E17Gconf	Confidence E17G	4.2224
+E18G	Positive_regulation:T60G Theme:T17G
+AE18Gconf	Confidence E18G medium
+#E18Gconf	Confidence E18G	3.1925
+E19G	Positive_regulation:T61G Theme:T19G
+AE19Gconf	Confidence E19G high
+#E19Gconf	Confidence E19G	4.7727
+E1G	Positive_regulation:T53G Theme:T1G
+AE1Gconf	Confidence E1G high
+#E1Gconf	Confidence E1G	4.0478
+E20G	Positive_regulation:T61G Theme:T20G
+AE20Gconf	Confidence E20G high
+#E20Gconf	Confidence E20G	4.4084
+E21G	Positive_regulation:T61G Theme:T21G
+AE21Gconf	Confidence E21G high
+#E21Gconf	Confidence E21G	4.7023
+E22G	Positive_regulation:T61G Theme:T22G
+AE22Gconf	Confidence E22G medium
+#E22Gconf	Confidence E22G	3.3884
+E23G	Gene_expression:T62G Theme:T34G
+AE23Gconf	Confidence E23G low
+#E23Gconf	Confidence E23G	1.9763
+E24G	Gene_expression:T62G Theme:T35G
+AE24Gconf	Confidence E24G low
+#E24Gconf	Confidence E24G	1.9763
+E25G	Positive_regulation:T63G Theme:T36G
+AE25Gconf	Confidence E25G high
+#E25Gconf	Confidence E25G	4.4931
+E26G	Positive_regulation:T63G Theme:T37G
+AE26Gconf	Confidence E26G high
+#E26Gconf	Confidence E26G	4.0701
+E27G	Regulation:T64G Theme:T43G
+AE27Gconf	Confidence E27G high
+#E27Gconf	Confidence E27G	4.0216
+E28G	Regulation:T64G Theme:T44G
+AE28Gconf	Confidence E28G high
+#E28Gconf	Confidence E28G	4.0216
+E29G	Gene_expression:T65G Theme:T46G
+AE29Gconf	Confidence E29G medium
+#E29Gconf	Confidence E29G	2.5953
+E2G	Positive_regulation:T53G Theme:T2G
+AE2Gconf	Confidence E2G medium
+#E2Gconf	Confidence E2G	3.2605
+E30G	Localization:T66G Theme:T47G
+AE30Gconf	Confidence E30G medium
+#E30Gconf	Confidence E30G	2.7941
+E31G	Positive_regulation:T67G Theme:T50G
+AE31Gconf	Confidence E31G low
+#E31Gconf	Confidence E31G	1.2327
+E32G	Positive_regulation:T67G Theme:T51G
+AE32Gconf	Confidence E32G low
+#E32Gconf	Confidence E32G	1.2327
+E3G	Positive_regulation:T53G Theme:T3G
+AE3Gconf	Confidence E3G high
+#E3Gconf	Confidence E3G	4.0478
+E4G	Positive_regulation:T53G Theme:T4G
+AE4Gconf	Confidence E4G medium
+#E4Gconf	Confidence E4G	3.3872
+E5G	Negative_regulation:T54G Theme:T1G
+AE5Gconf	Confidence E5G medium
+#E5Gconf	Confidence E5G	3.6937
+E6G	Negative_regulation:T54G Theme:T2G
+AE6Gconf	Confidence E6G medium
+#E6Gconf	Confidence E6G	3.5587
+E7G	Negative_regulation:T54G Theme:T3G
+AE7Gconf	Confidence E7G medium
+#E7Gconf	Confidence E7G	2.7817
+E8G	Negative_regulation:T54G Theme:T4G
+AE8Gconf	Confidence E8G medium
+#E8Gconf	Confidence E8G	3.6750
+E9G	Regulation:T55G Theme:T5G
+AE9Gconf	Confidence E9G medium
+#E9Gconf	Confidence E9G	3.1340

@@ -1,0 +1,359 @@
+T1G	GGP 34 54	PF4/heparin antibody
+NT1G4	Reference T1G NCBITaxon:9606	Homo sapiens
+T2G	GGP 80 102	PF4/heparin antibodies
+NT2G4	Reference T2G NCBITaxon:9606	Homo sapiens
+T3G	GGP 170 173	HIT
+NT3G0	Reference T3G ENSGF:30637	HIT
+NT3G4	Reference T3G NCBITaxon:9606	Homo sapiens
+T4G	GGP 597 600	HIT
+NT4G0	Reference T4G ENSGF:30637	HIT
+NT4G4	Reference T4G NCBITaxon:9606	Homo sapiens
+T5G	GGP 678 688	fibrinogen
+NT5G3	Reference T5G ENSF:9000	fibrinogen
+NT5G4	Reference T5G NCBITaxon:9606	Homo sapiens
+T6G	GGP 743 763	PF4/heparin antibody
+NT6G4	Reference T6G NCBITaxon:9606	Homo sapiens
+T7G	GGP 878 881	HIT
+NT7G0	Reference T7G ENSGF:30637	HIT
+NT7G4	Reference T7G NCBITaxon:9606	Homo sapiens
+T8G	GGP 883 886	PF4
+NT8G0	Reference T8G ENSGF:277920	PF4
+NT8G1	Reference T8G HG:87791	PF4
+NT8G3	Reference T8G ENSF:50984	PF4
+NT8G4	Reference T8G NCBITaxon:9606	Homo sapiens
+T9G	GGP 887 894	heparin
+NT9G4	Reference T9G NCBITaxon:9606	Homo sapiens
+T10G	GGP 1044 1047	IgG
+NT10G4	Reference T10G NCBITaxon:9606	Homo sapiens
+T11G	GGP 1067 1092	heparin/platelet factor 4
+NT11G0	Reference T11G ENSGF:277920	PF4
+NT11G1	Reference T11G HG:87791	PF4
+NT11G3	Reference T11G ENSF:50984	PF4
+NT11G4	Reference T11G NCBITaxon:9606	Homo sapiens
+T12G	GGP 1094 1097	PF4
+NT12G0	Reference T12G ENSGF:277920	PF4
+NT12G1	Reference T12G HG:87791	PF4
+NT12G3	Reference T12G ENSF:50984	PF4
+NT12G4	Reference T12G NCBITaxon:9606	Homo sapiens
+T81R	Entity 1099 1108	complexes
+T13G	GGP 1162 1190	platelet FcgammaIIa receptor
+NT13G4	Reference T13G NCBITaxon:9606	Homo sapiens
+T14G	GGP 1223 1231	thrombin
+NT14G0	Reference T14G ENSGF:185260	thrombin
+NT14G1	Reference T14G HG:426	thrombin
+NT14G3	Reference T14G ENSF:6313	thrombin
+NT14G4	Reference T14G NCBITaxon:9606	Homo sapiens
+T15G	GGP 1302 1310	anti-PF4
+NT15G0	Reference T15G ENSGF:277920	PF4
+NT15G1	Reference T15G HG:87791	PF4
+NT15G3	Reference T15G ENSF:50984	PF4
+NT15G4	Reference T15G NCBITaxon:9606	Homo sapiens
+T16G	GGP 1311 1337	heparin complex antibodies
+NT16G4	Reference T16G NCBITaxon:9606	Homo sapiens
+T17G	GGP 1557 1580	serotonin release assay
+NT17G4	Reference T17G NCBITaxon:9606	Homo sapiens
+T18G	GGP 1582 1585	SRA
+NT18G0	Reference T18G ENSGF:245161	SRA
+NT18G1	Reference T18G HG:12822	SRA
+NT18G3	Reference T18G ENSF:9845	SRA
+NT18G4	Reference T18G NCBITaxon:9606	Homo sapiens
+T19G	GGP 1784 1787	PF4
+NT19G0	Reference T19G ENSGF:277920	PF4
+NT19G1	Reference T19G HG:87791	PF4
+NT19G3	Reference T19G ENSF:50984	PF4
+NT19G4	Reference T19G NCBITaxon:9606	Homo sapiens
+T20G	GGP 1788 1795	heparin
+NT20G4	Reference T20G NCBITaxon:9606	Homo sapiens
+T82R	Entity 1796 1803	complex
+T21G	GGP 1930 1933	PF4
+NT21G0	Reference T21G ENSGF:277920	PF4
+NT21G1	Reference T21G HG:87791	PF4
+NT21G3	Reference T21G ENSF:50984	PF4
+NT21G4	Reference T21G NCBITaxon:9606	Homo sapiens
+T22G	GGP 1934 1941	Heparin
+NT22G4	Reference T22G NCBITaxon:9606	Homo sapiens
+T23G	GGP 2111 2131	PF4/Heparin antibody
+NT23G4	Reference T23G NCBITaxon:9606	Homo sapiens
+T24G	GGP 2286 2306	PF4/heparin antibody
+NT24G4	Reference T24G NCBITaxon:9606	Homo sapiens
+T25G	GGP 2522 2525	PF4
+NT25G0	Reference T25G ENSGF:277920	PF4
+NT25G1	Reference T25G HG:87791	PF4
+NT25G3	Reference T25G ENSF:50984	PF4
+NT25G4	Reference T25G NCBITaxon:9606	Homo sapiens
+T26G	GGP 2526 2533	heparin
+NT26G4	Reference T26G NCBITaxon:9606	Homo sapiens
+T83R	Entity 2534 2542	antibody
+T27G	GGP 2589 2614	anti-PF4/heparin antibody
+NT27G4	Reference T27G NCBITaxon:9606	Homo sapiens
+T28G	GGP 2616 2619	IgG
+NT28G4	Reference T28G NCBITaxon:9606	Homo sapiens
+T29G	GGP 2621 2624	IgA
+NT29G0	Reference T29G ENSGF:73727	IgA
+NT29G1	Reference T29G HG:31053	IgA
+NT29G3	Reference T29G ENSF:15660	IgA
+NT29G4	Reference T29G NCBITaxon:9606	Homo sapiens
+T30G	GGP 2630 2633	IgM
+NT30G0	Reference T30G ENSGF:138307	IgM
+NT30G1	Reference T30G HG:56	IgM
+NT30G3	Reference T30G ENSF:10209	IgM
+NT30G4	Reference T30G NCBITaxon:9606	Homo sapiens
+T31G	GGP 3014 3025	HemosIL HIT
+NT31G4	Reference T31G NCBITaxon:9606	Homo sapiens
+T32G	GGP 3026 3028	Ab
+NT32G0	Reference T32G ENSGF:204406	AB
+NT32G1	Reference T32G HG:43170	AB
+NT32G3	Reference T32G ENSF:19254	AB
+NT32G4	Reference T32G NCBITaxon:9606	Homo sapiens
+T33G	GGP 3058 3083	anti-PF4/Heparin antibody
+NT33G4	Reference T33G NCBITaxon:9606	Homo sapiens
+T34G	GGP 3325 3336	prothrombin
+NT34G0	Reference T34G ENSGF:185260	thrombin
+NT34G1	Reference T34G HG:426	thrombin
+NT34G3	Reference T34G ENSF:6313	thrombin
+NT34G4	Reference T34G NCBITaxon:9606	Homo sapiens
+T84R	Entity 3337 3341	time
+T35G	GGP 3366 3380	thromboplastin
+NT35G0	Reference T35G ENSGF:88777	thromboplastin
+NT35G1	Reference T35G HG:1511	thromboplastin
+NT35G3	Reference T35G ENSF:12288	thromboplastin
+NT35G4	Reference T35G NCBITaxon:9606	Homo sapiens
+T85R	Entity 3381 3385	time
+T36G	GGP 3407 3417	fibrinogen
+NT36G3	Reference T36G ENSF:9000	fibrinogen
+NT36G4	Reference T36G NCBITaxon:9606	Homo sapiens
+T37G	GGP 3567 3572	Actin
+NT37G0	Reference T37G ENSGF:173917	actin
+NT37G1	Reference T37G HG:6451	actin
+NT37G3	Reference T37G ENSF:2648	actin
+NT37G4	Reference T37G NCBITaxon:9606	Homo sapiens
+T86R	Entity 3591 3598	Reagent
+T38G	GGP 3673 3683	fibrinogen
+NT38G3	Reference T38G ENSF:9000	fibrinogen
+NT38G4	Reference T38G NCBITaxon:9606	Homo sapiens
+T39G	GGP 3921 3931	fibrinogen
+NT39G3	Reference T39G ENSF:9000	fibrinogen
+NT39G4	Reference T39G NCBITaxon:9606	Homo sapiens
+T40G	GGP 4266 4276	fibrinogen
+NT40G3	Reference T40G ENSF:9000	fibrinogen
+NT40G4	Reference T40G NCBITaxon:9606	Homo sapiens
+T41G	GGP 4314 4334	PF4/heparin antibody
+NT41G4	Reference T41G NCBITaxon:9606	Homo sapiens
+T42G	GGP 4384 4387	PF4
+NT42G0	Reference T42G ENSGF:277920	PF4
+NT42G1	Reference T42G HG:87791	PF4
+NT42G3	Reference T42G ENSF:50984	PF4
+NT42G4	Reference T42G NCBITaxon:9606	Homo sapiens
+T43G	GGP 4388 4395	heparin
+NT43G4	Reference T43G NCBITaxon:9606	Homo sapiens
+T87R	Entity 4396 4404	antibody
+T44G	GGP 4482 4498	Asserachrom HPIA
+NT44G4	Reference T44G NCBITaxon:9606	Homo sapiens
+T45G	GGP 4503 4516	HemosIL HITAb
+NT45G4	Reference T45G NCBITaxon:9606	Homo sapiens
+T46G	GGP 4556 4576	PF4/heparin antibody
+NT46G4	Reference T46G NCBITaxon:9606	Homo sapiens
+T47G	GGP 4725 4728	HIT
+NT47G0	Reference T47G ENSGF:30637	HIT
+NT47G4	Reference T47G NCBITaxon:9606	Homo sapiens
+T48G	GGP 4933 4936	HIT
+NT48G0	Reference T48G ENSGF:30637	HIT
+NT48G4	Reference T48G NCBITaxon:9606	Homo sapiens
+T49G	GGP 5012 5032	PF4/heparin antibody
+NT49G4	Reference T49G NCBITaxon:9606	Homo sapiens
+T50G	GGP 5284 5287	SRA
+NT50G0	Reference T50G ENSGF:245161	SRA
+NT50G1	Reference T50G HG:12822	SRA
+NT50G3	Reference T50G ENSF:9845	SRA
+NT50G4	Reference T50G NCBITaxon:9606	Homo sapiens
+T51G	GGP 5291 5295	HIPA
+NT51G0	Reference T51G ENSGF:76349	HIPA
+NT51G4	Reference T51G NCBITaxon:9606	Homo sapiens
+T52G	GGP 5394 5420	serum PF4/heparin antibody
+NT52G4	Reference T52G NCBITaxon:9606	Homo sapiens
+T53G	GGP 5617 5620	PF4
+NT53G0	Reference T53G ENSGF:277920	PF4
+NT53G1	Reference T53G HG:87791	PF4
+NT53G3	Reference T53G ENSF:50984	PF4
+NT53G4	Reference T53G NCBITaxon:9606	Homo sapiens
+T54G	GGP 5621 5628	heparin
+NT54G4	Reference T54G NCBITaxon:9606	Homo sapiens
+T55G	GGP 5805 5808	PF4
+NT55G0	Reference T55G ENSGF:277920	PF4
+NT55G1	Reference T55G HG:87791	PF4
+NT55G3	Reference T55G ENSF:50984	PF4
+NT55G4	Reference T55G NCBITaxon:9606	Homo sapiens
+T56G	GGP 5809 5816	heparin
+NT56G4	Reference T56G NCBITaxon:9606	Homo sapiens
+T57G	GGP 5893 5896	SRA
+NT57G0	Reference T57G ENSGF:245161	SRA
+NT57G1	Reference T57G HG:12822	SRA
+NT57G3	Reference T57G ENSF:9845	SRA
+NT57G4	Reference T57G NCBITaxon:9606	Homo sapiens
+T58G	GGP 5900 5904	HIPA
+NT58G0	Reference T58G ENSGF:76349	HIPA
+NT58G4	Reference T58G NCBITaxon:9606	Homo sapiens
+T59G	GGP 6169 6189	PF4/heparin antibody
+NT59G4	Reference T59G NCBITaxon:9606	Homo sapiens
+T60G	GGP 6371 6374	HIT
+NT60G0	Reference T60G ENSGF:30637	HIT
+NT60G4	Reference T60G NCBITaxon:9606	Homo sapiens
+T61G	GGP 6409 6429	PF4/heparin antibody
+NT61G4	Reference T61G NCBITaxon:9606	Homo sapiens
+T62G	GGP 6535 6538	PF4
+NT62G0	Reference T62G ENSGF:277920	PF4
+NT62G1	Reference T62G HG:87791	PF4
+NT62G3	Reference T62G ENSF:50984	PF4
+NT62G4	Reference T62G NCBITaxon:9606	Homo sapiens
+T63G	GGP 6539 6546	heparin
+NT63G4	Reference T63G NCBITaxon:9606	Homo sapiens
+T64G	GGP 6704 6724	PF4/heparin antibody
+NT64G4	Reference T64G NCBITaxon:9606	Homo sapiens
+T65G	GGP 6825 6828	PF4
+NT65G0	Reference T65G ENSGF:277920	PF4
+NT65G1	Reference T65G HG:87791	PF4
+NT65G3	Reference T65G ENSF:50984	PF4
+NT65G4	Reference T65G NCBITaxon:9606	Homo sapiens
+T66G	GGP 6829 6836	heparin
+NT66G4	Reference T66G NCBITaxon:9606	Homo sapiens
+T67G	GGP 6922 6942	PF4/heparin antibody
+NT67G4	Reference T67G NCBITaxon:9606	Homo sapiens
+T68G	GGP 7069 7089	PF4/heparin antibody
+NT68G4	Reference T68G NCBITaxon:9606	Homo sapiens
+T69G	GGP 7292 7312	PF4/heparin antibody
+NT69G4	Reference T69G NCBITaxon:9606	Homo sapiens
+T70G	GGP 7433 7443	fibrinogen
+NT70G3	Reference T70G ENSF:9000	fibrinogen
+NT70G4	Reference T70G NCBITaxon:9606	Homo sapiens
+T71G	GGP 7573 7576	PF4
+NT71G0	Reference T71G ENSGF:277920	PF4
+NT71G1	Reference T71G HG:87791	PF4
+NT71G3	Reference T71G ENSF:50984	PF4
+NT71G4	Reference T71G NCBITaxon:9606	Homo sapiens
+T72G	GGP 7577 7584	heparin
+NT72G4	Reference T72G NCBITaxon:9606	Homo sapiens
+T73G	GGP 7761 7781	PF4/heparin antibody
+NT73G4	Reference T73G NCBITaxon:9606	Homo sapiens
+T74G	GGP 7815 7818	PF4
+NT74G0	Reference T74G ENSGF:277920	PF4
+NT74G1	Reference T74G HG:87791	PF4
+NT74G3	Reference T74G ENSF:50984	PF4
+NT74G4	Reference T74G NCBITaxon:9606	Homo sapiens
+T75G	GGP 7819 7826	heparin
+NT75G4	Reference T75G NCBITaxon:9606	Homo sapiens
+T76G	GGP 7892 7895	SRA
+NT76G0	Reference T76G ENSGF:245161	SRA
+NT76G1	Reference T76G HG:12822	SRA
+NT76G3	Reference T76G ENSF:9845	SRA
+NT76G4	Reference T76G NCBITaxon:9606	Homo sapiens
+T77G	GGP 7899 7903	HIPA
+NT77G0	Reference T77G ENSGF:76349	HIPA
+NT77G4	Reference T77G NCBITaxon:9606	Homo sapiens
+T78G	GGP 7968 7993	anti-PF4/heparin antibody
+NT78G4	Reference T78G NCBITaxon:9606	Homo sapiens
+T79G	GGP 8139 8147	Anti-PF4
+NT79G0	Reference T79G ENSGF:277920	PF4
+NT79G1	Reference T79G HG:87791	PF4
+NT79G3	Reference T79G ENSF:50984	PF4
+NT79G4	Reference T79G NCBITaxon:9606	Homo sapiens
+T80G	GGP 8148 8155	heparin
+NT80G4	Reference T80G NCBITaxon:9606	Homo sapiens
+T85G	Gene_expression 1289 1298	detection
+T84G	Positive_regulation 1216 1222	induce
+T86G	Gene_expression 2576 2585	detection
+T87G	Positive_regulation 3348 3357	activated
+T81G	Positive_regulation 853 862	increased
+T90G	Gene_expression 7274 7288	seropositivity
+T82G	Binding 1109 1114	bound
+T89G	Binding 4918 4929	recognition
+T83G	Binding 1150 1154	bind
+T88G	Gene_expression 4468 4478	positivity
+E10G	Gene_expression:T85G Theme:T16G
+AE10Gconf	Confidence E10G medium
+#E10Gconf	Confidence E10G	2.5136
+E11G	Gene_expression:T86G Theme:T27G
+AE11Gconf	Confidence E11G medium
+#E11Gconf	Confidence E11G	2.4245
+E12G	Gene_expression:T86G Theme:T28G
+AE12Gconf	Confidence E12G medium
+#E12Gconf	Confidence E12G	2.4245
+E13G	Gene_expression:T86G Theme:T29G
+AE13Gconf	Confidence E13G medium
+#E13Gconf	Confidence E13G	2.4245
+E14G	Gene_expression:T86G Theme:T30G
+AE14Gconf	Confidence E14G medium
+#E14Gconf	Confidence E14G	2.4245
+E15G	Positive_regulation:T87G Theme:T35G
+AE15Gconf	Confidence E15G medium
+#E15Gconf	Confidence E15G	3.2121
+E16G	Gene_expression:T88G Theme:T44G
+AE16Gconf	Confidence E16G low
+#E16Gconf	Confidence E16G	1.2889
+E17G	Gene_expression:T88G Theme:T45G
+AE17Gconf	Confidence E17G low
+#E17Gconf	Confidence E17G	1.2889
+E18G	Binding:T89G Theme:T48G
+AE18Gconf	Confidence E18G medium
+#E18Gconf	Confidence E18G	2.1072
+E19G	Gene_expression:T90G Theme:T69G
+AE19Gconf	Confidence E19G low
+#E19Gconf	Confidence E19G	1.0062
+E1G	Positive_regulation:T81G Theme:T7G
+AE1Gconf	Confidence E1G medium
+#E1Gconf	Confidence E1G	3.1000
+E2G	Binding:T82G Theme:T10G
+AE2Gconf	Confidence E2G medium
+#E2Gconf	Confidence E2G	2.9712
+E3G	Binding:T82G Theme:T11G
+AE3Gconf	Confidence E3G medium
+#E3Gconf	Confidence E3G	2.9712
+E4G	Binding:T82G Theme:T12G
+AE4Gconf	Confidence E4G medium
+#E4Gconf	Confidence E4G	2.9712
+E5G	Binding:T82G Theme:T10G Theme:T11G
+AE5Gconf	Confidence E5G medium
+#E5Gconf	Confidence E5G	3.1387
+E6G	Binding:T82G Theme:T10G Theme:T12G
+AE6Gconf	Confidence E6G medium
+#E6Gconf	Confidence E6G	3.1387
+E7G	Binding:T83G Theme:T13G
+AE7Gconf	Confidence E7G high
+#E7Gconf	Confidence E7G	4.0671
+E8G	Positive_regulation:T84G Theme:T14G
+AE8Gconf	Confidence E8G medium
+#E8Gconf	Confidence E8G	3.5048
+E9G	Gene_expression:T85G Theme:T15G
+AE9Gconf	Confidence E9G medium
+#E9Gconf	Confidence E9G	2.5136
+AE11GS	Speculation E11G
+#E11GSconf	Confidence AE11GS	44.0120
+AE12GS	Speculation E12G
+#E12GSconf	Confidence AE12GS	44.0120
+AE13GS	Speculation E13G
+#E13GSconf	Confidence AE13GS	44.0120
+AE14GS	Speculation E14G
+#E14GSconf	Confidence AE14GS	44.0120
+R1R	Subunit-Complex Arg1:T11G Arg2:T81R
+AR1Rconf	Confidence R1R medium
+#R1Rconf	Confidence R1R	2.7263
+R2R	Subunit-Complex Arg1:T19G Arg2:T82R
+AR2Rconf	Confidence R2R high
+#R2Rconf	Confidence R2R	4.2463
+R3R	Subunit-Complex Arg1:T20G Arg2:T82R
+AR3Rconf	Confidence R3R high
+#R3Rconf	Confidence R3R	4.0875
+R4R	Subunit-Complex Arg1:T25G Arg2:T83R
+AR4Rconf	Confidence R4R low
+#R4Rconf	Confidence R4R	1.4021
+R5R	Protein-Component Arg1:T34G Arg2:T84R
+AR5Rconf	Confidence R5R medium
+#R5Rconf	Confidence R5R	2.0770
+R6R	Protein-Component Arg1:T35G Arg2:T85R
+AR6Rconf	Confidence R6R low
+#R6Rconf	Confidence R6R	1.8827
+R7R	Protein-Component Arg1:T37G Arg2:T86R
+AR7Rconf	Confidence R7R low
+#R7Rconf	Confidence R7R	1.6150
+R8R	Subunit-Complex Arg1:T42G Arg2:T87R
+AR8Rconf	Confidence R8R low
+#R8Rconf	Confidence R8R	1.1323

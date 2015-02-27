@@ -1,0 +1,518 @@
+T1G	GGP 51 68	ten control cRNAs
+NT1G4	Reference T1G NCBITaxon:3702	Arabidopsis thaliana
+T2G	GGP 186 196	histone H4
+NT2G1	Reference T2G HG:111024	H4
+NT2G2	Reference T2G EG:836119	histone H4
+NT2G4	Reference T2G NCBITaxon:3702	Arabidopsis thaliana
+T3G	GGP 286 307	cytochrome oxidase IV
+NT3G4	Reference T3G NCBITaxon:3702	Arabidopsis thaliana
+T4G	GGP 309 333	kynurenine 3-hydroxylase
+NT4G0	Reference T4G ENSGF:128679	monooxygenase
+NT4G1	Reference T4G HG:2729	CN
+NT4G3	Reference T4G ENSF:1572	CN
+NT4G4	Reference T4G NCBITaxon:3702	Arabidopsis thaliana
+T5G	GGP 335 366	serine/threonine protein kinase
+NT5G0	Reference T5G ENSGF:337250	protein kinases
+NT5G3	Reference T5G ENSF:1197	protein kinase
+NT5G4	Reference T5G NCBITaxon:3702	Arabidopsis thaliana
+T6G	GGP 371 391	14-3-3 protein gamma
+NT6G0	Reference T6G ENSGF:287361	14-3-3gamma
+NT6G1	Reference T6G HG:22725	14-3-3gamma
+NT6G3	Reference T6G ENSF:472	SFN
+NT6G4	Reference T6G NCBITaxon:3702	Arabidopsis thaliana
+T7G	GGP 662 671	H+-ATPase
+NT7G4	Reference T7G NCBITaxon:3702	Arabidopsis thaliana
+T8G	GGP 673 698	branched aminotransferase
+NT8G4	Reference T8G NCBITaxon:3702	Arabidopsis thaliana
+T9G	GGP 703 720	epoxide hydrolase
+NT9G0	Reference T9G ENSGF:38818	epoxide hydrolase
+NT9G1	Reference T9G HG:95772	seh
+NT9G2	Reference T9G EG:817215	epoxide hydrolase
+NT9G4	Reference T9G NCBITaxon:3702	Arabidopsis thaliana
+T10G	GGP 777 782	SCG10
+NT10G0	Reference T10G ENSGF:176264	stathmin
+NT10G1	Reference T10G HG:5102	SCG10
+NT10G3	Reference T10G ENSF:1881	lag
+NT10G4	Reference T10G NCBITaxon:3702	Arabidopsis thaliana
+T11G	GGP 787 793	desmin
+NT11G0	Reference T11G ENSGF:28179	desmin
+NT11G1	Reference T11G HG:56469	desmin
+NT11G3	Reference T11G ENSF:774	GFAP
+NT11G4	Reference T11G NCBITaxon:3702	Arabidopsis thaliana
+T12G	GGP 989 999	histone H4
+NT12G1	Reference T12G HG:111024	H4
+NT12G2	Reference T12G EG:836119	histone H4
+NT12G4	Reference T12G NCBITaxon:3702	Arabidopsis thaliana
+T13G	GGP 1001 1013	14-3-3-theta
+NT13G3	Reference T13G ENSF:472	SFN
+NT13G4	Reference T13G NCBITaxon:3702	Arabidopsis thaliana
+T14G	GGP 1018 1033	thymosin beta-4
+NT14G0	Reference T14G ENSGF:259396	beta4
+NT14G1	Reference T14G HG:50956	beta4
+NT14G3	Reference T14G ENSF:12868	beta3
+NT14G4	Reference T14G NCBITaxon:3702	Arabidopsis thaliana
+T15G	GGP 1135 1155	14-3-3 protein theta
+NT15G0	Reference T15G ENSGF:150160	14-3-3
+NT15G1	Reference T15G HG:105677	14-3-3
+NT15G3	Reference T15G ENSF:472	SFN
+NT15G4	Reference T15G NCBITaxon:3702	Arabidopsis thaliana
+T16G	GGP 1157 1163	desmin
+NT16G0	Reference T16G ENSGF:28179	desmin
+NT16G1	Reference T16G HG:56469	desmin
+NT16G3	Reference T16G ENSF:774	GFAP
+NT16G4	Reference T16G NCBITaxon:3702	Arabidopsis thaliana
+T17G	GGP 1168 1183	thymosin beta-4
+NT17G0	Reference T17G ENSGF:259396	beta4
+NT17G1	Reference T17G HG:50956	beta4
+NT17G3	Reference T17G ENSF:12868	beta3
+NT17G4	Reference T17G NCBITaxon:3702	Arabidopsis thaliana
+T18G	GGP 1288 1308	14-3-3 protein gamma
+NT18G0	Reference T18G ENSGF:287361	14-3-3gamma
+NT18G1	Reference T18G HG:22725	14-3-3gamma
+NT18G3	Reference T18G ENSF:472	SFN
+NT18G4	Reference T18G NCBITaxon:3702	Arabidopsis thaliana
+T19G	GGP 1310 1320	histone H4
+NT19G1	Reference T19G HG:111024	H4
+NT19G2	Reference T19G EG:836119	histone H4
+NT19G4	Reference T19G NCBITaxon:3702	Arabidopsis thaliana
+T20G	GGP 1325 1333	profilin
+NT20G1	Reference T20G HG:118507	profilin
+NT20G2	Reference T20G EG:835761	profilin
+NT20G4	Reference T20G NCBITaxon:3702	Arabidopsis thaliana
+T21G	GGP 1430 1450	14-3-3 protein gamma
+NT21G0	Reference T21G ENSGF:287361	14-3-3gamma
+NT21G1	Reference T21G HG:22725	14-3-3gamma
+NT21G3	Reference T21G ENSF:472	SFN
+NT21G4	Reference T21G NCBITaxon:3702	Arabidopsis thaliana
+T22G	GGP 1452 1458	desmin
+NT22G0	Reference T22G ENSGF:28179	desmin
+NT22G1	Reference T22G HG:56469	desmin
+NT22G3	Reference T22G ENSF:774	GFAP
+NT22G4	Reference T22G NCBITaxon:3702	Arabidopsis thaliana
+T23G	GGP 1460 1465	SCG10
+NT23G0	Reference T23G ENSGF:176264	stathmin
+NT23G1	Reference T23G HG:5102	SCG10
+NT23G3	Reference T23G ENSF:1881	lag
+NT23G4	Reference T23G NCBITaxon:3702	Arabidopsis thaliana
+T24G	GGP 1483 1505	extent thymosin beta-4
+NT24G0	Reference T24G ENSGF:259396	beta4
+NT24G1	Reference T24G HG:50956	beta4
+NT24G3	Reference T24G ENSF:12868	beta3
+NT24G4	Reference T24G NCBITaxon:3702	Arabidopsis thaliana
+T25G	GGP 1507 1516	Figure 7a
+NT25G4	Reference T25G NCBITaxon:3702	Arabidopsis thaliana
+T26G	GGP 1606 1611	SCG10
+NT26G0	Reference T26G ENSGF:176264	stathmin
+NT26G1	Reference T26G HG:5102	SCG10
+NT26G3	Reference T26G ENSF:1881	lag
+NT26G4	Reference T26G NCBITaxon:3702	Arabidopsis thaliana
+T27G	GGP 1613 1619	desmin
+NT27G0	Reference T27G ENSGF:28179	desmin
+NT27G1	Reference T27G HG:56469	desmin
+NT27G3	Reference T27G ENSF:774	GFAP
+NT27G4	Reference T27G NCBITaxon:3702	Arabidopsis thaliana
+T28G	GGP 1621 1633	14-3-3-gamma
+NT28G0	Reference T28G ENSGF:287361	14-3-3gamma
+NT28G1	Reference T28G HG:22725	14-3-3gamma
+NT28G3	Reference T28G ENSF:472	SFN
+NT28G4	Reference T28G NCBITaxon:3702	Arabidopsis thaliana
+T29G	GGP 1635 1643	profilin
+NT29G1	Reference T29G HG:118507	profilin
+NT29G2	Reference T29G EG:835761	profilin
+NT29G4	Reference T29G NCBITaxon:3702	Arabidopsis thaliana
+T30G	GGP 1933 1959	synthetic Arabidopsis cRNA
+NT30G4	Reference T30G NCBITaxon:3702	Arabidopsis thaliana
+T31G	GGP 2093 2128	mammalian signal transduction genes
+NT31G4	Reference T31G NCBITaxon:9606	Homo sapiens
+T32G	GGP 2350 2370	14-3-3 protein gamma
+NT32G0	Reference T32G ENSGF:287361	14-3-3gamma
+NT32G1	Reference T32G HG:22725	14-3-3gamma
+NT32G3	Reference T32G ENSF:472	SFN
+NT32G4	Reference T32G NCBITaxon:3702	Arabidopsis thaliana
+T33G	GGP 2411 2426	creatine kinase
+NT33G3	Reference T33G ENSF:521	creatine kinase
+NT33G4	Reference T33G NCBITaxon:3702	Arabidopsis thaliana
+T34G	GGP 2549 2569	mammalian target RNA
+NT34G0	Reference T34G ENSGF:181271	small interfering RNA
+NT34G4	Reference T34G NCBITaxon:9606	Homo sapiens
+T35G	GGP 2838 2847	H+-ATPase
+NT35G4	Reference T35G NCBITaxon:3702	Arabidopsis thaliana
+T36G	GGP 2849 2874	branched aminotransferase
+NT36G4	Reference T36G NCBITaxon:3702	Arabidopsis thaliana
+T37G	GGP 2879 2896	epoxide hydrolase
+NT37G0	Reference T37G ENSGF:38818	epoxide hydrolase
+NT37G1	Reference T37G HG:95772	seh
+NT37G2	Reference T37G EG:817215	epoxide hydrolase
+NT37G4	Reference T37G NCBITaxon:3702	Arabidopsis thaliana
+T38G	GGP 3034 3048	H+-ATPase gene
+NT38G4	Reference T38G NCBITaxon:3702	Arabidopsis thaliana
+T39G	GGP 3072 3097	H+-ATPase 70-mer sequence
+NT39G4	Reference T39G NCBITaxon:3702	Arabidopsis thaliana
+T40G	GGP 3239 3245	ATPase
+NT40G0	Reference T40G ENSGF:199088	ATPase
+NT40G3	Reference T40G ENSF:630	ATPase
+NT40G4	Reference T40G NCBITaxon:3702	Arabidopsis thaliana
+T41G	GGP 3410 3424	H+-ATPase gene
+NT41G4	Reference T41G NCBITaxon:3702	Arabidopsis thaliana
+T42G	GGP 3490 3492	H+
+NT42G0	Reference T42G ENSGF:232247	H
+NT42G3	Reference T42G ENSF:17718	H
+NT42G4	Reference T42G NCBITaxon:3702	Arabidopsis thaliana
+T43G	GGP 3493 3499	ATPase
+NT43G0	Reference T43G ENSGF:199088	ATPase
+NT43G3	Reference T43G ENSF:630	ATPase
+NT43G4	Reference T43G NCBITaxon:3702	Arabidopsis thaliana
+T44G	GGP 3786 3794	rat mRNA
+NT44G4	Reference T44G NCBITaxon:10116	Rattus norvegicus
+T45G	GGP 4106 4143	inositol-1,4,5-trisphosphate receptor
+NT45G0	Reference T45G ENSGF:104977	InsP3
+NT45G1	Reference T45G HG:1673	InsP3
+NT45G3	Reference T45G ENSF:736	InsP3
+NT45G4	Reference T45G NCBITaxon:10090	Mus musculus
+T46G	GGP 4145 4171	branched amino-transferase
+NT46G4	Reference T46G NCBITaxon:10090	Mus musculus
+T47G	GGP 4176 4193	epoxide hydrolase
+NT47G1	Reference T47G HG:127259	Epoxide hydrolase
+NT47G3	Reference T47G ENSF:9675	Epoxide hydrolase
+NT47G4	Reference T47G NCBITaxon:10090	Mus musculus
+T48G	GGP 4334 4340	GAP II
+NT48G0	Reference T48G ENSGF:301503	CD74
+NT48G1	Reference T48G HG:3209	CD74
+NT48G3	Reference T48G ENSF:9374	CD74
+NT48G4	Reference T48G NCBITaxon:3702	Arabidopsis thaliana
+T49G	GGP 4341 4343	TM
+NT49G0	Reference T49G ENSGF:151485	thrombomodulin
+NT49G1	Reference T49G HG:308	thrombomodulin
+NT49G3	Reference T49G ENSF:42397	TM
+NT49G4	Reference T49G NCBITaxon:3702	Arabidopsis thaliana
+T50G	GGP 4415 4446	chlorophyll a/b-binding protein
+NT50G1	Reference T50G HG:118507	profilin
+NT50G2	Reference T50G EG:835761	profilin
+NT50G4	Reference T50G NCBITaxon:3702	Arabidopsis thaliana
+T51G	GGP 4448 4451	Cab
+NT51G0	Reference T51G ENSGF:202790	Carbonic anhydrase
+NT51G1	Reference T51G HG:7135	eIF6
+NT51G3	Reference T51G ENSF:2830	eIF6
+NT51G4	Reference T51G NCBITaxon:3702	Arabidopsis thaliana
+T52G	GGP 4454 4478	lipid transfer protein 4
+NT52G1	Reference T52G HG:118599	LTP
+NT52G2	Reference T52G EG:836050	LTP4
+NT52G4	Reference T52G NCBITaxon:3702	Arabidopsis thaliana
+T53G	GGP 4480 4484	Ltp4
+NT53G1	Reference T53G HG:118599	LTP
+NT53G2	Reference T53G EG:836050	LTP4
+NT53G4	Reference T53G NCBITaxon:3702	Arabidopsis thaliana
+T54G	GGP 4487 4511	lipid transfer protein 6
+NT54G1	Reference T54G HG:118697	Ltp6
+NT54G2	Reference T54G EG:820024	LTP6
+NT54G4	Reference T54G NCBITaxon:3702	Arabidopsis thaliana
+T55G	GGP 4513 4517	Ltp6
+NT55G1	Reference T55G HG:118697	Ltp6
+NT55G2	Reference T55G EG:820024	LTP6
+NT55G4	Reference T55G NCBITaxon:3702	Arabidopsis thaliana
+T56G	GGP 4520 4524	NAC1
+NT56G0	Reference T56G ENSGF:122342	NAC1
+NT56G1	Reference T56G HG:100392	NAC1
+NT56G2	Reference T56G EG:842052	NAC1
+NT56G4	Reference T56G NCBITaxon:3702	Arabidopsis thaliana
+T57G	GGP 4526 4553	ribulose-5-phosphate kinase
+NT57G0	Reference T57G ENSGF:147542	TIM
+NT57G1	Reference T57G HG:311	TIM
+NT57G2	Reference T57G EG:816652	Tim
+NT57G4	Reference T57G NCBITaxon:3702	Arabidopsis thaliana
+T58G	GGP 4555 4561	PRKase
+NT58G0	Reference T58G ENSGF:322206	PRK
+NT58G1	Reference T58G HG:93195	PRK
+NT58G4	Reference T58G NCBITaxon:3702	Arabidopsis thaliana
+T59G	GGP 4564 4625	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
+NT59G1	Reference T59G HG:99807	rbcL
+NT59G2	Reference T59G EG:844754	rbcL
+NT59G4	Reference T59G NCBITaxon:3702	Arabidopsis thaliana
+T60G	GGP 4627 4631	rbcL
+NT60G1	Reference T60G HG:99807	rbcL
+NT60G2	Reference T60G EG:844754	rbcL
+NT60G4	Reference T60G NCBITaxon:3702	Arabidopsis thaliana
+T61G	GGP 4634 4667	rubisco activase (Ra), root cap 1
+NT61G0	Reference T61G ENSGF:74755	MEX1
+NT61G1	Reference T61G HG:95358	MEX1
+NT61G2	Reference T61G EG:831618	MEX1
+NT61G4	Reference T61G NCBITaxon:3702	Arabidopsis thaliana
+T62G	GGP 4669 4673	RCP1
+NT62G0	Reference T62G ENSGF:74755	MEX1
+NT62G1	Reference T62G HG:95358	MEX1
+NT62G2	Reference T62G EG:831618	MEX1
+NT62G4	Reference T62G NCBITaxon:3702	Arabidopsis thaliana
+T63G	GGP 4676 4700	triosphosphate isomerase
+NT63G0	Reference T63G ENSGF:147542	TIM
+NT63G1	Reference T63G HG:311	TIM
+NT63G2	Reference T63G EG:816652	Tim
+NT63G4	Reference T63G NCBITaxon:3702	Arabidopsis thaliana
+T64G	GGP 4702 4705	TIM
+NT64G0	Reference T64G ENSGF:147542	TIM
+NT64G1	Reference T64G HG:311	TIM
+NT64G2	Reference T64G EG:816652	Tim
+NT64G4	Reference T64G NCBITaxon:3702	Arabidopsis thaliana
+T65G	GGP 4712 4746	papain-type cysteine endopeptidase
+NT65G0	Reference T65G ENSGF:19027	cathepsin L
+NT65G1	Reference T65G HG:68053	cathepsin K
+NT65G2	Reference T65G EG:838677	XCP2
+NT65G4	Reference T65G NCBITaxon:3702	Arabidopsis thaliana
+T66G	GGP 4748 4752	XCP2
+NT66G0	Reference T66G ENSGF:19027	cathepsin L
+NT66G1	Reference T66G HG:68053	cathepsin K
+NT66G2	Reference T66G EG:838677	XCP2
+NT66G4	Reference T66G NCBITaxon:3702	Arabidopsis thaliana
+T67G	GGP 5041 5048	HindIII
+NT67G4	Reference T67G NCBITaxon:3702	Arabidopsis thaliana
+T68G	GGP 5053 5071	SacI adaptor sites
+NT68G0	Reference T68G ENSGF:219273	SacI
+NT68G1	Reference T68G HG:10188	SacI
+NT68G3	Reference T68G ENSF:6269	SacI
+NT68G4	Reference T68G NCBITaxon:3702	Arabidopsis thaliana
+T69G	GGP 5264 5268	Ltp4
+NT69G1	Reference T69G HG:118599	LTP
+NT69G2	Reference T69G EG:836050	LTP4
+NT69G4	Reference T69G NCBITaxon:3702	Arabidopsis thaliana
+T70G	GGP 5467 5473	PRKase
+NT70G0	Reference T70G ENSGF:322206	PRK
+NT70G1	Reference T70G HG:93195	PRK
+NT70G4	Reference T70G NCBITaxon:3702	Arabidopsis thaliana
+T71G	GGP 5537 5541	rbcL
+NT71G1	Reference T71G HG:99807	rbcL
+NT71G2	Reference T71G EG:844754	rbcL
+NT71G4	Reference T71G NCBITaxon:3702	Arabidopsis thaliana
+T100G	Entity 5609 5634	5'-TGGTGGACTCTCCGTTCTTC-3
+T72G	GGP 5671 5675	RCP1
+NT72G0	Reference T72G ENSGF:74755	MEX1
+NT72G1	Reference T72G HG:95358	MEX1
+NT72G2	Reference T72G EG:831618	MEX1
+NT72G4	Reference T72G NCBITaxon:3702	Arabidopsis thaliana
+T73G	GGP 5810 5814	XCP2
+NT73G0	Reference T73G ENSGF:19027	cathepsin L
+NT73G1	Reference T73G HG:68053	cathepsin K
+NT73G2	Reference T73G EG:838677	XCP2
+NT73G4	Reference T73G NCBITaxon:3702	Arabidopsis thaliana
+T74G	GGP 5872 5879	HindIII
+NT74G4	Reference T74G NCBITaxon:3702	Arabidopsis thaliana
+T75G	GGP 5884 5888	SacI
+NT75G0	Reference T75G ENSGF:219273	SacI
+NT75G1	Reference T75G HG:10188	SacI
+NT75G3	Reference T75G ENSF:6269	SacI
+NT75G4	Reference T75G NCBITaxon:3702	Arabidopsis thaliana
+T76G	GGP 5976 6002	printing Arabidopsis genes
+NT76G4	Reference T76G NCBITaxon:3702	Arabidopsis thaliana
+T77G	GGP 6156 6179	pSP64poly(A) constructs
+NT77G4	Reference T77G NCBITaxon:3702	Arabidopsis thaliana
+T78G	GGP 6201 6206	EcoRI
+NT78G4	Reference T78G NCBITaxon:3702	Arabidopsis thaliana
+T79G	GGP 6241 6253	SP6 promoter
+NT79G0	Reference T79G ENSGF:48909	SP6
+NT79G1	Reference T79G HG:19879	SP6
+NT79G3	Reference T79G ENSF:3125	Osx
+NT79G4	Reference T79G NCBITaxon:3702	Arabidopsis thaliana
+T80G	GGP 6334 6338	TIGR
+NT80G0	Reference T80G ENSGF:111789	TIGR
+NT80G1	Reference T80G HG:220	TIGR
+NT80G2	Reference T80G EG:81523	myocilin
+NT80G3	Reference T80G ENSF:1273	TIGR
+NT80G4	Reference T80G NCBITaxon:10116	Rattus norvegicus
+T81G	GGP 6511 6517	Pick70
+NT81G4	Reference T81G NCBITaxon:10116	Rattus norvegicus
+T82G	GGP 6730 6735	SCG10
+NT82G0	Reference T82G ENSGF:176264	stathmin
+NT82G1	Reference T82G HG:5102	SCG10
+NT82G3	Reference T82G ENSF:1881	lag
+NT82G4	Reference T82G NCBITaxon:3702	Arabidopsis thaliana
+T83G	GGP 6737 6752	creatine kinase
+NT83G3	Reference T83G ENSF:521	creatine kinase
+NT83G4	Reference T83G NCBITaxon:3702	Arabidopsis thaliana
+T84G	GGP 6811 6824	TIGR Rat Gene
+NT84G0	Reference T84G ENSGF:111789	TIGR
+NT84G1	Reference T84G HG:220	TIGR
+NT84G3	Reference T84G ENSF:1273	TIGR
+NT84G4	Reference T84G NCBITaxon:10116	Rattus norvegicus
+T85G	GGP 7328 7364	Superscript II reverse transcriptase
+NT85G4	Reference T85G NCBITaxon:10116	Rattus norvegicus
+T86G	GGP 7433 7465	unincorporated amino allyl-dUTPs
+NT86G4	Reference T86G NCBITaxon:3702	Arabidopsis thaliana
+T103G	Transcription 6220 6231	transcribed
+T99G	Negative_regulation 3367 3378	distinguish
+T98G	Gene_expression 3392 3402	expression
+T102G	Binding 6185 6195	linearized
+T96G	Gene_expression 2150 2160	expression
+T97G	Positive_regulation 3014 3025	illustrated
+T94G	Positive_regulation 1370 1379	increased
+T95G	Gene_expression 1576 1585	expressed
+T87G	Negative_regulation 212 219	exhibit
+T92G	Positive_regulation 1184 1193	generated
+T101G	Binding 5202 5227	5'-TCACCCAAAAGAGAAGAGCA-3
+T93G	Positive_regulation 1275 1283	observed
+T91G	Gene_expression 828 837	expressed
+T89G	Regulation 582 592	resolution
+T90G	Positive_regulation 768 776	included
+T88G	Gene_expression 233 243	expression
+E10G	Regulation:T89G Theme:T7G
+AE10Gconf	Confidence E10G medium
+#E10Gconf	Confidence E10G	2.9008
+E11G	Regulation:T89G Theme:T8G
+AE11Gconf	Confidence E11G medium
+#E11Gconf	Confidence E11G	2.9008
+E12G	Regulation:T89G Theme:T9G
+AE12Gconf	Confidence E12G medium
+#E12Gconf	Confidence E12G	2.9008
+E13G	Positive_regulation:T90G Theme:T14G
+AE13Gconf	Confidence E13G medium
+#E13Gconf	Confidence E13G	2.0416
+E14G	Gene_expression:T91G Theme:T10G
+AE14Gconf	Confidence E14G high
+#E14Gconf	Confidence E14G	4.5297
+E15G	Gene_expression:T91G Theme:T11G
+AE15Gconf	Confidence E15G high
+#E15Gconf	Confidence E15G	4.3736
+E16G	Gene_expression:T91G Theme:T12G
+AE16Gconf	Confidence E16G high
+#E16Gconf	Confidence E16G	4.6907
+E17G	Gene_expression:T91G Theme:T13G
+AE17Gconf	Confidence E17G medium
+#E17Gconf	Confidence E17G	3.8503
+E18G	Gene_expression:T91G Theme:T14G
+AE18Gconf	Confidence E18G high
+#E18Gconf	Confidence E18G	4.0112
+E19G	Positive_regulation:T92G Theme:T15G
+AE19Gconf	Confidence E19G low
+#E19Gconf	Confidence E19G	1.4497
+E1G	Negative_regulation:T87G Theme:T3G Cause:T2G
+AE1Gconf	Confidence E1G medium
+#E1Gconf	Confidence E1G	3.3618
+E20G	Positive_regulation:T92G Theme:T16G
+AE20Gconf	Confidence E20G low
+#E20Gconf	Confidence E20G	1.4497
+E21G	Positive_regulation:T92G Theme:T17G
+AE21Gconf	Confidence E21G low
+#E21Gconf	Confidence E21G	1.4497
+E22G	Positive_regulation:T93G Theme:T18G
+AE22Gconf	Confidence E22G low
+#E22Gconf	Confidence E22G	1.9677
+E23G	Positive_regulation:T93G Theme:T19G
+AE23Gconf	Confidence E23G low
+#E23Gconf	Confidence E23G	1.9677
+E24G	Positive_regulation:T93G Theme:T20G
+AE24Gconf	Confidence E24G low
+#E24Gconf	Confidence E24G	1.9677
+E25G	Positive_regulation:T94G Theme:T21G
+AE25Gconf	Confidence E25G medium
+#E25Gconf	Confidence E25G	3.7360
+E26G	Positive_regulation:T94G Theme:T22G
+AE26Gconf	Confidence E26G high
+#E26Gconf	Confidence E26G	4.1963
+E27G	Positive_regulation:T94G Theme:T23G
+AE27Gconf	Confidence E27G high
+#E27Gconf	Confidence E27G	4.1963
+E28G	Positive_regulation:T94G Theme:T24G
+AE28Gconf	Confidence E28G medium
+#E28Gconf	Confidence E28G	3.2948
+E29G	Positive_regulation:T94G Theme:T25G
+AE29Gconf	Confidence E29G medium
+#E29Gconf	Confidence E29G	3.2356
+E2G	Gene_expression:T88G Theme:T3G
+AE2Gconf	Confidence E2G very-high
+#E2Gconf	Confidence E2G	5.3151
+E30G	Gene_expression:T95G Theme:T26G
+AE30Gconf	Confidence E30G medium
+#E30Gconf	Confidence E30G	3.3444
+E31G	Gene_expression:T95G Theme:T27G
+AE31Gconf	Confidence E31G medium
+#E31Gconf	Confidence E31G	3.3444
+E32G	Gene_expression:T95G Theme:T28G
+AE32Gconf	Confidence E32G medium
+#E32Gconf	Confidence E32G	3.3444
+E33G	Gene_expression:T95G Theme:T29G
+AE33Gconf	Confidence E33G medium
+#E33Gconf	Confidence E33G	3.3444
+E34G	Gene_expression:T96G Theme:T31G
+AE34Gconf	Confidence E34G medium
+#E34Gconf	Confidence E34G	3.0741
+E35G	Positive_regulation:T97G Theme:T38G
+AE35Gconf	Confidence E35G low
+#E35Gconf	Confidence E35G	1.5301
+E36G	Gene_expression:T98G Theme:T41G
+AE36Gconf	Confidence E36G very-high
+#E36Gconf	Confidence E36G	5.0178
+E37G	Negative_regulation:T99G Theme:E36G
+AE37Gconf	Confidence E37G medium
+#E37Gconf	Confidence E37G	3.7251
+E38G	Binding:T101G Theme:T69G Theme:T70G
+AE38Gconf	Confidence E38G low
+#E38Gconf	Confidence E38G	1.7930
+E39G	Binding:T101G Theme:T69G Theme:T71G
+AE39Gconf	Confidence E39G low
+#E39Gconf	Confidence E39G	1.7930
+E3G	Gene_expression:T88G Theme:T4G
+AE3Gconf	Confidence E3G very-high
+#E3Gconf	Confidence E3G	5.3151
+E40G	Binding:T101G Theme:T69G Theme:T72G Site:T100G
+AE40Gconf	Confidence E40G low
+#E40Gconf	Confidence E40G	1.7930
+E41G	Binding:T101G Theme:T73G Theme:T69G
+AE41Gconf	Confidence E41G low
+#E41Gconf	Confidence E41G	1.7930
+E42G	Binding:T101G Theme:T70G Theme:T73G
+AE42Gconf	Confidence E42G low
+#E42Gconf	Confidence E42G	1.7930
+E43G	Binding:T101G Theme:T69G Theme:T70G Theme:T71G
+AE43Gconf	Confidence E43G low
+#E43Gconf	Confidence E43G	1.8597
+E44G	Binding:T101G Theme:T69G Theme:T70G Theme:T72G Site:T100G
+AE44Gconf	Confidence E44G low
+#E44Gconf	Confidence E44G	1.8597
+E45G	Binding:T101G Theme:T69G Theme:T70G Theme:T73G
+AE45Gconf	Confidence E45G low
+#E45Gconf	Confidence E45G	1.8597
+E46G	Binding:T101G Theme:T69G Site:T100G Theme:T71G Theme:T72G
+AE46Gconf	Confidence E46G low
+#E46Gconf	Confidence E46G	1.8597
+E47G	Binding:T101G Theme:T69G Theme:T71G Theme:T73G
+AE47Gconf	Confidence E47G low
+#E47Gconf	Confidence E47G	1.8597
+E48G	Binding:T101G Theme:T69G Site:T100G Theme:T72G Theme:T73G
+AE48Gconf	Confidence E48G low
+#E48Gconf	Confidence E48G	1.8597
+E49G	Binding:T101G Theme:T71G Theme:T69G Theme:T72G Theme:T70G Site:T100G
+AE49Gconf	Confidence E49G low
+#E49Gconf	Confidence E49G	1.9742
+E4G	Gene_expression:T88G Theme:T5G
+AE4Gconf	Confidence E4G very-high
+#E4Gconf	Confidence E4G	5.3151
+E50G	Binding:T101G Theme:T69G Theme:T73G Theme:T70G Theme:T71G
+AE50Gconf	Confidence E50G low
+#E50Gconf	Confidence E50G	1.9742
+E51G	Binding:T101G Theme:T72G Site:T100G Theme:T69G Theme:T73G Theme:T70G
+AE51Gconf	Confidence E51G low
+#E51Gconf	Confidence E51G	1.9742
+E52G	Binding:T101G Theme:T71G Theme:T72G Site:T100G Theme:T69G Theme:T73G
+AE52Gconf	Confidence E52G low
+#E52Gconf	Confidence E52G	1.9742
+E53G	Binding:T102G Theme:T77G Theme:T78G
+AE53Gconf	Confidence E53G medium
+#E53Gconf	Confidence E53G	2.1260
+E54G	Transcription:T103G Theme:T77G
+AE54Gconf	Confidence E54G medium
+#E54Gconf	Confidence E54G	3.6305
+E55G	Transcription:T103G Theme:T79G
+AE55Gconf	Confidence E55G medium
+#E55Gconf	Confidence E55G	3.6305
+E5G	Gene_expression:T88G Theme:T6G
+AE5Gconf	Confidence E5G very-high
+#E5Gconf	Confidence E5G	5.3151
+E6G	Negative_regulation:T87G Theme:E2G Cause:T2G
+AE6Gconf	Confidence E6G medium
+#E6Gconf	Confidence E6G	3.0724
+E7G	Negative_regulation:T87G Cause:T2G Theme:E3G
+AE7Gconf	Confidence E7G medium
+#E7Gconf	Confidence E7G	3.0724
+E8G	Negative_regulation:T87G Theme:E4G Cause:T2G
+AE8Gconf	Confidence E8G medium
+#E8Gconf	Confidence E8G	3.0724
+E9G	Negative_regulation:T87G Theme:E5G Cause:T2G
+AE9Gconf	Confidence E9G medium
+#E9Gconf	Confidence E9G	3.0724

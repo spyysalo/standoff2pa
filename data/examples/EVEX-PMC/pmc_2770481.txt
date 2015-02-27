@@ -1,0 +1,133 @@
+Early hCG addition to rFSH for ovarian stimulation in IVF provides better results and the cDNA copies of the hCG receptor may be an indicator of successful stimulation
+hCG has been used as a substitute of LH because of the degree of homology between the two hormones.
+The main aim of this prospective randomized study was to determine, for the first time, whether low dose hCG added to rFSH for ovarian stimulation could produce better results compared to the addition of rLH in women entering IVF-ET, especially in those women that had previous IVF failures.
+An additional aim was to find an indicator that would allow us to follow-up ovarian stimulation and, possibly, modify it in order to achieve a better IVF outcome; and that indicator may be the cDNA copies of the LH/hCG receptor.
+Group A patients (n = 58) were administered hCG and Group B rLH (n = 56) in addition to rFSH in the first days of ovarian stimulation.
+The number of follicles and oocytes and, most importantly, implantation and pregnancy rates were shown to be statistically significantly higher in the hCG group.
+This study has also determined, for the first time to our best knowledge, m-RNA for LH/hCG receptors in the lymphocytes of peripheral blood 40 h before ovum pick-up.
+cDNA levels of the hCG receptor after ovarian stimulation were significantly higher among women receiving hCG compared to those receiving LH.
+It seems that hCG permits a highly effective and more stable occupancy of rLH/hCG receptors and gives more follicles and more oocytes.
+The determination of cDNA copies could be, in the future, a marker during ovulation induction protocols and of course a predictor for the outcome of ART in the special subgroup of patients with previous failures.
+The midcycle gonadotrophin surge is a major event in the dynamics of ovulation.
+Rapidly increasing levels of luteinising hormone (LH) induce a number of key changes in both oocytes and follicular cells, which further modify the steroid and protein micro- and macroenvironment.
+Human chorionic gonadotrophin (hCG) has been used as a substitute for the LH surge because of the degree of homology between the two hormones [2].
+hCG has a slower plasma metabolic clearance, which consists of a rapid phase in the first 5-9 h following intramuscular (IM) administration and a slower phase in the first 1-1.3 days after administration.
+Both LH and hCG are complex heterodimeric glycoproteins with a molecular weight of ~30 K for recombinant human LH (rLH) and 40 K for hCG.
+Their carbohydrate molecule is, though, different, thus leading possibly to a different affinity to the LH/hCG receptor and therefore to a differentiated function between LH and hCG.
+The major differences between the two hormones include the sequence of the beta-subunit, the regulation of the secretion of the two hormones, the carbohydrate component and the pharmacokinetics of clearance of hCG as opposed to LH [3,4].
+The LH/hCG receptor has an almost ubiquitous distribution in reproductive organs, thus suggesting that the actions of hCG might be more extensive than previously thought.
+Independently of follicular stimulation hormone (FSH), low-dose hCG can support development and maturation of larger ovarian follicles that have acquired granulosa cell LH/hCG receptors, potentially providing effective and safer ovulation induction regimens.
+Human chorionic gonadotrophin seems to be capable of improving uterine receptivity by enhancing endometrial quality and stromal fibroblast function.
+Furthermore, through its actions on insulin-like growth factor binding protein-1 and vascular endothelial growth factor, hCG might stimulate endometrial angiogenesis and growth and extend the implantation window, thus increasing pregnancy rates [5,6].
+The main aim of this study was to determine whether low dose hCG added to rFSH in regimens of ovarian stimulation could produce better results compared to the addition of rLH in women entering IVF-ET, especially in those women who had previous IVF failures.
+An additional aim was to find an indicator that would allow us to follow-up the ovarian stimulation and, possibly, predict a better IVF outcome in some women that may lead us to modify this stimulation; and that indicator may be the cDNA copies of the LH/hCG receptor.
+This prospective, randomized, pilot study was designed to compare the IVF outcome between two groups of patients, the first receiving rLH and the second hCG, both in addition to rFSH in patients undergoing ovarian stimulation for IVF-ET.
+They all were between 36 and 42 years old, had a body mass index (BMI) of 32 or less, a menstrual cycle lasting between 21 and 35 days, normal serum levels of FSH, prolactin and TSH and a normal uterine cavity confirmed by hysteroscopy or hysterosalpingography.
+Patients hadn't had any other treatment with clomiphene citrate or gonadotrophins for at least 3 months before screening.
+Group A patients (final n = 58, two cycles were cancelled) were administered hCG in addition to rFSH in the first days of ovarian stimulation, while Group B patients (final n = 56, four cycles were cancelled) were administered rLH in addition to rFSH.
+Based on findings by Filicori et al. [8], the dose of hCG was chosen to be 200 IU IM in Group A given for four days.
+The initial dose of rLH was chosen to be 200 IU based on pharmacokinetic data for LH given for four days also.
+Commercially available GnRH-a (Suprefact, buserelin; Hoechst, Frankfurt, Germany) was self-administered subcutaneously (sc) into the thigh at a dose of 200 mug/day, starting on the 2nd day of the menstrual cycle and continuing until 24 h before the administration of hCG.
+Treatment with rFSH (Gonal-F; Serono, Geneva, Switzerland) was started on the third day of the menstrual cycle with 200 IU and continued until the administration of hCG for ovulation induction.
+In Group A patients, 200 IU of hCG were also administered sc for the first five days of ovarian stimulation.
+The ovarian response was monitored by ultrasound and measurement of plasma E2 levels, while the dose of rFSH was adjusted accordingly [9].
+Ovulation was induced with 10 000 IU of hCG within 24 h after the last rFSH and GnRH-a administration, preferably when all of the following criteria had been met: the largest follicle had reached a mean diameter of at least 18 mm, at least one other follicle had a mean diameter of 16 mm, and serum E2 levels were within an acceptable range for the number of follicles present.
+Oocytes were retrieved by regular follicle aspiration 34-38 h after hCG injection.
+The randomization scheme was prepared by a computer using Proc PLAN in SAS version 6.12 (SAS Institute Inc., Cary NC).
+Safety was assessed through monitoring of all adverse events that occurred during the study, clinical assessment of local adverse reactions to injections, a questionnaire on clinical symptoms associated with OHSS at the time of hCG injection and at midluteal phase, u/s of the ovaries and abdomen and monitoring of any pathologic changes in routine laboratory values.
+Patients were randomly assigned to rLH or hCG treatment according to balanced blocks of four subjects.
+LH/hCG receptors
+In this study we also examined the LH/hCG receptor mRNA expression in the peripheral blood.
+The LH/hCG receptor mRNA expression was determined in the lymphocytes of peripheral blood by a novel molecular beacon based real-time PCR assay (RT-PCR) 40 h before ovum pick up.
+The use of RNase-free DNase I and carrier RNA, offered highly purified RNA.
+Total RNA extracted from peripheral blood was used for c-DNA synthesis by using Retroscript kit (Ambion, Austin, TX USA) according to manufacturer's instructions.
+Reverse transcription was followed by two rounds of nested PCR for LH/hCG mRNA and HPRT mRNA.
+Primer sequences used in both PCRs for LH/hCG mRNA amplification were designed with the Primer 3 program [11].
+Primers pairs used for HPRT mRNA amplification have been described elsewhere [10].
+5 mul of 10 x PCR buffer, 1.5 mM MgCl2/l, 0.2 muM of 3' and 5' outer primer, 0.2 mM of each dNTP/l and 1.5 u Taq polymerase were used (Invitrogen Life Technologies).
+For the second round of PCR 3 mul of the primary product were added to 47 mul freshly prepared mastermix containing PCR buffer, MgCl2, dNTPs, Taq polymerase and inner primers in the same quantities as the first one.
+Gel electrophoresis of RT-PCR products for hCG-R (fragment 249) in peripheral blood of women undergoing IVF-ET.
+The presence of LH/hCG receptor mRNA was investigated by nested PCR in peripheral blood of women undergoing IVF-ET.
+A specific band of 249 bps corresponding to the LH/hCG receptor was detected in all women examined.
+Furthermore the presence of HPRT mRNA in peripheral blood confirms the integrity of the RT-PCR process.
+A real-time PCR assay was developed in order to quantitate LH/hCG receptor cDNA which was obtained with a reverse transcriptase (RT) assay from mRNA extracted from total blood.
+Real-time PCR was optimized for human LH (hLH) receptor cDNA using a set of specific primers (inner set) and a molecular beacon probe labeled with a fluorescence dye for the amplification of hLH receptor.
+More specifically, hLH receptor primers and molecular beacon were newly designed targeting at a conserved region of gene sequence.
+The software tool used for the assessment of the Tm calculations was from the Virtual Genome Centre . The reaction mixture for RLT-PCR contained 2 mul LightCycler FastStart Taq Reaction Mix 10x (Roche, Molecular Biochemicals, Mannheim, Germany), 6 mM MgCl2, 0.75 muM primer hCG_for inner (forward) 5'-GAACTGAGTGGCTGGACTA-3', 0.75 muM primer hCG_rev inner (reverse) (Table 1), 5'-GCAAAAGTCTGCAAAGGAGA-3', 0.017 muM hLH_beacon 5'-GCCGGC CTGCTTACCCAAGACACCCCGATGTGCT GCCGGC-3' labeled with fluoresceine at the 5'-terminus and at their 3'-terminus bonded BHQ1, which is the quencher (Black Hole quencher 1).
+(MWG-BIOTECH Inc, U.K) (bold text indicates the complementary sequences forming the hairpin structure), 1.5 U FastStart Taq DNA polymerase (Roche, Molecular Biochemicals, Mannheim, Germany) and 1 U of uracil-DNA glycosylase (Roche, Molecular Biochemicals, Mannheim, Germany) in a final volume reaction 20 mul.
+Uracil-DNA glycosylase was used to eliminate PCR 'carry over' contaminations from previous PCR reactions.
+For each run a standard curves was created in a 6-log range by 1:10 serial dilutions of hCG receptor's standard.
+The concentration of hCG receptor at unknown extracted DNA samples quantified using the standard curve for external standard ds and was expressed as copies per mul of cDNA.
+hCG receptor amplicons were used as external standards after quantification in LightCycler 2.0 (Roche, Molecular Biochemicals, Mannheim, Germany) using PicoGreen dsDNA Quantification Kit (Molecular Probes).
+The concentration of hCG receptor amplicons was estimated according to standard curve calculated for serial dilutions of genomic DNA of known concentration (250-6.25 ng); Tenfold serial dilutions of the standards DNA with known DNA copy number were used for the generation of standard curves in amplification assays using molecular-beacon-based real-time PCR.
+Of the remaining 114 women, 58 belonged to Group A (received hCG) and 56 to Group B (received rLH).
+The luteal phase was monitored in all patients who received hCG treatment.
+The mean (SD) age of the patients was 36.4 (4.2) and 37.3 (1.8) for the hCG and LH group respectively (p = 0.147).
+BMI was similar in the two groups (mean (SD): 22.7 (3.0) and 23.7 (3.4) for hCG and LH respectively, p = 0.129).
+Mean (SD) serum FSH was 8.4 (3.1) IU/L for the hCG group and 8.2 (2.8) IU/L for the LH group, mean (SD) serum LH was 6.1 (2.1) and 6.4 (3.0) IU/L respectively and mean (SD) PRL was 12.2 (6.2) and 10.3 (4.7) ng/ml respectively for the two groups.
+The mean (SD) number of days of ovarian stimulation was 10.8 (1.9) days for the hCG group and 11.1 (1.2) for the rLH group (p = 0.240).
+The mean (SD) total rFSH dose per patient was 2940 (1231) IU (hCG treatment) and 4261 (1090) IU (rLH group) (p < 0.001).
+Median (25th, 75th) serum E2 was 1888 (1119, 2118) and 720 (530, 1825) pg/ml for the hCG and LH group, respectively (p = 0.003).
+The median number of follicles was 7.0 for hCG and 4 for LH (p < 0.001) and the median number of oocytes retrieved per group was 6 for the hCG group and 3 for the LH one (p < 0.001).
+The majority of oocytes were in metaphase II (75.0% for the hCG group and 66.7% for the rLH group, p = 0.752.
+The percentage of nuclear maturity was thus comparable between rLH and hCG
+There was no significant difference in fertilization rate between the two treatment groups (71.4% for hCG vs. 66.7% for LH, p = 0.317).
+The median number of transferable embryos was 4 for the hCG group and 2 for the rLH group (p < 0.001).
+The mean number of embryos transferred was 2.4 +/- 0.4 for the hCG group and 2.5 +/- 0.4 for the LH group (p = 0.185) (Table 3).
+The percentage of patients with endometrial thickness > 8 mm was slightly higher in the hCG group (80% compared to 69%; p = 0.190).
+In a univariate analysis, we assessed the effect of parameters such as age, BMI, basal serum hormone values and treatment with either hCG or LH on the achievement of pregnancy (Table 4).
+Treatment with hCG was found to be the only parameter that significantly increases pregnancy outcome expectation.
+A total of 16 clinical pregnancies (27.6%) were recorded for hCG patients while 6 pregnancies (10.7%) were recorded for the rLH group (p = 0.022) (Table 4).
+We also observe that (Table 5), after having adjusted for potential differences in age, BMI and baseline PRL, FSH, E2, women receiving hCG treatment have 3.6 times higher probability of achieving pregnancy compared with women receiving LH (95% CI: 1.21-10.71, p = 0.022).
+cDNA levels after ovarian stimulation were significantly higher among women receiving hCG compared to women receiving LH (median levels: 25.3 copier per mul of cDNA vs 6.8 copier per mul of cDNA, respectively, p = 0.012) (Table 6).
+The necessary and the optimal dose as well as the time of LH administration in IVF cycles for the achievement of good quality oocytes and embryos has not yet been determined.
+The two-cell theory suggests that both FSH and LH are needed for normal follicular growth and maturation, but until now the main role has been attributed to FSH.
+Studies in non-human primates have revealed that LH may act by increasing intraovarian androgens which promote FSH responsive granulosa cell function [8,13] and, previous studies in humans have shown that LH acts synergistically with FSH to promote follicular growth [14].
+However, no data exist on the potential clinical benefit of an "LH priming" effect as well as hCG.
+Several studies have demonstrated that the administration of LH activity combined with FSH can exert significant actions on folliculogenesis.
+A beneficial induction effect has been shown when rLH is administered before rFSH commenced in IVF cycles [6] but the authors suggested that the effect of supplementation with rLH on the clinical outcome needs to be clarified in the future.
+Our previous data with human luteinising hormone supplementation in the beginning of ovarian stimulation showed a beneficiary effect [17] and this effect is with the early addition of hCG in this study.
+The action of LH in preantral and small antral follicles was reported in literature to be limited [18].
+However, granulosa cells express LH/hCG receptors and can be stimulated by both FSH and LH [19].
+It has also been demonstrated by us that mRNA for the FSH and LH receptors exists in denuded oocytes as well as in preimplantation embryos at different stages, indicating a physiological role of LH in the oocyte maturation process and early embryonic development in the mouse and in humans [10,11].
+Indeed, luteinising hormone activity can be provided in various ways: by human-derived LH contained in hMG, by recombinant LH, and by human-derived or recombinant hCG.
+Our study has shown, for the first time to our best knowledge, that the administration of 200 IU of hCG daily, in addition to rFSH, is a safe and possibly better alternative of human recombinant luteinising hormone supplementation for patients undergoing IVF/ICSI-ET.
+As stated before, other investigators have already used 200 IU of hCG in the last 3-4 days of ovarian stimulation in the long protocol [8,15,16].
+In our study we used hCG supplementation during the first five days of ovarian stimulation in the short protocol.
+No negative impact of low-dose hCG administration was detected in patients receiving this treatment.
+In most of the currently used ovarian stimulation protocols, serum LH is clearly suppressed through pituitary down regulation by GnRH agonists or antagonists.
+In the short protocol, LH is suppressed during the final days of the follicular growth (days 7-11).
+It seems, from our study, that the administration of 200 IU of hCG daily from days 3- 7 during the follicular growth permits a sufficient LH level in this period of ovulation induction.
+Our results have shown that with hCG we had lower number of gonadotrophin ampoules used, higher fertilization rate, higher and a better pregnancy rate with a tendency for a better implantation rate.
+In addition, the percentage of mature oocytes and the number and quality of embryos was comparable between rLH and hCG, thus showing that hCG, in the specific dose and way of administration, had no harmful effect on ovarian stimulation.
+An explanation of the better ovulation profile in hCG treatment cycles could be the different isoform of hCG as compared to rLH.
+In addition, the longer plasma half-life of hCG (half life of hCG is 33 hours while half life of rLH is 10-12 hours) results to a better and prolonged effect in the ovarian stimulation process [3,20].
+It seems, therefore, that its longer plasma half-life and its greater potency (roughly six to eight times greater than that of LH) permit highly effective and more stable occupancy of the LH\hCG receptors.
+The fact that serum E2 levels in patients who received rLH were statistically significantly lower than in patients treated with hCG, shows that indeed the occupation of the LH/hCG receptor in the rLH-administered patients is less compared to the hCG stimulated patients.
+The fact that single doses of rLH have a shorter effect than those of hCG is further substantiated by the performance of rLH in relation to the main characteristics of a natural LH surge as reported in the literature.
+LH serum levels, when measured by RIA, are about 10-20 times the basal LH levels.
+The surge profile obtained after a single injection of 5,000 IU hCG is very different from that of the natural LH surge.
+The main differences are the total duration (the hCG surge can last up to 120 h) and the length of the descending phase.
+Previous publication suggested that using a conversion factor of 2.5, a dose of 12,500 IU rLH would be as effective as 5,000 IU hCG in humans [22].
+In terms of safety, this study shows that 200 IU of hCG is a well tolerated dose.
+Reported adverse effects are similar to those usually reported during stimulation cycles with rFSH and hMG.
+No negative impact of low-dose hCG administration was detected in patients receiving this treatment.
+Our study, thus, demonstrated that the administration of 200 IU of hCG daily can be applied as a supplement in patients with previous failed attempts during the short protocol in the first 5 days of superovulation.
+This study has also determined, for the first time to our best knowledge, m-RNA for LH/hCG receptors in the lymphocytes of peripheral blood 40 h before ovum pick up.
+cDNA levels of the hCG receptor after ovarian stimulation were significantly higher among women receiving hCG compared to women receiving LH.
+It seems that hCG permits a highly effective and more stable occupancy of rLH/hCG receptors and gives more follicles and more oocytes.
+As far as hCG and rLH are concerned for ovarian simulation, from this pilot study, it seems that the addition of hCG in the short protocol helps to improve the ovulation profile.
+It remains to be clarified, with the successive measurements of hormone in the blood during ovulation induction, which range of hCG in the blood relates with the optimum number of receptors.
+The LH/hCG receptor has an almost ubiquitous distribution in reproductive organs, thus suggesting that the actions of hCG might be more extensive than previously considered [22,23].
+The localization of the LH/hCG receptors in extragonadal reproductive tissues has suggested that hCG might exert additional actions and that these mechanisms could be exploited to enhance the efficacy of treatment used to manage infertile patients.
+The expression of LH/hCG receptors by theca cells and by granulosa cells has been well characterized [23,24].
+Low-dose hCG can also be used instead of LH to permit in a more sustained manner the progression of folliculogenesis [5].
+Moreover, the tendency, although not statistically significant for this sample number, for better implantation rate noted with hCG may reflect a more beneficial action to the endometrium compared to that of rLH administration since the number of embryos and their quality was the same.
+The cDNA copies of LH/hCG receptor may act in concert with other environmental and genetic factors that could contribute to improve the ovulation protocols in the future.
+Also the determination of cDNA copies could be, in the future, a marker during ovulation induction protocols and of course a predictor for the outcome of ART in special subgroup of patients with previous failures.
+Finally, the results in this study are in agreement with the conclusion published recently by Filicori et al [5] stating that greater understanding of the physiologic role that hCG might play in human reproduction is beginning to suggest novel therapeutic applications for this traditional hormone of pregnancy.
+Our study, as stated previously, demonstrated that the administration of 200 IU of hCG daily can be applied in addition to rFSH in patients with previous failed attempts during the short protocol in the first 5 days of superovulation increasing, thus, pregnancy rate.
+This study has also determined, for the first time to our best knowledge, m-RNA for LH/hCG receptors in the lymphocytes of peripheral blood 40 h before ovum pick up.
+cDNA levels of the hCG receptor after ovarian stimulation were significantly higher among women receiving hCG compared to women receiving LH.
+The determination of cDNA copies could be, in the future, a marker during ovulation induction protocols and of course a predictor for the outcome of ART in special subgroup of patients with previous failures.
+PD was involved in drafting the manuscript.

@@ -1,0 +1,683 @@
+T1G	GGP 14 63	DeltaF508 Cystic Fibrosis Transmembrane Regulator
+NT1G4	Reference T1G NCBITaxon:9606	Homo sapiens
+T2G	GGP 65 69	CFTR
+NT2G0	Reference T2G ENSGF:142289	CFTR
+NT2G1	Reference T2G HG:55465	CFTR
+NT2G2	Reference T2G EG:1080	CFTR
+NT2G3	Reference T2G ENSF:4406	CFTR
+NT2G4	Reference T2G NCBITaxon:9606	Homo sapiens
+T3G	GGP 146 157	mutant CFTR
+NT3G0	Reference T3G ENSGF:142289	CFTR
+NT3G1	Reference T3G HG:55465	CFTR
+NT3G3	Reference T3G ENSF:4406	CFTR
+NT3G4	Reference T3G NCBITaxon:9606	Homo sapiens
+T4G	GGP 256 277	mutant DeltaF508 CFTR
+NT4G0	Reference T4G ENSGF:142289	CFTR
+NT4G1	Reference T4G HG:55465	CFTR
+NT4G3	Reference T4G ENSF:4406	CFTR
+NT4G4	Reference T4G NCBITaxon:9606	Homo sapiens
+T5G	GGP 415 422	lectins
+NT5G0	Reference T5G ENSGF:146401	lectin
+NT5G3	Reference T5G ENSF:9195	lectin
+NT5G4	Reference T5G NCBITaxon:9606	Homo sapiens
+T6G	GGP 437 443	Neu5Ac
+NT6G0	Reference T6G ENSGF:200098	Neu5Ac
+NT6G1	Reference T6G HG:10343	Neu5Ac
+NT6G3	Reference T6G ENSF:7175	Neu5Ac
+NT6G4	Reference T6G NCBITaxon:9606	Homo sapiens
+T7G	GGP 464 478	DeltaF508 CFTR
+NT7G0	Reference T7G ENSGF:142289	CFTR
+NT7G1	Reference T7G HG:55465	CFTR
+NT7G3	Reference T7G ENSF:4406	CFTR
+NT7G4	Reference T7G NCBITaxon:9606	Homo sapiens
+T8G	GGP 713 727	DeltaF508 CFTR
+NT8G0	Reference T8G ENSGF:142289	CFTR
+NT8G1	Reference T8G HG:55465	CFTR
+NT8G3	Reference T8G ENSF:4406	CFTR
+NT8G4	Reference T8G NCBITaxon:9606	Homo sapiens
+T9G	GGP 971 1022	cystic fibrosis transmembrane conductance regulator
+NT9G0	Reference T9G ENSGF:142289	CFTR
+NT9G1	Reference T9G HG:55465	CFTR
+NT9G2	Reference T9G EG:1080	CFTR
+NT9G3	Reference T9G ENSF:4406	CFTR
+NT9G4	Reference T9G NCBITaxon:9606	Homo sapiens
+T10G	GGP 1024 1028	CFTR
+NT10G0	Reference T10G ENSGF:142289	CFTR
+NT10G1	Reference T10G HG:55465	CFTR
+NT10G2	Reference T10G EG:1080	CFTR
+NT10G3	Reference T10G ENSF:4406	CFTR
+NT10G4	Reference T10G NCBITaxon:9606	Homo sapiens
+T11G	GGP 1093 1097	CFTR
+NT11G0	Reference T11G ENSGF:142289	CFTR
+NT11G1	Reference T11G HG:55465	CFTR
+NT11G2	Reference T11G EG:1080	CFTR
+NT11G3	Reference T11G ENSF:4406	CFTR
+NT11G4	Reference T11G NCBITaxon:9606	Homo sapiens
+T12G	GGP 1227 1231	CFTR
+NT12G0	Reference T12G ENSGF:142289	CFTR
+NT12G1	Reference T12G HG:55465	CFTR
+NT12G2	Reference T12G EG:1080	CFTR
+NT12G3	Reference T12G ENSF:4406	CFTR
+NT12G4	Reference T12G NCBITaxon:9606	Homo sapiens
+T13G	GGP 1387 1425	GaINAcbeta1-4Gal disaccharide sequence
+NT13G4	Reference T13G NCBITaxon:9606	Homo sapiens
+T14G	GGP 1480 1483	GM1
+NT14G1	Reference T14G HG:27027	GM1
+NT14G3	Reference T14G ENSF:4517	GM1
+NT14G4	Reference T14G NCBITaxon:9606	Homo sapiens
+T15G	GGP 1488 1491	GM2
+NT15G0	Reference T15G ENSGF:191254	GM2
+NT15G1	Reference T15G HG:14701	GM2
+NT15G3	Reference T15G ENSF:8829	GM2
+NT15G4	Reference T15G NCBITaxon:9606	Homo sapiens
+T16G	GGP 1629 1633	CFTR
+NT16G0	Reference T16G ENSGF:142289	CFTR
+NT16G1	Reference T16G HG:55465	CFTR
+NT16G2	Reference T16G EG:1080	CFTR
+NT16G3	Reference T16G ENSF:4406	CFTR
+NT16G4	Reference T16G NCBITaxon:9606	Homo sapiens
+T17G	GGP 1795 1809	neuraminidases
+NT17G0	Reference T17G ENSGF:49793	neuraminidase
+NT17G3	Reference T17G ENSF:20393	neuraminidase
+NT17G4	Reference T17G NCBITaxon:9606	Homo sapiens
+T18G	GGP 1852 1856	CFTR
+NT18G0	Reference T18G ENSGF:142289	CFTR
+NT18G1	Reference T18G HG:55465	CFTR
+NT18G2	Reference T18G EG:1080	CFTR
+NT18G3	Reference T18G ENSF:4406	CFTR
+NT18G4	Reference T18G NCBITaxon:9606	Homo sapiens
+T19G	GGP 1885 1899	DeltaF508 CFTR
+NT19G0	Reference T19G ENSGF:142289	CFTR
+NT19G1	Reference T19G HG:55465	CFTR
+NT19G3	Reference T19G ENSF:4406	CFTR
+NT19G4	Reference T19G NCBITaxon:9606	Homo sapiens
+T20G	GGP 2106 2120	DeltaF508 CFTR
+NT20G0	Reference T20G ENSGF:142289	CFTR
+NT20G1	Reference T20G HG:55465	CFTR
+NT20G3	Reference T20G ENSF:4406	CFTR
+NT20G4	Reference T20G NCBITaxon:9606	Homo sapiens
+T21G	GGP 2373 2387	DeltaF508 CFTR
+NT21G0	Reference T21G ENSGF:142289	CFTR
+NT21G1	Reference T21G HG:55465	CFTR
+NT21G3	Reference T21G ENSF:4406	CFTR
+NT21G4	Reference T21G NCBITaxon:9606	Homo sapiens
+T22G	GGP 2562 2596	sialic acids by sialyltransferases
+NT22G4	Reference T22G NCBITaxon:9606	Homo sapiens
+T23G	GGP 2621 2625	CFTR
+NT23G0	Reference T23G ENSGF:142289	CFTR
+NT23G1	Reference T23G HG:55465	CFTR
+NT23G2	Reference T23G EG:1080	CFTR
+NT23G3	Reference T23G ENSF:4406	CFTR
+NT23G4	Reference T23G NCBITaxon:9606	Homo sapiens
+T24G	GGP 2884 2896	CFTR protein
+NT24G0	Reference T24G ENSGF:142289	CFTR
+NT24G1	Reference T24G HG:55465	CFTR
+NT24G3	Reference T24G ENSF:4406	CFTR
+NT24G4	Reference T24G NCBITaxon:10090	Mus musculus
+T25G	GGP 2898 2912	DeltaF508 CFTR
+NT25G0	Reference T25G ENSGF:142289	CFTR
+NT25G1	Reference T25G HG:55465	CFTR
+NT25G3	Reference T25G ENSF:4406	CFTR
+NT25G4	Reference T25G NCBITaxon:10090	Mus musculus
+T26G	GGP 3022 3045	CFTR DeltaF508 mutation
+NT26G0	Reference T26G ENSGF:142289	CFTR
+NT26G1	Reference T26G HG:55465	CFTR
+NT26G3	Reference T26G ENSF:4406	CFTR
+NT26G4	Reference T26G NCBITaxon:10090	Mus musculus
+T27G	GGP 3196 3203	lectins
+NT27G0	Reference T27G ENSGF:146401	lectin
+NT27G3	Reference T27G ENSF:9195	lectin
+NT27G4	Reference T27G NCBITaxon:9606	Homo sapiens
+T28G	GGP 3298 3302	CFTR
+NT28G0	Reference T28G ENSGF:142289	CFTR
+NT28G1	Reference T28G HG:55465	CFTR
+NT28G2	Reference T28G EG:1080	CFTR
+NT28G3	Reference T28G ENSF:4406	CFTR
+NT28G4	Reference T28G NCBITaxon:9606	Homo sapiens
+T29G	GGP 3429 3454	Maackia amaurensis lectin
+NT29G4	Reference T29G NCBITaxon:9606	Homo sapiens
+T30G	GGP 3456 3462	MAL II
+NT30G4	Reference T30G NCBITaxon:9606	Homo sapiens
+T31G	GGP 3465 3494	avidin D-alkaline phosphatase
+NT31G0	Reference T31G ENSGF:243182	alkaline phosphatase
+NT31G1	Reference T31G HG:129600	alkaline phosphatase
+NT31G2	Reference T31G EG:251	alkaline phosphatase
+NT31G3	Reference T31G ENSF:533	alkaline phosphatase
+NT31G4	Reference T31G NCBITaxon:9606	Homo sapiens
+T32G	GGP 3746 3755	leupeptin
+NT32G4	Reference T32G NCBITaxon:9606	Homo sapiens
+T33G	GGP 3757 3761	TBST
+NT33G4	Reference T33G NCBITaxon:9606	Homo sapiens
+T34G	GGP 3763 3800	goat anti-rabbit alkaline phosphatase
+NT34G0	Reference T34G ENSGF:243182	alkaline phosphatase
+NT34G1	Reference T34G HG:129600	alkaline phosphatase
+NT34G2	Reference T34G EG:251	alkaline phosphatase
+NT34G3	Reference T34G ENSF:533	alkaline phosphatase
+NT34G4	Reference T34G NCBITaxon:9606	Homo sapiens
+T35G	GGP 3872 3892	alkaline phosphatase
+NT35G0	Reference T35G ENSGF:243182	alkaline phosphatase
+NT35G1	Reference T35G HG:129600	alkaline phosphatase
+NT35G2	Reference T35G EG:251	alkaline phosphatase
+NT35G3	Reference T35G ENSF:533	alkaline phosphatase
+NT35G4	Reference T35G NCBITaxon:9606	Homo sapiens
+T36G	GGP 4126 4135	CFTR cDNA
+NT36G0	Reference T36G ENSGF:6285	CFTR
+NT36G1	Reference T36G HG:55465	CFTR
+NT36G3	Reference T36G ENSF:4406	CFTR
+NT36G4	Reference T36G NCBITaxon:9913	Bos taurus
+T37G	GGP 4137 4139	WT
+NT37G0	Reference T37G ENSGF:281846	WT
+NT37G1	Reference T37G HG:4514	WT
+NT37G3	Reference T37G ENSF:3022	WT
+NT37G4	Reference T37G NCBITaxon:9913	Bos taurus
+T38G	GGP 4144 4153	CFTR cDNA
+NT38G0	Reference T38G ENSGF:6285	CFTR
+NT38G1	Reference T38G HG:55465	CFTR
+NT38G3	Reference T38G ENSF:4406	CFTR
+NT38G4	Reference T38G NCBITaxon:9913	Bos taurus
+T39G	GGP 4163 4181	DeltaF508 mutation
+NT39G4	Reference T39G NCBITaxon:9913	Bos taurus
+T40G	GGP 4183 4192	DeltaF508
+NT40G4	Reference T40G NCBITaxon:9913	Bos taurus
+T41G	GGP 4371 4375	CFTR
+NT41G0	Reference T41G ENSGF:142289	CFTR
+NT41G1	Reference T41G HG:55465	CFTR
+NT41G2	Reference T41G EG:1080	CFTR
+NT41G3	Reference T41G ENSF:4406	CFTR
+NT41G4	Reference T41G NCBITaxon:9606	Homo sapiens
+T42G	GGP 4474 4487	lectin-biotin
+NT42G0	Reference T42G ENSGF:146401	lectin
+NT42G3	Reference T42G ENSF:9195	lectin
+NT42G4	Reference T42G NCBITaxon:9606	Homo sapiens
+T43G	GGP 4518 4525	lectins
+NT43G0	Reference T43G ENSGF:146401	lectin
+NT43G3	Reference T43G ENSF:9195	lectin
+NT43G4	Reference T43G NCBITaxon:9606	Homo sapiens
+T44G	GGP 4547 4560	Cholera Toxin
+NT44G4	Reference T44G NCBITaxon:9606	Homo sapiens
+T45G	GGP 4625 4632	lectins
+NT45G0	Reference T45G ENSGF:146401	lectin
+NT45G3	Reference T45G ENSF:9195	lectin
+NT45G4	Reference T45G NCBITaxon:9606	Homo sapiens
+T46G	GGP 4658 4665	lectins
+NT46G0	Reference T46G ENSGF:146401	lectin
+NT46G3	Reference T46G ENSF:9195	lectin
+NT46G4	Reference T46G NCBITaxon:9606	Homo sapiens
+T47G	GGP 4670 4683	cholera toxin
+NT47G4	Reference T47G NCBITaxon:9606	Homo sapiens
+T48G	GGP 4744 4773	avidin D-alkaline phosphatase
+NT48G0	Reference T48G ENSGF:243182	alkaline phosphatase
+NT48G1	Reference T48G HG:129600	alkaline phosphatase
+NT48G2	Reference T48G EG:251	alkaline phosphatase
+NT48G3	Reference T48G ENSF:533	alkaline phosphatase
+NT48G4	Reference T48G NCBITaxon:9606	Homo sapiens
+T49G	GGP 4834 4854	alkaline phosphatase
+NT49G0	Reference T49G ENSGF:243182	alkaline phosphatase
+NT49G1	Reference T49G HG:129600	alkaline phosphatase
+NT49G2	Reference T49G EG:251	alkaline phosphatase
+NT49G3	Reference T49G ENSF:533	alkaline phosphatase
+NT49G4	Reference T49G NCBITaxon:9606	Homo sapiens
+T50G	GGP 4949 4956	2M NaOH
+NT50G4	Reference T50G NCBITaxon:9606	Homo sapiens
+T51G	GGP 5209 5211	WT
+NT51G0	Reference T51G ENSGF:281846	WT
+NT51G1	Reference T51G HG:4514	WT
+NT51G3	Reference T51G ENSF:3022	WT
+NT51G4	Reference T51G NCBITaxon:9606	Homo sapiens
+T52G	GGP 5213 5222	DeltaF508
+NT52G4	Reference T52G NCBITaxon:9606	Homo sapiens
+T53G	GGP 5264 5277	cholera toxin
+NT53G4	Reference T53G NCBITaxon:9606	Homo sapiens
+T54G	GGP 5294 5297	GM1
+NT54G1	Reference T54G HG:27027	GM1
+NT54G3	Reference T54G ENSF:4517	GM1
+NT54G4	Reference T54G NCBITaxon:9606	Homo sapiens
+T55G	GGP 5359 5365	Lectin
+NT55G0	Reference T55G ENSGF:146401	lectin
+NT55G3	Reference T55G ENSF:9195	lectin
+NT55G4	Reference T55G NCBITaxon:9606	Homo sapiens
+T56G	GGP 5367 5373	MAL II
+NT56G4	Reference T56G NCBITaxon:9606	Homo sapiens
+T57G	GGP 5375 5381	MAL II
+NT57G4	Reference T57G NCBITaxon:9606	Homo sapiens
+T58G	GGP 5411 5424	Neu5Ac alpha2
+NT58G0	Reference T58G ENSGF:163568	alpha2
+NT58G4	Reference T58G NCBITaxon:9606	Homo sapiens
+T59G	GGP 5485 5491	MAL II
+NT59G4	Reference T59G NCBITaxon:9606	Homo sapiens
+T60G	GGP 5620 5626	lectin
+NT60G0	Reference T60G ENSGF:146401	lectin
+NT60G3	Reference T60G ENSF:9195	lectin
+NT60G4	Reference T60G NCBITaxon:9606	Homo sapiens
+T61G	GGP 5866 5870	CFTR
+NT61G0	Reference T61G ENSGF:142289	CFTR
+NT61G1	Reference T61G HG:55465	CFTR
+NT61G2	Reference T61G EG:1080	CFTR
+NT61G3	Reference T61G ENSF:4406	CFTR
+NT61G4	Reference T61G NCBITaxon:9606	Homo sapiens
+T62G	GGP 5884 5887	Fig
+NT62G0	Reference T62G ENSGF:50109	FIG
+NT62G1	Reference T62G HG:48491	FIG
+NT62G2	Reference T62G EG:11067	FIG
+NT62G3	Reference T62G ENSF:19205	FIG
+NT62G4	Reference T62G NCBITaxon:9606	Homo sapiens
+T63G	GGP 6157 6163	MAL II
+NT63G4	Reference T63G NCBITaxon:9606	Homo sapiens
+T64G	GGP 6250 6263	Cholera toxin
+NT64G4	Reference T64G NCBITaxon:9606	Homo sapiens
+T65G	GGP 6381 6406	cholera toxin beta-biotin
+NT65G4	Reference T65G NCBITaxon:9606	Homo sapiens
+T66G	GGP 6484 6492	Avidin D
+NT66G4	Reference T66G NCBITaxon:9606	Homo sapiens
+T67G	GGP 6518 6551	cholera toxin beta subunit-biotin
+NT67G0	Reference T67G ENSGF:56427	beta-subunit
+NT67G1	Reference T67G HG:2088	beta-subunit
+NT67G4	Reference T67G NCBITaxon:9606	Homo sapiens
+T68G	GGP 6619 6645	cholera toxin beta subunit
+NT68G0	Reference T68G ENSGF:56427	beta-subunit
+NT68G1	Reference T68G HG:2088	beta-subunit
+NT68G4	Reference T68G NCBITaxon:9606	Homo sapiens
+T69G	GGP 6769 6782	cholera toxin
+NT69G4	Reference T69G NCBITaxon:9606	Homo sapiens
+T70G	GGP 6892 6918	cholera toxin beta-subunit
+NT70G0	Reference T70G ENSGF:56427	beta-subunit
+NT70G1	Reference T70G HG:2088	beta-subunit
+NT70G4	Reference T70G NCBITaxon:9606	Homo sapiens
+T71G	GGP 7059 7073	DeltaF508 CFTR
+NT71G0	Reference T71G ENSGF:142289	CFTR
+NT71G1	Reference T71G HG:55465	CFTR
+NT71G3	Reference T71G ENSF:4406	CFTR
+NT71G4	Reference T71G NCBITaxon:9606	Homo sapiens
+T72G	GGP 7398 7404	Neu5Ac
+NT72G0	Reference T72G ENSGF:200098	Neu5Ac
+NT72G1	Reference T72G HG:10343	Neu5Ac
+NT72G3	Reference T72G ENSF:7175	Neu5Ac
+NT72G4	Reference T72G NCBITaxon:9606	Homo sapiens
+T73G	GGP 7406 7420	DeltaF508 CFTR
+NT73G0	Reference T73G ENSGF:142289	CFTR
+NT73G1	Reference T73G HG:55465	CFTR
+NT73G3	Reference T73G ENSF:4406	CFTR
+NT73G4	Reference T73G NCBITaxon:9606	Homo sapiens
+T74G	GGP 7519 7523	CFTR
+NT74G0	Reference T74G ENSGF:142289	CFTR
+NT74G1	Reference T74G HG:55465	CFTR
+NT74G2	Reference T74G EG:1080	CFTR
+NT74G3	Reference T74G ENSF:4406	CFTR
+NT74G4	Reference T74G NCBITaxon:9606	Homo sapiens
+T75G	GGP 7693 7707	DeltaF508 CFTR
+NT75G0	Reference T75G ENSGF:142289	CFTR
+NT75G1	Reference T75G HG:55465	CFTR
+NT75G3	Reference T75G ENSF:4406	CFTR
+NT75G4	Reference T75G NCBITaxon:9606	Homo sapiens
+T76G	GGP 7747 7751	CFTR
+NT76G0	Reference T76G ENSGF:142289	CFTR
+NT76G1	Reference T76G HG:55465	CFTR
+NT76G2	Reference T76G EG:1080	CFTR
+NT76G3	Reference T76G ENSF:4406	CFTR
+NT76G4	Reference T76G NCBITaxon:9606	Homo sapiens
+T77G	GGP 7864 7871	lectins
+NT77G0	Reference T77G ENSGF:146401	lectin
+NT77G3	Reference T77G ENSF:9195	lectin
+NT77G4	Reference T77G NCBITaxon:9606	Homo sapiens
+T78G	GGP 8007 8017	AF508 CFTR
+NT78G4	Reference T78G NCBITaxon:9606	Homo sapiens
+T79G	GGP 8034 8048	DeltaF508 CFTR
+NT79G0	Reference T79G ENSGF:142289	CFTR
+NT79G1	Reference T79G HG:55465	CFTR
+NT79G3	Reference T79G ENSF:4406	CFTR
+NT79G4	Reference T79G NCBITaxon:9606	Homo sapiens
+T80G	GGP 8076 8079	GM1
+NT80G1	Reference T80G HG:27027	GM1
+NT80G3	Reference T80G ENSF:4517	GM1
+NT80G4	Reference T80G NCBITaxon:9606	Homo sapiens
+T81G	GGP 8118 8131	cholera toxin
+NT81G4	Reference T81G NCBITaxon:9606	Homo sapiens
+T82G	GGP 8214 8228	DeltaF508 CFTR
+NT82G0	Reference T82G ENSGF:142289	CFTR
+NT82G1	Reference T82G HG:55465	CFTR
+NT82G3	Reference T82G ENSF:4406	CFTR
+NT82G4	Reference T82G NCBITaxon:9606	Homo sapiens
+T83G	GGP 8291 8297	lectin
+NT83G0	Reference T83G ENSGF:146401	lectin
+NT83G3	Reference T83G ENSF:9195	lectin
+NT83G4	Reference T83G NCBITaxon:9606	Homo sapiens
+T84G	GGP 8377 8381	CFTR
+NT84G0	Reference T84G ENSGF:142289	CFTR
+NT84G1	Reference T84G HG:55465	CFTR
+NT84G2	Reference T84G EG:1080	CFTR
+NT84G3	Reference T84G ENSF:4406	CFTR
+NT84G4	Reference T84G NCBITaxon:9606	Homo sapiens
+T85G	GGP 8521 8525	CFTR
+NT85G0	Reference T85G ENSGF:142289	CFTR
+NT85G1	Reference T85G HG:55465	CFTR
+NT85G2	Reference T85G EG:1080	CFTR
+NT85G3	Reference T85G ENSF:4406	CFTR
+NT85G4	Reference T85G NCBITaxon:9606	Homo sapiens
+T86G	GGP 8700 8714	DeltaF508 CFTR
+NT86G0	Reference T86G ENSGF:142289	CFTR
+NT86G1	Reference T86G HG:55465	CFTR
+NT86G3	Reference T86G ENSF:4406	CFTR
+NT86G4	Reference T86G NCBITaxon:9606	Homo sapiens
+T87G	GGP 8858 8872	DeltaF508 CFTR
+NT87G0	Reference T87G ENSGF:142289	CFTR
+NT87G1	Reference T87G HG:55465	CFTR
+NT87G3	Reference T87G ENSF:4406	CFTR
+NT87G4	Reference T87G NCBITaxon:9606	Homo sapiens
+T88G	GGP 8964 8995	pH-dependent sialyltransferases
+NT88G4	Reference T88G NCBITaxon:9606	Homo sapiens
+T89G	GGP 9191 9195	CFTR
+NT89G0	Reference T89G ENSGF:142289	CFTR
+NT89G1	Reference T89G HG:55465	CFTR
+NT89G2	Reference T89G EG:1080	CFTR
+NT89G3	Reference T89G ENSF:4406	CFTR
+NT89G4	Reference T89G NCBITaxon:9606	Homo sapiens
+T90G	GGP 9276 9280	CFTR
+NT90G0	Reference T90G ENSGF:142289	CFTR
+NT90G1	Reference T90G HG:55465	CFTR
+NT90G2	Reference T90G EG:1080	CFTR
+NT90G3	Reference T90G ENSF:4406	CFTR
+NT90G4	Reference T90G NCBITaxon:9606	Homo sapiens
+T91G	GGP 9550 9567	sialyltransferase
+NT91G0	Reference T91G ENSGF:56752	sialyltransferase
+NT91G1	Reference T91G HG:131172	sialyltransferase
+NT91G3	Reference T91G ENSF:3239	sialyltransferase
+NT91G4	Reference T91G NCBITaxon:9606	Homo sapiens
+T92G	GGP 9685 9712	defective sialyltransferase
+NT92G0	Reference T92G ENSGF:56752	sialyltransferase
+NT92G1	Reference T92G HG:131172	sialyltransferase
+NT92G3	Reference T92G ENSF:3239	sialyltransferase
+NT92G4	Reference T92G NCBITaxon:9606	Homo sapiens
+T93G	GGP 9861 9875	DeltaF508 CFTR
+NT93G0	Reference T93G ENSGF:142289	CFTR
+NT93G1	Reference T93G HG:55465	CFTR
+NT93G3	Reference T93G ENSF:4406	CFTR
+NT93G4	Reference T93G NCBITaxon:9606	Homo sapiens
+T94G	GGP 9921 9935	DeltaF508 CFTR
+NT94G0	Reference T94G ENSGF:142289	CFTR
+NT94G1	Reference T94G HG:55465	CFTR
+NT94G3	Reference T94G ENSF:4406	CFTR
+NT94G4	Reference T94G NCBITaxon:287	Pseudomonas aeruginosa
+T95G	GGP 9986 10020	Galbeta1-3GalNAcbeta1-4 Galbeta1-4
+NT95G4	Reference T95G NCBITaxon:287	Pseudomonas aeruginosa
+T96G	GGP 10184 10187	GM1
+NT96G1	Reference T96G HG:27027	GM1
+NT96G3	Reference T96G ENSF:4517	GM1
+NT96G4	Reference T96G NCBITaxon:9606	Homo sapiens
+T97G	GGP 10407 10421	DeltaF508 CFTR
+NT97G0	Reference T97G ENSGF:142289	CFTR
+NT97G1	Reference T97G HG:55465	CFTR
+NT97G3	Reference T97G ENSF:4406	CFTR
+NT97G4	Reference T97G NCBITaxon:9606	Homo sapiens
+T123G	Binding 6604 6611	binding
+T139G	Gene_expression 10399 10406	express
+T129G	Binding 8107 8114	binding
+T104G	Positive_regulation 1605 1616	transfected
+T112G	Positive_regulation 4068 4079	transfected
+T110G	Binding 3415 3425	conjugates
+T135G	Gene_expression 9196 9206	expression
+T127G	Positive_regulation 7752 7759	results
+T106G	Gene_expression 3004 3014	expression
+T125G	Gene_expression 7679 7689	expression
+T100G	Gene_expression 132 142	expression
+T116G	Binding 5382 5387	binds
+T114G	Positive_regulation 4716 4725	incubated
+T137G	Gene_expression 9850 9860	expressing
+T131G	Gene_expression 8203 8213	expressing
+T98G	Gene_expression 0 10	Expression
+T102G	Binding 1375 1379	bind
+T121G	Binding 6370 6377	binding
+T118G	Binding 5608 5612	bind
+T133G	Positive_regulation 8677 8692	over-expression
+T108G	Positive_regulation 2860 2871	transfected
+T138G	Negative_regulation 10148 10156	decrease
+T113G	Binding 4647 4654	binding
+T105G	Gene_expression 1874 1884	expressing
+T107G	Gene_expression 2860 2871	transfected
+T128G	Binding 7853 7860	binding
+T126G	Gene_expression 7739 7746	express
+T134G	Negative_regulation 8943 8951	decrease
+T111G	Gene_expression 4068 4079	transfected
+T136G	Regulation 9180 9187	altered
+T117G	Binding 5492 5497	binds
+T101G	Binding 429 433	bind
+T103G	Gene_expression 1605 1616	transfected
+T99G	Negative_regulation 71 80	Decreases
+T124G	Binding 6758 6765	binding
+T122G	Binding 6512 6517	bound
+T130G	Negative_regulation 8097 8106	decreased
+T115G	Binding 5285 5290	binds
+T132G	Gene_expression 8677 8692	over-expression
+T120G	Binding 6264 6269	binds
+T119G	Binding 6143 6153	recognized
+T109G	Binding 3173 3183	recognized
+E10G	Positive_regulation:T104G Theme:E9G
+AE10Gconf	Confidence E10G medium
+#E10Gconf	Confidence E10G	3.2281
+E11G	Gene_expression:T105G Theme:T19G
+AE11Gconf	Confidence E11G high
+#E11Gconf	Confidence E11G	4.8484
+E12G	Gene_expression:T106G Theme:T26G
+AE12Gconf	Confidence E12G high
+#E12Gconf	Confidence E12G	4.9327
+E13G	Gene_expression:T107G Theme:T24G
+AE13Gconf	Confidence E13G medium
+#E13Gconf	Confidence E13G	2.6485
+E14G	Gene_expression:T107G Theme:T25G
+AE14Gconf	Confidence E14G medium
+#E14Gconf	Confidence E14G	2.5488
+E15G	Positive_regulation:T108G Theme:E13G
+AE15Gconf	Confidence E15G medium
+#E15Gconf	Confidence E15G	3.2386
+E16G	Positive_regulation:T108G Theme:E14G
+AE16Gconf	Confidence E16G medium
+#E16Gconf	Confidence E16G	3.1123
+E17G	Binding:T109G Theme:T27G
+AE17Gconf	Confidence E17G medium
+#E17Gconf	Confidence E17G	2.8902
+E18G	Binding:T110G Theme:T32G Theme:T29G
+AE18Gconf	Confidence E18G medium
+#E18Gconf	Confidence E18G	2.2151
+E19G	Binding:T110G Theme:T29G Theme:T33G
+AE19Gconf	Confidence E19G medium
+#E19Gconf	Confidence E19G	2.2151
+E1G	Gene_expression:T98G Theme:T1G
+AE1Gconf	Confidence E1G high
+#E1Gconf	Confidence E1G	4.8805
+E20G	Binding:T110G Theme:T34G Theme:T29G
+AE20Gconf	Confidence E20G medium
+#E20Gconf	Confidence E20G	2.2151
+E21G	Binding:T110G Theme:T30G Theme:T32G
+AE21Gconf	Confidence E21G medium
+#E21Gconf	Confidence E21G	2.2151
+E22G	Binding:T110G Theme:T30G Theme:T33G
+AE22Gconf	Confidence E22G medium
+#E22Gconf	Confidence E22G	2.2151
+E23G	Binding:T110G Theme:T34G Theme:T30G
+AE23Gconf	Confidence E23G medium
+#E23Gconf	Confidence E23G	2.2151
+E24G	Binding:T110G Theme:T31G Theme:T32G
+AE24Gconf	Confidence E24G medium
+#E24Gconf	Confidence E24G	2.2151
+E25G	Binding:T110G Theme:T31G Theme:T33G
+AE25Gconf	Confidence E25G medium
+#E25Gconf	Confidence E25G	2.2151
+E26G	Binding:T110G Theme:T34G Theme:T31G
+AE26Gconf	Confidence E26G medium
+#E26Gconf	Confidence E26G	2.2151
+E27G	Binding:T110G Theme:T32G Theme:T29G Theme:T30G
+AE27Gconf	Confidence E27G medium
+#E27Gconf	Confidence E27G	2.3447
+E28G	Binding:T110G Theme:T33G Theme:T29G Theme:T30G
+AE28Gconf	Confidence E28G medium
+#E28Gconf	Confidence E28G	2.3447
+E29G	Binding:T110G Theme:T34G Theme:T29G Theme:T30G
+AE29Gconf	Confidence E29G medium
+#E29Gconf	Confidence E29G	2.3447
+E2G	Gene_expression:T98G Theme:T2G
+AE2Gconf	Confidence E2G high
+#E2Gconf	Confidence E2G	4.1195
+E30G	Binding:T110G Theme:T31G Theme:T32G Theme:T29G
+AE30Gconf	Confidence E30G medium
+#E30Gconf	Confidence E30G	2.3447
+E31G	Binding:T110G Theme:T31G Theme:T33G Theme:T29G
+AE31Gconf	Confidence E31G medium
+#E31Gconf	Confidence E31G	2.3447
+E32G	Binding:T110G Theme:T31G Theme:T34G Theme:T29G
+AE32Gconf	Confidence E32G medium
+#E32Gconf	Confidence E32G	2.3447
+E33G	Binding:T110G Theme:T29G Theme:T32G Theme:T33G
+AE33Gconf	Confidence E33G medium
+#E33Gconf	Confidence E33G	2.3447
+E34G	Binding:T110G Theme:T29G Theme:T32G Theme:T34G
+AE34Gconf	Confidence E34G medium
+#E34Gconf	Confidence E34G	2.3447
+E35G	Binding:T110G Theme:T29G Theme:T33G Theme:T34G
+AE35Gconf	Confidence E35G medium
+#E35Gconf	Confidence E35G	2.3447
+E36G	Binding:T110G Theme:T30G Theme:T31G Theme:T33G
+AE36Gconf	Confidence E36G medium
+#E36Gconf	Confidence E36G	2.3447
+E37G	Binding:T110G Theme:T30G Theme:T31G Theme:T34G
+AE37Gconf	Confidence E37G medium
+#E37Gconf	Confidence E37G	2.3447
+E38G	Binding:T110G Theme:T30G Theme:T32G Theme:T34G
+AE38Gconf	Confidence E38G medium
+#E38Gconf	Confidence E38G	2.3447
+E39G	Binding:T110G Theme:T30G Theme:T33G Theme:T34G
+AE39Gconf	Confidence E39G medium
+#E39Gconf	Confidence E39G	2.3447
+E3G	Negative_regulation:T99G Theme:E1G
+AE3Gconf	Confidence E3G medium
+#E3Gconf	Confidence E3G	3.1084
+E40G	Binding:T110G Theme:T31G Theme:T32G Theme:T34G
+AE40Gconf	Confidence E40G medium
+#E40Gconf	Confidence E40G	2.3447
+E41G	Binding:T110G Theme:T31G Theme:T33G Theme:T34G
+AE41Gconf	Confidence E41G medium
+#E41Gconf	Confidence E41G	2.3447
+E42G	Binding:T110G Theme:T29G Theme:T34G Theme:T30G Theme:T32G
+AE42Gconf	Confidence E42G medium
+#E42Gconf	Confidence E42G	2.4701
+E43G	Binding:T110G Theme:T30G Theme:T33G Theme:T29G Theme:T34G
+AE43Gconf	Confidence E43G medium
+#E43Gconf	Confidence E43G	2.4701
+E44G	Binding:T110G Theme:T29G Theme:T33G Theme:T31G Theme:T32G
+AE44Gconf	Confidence E44G medium
+#E44Gconf	Confidence E44G	2.4701
+E45G	Binding:T110G Theme:T32G Theme:T29G Theme:T34G Theme:T31G
+AE45Gconf	Confidence E45G medium
+#E45Gconf	Confidence E45G	2.4701
+E46G	Binding:T110G Theme:T31G Theme:T33G Theme:T29G Theme:T34G
+AE46Gconf	Confidence E46G medium
+#E46Gconf	Confidence E46G	2.4701
+E47G	Binding:T110G Theme:T29G Theme:T34G Theme:T32G Theme:T33G
+AE47Gconf	Confidence E47G medium
+#E47Gconf	Confidence E47G	2.4701
+E48G	Gene_expression:T111G Theme:T38G
+AE48Gconf	Confidence E48G low
+#E48Gconf	Confidence E48G	1.5248
+E49G	Positive_regulation:T112G Theme:E48G
+AE49Gconf	Confidence E49G low
+#E49Gconf	Confidence E49G	1.8164
+E4G	Negative_regulation:T99G Theme:E2G
+AE4Gconf	Confidence E4G medium
+#E4Gconf	Confidence E4G	3.1084
+E50G	Binding:T113G Theme:T46G
+AE50Gconf	Confidence E50G medium
+#E50Gconf	Confidence E50G	3.9906
+E51G	Binding:T113G Theme:T47G
+AE51Gconf	Confidence E51G medium
+#E51Gconf	Confidence E51G	3.9906
+E52G	Positive_regulation:T114G Theme:T48G
+AE52Gconf	Confidence E52G low
+#E52Gconf	Confidence E52G	1.8819
+E53G	Binding:T115G Theme:T54G Theme:T53G
+AE53Gconf	Confidence E53G very-high
+#E53Gconf	Confidence E53G	5.6721
+E54G	Binding:T116G Theme:T57G
+AE54Gconf	Confidence E54G high
+#E54Gconf	Confidence E54G	4.5308
+E55G	Binding:T117G Theme:T59G
+AE55Gconf	Confidence E55G high
+#E55Gconf	Confidence E55G	4.6276
+E56G	Binding:T118G Theme:T60G
+AE56Gconf	Confidence E56G medium
+#E56Gconf	Confidence E56G	3.9568
+E57G	Binding:T119G Theme:T63G
+AE57Gconf	Confidence E57G medium
+#E57Gconf	Confidence E57G	3.5316
+E58G	Binding:T120G Theme:T64G
+AE58Gconf	Confidence E58G very-high
+#E58Gconf	Confidence E58G	5.0207
+E59G	Binding:T121G Theme:T65G
+AE59Gconf	Confidence E59G medium
+#E59Gconf	Confidence E59G	3.4920
+E5G	Gene_expression:T100G Theme:T3G
+AE5Gconf	Confidence E5G high
+#E5Gconf	Confidence E5G	4.3403
+E60G	Binding:T122G Theme:T67G
+AE60Gconf	Confidence E60G medium
+#E60Gconf	Confidence E60G	3.9191
+E61G	Binding:T123G Theme:T68G
+AE61Gconf	Confidence E61G high
+#E61Gconf	Confidence E61G	4.6586
+E62G	Binding:T124G Theme:T69G
+AE62Gconf	Confidence E62G high
+#E62Gconf	Confidence E62G	4.1504
+E63G	Gene_expression:T125G Theme:T75G
+AE63Gconf	Confidence E63G high
+#E63Gconf	Confidence E63G	4.4153
+E64G	Gene_expression:T126G Theme:T76G
+AE64Gconf	Confidence E64G high
+#E64Gconf	Confidence E64G	4.3711
+E65G	Positive_regulation:T127G Theme:E63G
+AE65Gconf	Confidence E65G medium
+#E65Gconf	Confidence E65G	3.5853
+E66G	Binding:T128G Theme:T77G
+AE66Gconf	Confidence E66G high
+#E66Gconf	Confidence E66G	4.8397
+E67G	Binding:T129G Theme:T81G
+AE67Gconf	Confidence E67G very-high
+#E67Gconf	Confidence E67G	5.0977
+E68G	Negative_regulation:T130G Theme:E67G
+AE68Gconf	Confidence E68G high
+#E68Gconf	Confidence E68G	4.4117
+E69G	Gene_expression:T131G Theme:T82G
+AE69Gconf	Confidence E69G high
+#E69Gconf	Confidence E69G	4.5100
+E6G	Binding:T101G Theme:T6G Theme:T5G
+AE6Gconf	Confidence E6G very-high
+#E6Gconf	Confidence E6G	5.0521
+E70G	Gene_expression:T132G Theme:T86G
+AE70Gconf	Confidence E70G medium
+#E70Gconf	Confidence E70G	2.7898
+E71G	Positive_regulation:T133G Theme:E70G
+AE71Gconf	Confidence E71G medium
+#E71Gconf	Confidence E71G	3.4174
+E72G	Negative_regulation:T134G Theme:T88G
+AE72Gconf	Confidence E72G medium
+#E72Gconf	Confidence E72G	3.6258
+E73G	Gene_expression:T135G Theme:T89G
+AE73Gconf	Confidence E73G high
+#E73Gconf	Confidence E73G	4.6466
+E74G	Regulation:T136G Theme:E73G
+AE74Gconf	Confidence E74G very-low
+#E74Gconf	Confidence E74G	0.6123
+E75G	Gene_expression:T137G Theme:T93G
+AE75Gconf	Confidence E75G high
+#E75Gconf	Confidence E75G	4.8450
+E76G	Negative_regulation:T138G Theme:T96G
+AE76Gconf	Confidence E76G medium
+#E76Gconf	Confidence E76G	2.0034
+E77G	Gene_expression:T139G Theme:T97G
+AE77Gconf	Confidence E77G high
+#E77Gconf	Confidence E77G	4.4108
+E7G	Binding:T102G Theme:T13G Theme:T14G
+AE7Gconf	Confidence E7G high
+#E7Gconf	Confidence E7G	4.3500
+E8G	Binding:T102G Theme:T13G Theme:T15G
+AE8Gconf	Confidence E8G high
+#E8Gconf	Confidence E8G	4.3500
+E9G	Gene_expression:T103G Theme:T16G
+AE9Gconf	Confidence E9G medium
+#E9Gconf	Confidence E9G	2.6403

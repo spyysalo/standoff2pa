@@ -1,0 +1,50 @@
+We investigated the usefulness of PF4/heparin antibody tests in these patients.
+PF4/heparin antibodies were measured using 2 immunoassays.
+We assessed the probability of HIT by using Warkentin's 4T's scoring system for antibody positive patients and compared routinely performed coagulation test results between patients with and without antibodies to evaluate the ability of these tests to discriminate between HIT and DIC.
+The analysis performed using the 4T's scoring system revealed that 11 of 20 (15.7%) patients with antibodies in at least 1 assay had intermediate or greater probability of HIT.
+However, there were no intergroup differences in platelet counts, PT, aPTT, fibrinogen, DIC score, and rate of overt DIC.
+Seropositivity for PF4/heparin antibody was 8.7-11.0% in the patients with thrombocytopenia, and more than a half of them had an increased probability of HIT.
+PF4/heparin antibody test is useful to ensure appropriate treatment for thrombocytopenic heparinized ICU patients.
+HIT involves the immune-mediated formation of IgG antibodies against heparin/platelet factor 4 (PF4) complexes bound to platelets.
+These antibodies can bind to the platelet FcgammaIIa receptor, activate platelets, and induce thrombin formation and endothelial damage.
+However, immunological detection of anti-PF4/heparin complex antibodies in the patient's serum or confirmation of platelet activation in normal serum after the patient's serum is added is also important to confirm the diagnosis of HIT [10].
+The gold standard for the diagnosis of HIT is the serotonin release assay (SRA), a radioimmunoassay that evaluates the amount of serotonin released when platelets are activated.
+Therefore, many clinical laboratories use simple immunological detection of antibodies against the PF4/heparin complex for the diagnosis of HIT [9-12].
+To date, no comprehensive study, only several case reports, estimating the seropositivity of PF4/Heparin antibody using immunoassay has been published in Korea, in particular regarding ICU patients in Korea who are receiving heparin prophylaxis.
+Therefore, we have analyzed PF4/Heparin antibody seropositivity in thrombocytopenic ICU patients during heparin prophylaxis.
+To our knowledge, this is the first study in Korea to assess ICU patients for PF4/heparin antibody seropositivity and to estimate the probability of HIT in patients with antibody in order to evaluate the usefulness of the anti-PF4/Heparin antibody test.
+1. Patient selection and determination of seropositivity of PF4/heparin antibody
+Two kinds of immunoassay for the detection of anti-PF4/heparin antibody (IgG, IgA, and IgM), Asserachrom HPIA (Diagnostica Stago, Asnieres, France) and HemosIL HIT-Ab (Instrumentation Laboratory, Milan, Italy) assay, were performed simultaneously for each sample.
+Based on the manufacturers' recommendations, cutoff values for the determination of a positive result were defined as an optical density of 0.304 for the Asserachrom HPIA assay and a level of 1 U/mL for the HemosIL HIT-Ab assay.
+The seropositivity of anti-PF4/Heparin antibody was determined according to these results, and the clinical likelihood of HIT was evaluated using Warkentin 4T's scoring system for patients with antibody in at least 1 of the 2 assays.
+Five commonly used coagulation tests - platelet count, prothrombin time (PT), activated partial thromboplastin time (aPTT), D-dimer, and fibrinogen level - were performed in all the enrolled patients.
+For PT and aPTT, Thromborel S (Siemens Healthcare Diagnostics, GmbH, Marburg, Germany) and Dade Actin FSL Activated PTT Reagent (Siemens Healthcare Diagnostics) were used as reagents, respectively.
+For fibrinogen and D-dimer, Dade Thrombin Reagent (Siemens Healthcare Diagnostics) and INNOVANCE D-dimer (Siemens Healthcare Diagnostics) were used as reagents.
+Based on all data, results of investigated parameters (platelet counts, PT, aPTT, D-dimer, fibrinogen, DIC score, and the percentage of overt DIC) were compared between patients with antibody in at least 1 of the 2 assays and those without antibody to evaluate the usefulness of these tests as criteria to discriminate between DIC and HIT.
+The Mann-Whitney U test was performed for the comparison of platelet counts, PT, aPTT, D-dimer, fibrinogen, and DIC score between patients with PF4/heparin antibody and those without antibody.
+1. Seropositivity of PF4/heparin antibody
+Among a total of 127 patients, 14 (11.0%) and 11 (8.7%) showed positivity in Asserachrom HPIA and HemosIL HITAb assays, respectively.
+Patients without PF4/heparin antibody showed significantly higher median D-dimer levels than those with antibody in at least 1 of the 2 assays (4.17x103 vs. 2.45x103 microg/L, P=0.016).
+HIT can result in severe complications, including thrombosis, if it occurs in ICU patients in whom heparin is used as prophylaxis to reduce the risk of venous thromboembolism.
+Therefore, early recognition of HIT is deemed essential.
+However, for the confirmation of HIT, the presence of PF4/heparin antibody should be demonstrated using immunological or functional assay, especially in patients with high scores using Warkentin's scoring system [1, 7-10].
+Although they are regarded as more precise tests than the immunologic assay, functional assays such as SRA or HIPA are difficult to perform and require experienced laboratory technicians.
+Therefore, evaluation of serum PF4/heparin antibody levels using immunoassay is proposed as a practical and useful adjunct in clinical settings, because immunoassay permits high throughput within a limited time.
+Previous studies have reported that PF4/heparin antibody testing is a reliable strategy to rule out the diagnosis of HIT when combined with the Warkentin 4T's scoring system results.
+However, the risk of false positivity in PF4/heparin antibody testing limits its efficacy.
+Therefore, a functional assay such as SRA or HIPA is thought to be necessary to confirm HIT in antibody positive patients [1, 14, 15].
+In our study, because the Warkentin 4T's scoring system was only applied to patients in the study population who were antibody positive, the confirmation of the usefulness of the PF4/heparin antibody test may be limited.
+However, our results have demonstrated that more than a half of the patients with antibody in at least 1 of 2 assays had a clinically "same or more than IR" of HIT.
+This implies that in some cases, PF4/heparin antibody tests may be useful not only for the exclusion, but also for the diagnosis of HIT.
+The seropositivity of PF4/heparin antibody can vary according to the clinical settings.
+However, this study diagnosed HIT based on clinical information, not on the immunological detection of PF4/heparin antibody.
+As previously mentioned, to date, no studies, other than case reports, regarding seropositivity of PF4/heparin antibody using immunoassay have been published.
+Our study analyzed seropositivity of PF4/heparin antibody in 127 ICU patients who were receiving heparin by 2 kinds of immunoassays.
+Our results demonstrated a seropositivity rate for PF4/heparin antibody of 8.7-11.0%, which is similar to the finding of 13.6% in the previous study performed in same clinical setting mentioned above [14].
+Our study is the first study, which evaluated the seropositivity of PF4/heparin antibody in ICU patients in Korea.
+Currently, many clinicians evaluate patients for DIC using coagulation tests such as PT/aPTT, fibrinogen, and D-dimer and subsequently calculating the DIC score suggested by ISTH 2001 criteria [13].
+Therefore, it is proposed that the PF4/heparin antibody test should be performed for the diagnosis of HIT in thrombocytopenic ICU patients receiving heparin.
+This may have influenced our evaluation on the usefulness of the PF4/heparin antibody test.
+Second, we did not compare PF4/heparin antibody test results with results from standard methods such as SRA or HIPA due to technical reasons.
+In conclusion, the seropositivity for anti-PF4/heparin antibody was 8.7-11.0% in heparin-treated ICU patients with thrombocytopenia, and more than a half of them had increased probability of HIT by 4Ts score.
+Anti-PF4/heparin antibody test should be performed in thrombocytopenic ICU patients receiving heparin in order to provide the appropriate treatment.

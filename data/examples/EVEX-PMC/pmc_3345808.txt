@@ -1,0 +1,36 @@
+The main reason for that is the relatively high absorption of hemoglobin in the visible and near-IR spectral regions.
+One advantage is that with no thermal contact and since the light is absorbed primarily by hemoglobin, the technique selectively probes the blood and not the surrounding tissues.
+PAD was demonstrated in-vivo in optical resolution mode, when the beam was focused to a size close to a single red blood cell, limiting the penetration depth to less than 1 mm [14,15].
+where tau is the deviation from the baseline temperature, alpha is the thermal diffusivity, rho is the density, Cp is the heat capacity at constant pressure, u--> is the velocity of the blood in the tissue and HPT is the PT heat energy deposited in the medium per unit time per unit volume.
+Generally HPT(r,t) can be written as a product of a space-dependent function and a time-dependent function as HPT(r,t)=HrPT(r)HtPT(t).
+To gain further physical insight regarding the temporal behavior of tau in response to impulse excitation we consider a simplified model, in which the VUT is considered a "lump" and its thermal state is described by a single parameter [21].
+where p(r,t)is the pressure field, c is the velocity of sound, Gamma=betac2/Cp is the Gruneisen coefficient, beta is the volumetric thermal expansion coefficient, Cp is the specific heat and HPA(r,t) is the PA heat energy deposited in the medium per unit time per unit volume.
+To use PA for temperature monitoring we take advantage of the temperature dependence of Gamma which, for limited temperature deviations, can be approximated by [8,9]
+where T is the temperature, T0 is the baseline temperature, tau is the deviation from T0, Gamma0 is the Gruneisen coefficient at T0 and b is the slope of the dependence curve.
+In the presence of PT excitation Gamma becomes a function of both space and time due to the spatial and temporal dependence of tau(r,t).
+Note that the Poisson solution at a given position,p^(r0,t-t',t'), is no longer a function of t-t' alone but rather it depends on the time of excitation t' and HrPA(r) is weighted according to the spatial dependence of Gamma.
+2.4. Temperature monitoring using sinusoidal PA excitation
+(9) and the expression for Gamma from Eq.
+The amplitudes of the two PT sidebands were averaged for each value of fPT to generate the modulation frequency response (MFR).
+The presence of PT excitation led to modulation of the generated PA signal.
+An example of the PA response spectrum in the presence of PT excitation at frequency of 2 Hz is plotted in Fig.
+. The modulation sidebands due to the PT excitation at fPA+/-fPT are evident.
+The dependence of the central PA peak on tauDC normalized by its value without thermal excitation, is plotted in Fig.
+It can then be shown that the graph in Fig.
+4(a) should follow 1+(b/Gamma0) tauDC.
+The linear fit in Fig.
+The dependence of the modulation peak on tauAC together with a linear fit is plotted in Fig.
+The deviation is attributed to the very long response time of the thermocouple, which leads to underestimation of tauAC even in the relatively low modulation frequency of 0.1 Hz.
+The thermal properties of the VUT, as well as the excitation frequency, affect the ratio between tauAC and tauDC, and as will be seen in the next paragraphs, this ratio should increase with the increase of flow.
+Normalized modulation frequency responses for stationary blood (q0=0 ml/min) and 5 flow rates of q1-5in[0.05, 0.1, 0.2, 0.5, 1] are shown in Fig.
+The suitability of the lumped model for the experimental phantom can be evaluated from the Lorentzian fits in Fig.
+Clearly, to describe the MFR for non-uniform flow the lumped model should be modified.
+As can be seen in Fig.
+The value of lVUT which minimized the error between uestimated and u (for all measured velocities) was found to be 0.62 mm,, which is in general agreement with the Full Width Half Max (FWHM) of the optical beam.
+Also plotted in Fig.
+As can be seen in Fig.
+Another graph in Fig.
+In Fig.
+It corresponded to tauDC of 0.9degreesC (out of which about 0.5degreesC was contributed by the PT excitation) and to tauAC of about 0.1Cdegrees.
+Here as well, the similarity to TDF can be used for assessment of the possibility for safe implementation.
+Spectrally, the PA signal will show discrete harmonics separated by the PRF while the PT modulation sidebands will be in the near vicinity of each PA harmonic.

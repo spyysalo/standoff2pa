@@ -1,0 +1,241 @@
+T65E	Entity 10 14	Loss
+T1G	GGP 28 41	Methemoglobin
+NT1G4	Reference T1G NCBITaxon:9606	Homo sapiens
+T67E	Entity 110 116	Toxics
+T2G	GGP 184 197	methemoglobin
+NT2G4	Reference T2G NCBITaxon:9606	Homo sapiens
+T3G	GGP 390 403	methemoglobin
+NT3G4	Reference T3G NCBITaxon:9606	Homo sapiens
+T4G	GGP 405 418	Methemoglobin
+NT4G4	Reference T4G NCBITaxon:9606	Homo sapiens
+T5G	GGP 705 718	methemoglobin
+NT5G4	Reference T5G NCBITaxon:9606	Homo sapiens
+T6G	GGP 876 889	methemoglobin
+NT6G4	Reference T6G NCBITaxon:9606	Homo sapiens
+T7G	GGP 1009 1019	hemoglobin
+NT7G0	Reference T7G ENSGF:59282	hemoglobin
+NT7G1	Reference T7G HG:68066	hemoglobin
+NT7G2	Reference T7G EG:3043	hemoglobin
+NT7G3	Reference T7G ENSF:362	hemoglobin
+NT7G4	Reference T7G NCBITaxon:9606	Homo sapiens
+T8G	GGP 1078 1088	hemoglobin
+NT8G0	Reference T8G ENSGF:59282	hemoglobin
+NT8G1	Reference T8G HG:68066	hemoglobin
+NT8G2	Reference T8G EG:3043	hemoglobin
+NT8G3	Reference T8G ENSF:362	hemoglobin
+NT8G4	Reference T8G NCBITaxon:9606	Homo sapiens
+T9G	GGP 1095 1108	oxyhemoglobin
+NT9G4	Reference T9G NCBITaxon:9606	Homo sapiens
+T10G	GGP 1133 1143	hemoglobin
+NT10G0	Reference T10G ENSGF:59282	hemoglobin
+NT10G1	Reference T10G HG:68066	hemoglobin
+NT10G2	Reference T10G EG:3043	hemoglobin
+NT10G3	Reference T10G ENSF:362	hemoglobin
+NT10G4	Reference T10G NCBITaxon:9606	Homo sapiens
+T11G	GGP 1172 1182	hemoglobin
+NT11G0	Reference T11G ENSGF:59282	hemoglobin
+NT11G1	Reference T11G HG:68066	hemoglobin
+NT11G2	Reference T11G EG:3043	hemoglobin
+NT11G3	Reference T11G ENSF:362	hemoglobin
+NT11G4	Reference T11G NCBITaxon:9606	Homo sapiens
+T12G	GGP 1223 1236	methemoglobin
+NT12G4	Reference T12G NCBITaxon:9606	Homo sapiens
+T13G	GGP 1251 1264	methemoglobin
+NT13G4	Reference T13G NCBITaxon:9606	Homo sapiens
+T14G	GGP 1418 1431	oxyhemoglobin
+NT14G4	Reference T14G NCBITaxon:9606	Homo sapiens
+T15G	GGP 1433 1437	FeII
+NT15G4	Reference T15G NCBITaxon:9606	Homo sapiens
+T16G	GGP 1447 1460	methemoglobin
+NT16G4	Reference T16G NCBITaxon:9606	Homo sapiens
+T17G	GGP 1462 1467	FeIII
+NT17G4	Reference T17G NCBITaxon:9606	Homo sapiens
+T18G	GGP 1728 1741	methemoglobin
+NT18G4	Reference T18G NCBITaxon:9606	Homo sapiens
+T19G	GGP 1783 1796	methemoglobin
+NT19G4	Reference T19G NCBITaxon:9606	Homo sapiens
+T20G	GGP 1896 1909	methemoglobin
+NT20G4	Reference T20G NCBITaxon:9606	Homo sapiens
+T21G	GGP 1968 1981	methemoglobin
+NT21G4	Reference T21G NCBITaxon:9606	Homo sapiens
+T22G	GGP 2176 2189	methemoglobin
+NT22G4	Reference T22G NCBITaxon:9606	Homo sapiens
+T23G	GGP 2441 2454	methemoglobin
+NT23G4	Reference T23G NCBITaxon:9606	Homo sapiens
+T24G	GGP 2573 2591	ferrimethemoglobin
+NT24G4	Reference T24G NCBITaxon:9606	Homo sapiens
+T25G	GGP 2593 2598	FeIII
+NT25G4	Reference T25G NCBITaxon:9606	Homo sapiens
+T26G	GGP 2609 2627	ferromethemoglobin
+NT26G4	Reference T26G NCBITaxon:9606	Homo sapiens
+T27G	GGP 2629 2633	FeII
+NT27G4	Reference T27G NCBITaxon:9606	Homo sapiens
+T28G	GGP 2736 2750	heme oxygenase
+NT28G0	Reference T28G ENSGF:137828	PCT
+NT28G4	Reference T28G NCBITaxon:9606	Homo sapiens
+T29G	GGP 2774 2782	Ferritin
+NT29G0	Reference T29G ENSGF:56950	Ferritin
+NT29G1	Reference T29G HG:110661	Ferritin
+NT29G3	Reference T29G ENSF:434	Ferritin
+NT29G4	Reference T29G NCBITaxon:9606	Homo sapiens
+T30G	GGP 2889 2902	methemoglobin
+NT30G4	Reference T30G NCBITaxon:9606	Homo sapiens
+T31G	GGP 3063 3076	methemoglobin
+NT31G4	Reference T31G NCBITaxon:9606	Homo sapiens
+T32G	GGP 3178 3191	methemoglobin
+NT32G4	Reference T32G NCBITaxon:9606	Homo sapiens
+T33G	GGP 3338 3351	methemoglobin
+NT33G4	Reference T33G NCBITaxon:9606	Homo sapiens
+T34G	GGP 3603 3616	methemoglobin
+NT34G4	Reference T34G NCBITaxon:9606	Homo sapiens
+T35G	GGP 3735 3740	Labin
+NT35G4	Reference T35G NCBITaxon:9606	Homo sapiens
+T36G	GGP 3827 3840	methemoglobin
+NT36G4	Reference T36G NCBITaxon:9606	Homo sapiens
+T37G	GGP 3849 3863	sulfhemoglobin
+NT37G4	Reference T37G NCBITaxon:9606	Homo sapiens
+T38G	GGP 4265 4278	methemoglobin
+NT38G4	Reference T38G NCBITaxon:9606	Homo sapiens
+T39G	GGP 4356 4370	sulfhemoglobin
+NT39G4	Reference T39G NCBITaxon:9606	Homo sapiens
+T40G	GGP 4738 4751	methemoglobin
+NT40G4	Reference T40G NCBITaxon:9606	Homo sapiens
+T41G	GGP 4963 4975	Rad57 sensor
+NT41G0	Reference T41G ENSGF:295289	RAD57
+NT41G1	Reference T41G HG:38638	RAD57
+NT41G4	Reference T41G NCBITaxon:9606	Homo sapiens
+T42G	GGP 5013 5026	methemoglobin
+NT42G4	Reference T42G NCBITaxon:9606	Homo sapiens
+T43G	GGP 5148 5161	methemoglobin
+NT43G4	Reference T43G NCBITaxon:9606	Homo sapiens
+T44G	GGP 5372 5385	methemoglobin
+NT44G4	Reference T44G NCBITaxon:9606	Homo sapiens
+T45G	GGP 5484 5497	methemoglobin
+NT45G4	Reference T45G NCBITaxon:9606	Homo sapiens
+T46G	GGP 5693 5706	methemoglobin
+NT46G4	Reference T46G NCBITaxon:9606	Homo sapiens
+T47G	GGP 5838 5851	methemoglobin
+NT47G4	Reference T47G NCBITaxon:9606	Homo sapiens
+T48G	GGP 6128 6141	methemoglobin
+NT48G4	Reference T48G NCBITaxon:9606	Homo sapiens
+T49G	GGP 6419 6429	hemoglobin
+NT49G0	Reference T49G ENSGF:59282	hemoglobin
+NT49G1	Reference T49G HG:68066	hemoglobin
+NT49G2	Reference T49G EG:3043	hemoglobin
+NT49G3	Reference T49G ENSF:362	hemoglobin
+NT49G4	Reference T49G NCBITaxon:9606	Homo sapiens
+T50G	GGP 6448 6461	methemoglobin
+NT50G4	Reference T50G NCBITaxon:9606	Homo sapiens
+T51G	GGP 6685 6698	methemoglobin
+NT51G4	Reference T51G NCBITaxon:9606	Homo sapiens
+T52G	GGP 6783 6796	methemoglobin
+NT52G4	Reference T52G NCBITaxon:9606	Homo sapiens
+T53G	GGP 6834 6847	methemoglobin
+NT53G4	Reference T53G NCBITaxon:9606	Homo sapiens
+T54G	GGP 6926 6939	methemoglobin
+NT54G4	Reference T54G NCBITaxon:9606	Homo sapiens
+T55G	GGP 7120 7133	methemoglobin
+NT55G4	Reference T55G NCBITaxon:9606	Homo sapiens
+T56G	GGP 7249 7262	Methemoglobin
+NT56G4	Reference T56G NCBITaxon:9606	Homo sapiens
+T57G	GGP 7518 7531	methemoglobin
+NT57G4	Reference T57G NCBITaxon:9606	Homo sapiens
+T58G	GGP 7579 7592	methemoglobin
+NT58G4	Reference T58G NCBITaxon:9606	Homo sapiens
+T59G	GGP 7626 7639	methemoglobin
+NT59G4	Reference T59G NCBITaxon:9606	Homo sapiens
+T60G	GGP 7789 7802	methemoglobin
+NT60G4	Reference T60G NCBITaxon:9606	Homo sapiens
+T61G	GGP 7863 7876	methemoglobin
+NT61G4	Reference T61G NCBITaxon:9606	Homo sapiens
+T62G	GGP 7946 7959	methemoglobin
+NT62G4	Reference T62G NCBITaxon:9606	Homo sapiens
+T63G	GGP 8150 8163	methemoglobin
+NT63G4	Reference T63G NCBITaxon:9606	Homo sapiens
+T64G	GGP 8218 8231	Methemoglobin
+NT64G4	Reference T64G NCBITaxon:9606	Homo sapiens
+T77G	Positive_regulation 4756 4765	increased
+T65G	Gene_expression 42 48	Levels
+T76G	Regulation 3887 3897	determined
+T78G	Positive_regulation 5707 5716	increased
+T79G	Positive_regulation 5888 5897	increased
+T70G	Positive_regulation 2468 2476	increase
+T68G	Binding 1492 1499	binding
+T71G	Localization 2636 2644	releases
+T81G	Positive_regulation 7392 7400	elevated
+T73G	Positive_regulation 2721 2731	increasing
+T69G	Positive_regulation 1948 1957	increased
+T80G	Binding 6818 6828	associated
+T67G	Negative_regulation 10 14	Loss
+T66E	Glycosylation 62 73	Explanation
+T72G	Gene_expression 2751 2757	levels
+T66G	Regulation 135 142	Effects
+T74G	Gene_expression 2783 2793	production
+T82G	Gene_expression 7593 7601	positive
+T75G	Positive_regulation 2812 2821	increased
+E10G	Gene_expression:T72G Theme:T28G
+AE10Gconf	Confidence E10G medium
+#E10Gconf	Confidence E10G	2.1006
+E11G	Positive_regulation:T73G Theme:E10G
+AE11Gconf	Confidence E11G medium
+#E11Gconf	Confidence E11G	2.5450
+E12G	Gene_expression:T74G Theme:T29G
+AE12Gconf	Confidence E12G medium
+#E12Gconf	Confidence E12G	3.8011
+E13G	Positive_regulation:T75G Theme:E12G
+AE13Gconf	Confidence E13G high
+#E13Gconf	Confidence E13G	4.6972
+E14G	Regulation:T76G Theme:T36G
+AE14Gconf	Confidence E14G low
+#E14Gconf	Confidence E14G	1.2360
+E15G	Positive_regulation:T77G Theme:T40G
+AE15Gconf	Confidence E15G high
+#E15Gconf	Confidence E15G	4.3614
+E16G	Positive_regulation:T78G Theme:T46G
+AE16Gconf	Confidence E16G medium
+#E16Gconf	Confidence E16G	3.3666
+E17G	Positive_regulation:T79G Theme:T47G
+AE17Gconf	Confidence E17G medium
+#E17Gconf	Confidence E17G	2.6163
+E18G	Binding:T80G Theme:T52G Theme:T53G
+AE18Gconf	Confidence E18G medium
+#E18Gconf	Confidence E18G	2.5607
+E19G	Positive_regulation:T81G Theme:T56G
+AE19Gconf	Confidence E19G medium
+#E19Gconf	Confidence E19G	3.0971
+E1E	Glycosylation:T66E Theme:T1G Site:T65E
+AE1Econf	Confidence E1E low
+#E1Econf	Confidence E1E	1.9858
+E1G	Gene_expression:T65G Theme:T1G
+AE1Gconf	Confidence E1G medium
+#E1Gconf	Confidence E1G	2.4416
+E20G	Gene_expression:T82G Theme:T58G
+AE20Gconf	Confidence E20G medium
+#E20Gconf	Confidence E20G	2.5938
+E2E	Glycosylation:T66E Theme:T1G Site:T67E
+AE2Econf	Confidence E2E low
+#E2Econf	Confidence E2E	1.9858
+E2G	Regulation:T66G Theme:E1G
+AE2Gconf	Confidence E2G medium
+#E2Gconf	Confidence E2G	2.6709
+E3G	Negative_regulation:T67G Theme:E1G
+AE3Gconf	Confidence E3G low
+#E3Gconf	Confidence E3G	1.8533
+E4G	Binding:T68G Theme:T16G
+AE4Gconf	Confidence E4G medium
+#E4Gconf	Confidence E4G	3.9047
+E5G	Binding:T68G Theme:T17G
+AE5Gconf	Confidence E5G medium
+#E5Gconf	Confidence E5G	3.8620
+E6G	Positive_regulation:T69G Theme:T21G
+AE6Gconf	Confidence E6G high
+#E6Gconf	Confidence E6G	4.1436
+E7G	Positive_regulation:T70G Theme:T23G
+AE7Gconf	Confidence E7G medium
+#E7Gconf	Confidence E7G	3.8014
+E8G	Localization:T71G Theme:T25G
+AE8Gconf	Confidence E8G medium
+#E8Gconf	Confidence E8G	2.1439
+E9G	Localization:T71G Theme:T27G
+AE9Gconf	Confidence E9G medium
+#E9Gconf	Confidence E9G	2.1439

@@ -1,0 +1,43 @@
+Pregnancy Loss and Maternal Methemoglobin Levels: An Indirect Explanation of the Association of Environmental Toxics and Their Adverse Effects on the Mother and the Fetus
+The level of methemoglobin in the bloodstream is an worthy biomarker, predictor and precursor of environmental toxics' adverse effects on the mother and fetus, and can indirectly explain the unrecognized level of fetal methemoglobin.
+Methemoglobin and heme, having prooxidant properties, also cause the early and late endothelial dysfunction of vital organs.
+Our data suggest that methemoglobinemia can cause the deterioration of maternal and fetal hypoxia, which can indirectly explain how the failure to notice high levels of fetal methemoglobin that can cause sudden fetal death and stillbirth that is frequently referred to as "unexplained".
+However, current research data are insufficient to confirm methemoglobin as a biomarker of the adverse effects of oxidative stress and its pro-oxidative properties.
+The concentration of fetal hemoglobin is relatively high in the early months of life, and fetal hemoglobin forms oxyhemoglobin more readily than adult hemoglobin does.
+This means that fetal hemoglobin may be susceptible to oxidation to form methemoglobin.
+The level of methemoglobin in erythrocytes under normal conditions is lower than 1% of the total hemoglobin [1].
+Nitrogen compounds are strong oxidants that can reversibly oxidize oxyhemoglobin (FeII) to give methemoglobin (FeIII), which is incapable of binding oxygen, thus contributing to a decline in tissue oxygenation.
+The main difference among the present three-stage hypothesis and other hypotheses is the assertion that, in the pathogenesis of early and late complicated pregnancy, methemoglobin plays an important role.
+As the level of methemoglobin in the blood rises, adults show signs of hypoxia, which may lead to coma and death if the level of methemoglobin in the blood reaches 70%.
+Symptoms of increased levels of methemoglobin in the mother include headache, dyspnea, pallor, cyanosis, palpitations, chest pain, confusion, delirium potentially leading to tonic-clonic convulsions, coma and death.
+When the high levels of methemoglobin become irreversible, the deficiency of antioxidants persists, and oxidative stress continues, attacking the vascular endothelium of the kidneys, the brain and other vital organs and tissues of the mother.
+Under these adverse conditions, the levels of methemoglobin in the fetus increase, also resulting in preterm birth, stillbirth or early neonatal death.
+Balla et al. posited that ferrimethemoglobin (FeIII), but not ferromethemoglobin (FeII), releases its hemes, which are then incorporated into endothelial cells, thus rapidly increasing the heme oxygenase levels of these cells.
+Ferritin production was also markedly increased [7].
+These important research results support our supposition that methemoglobin has a relevant role not only as a marker but also as a cause of early and late endothelial dysfunction of vital organs and the CNS, ferric iron deposition from methemoglobin catabolism.
+This hypothesis is based on our findings that the correlations between level of maternal methemoglobin, and the incidence of stillbirth during the "exposure period" are statistically significant.
+Because of the lack of data on the presence of fetal methemoglobin, we used the findings of applicable former studies of maternal methemoglobinemia during human pregnancy, where "control period" and "exposure period" blood samples were drawn and tested three times, with the tests being one month apart.
+The levels of methemoglobin in the blood were correlated to air pollution parameters [10].
+This coal-fired thermal power plant in the district of Labin (about 25,500 inhabitants), in Istria, Croatia, is a major air polluter.
+The level of methemoglobin and the sulfhemoglobin in the bloodstream was determined in the laboratory by spectrophotometry on three separate occasions with one month between each test, and for each pregnant woman (N = 122) during the exposure period when the power plant was in operation and for each pregnant woman during the control period when the power plant was closed (N = 138).
+We found a significant positive correlation between the levels of methemoglobin (a product of inhaled nitrogen compounds resulting from coal combustion) and sulfhemoglobin in the blood of pregnant women and the daily ground-level concentration of sulfur dioxide (r = 0.72, p < 0.01) resulting from coal combustion (Figure 1).
+The chi-square test showed that the rate of reproductive loss differed significantly (p = 0.0369) between the "control" (N = 4) and "exposure" periods (N = 10) and that the number of stillbirths when the level of methemoglobin was increased (>1.5 g/L) during the exposure period was also statistically significant (p = 0.0336).
+The admitted pregnant women were monitored with the new Masimo eight-wavelength Pulse Co-Oximeter Rainbow-Set Rad57 sensor.
+We set the normal limit of maternal methemoglobin to 1%, according to the data in recent literature.
+The measurements showed that among four cases (1.16%) with 1% or more methemoglobin, there was one case of stillbirth during the 30th week of pregnancy, which was statistically significant (P = 0.0116) with respect to the incidence of stillbirth among pregnant women with the concentrations of methemoglobin lower than 1%.
+The ability to use this noninvasive, continuous and inexpensive method to evaluate methemoglobin will enable this method to become a powerful diagnostic tool, given the limited availability of current laboratory standards of measurement and the invasiveness of CO-Oximetry [11].
+The level of methemoglobin increased with increases in the daily air temperature; thus, as the daily maximum and minimum temperatures increased, the level of methemoglobin in the blood of pregnant women also increased (r = 0.69, p < 0.01 for maximum temperature, r = 0.55, p < 0.05 for minimum temperature during the exposure period (December 20, 1989 to March 20, 1990) (Figure 2).
+We found a significant correlation between the level of maternal methemoglobin and the ground-level concentration of sulfur dioxide.
+We hypothesize that the exposure to environmental toxic substances originating from coal combustion is a decisive factor in the severity of the impacts of the metabolic synergism of nitrogen oxides as oxidants, which cause hemoglobin oxidation to give methemoglobin, and sulfur dioxide metabolites, which are inhibitors of antioxidants, during the entire pregnancy.
+Tabacova et al. [21,22] confirmed that methemoglobinemia is linked to complications during pregnancy and that the measured methemoglobin level is a valuable biomarker of individual exposure.
+They also found that maternal methemoglobin levels were strongly associated with methemoglobin levels in blood drawn from the umbilical cord (P < 0.0001).
+The mean maternal methemoglobin levels were approximately twofold higher in mothers of infants who were born prematurely and were in fetal distress than in mothers who gave birth to healthy babies.
+The levels of methemoglobin in 10 out of 14 analyzed maternal blood samples in cases of poor birth outcomes exceeded the physiological limits.
+Methemoglobin levels in blood drawn from the umbilical cord were excessively high for babies who were born preterm, and these levels were also elevated in low-birth weight babies, although not as much as in preterm babies.
+Hjelt et al. [25] measured the level of fetal methemoglobin in newborns.
+Out of 415 neonates, 33 (8%) were methemoglobin positive (metHb <= 6%).
+The mean methemoglobin level was 19% (range: 6.5-45.5%).
+They found that about 40% of neonates born at 25-30 weeks and 60% of neonates weighing < 1,000 grams at birth were methemoglobin positive.
+There was also a negative correlation between the methemoglobin concentration and gestational age (r = 0.38, p = 0.02).
+The level of methemoglobin in the bloodstream is a worthy biomarker, predictor and precursor of environmental toxics adverse effects on the mother and fetus, and can indirectly explain the unrecognized level of fetal methemoglobin, and the fetal death, frequently named "unexplained".
+Methemoglobin and heme as catabolic product, having pro-oxidant properties, also cause the early and late endothelial dysfunction of vital organs, according to the harmful effects of air pollution and oxidants in other environmental conditions.

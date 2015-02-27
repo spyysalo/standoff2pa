@@ -1,0 +1,84 @@
+MAA3 (MAGATAMA3) Helicase Gene is Required for Female Gametophyte Development and Pollen Tube Guidance in Arabidopsis thaliana
+We previously isolated the maa3 (magatama3) mutant of Arabidopsis thaliana, defective in development of the female gametophyte, micropylar pollen tube guidance, and preventing the attraction of multiple pollen tubes.
+The MAA3 gene encodes a homolog of yeast Sen1 helicase, required for RNA metabolism.
+It is suggested that MAA3 may regulate RNA molecules responsible for nucleolar organization and pollen tube guidance.
+A number of FG mutants have been isolated and analyzed (reviewed by Drews and Yadegari 2002, Brukhin et al. 2005, Kagi and Gross-Hardt 2007).
+We developed a method to isolate FG mutants using the production of half the normal number of seeds as a criterion (Shimizu and Okada 2000), which is typical for FG mutants (Moore et al. 1997).
+Using this method, we reported maa1 (magatama1) and maa3 mutants, in which FG development was delayed, and we focused on the defect in pollen tube guidance.
+This indicates that pollen tube guidance by the FG is composed of at least two steps, and the latter step, micropylar guidance, was defective in maa1 and maa3 mutants.
+This suggests that the FG normally prevents the attraction of multiple pollen tubes, and could contribute to the prevention of polyspermy (Shimizu and Okada 2000).
+Here we report further analysis of the maa3 mutant.
+Here, we molecularly identi-fied the MAA3 gene, and analyzed the development of maa3 FGs.
+To describe FG development, we use a staging system of FG development proposed by Christensen et al. (1997), which is based on the number of nuclei in an FG (Supplementary Table S1).
+Since homozygous maa3 plants were never found, we observed FGs in heterozygous maa3 plants, in which half of the FGs should inherit the maa3 allele and the other half should have the wild-type allele.
+By differential interference contrast (DIC) microscopy, the nucleoli of FGs can be observed as a round structure (Fig. 1).
+maa3 and wild-type female gametophytes in maa3 heterozygote pistils.
+(A-E) FGs with the maa3 phenotype.
+(F-J) FGs with the wild-type phenotype.
+(A) maa3 FG in the early FG5 stage.
+(B) maa3 FG in the late FG5 stage.
+(D, E) maa3 FG in the FG6 stage in two microscopic foci.
+maa3 and wild-type female gametophytes in maa3 heterozygote pistils.
+(A-E) FGs with the maa3 phenotype.
+(F-J) FGs with the wild-type phenotype.
+(A) maa3 FG in the early FG5 stage.
+(B) maa3 FG in the late FG5 stage.
+(D, E) maa3 FG in the FG6 stage in two microscopic foci.
+This suggests that the development of maa3 FG was delayed or arrested.
+In the wild type, nucleoli of polar nuclei are much bigger than other nucleoli of the FG, and have round internal structures (Fig. 1G).
+In contrast, the nucleoli of polar nuclei of maa3 FG were small, and no internal structures were observed (Fig. 1A, B).
+To examine whether the development of FGs was delayed, we examined all FGs in seven pistils of maa3 heterozygotes (Supplementary Table S1).
+In pistils of maa3 heterozygotes, we found that the development of maa3 FGs was delayed, and that synchronization of FG development was disturbed (Supplementary Table S1).
+In contrast, about half of the FGs showed the maa3 phenotype with small nucleoli in late FG5 or FG6 stages.
+These results indicate that the development of maa3 FGs was slow, and the fusion of polar nuclei did not occur in many maa3 FGs.
+It is suggested that some FGs could continue development even after the time of pollination, and could accomplish fusion of polar nuclei and fertilization, since reciprocal crossing showed that maa3 mutations could be transmitted through the female at a low frequency (3%; Shimizu and Okada 2000).
+It is also suggested that maa3 homozygosity is lethal in embryogenesis or the early stage of seedling development, since homozygous plants were never recovered.
+The maa3 mutant was isolated from T-DNA insertional lines.
+Inverse PCR, DNA gel blotting, genetic mapping and complementation experiments strongly suggested that disruption of the At4g15570 gene resulted in the maa3 phenotype (Supplementary Text 1).
+To study the genomic structure of the MAA3 gene, the cDNA sequence of MAA3 including the full-length coding region was determined.
+The T-DNA was inserted in the first intron (Fig. 2), and presumably disturbed the expression of MAA3.
+Schematic drawing of the genomic structure of the MAA3 locus.
+Green and blue boxes indicate coding and non-coding exon regions of the MAA3 gene, respectively.
+Schematic drawing of the genomic structure of the MAA3 locus.
+Green and blue boxes indicate coding and non-coding exon regions of the MAA3 gene, respectively.
+The MAA3 gene encodes a protein with 818 amino acid residues.
+The protein domain identification tool, SMART (Letunic et al. 2006), identified a DEAD-like helicase superfamily domain (DEXDc domain) at position 254-550.
+Protein BLAST searches identified a number of homologs with a DEAD-like helicase domain.
+Among them, Sen1 proteins showed the highest homology throughout the entire length of MAA3 (28% identity and 48% conserved amino acids with GenBank accession No. AAB63976).
+Three other genes encoding Sen1 homologs (At4g30100, At1g16800 and At2g19120) were identified in the genome of A. thaliana.
+To assay the expression pattern of MAA3, reverse transcription-PCR (RT-PCR) was conducted.
+The MAA3 gene was expressed at a similar level in flower, silique, shoot apex, leaf and root tissues (Fig. 3).
+Expression analysis of the MAA3 gene.
+RT-PCR of the MAA3 gene with the ACT8 gene as control.
+Expression analysis of the MAA3 gene.
+RT-PCR of the MAA3 gene with the ACT8 gene as control.
+We report here the observation of FG development of maa3 mutants.
+The growth of the maa3 FGs was delayed, and the nucleoli of polar nuclei were small.
+We identified the MAA3 gene as encoding a homolog of yeast Sen1 helicase protein.
+Three genes are shown to be necessary for the specification of the egg cell: LACHESIS encoding a homolog of yeast splicing factor PRP4, GAMETOPHYTIC FACTOR1/CLOTHO encoding a protein with high similarity to Snu114 proteins of yeast and animals, and ATROPOS encoding a homolog of SF3a60 responsible for pre-spliceo-some formation (Gross-Hardt et al. 2007, Moll et al. 2008).
+sen1-1 was first described as a mutant with reduced in vitro endonuclease activity and in vivo accumulation of unspliced pre-tRNAs (Winey and Culbertson 1988).
+sen1 mutants also show defects in the processing and amount of rRNA, small nuclear and nucleolar RNAs, the localization of nucleolar proteins, pre-mRNA metabolism, transcriptional termination, nuclear fusion, chromosomal maintenance, transcription-coupled DNA repair and the distribution of RNA polymerase II across the yeast genome (Ursic et al. 1995, Steinmetz et al. 2001, Steinmetz et al. 2006, Kawauchi et al. 2008, and references therein).
+Mutations in the human Sen1 ortholog, Senataxin, cause human neurological diseases (Moreira et al. 2004).
+Arabidopsis thaliana has four homologs of Sen1, one of which is MAA3.
+Although MAA3 is shorter than yeast Sen1, the entire length of MAA3 shows homology with the essential C-terminal region of Sen1, suggesting that the protein function is conserved.
+A conspicuous phenotype of the maa3 mutant was the small size of nucleoli of polar nuclei, which was observable both before and after their nuclear fusion.
+Considering that the yeast sen1 mutant is defective in the processing of snoRNA and rRNA, and in the localization of nucleolar proteins, it is suggested that misprocessing of RNA resulted in the small size of the nucleoli in maa3 mutants.
+In addition, maa3 FGs often did not accomplish polar nuclear fusion.
+Consistent with this, an allele of the yeast sen1 mutant (isolated as cik3-1) showed a defect in nuclear fusion (Ursic et al. 1995).
+Partial male gametophytic lethality (Shimizu and Okada 2000) also suggests a role for MAA3 helicase in the development of male gametophytes.
+In studying yeast sen1 mutants, Kim et al. (1999) stated that it is difficult to present a single hypothesis that accommodates all of the complicated and apparently unrelated phenotypes of sen1.
+Similarly, it may not be feasible to determine which of the maa3 pleiotropic phenotypes are primary or secondary.
+Another conspicuous phenotype of maa3 is the defect in micropylar pollen tube guidance and in preventing the attraction of multiple pollen tubes (Shimizu and Okada 2000).
+Here we showed that the MAA3 gene, encoding a yeast Sen1 helicase homolog, is necessary for pollen tube guidance by FGs.
+To connect a helicase gene and pollen tube guidance, two possibilities can be discussed, which are not necessarily mutually exclusive.
+First, the defect in pollen tube guidance may be a consequence of the delayed growth of maa3 FGs.
+Another possibility is that MAA3 helicase could be involved more directly in the regulation of RNA molecules responsible for pollen tube guidance, e.g. an mRNA encoding a guidance molecule.
+The role of synergid cells is also supported by a study of the MYB98 gene, which is expressed in synergid cells of A. thaliana and is necessary for pollen tube guidance (Kasahara et al. 2005).
+The central cell is also involved in pollen tube guidance, since the CENTRAL CELL GUIDANCE (CCG) gene connected to a central cell-specific promoter rescued the micropylar pollen tube guidance defect caused by the ccg mutation (Chen et al. 2007).
+MAA3 may regulate RNA molecules responsible for pollen tube guidance in the synergid cells and/or in the central cell.
+Cell-specific rescue of MAA3 could reveal which cells are responsible for pollen tube guidance.
+The maa3 mutant was identified as described by Shimizu and Okada (2000) in screens of Wassilewskija (Ws-2) plants transformed by T-DNA of the pGV3850:HPT vector, which confers hygromycin resistance.
+The A. thaliana ecotype Ws-2 was used as the wild type in microscopic observations, and Col-0 in molecular experiments.
+ACT8 was amplified as a control in RT-PCR (An et al. 1996).
+We digested genomic DNAs isolated individually from four plants having the maa3 phenotype with HindIII and analyzed the fragments by DNA gel blotting (Southern hybridization) as described by Oyama et al. (1997).
+Homology search was performed using NCBI BLAST (http://blast.ncbi.nlm.nih.gov/Blast.cgi) and TAIR BLAST (http://www.arabidopsis.org/Blast/).

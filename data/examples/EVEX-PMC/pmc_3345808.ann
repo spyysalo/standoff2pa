@@ -1,0 +1,229 @@
+T1G	GGP 62 72	hemoglobin
+NT1G0	Reference T1G ENSGF:59282	hemoglobin
+NT1G1	Reference T1G HG:68066	hemoglobin
+NT1G2	Reference T1G EG:3043	hemoglobin
+NT1G3	Reference T1G ENSF:362	hemoglobin
+NT1G4	Reference T1G NCBITaxon:9606	Homo sapiens
+T2G	GGP 209 219	hemoglobin
+NT2G0	Reference T2G ENSGF:59282	hemoglobin
+NT2G1	Reference T2G HG:68066	hemoglobin
+NT2G2	Reference T2G EG:3043	hemoglobin
+NT2G3	Reference T2G ENSF:362	hemoglobin
+NT2G4	Reference T2G NCBITaxon:9606	Homo sapiens
+T3G	GGP 297 300	PAD
+NT3G0	Reference T3G ENSGF:109603	PAD
+NT3G1	Reference T3G HG:57000	PAD
+NT3G3	Reference T3G ENSF:2090	PAD
+NT3G4	Reference T3G NCBITaxon:9606	Homo sapiens
+T4G	GGP 594 596	Cp
+NT4G0	Reference T4G ENSGF:45631	CP
+NT4G1	Reference T4G HG:75	CP
+NT4G3	Reference T4G ENSF:2688	CP
+NT4G4	Reference T4G NCBITaxon:9606	Homo sapiens
+T5G	GGP 883 886	HPT
+NT5G0	Reference T5G ENSGF:19955	hPT
+NT5G1	Reference T5G HG:31983	HPT
+NT5G3	Reference T5G ENSF:9997	HPT
+NT5G4	Reference T5G NCBITaxon:9606	Homo sapiens
+T6G	GGP 976 979	tau
+NT6G0	Reference T6G ENSGF:125781	tau
+NT6G1	Reference T6G HG:74962	tau
+NT6G3	Reference T6G ENSF:1989	tau
+NT6G4	Reference T6G NCBITaxon:9606	Homo sapiens
+T7G	GGP 1212 1217	Gamma
+NT7G4	Reference T7G NCBITaxon:9606	Homo sapiens
+T8G	GGP 1218 1224	betac2
+NT8G4	Reference T8G NCBITaxon:9606	Homo sapiens
+T9G	GGP 1225 1227	Cp
+NT9G0	Reference T9G ENSGF:45631	CP
+NT9G1	Reference T9G HG:75	CP
+NT9G3	Reference T9G ENSF:2688	CP
+NT9G4	Reference T9G NCBITaxon:9606	Homo sapiens
+T10G	GGP 1312 1314	Cp
+NT10G0	Reference T10G ENSGF:45631	CP
+NT10G1	Reference T10G HG:75	CP
+NT10G3	Reference T10G ENSF:2688	CP
+NT10G4	Reference T10G NCBITaxon:9606	Homo sapiens
+T47R	Entity 1500 1510	dependence
+T11G	GGP 1514 1519	Gamma
+NT11G4	Reference T11G NCBITaxon:9606	Homo sapiens
+T12G	GGP 1678 1680	T0
+NT12G4	Reference T12G NCBITaxon:9606	Homo sapiens
+T13G	GGP 1682 1688	Gamma0
+NT13G4	Reference T13G NCBITaxon:9606	Homo sapiens
+T14G	GGP 1787 1806	PT excitation Gamma
+NT14G4	Reference T14G NCBITaxon:9606	Homo sapiens
+T15G	GGP 1895 1898	tau
+NT15G0	Reference T15G ENSGF:125781	tau
+NT15G1	Reference T15G HG:74962	tau
+NT15G3	Reference T15G ENSF:1989	tau
+NT15G4	Reference T15G NCBITaxon:9606	Homo sapiens
+T48R	Entity 2110 2120	dependence
+T16G	GGP 2124 2129	Gamma
+NT16G4	Reference T16G NCBITaxon:9606	Homo sapiens
+T17G	GGP 2165 2178	sinusoidal PA
+NT17G0	Reference T17G ENSGF:304641	alpha-amylase
+NT17G1	Reference T17G HG:20179	Pa
+NT17G3	Reference T17G ENSF:59371	Pa
+NT17G4	Reference T17G NCBITaxon:9606	Homo sapiens
+T49R	Entity 2179 2189	excitation
+T18G	GGP 2217 2230	Gamma from Eq
+NT18G4	Reference T18G NCBITaxon:9606	Homo sapiens
+T19G	GGP 2303 2306	fPT
+NT19G4	Reference T19G NCBITaxon:9606	Homo sapiens
+T20G	GGP 2376 2378	PT
+NT20G0	Reference T20G ENSGF:185260	thrombin
+NT20G1	Reference T20G HG:426	thrombin
+NT20G3	Reference T20G ENSF:6313	thrombin
+NT20G4	Reference T20G NCBITaxon:9606	Homo sapiens
+T21G	GGP 2454 2474	PA response spectrum
+NT21G0	Reference T21G ENSGF:304641	alpha-amylase
+NT21G1	Reference T21G HG:20179	Pa
+NT21G3	Reference T21G ENSF:59371	Pa
+NT21G4	Reference T21G NCBITaxon:9606	Homo sapiens
+T22G	GGP 2543 2546	Fig
+NT22G0	Reference T22G ENSGF:50109	FIG
+NT22G1	Reference T22G HG:48491	FIG
+NT22G3	Reference T22G ENSF:19205	FIG
+NT22G4	Reference T22G NCBITaxon:9606	Homo sapiens
+T23G	GGP 2603 2612	fPA+/-fPT
+NT23G4	Reference T23G NCBITaxon:9606	Homo sapiens
+T24G	GGP 2667 2672	tauDC
+NT24G4	Reference T24G NCBITaxon:9606	Homo sapiens
+T25G	GGP 2739 2742	Fig
+NT25G0	Reference T25G ENSGF:50109	FIG
+NT25G1	Reference T25G HG:48491	FIG
+NT25G3	Reference T25G ENSF:19205	FIG
+NT25G4	Reference T25G NCBITaxon:9606	Homo sapiens
+T26G	GGP 2783 2786	Fig
+NT26G0	Reference T26G ENSGF:50109	FIG
+NT26G1	Reference T26G HG:48491	FIG
+NT26G3	Reference T26G ENSF:19205	FIG
+NT26G4	Reference T26G NCBITaxon:9606	Homo sapiens
+T27G	GGP 2820 2825	tauDC
+NT27G4	Reference T27G NCBITaxon:9606	Homo sapiens
+T28G	GGP 2845 2848	Fig
+NT28G0	Reference T28G ENSGF:50109	FIG
+NT28G1	Reference T28G HG:48491	FIG
+NT28G3	Reference T28G ENSF:19205	FIG
+NT28G4	Reference T28G NCBITaxon:9606	Homo sapiens
+T29G	GGP 2938 2941	Fig
+NT29G0	Reference T29G ENSGF:50109	FIG
+NT29G1	Reference T29G HG:48491	FIG
+NT29G3	Reference T29G ENSF:19205	FIG
+NT29G4	Reference T29G NCBITaxon:9606	Homo sapiens
+T30G	GGP 3057 3062	tauAC
+NT30G4	Reference T30G NCBITaxon:9606	Homo sapiens
+T31G	GGP 3219 3224	tauAC
+NT31G4	Reference T31G NCBITaxon:9606	Homo sapiens
+T32G	GGP 3229 3234	tauDC
+NT32G4	Reference T32G NCBITaxon:9606	Homo sapiens
+T33G	GGP 3475 3478	Fig
+NT33G0	Reference T33G ENSGF:50109	FIG
+NT33G1	Reference T33G HG:48491	FIG
+NT33G3	Reference T33G ENSF:19205	FIG
+NT33G4	Reference T33G NCBITaxon:9606	Homo sapiens
+T34G	GGP 3590 3593	Fig
+NT34G0	Reference T34G ENSGF:50109	FIG
+NT34G1	Reference T34G HG:48491	FIG
+NT34G3	Reference T34G ENSF:19205	FIG
+NT34G4	Reference T34G NCBITaxon:9606	Homo sapiens
+T35G	GGP 3620 3623	MFR
+NT35G0	Reference T35G ENSGF:21533	SHPS-1
+NT35G1	Reference T35G HG:7246	SHPS-1
+NT35G3	Reference T35G ENSF:3811	SHPS-1
+NT35G4	Reference T35G NCBITaxon:9606	Homo sapiens
+T36G	GGP 3700 3703	Fig
+NT36G0	Reference T36G ENSGF:50109	FIG
+NT36G1	Reference T36G HG:48491	FIG
+NT36G3	Reference T36G ENSF:19205	FIG
+NT36G4	Reference T36G NCBITaxon:9606	Homo sapiens
+T37G	GGP 3869 3888	Full Width Half Max
+NT37G4	Reference T37G NCBITaxon:9606	Homo sapiens
+T38G	GGP 3890 3894	FWHM
+NT38G4	Reference T38G NCBITaxon:9606	Homo sapiens
+T39G	GGP 3933 3936	Fig
+NT39G0	Reference T39G ENSGF:50109	FIG
+NT39G1	Reference T39G HG:48491	FIG
+NT39G3	Reference T39G ENSF:19205	FIG
+NT39G4	Reference T39G NCBITaxon:9606	Homo sapiens
+T40G	GGP 3956 3959	Fig
+NT40G0	Reference T40G ENSGF:50109	FIG
+NT40G1	Reference T40G HG:48491	FIG
+NT40G3	Reference T40G ENSF:19205	FIG
+NT40G4	Reference T40G NCBITaxon:9606	Homo sapiens
+T41G	GGP 3978 3981	Fig
+NT41G0	Reference T41G ENSGF:50109	FIG
+NT41G1	Reference T41G HG:48491	FIG
+NT41G3	Reference T41G ENSF:19205	FIG
+NT41G4	Reference T41G NCBITaxon:9606	Homo sapiens
+T42G	GGP 3986 3989	Fig
+NT42G0	Reference T42G ENSGF:50109	FIG
+NT42G1	Reference T42G HG:48491	FIG
+NT42G3	Reference T42G ENSF:19205	FIG
+NT42G4	Reference T42G NCBITaxon:9606	Homo sapiens
+T43G	GGP 4010 4015	tauDC
+NT43G4	Reference T43G NCBITaxon:9606	Homo sapiens
+T50R	Entity 4019 4030	0.9degreesC
+T44G	GGP 4108 4113	tauAC
+NT44G4	Reference T44G NCBITaxon:9606	Homo sapiens
+T45G	GGP 4168 4171	TDF
+NT45G0	Reference T45G ENSGF:141372	SRY
+NT45G1	Reference T45G HG:48168	SRY
+NT45G3	Reference T45G ENSF:1954	SRY
+NT45G4	Reference T45G NCBITaxon:9606	Homo sapiens
+T46G	GGP 4315 4318	PRF
+NT46G0	Reference T46G ENSGF:163316	PRF
+NT46G1	Reference T46G HG:7953	PRF
+NT46G3	Reference T46G ENSF:19612	PRF
+NT46G4	Reference T46G NCBITaxon:9606	Homo sapiens
+T49G	Localization 2179 2189	excitation
+T50G	Gene_expression 2202 2212	expression
+T48G	Positive_regulation 1881 1891	dependence
+T47G	Positive_regulation 1775 1783	presence
+T54G	Binding 3850 3859	agreement
+T52G	Negative_regulation 2728 2735	plotted
+T53G	Regulation 3194 3200	affect
+T51G	Negative_regulation 2532 2539	plotted
+E10G	Binding:T54G Theme:T38G
+AE10Gconf	Confidence E10G medium
+#E10Gconf	Confidence E10G	3.3383
+E1G	Positive_regulation:T47G Theme:T14G
+AE1Gconf	Confidence E1G low
+#E1Gconf	Confidence E1G	1.8046
+E2G	Positive_regulation:T48G Theme:T15G
+AE2Gconf	Confidence E2G medium
+#E2Gconf	Confidence E2G	2.1257
+E3G	Localization:T49G Theme:T17G
+AE3Gconf	Confidence E3G very-low
+#E3Gconf	Confidence E3G	0.6321
+E4G	Gene_expression:T50G Theme:T18G
+AE4Gconf	Confidence E4G medium
+#E4Gconf	Confidence E4G	3.1788
+E5G	Negative_regulation:T51G Theme:T22G
+AE5Gconf	Confidence E5G low
+#E5Gconf	Confidence E5G	1.4532
+E6G	Negative_regulation:T52G Theme:T25G
+AE6Gconf	Confidence E6G low
+#E6Gconf	Confidence E6G	1.0541
+E7G	Regulation:T53G Theme:T31G
+AE7Gconf	Confidence E7G medium
+#E7Gconf	Confidence E7G	3.7653
+E8G	Regulation:T53G Theme:T32G
+AE8Gconf	Confidence E8G medium
+#E8Gconf	Confidence E8G	3.9075
+E9G	Binding:T54G Theme:T37G
+AE9Gconf	Confidence E9G medium
+#E9Gconf	Confidence E9G	3.3383
+R1R	Protein-Component Arg1:T11G Arg2:T47R
+AR1Rconf	Confidence R1R high
+#R1Rconf	Confidence R1R	4.2816
+R2R	Protein-Component Arg1:T16G Arg2:T48R
+AR2Rconf	Confidence R2R medium
+#R2Rconf	Confidence R2R	3.4042
+R3R	Protein-Component Arg1:T17G Arg2:T49R
+AR3Rconf	Confidence R3R medium
+#R3Rconf	Confidence R3R	2.5687
+R4R	Subunit-Complex Arg1:T43G Arg2:T50R
+AR4Rconf	Confidence R4R low
+#R4Rconf	Confidence R4R	1.7612

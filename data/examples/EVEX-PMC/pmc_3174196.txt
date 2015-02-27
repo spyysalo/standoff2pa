@@ -1,0 +1,31 @@
+The cytokines IL-6 and KC, but neither TNF nor IP-10, were elevated in the BAL and serum of all ventilated mice and were reduced by recurrent RM.
+Major reasons for this are the focus on the mechanisms of VILI and the lack of comprehensive monitoring of pulmonary and cardiovascular key parameters in most studies.
+Studies on the mechanisms of VILI have identified several beneficial ventilation strategies, among them low tidal volume (VT) ventilation and application of recruitment manoeuvres (RM) as well as high positive end-expiratory pressure (PEEP).
+Although RM have a sound physiological basis, it remains unclear how they should be applied [15].
+BAL fluid was subjected to cytospin preparation, followed by Diff-Quick staining.
+Mice received 1 mg bovine serum albumin (BSA) intravenously 90 min before exsanguination for analysis of microvascular permeability.
+Statistical analyses were carried out with JMP 7 or SAS 9.1 software (SAS Institute Inc., Cary, NC, USA).
+The increase in G, H and Raw indicates that low VT ventilation without RM leads to closure of peripheral areas of the lung and causes a small degree of airway constriction.
+Protein levels were highest in the groups without RM (Fig. 4A).
+The BSA BAL/serum ratio confirmed that ventilation augmented microvascular permeability in the lung, particularly when inspiratory pressures were high, as in the groups ventilated without repetitive recruitment (Fig. 4B).
+Interleukin-6 (IL-6) and Keratinocyte-derived chemokine (KC) were elevated in the BAL fluid and blood serum from all ventilated mice (Fig. 5A, B, E, F).
+In both RM5 groups serum levels of IL-6 and KC were clearly lower than in all other ventilation groups.
+Interestingly, Interferon-gamma induced protein (IP-10) and Tumour necrosis factor-alpha (TNF-alpha) were not significantly increased in the BAL from ventilated mice, compared to unventilated controls (Fig. 5C, D).
+In the second series of experiments the ventilation strategies RM5, noRM and RM60 were applied to mice ventilated with low VT and a PEEP of 6cmH2O, to find out whether the impairment of lung mechanics during ventilation with noRM and RM60 could be prevented by a higher PEEP (Fig. 9).
+In the second set of experiments IL-6 and KC levels in the BAL fluid were highest in the PEEP6_noRM group, followed by the PEEP6_RM5 group (Fig. 11A, B).
+IL-6 in the blood serum was not significantly different between these three groups (Fig. 11C).
+KC levels were highest in the group ventilated without RM, but differed only slightly between the groups ventilated with RM5 and RM60 Fig. 11D).
+To date, application of RM in patients with healthy lungs has been explored only sporadically [29], although there is some evidence that RM may support protective ventilation by improving oxygenation and lung mechanics, thereby allowing reduction of VT [30], [31].
+Nonetheless, protein leakage, indicating increased microvascular permeability, another hallmark of VILI, was highest in those low VT groups that developed atelectasis due to lacking adequate RM (noRM, RM60) (Fig. 4).
+IL-6 and KC were increased in the BAL and blood serum of all ventilated mice and it appears that ventilation will always cause mild inflammation in the lungs, both experimentally [7], [8], [25] and clinically [45], [46].
+IL-6 and KC were significantly lower in the BAL fluid of lowVTRM5 mice compared to all other groups, demonstrating that this ventilation strategy was the most protective one.
+Interestingly, the blood serum of both VT groups ventilated with RM5 contained significantly lower levels of IL-6 and KC than the corresponding groups ventilated with RM60 or noRM.
+The high levels of IL-6 and KC in the BAL of highVTRM5 mice indicate that the inflammatory response was initiated in the lung.
+Notably, neither levels of IP-10 nor of TNF-alpha - two cytokines that are frequently found in severe forms of acute lung injury - were altered significantly in ventilated mice, compared to unventilated controls.
+The relatively high baseline values for TNF- alpha in unventilated mice are most likely due to the fact that BAL samples had to be diluted on order to gain enough volume for the assay.
+IP-10 is proposed to play a role in development of ARDS and is further considered as a useful biomarker for lung disease [49], [50].
+TNF-alpha is considered as a mediator of pulmonary inflammation released by injurious ventilation [51], [52].
+The present study shows that a combination of higher PEEP and short RM every 60 minutes does not suffice to prevent impairment of lung functions and that frequent RM are required, as with a PEEP of 2 cmH2O.
+IL-6 serum levels were even in a comparable range in all PEEP6 groups.
+Interestingly, the highest IL-6 and KC BAL levels were detected in the PEEP6_noRM group.
+A low PEEP of 2 cmH2O combined with recurrent RM is less protective, but still suffices to gain stable respiratory conditions and may be preferable in models that aim to investigate VILI.

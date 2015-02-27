@@ -1,0 +1,57 @@
+Expression of DeltaF508 Cystic Fibrosis Transmembrane Regulator (CFTR) Decreases Membrane Sialylation
+We sought to determine if the expression of mutant CFTR is associated with altered sialylation.
+Our study of epithelial cells transfected with normal and mutant DeltaF508 CFTR, the defect in the majority of CF patients in the United States, were analyzed by ELISA and FACS analysis of cell membranes labeled with lectins which bind to Neu5Ac.
+We determined that DeltaF508 CFTR is associated with decreased membrane sialic acid residues in the alpha2, 3 position and increased concentrations of asialo- GM1.
+Quantitation of sialic acids released from the cellular membranes demonstrated that the presence of the DeltaF508 CFTR is associated with markedly decreased membrane sialylation, but similar cytoplasmic sialylation.
+Cystic fibrosis (CF) is characterized by abnormal epithelial ion and fluid transport and is associated with mutations in the CF gene product, the cystic fibrosis transmembrane conductance regulator (CFTR) protein.
+Although much about function and regulation of normal CFTR is known [1-3], the precise cellular pathways that are affected in CF are still under investigation.
+The most common mutation of CFTR, affecting approximately 90% of patients, is a deletion of phenylalanine at codon 508 (DeltaF508 CFTR) [2].
+Since these bacteria recognize and bind to the GaINAcbeta1-4Gal disaccharide sequence in asialo-GM1 and asialo-GM2 [7, 8] preferentially to GM1 and GM2, bacterial colonization may be related to altered sialylation of CF cells.
+Abnormalities in sialylation of cells transfected with mutant CFTR and secretions of patients with CF have been described [9]; however, it has not been clear whether this phenomenon has been directly mediated by the presence of neuraminidases in colonizing bacteria or by the abnormal CFTR.
+Mammalian cells expressing DeltaF508 CFTR have been shown to have ion permeability changes, presumably due to the fact that the mutant protein fails to exit from the endoplasmic reticulum (ER) and localize normally in the plasma membrane [10].
+The DeltaF508 CFTR has normal chloride channel function in the ER [11], and when it reaches the apical membrane in a low temperature environment, as can be performed using cell culture of some cell types.
+However, under growth conditions at physiologic temperatures, the DeltaF508 CFTR has less stability than the normal CFTR [11].
+Thus the relationship between the Golgi, the cellular compartment in which post-translational modifications such as addition of sialic acids by sialyltransferases occurs [9, 14], and the CFTR may be important in disease pathogenesis.
+This study was conducted to qualitatively and quantitatively compare the expression of sialylated glycoconjugates and gangliosides on the cell membranes of CI27 mouse mammary epithelial cells transfected with normal CFTR protein, DeltaF508 CFTR, or vector alone, to determine whether altered sialylation is associated with heterologous expression of the CFTR DeltaF508 mutation.
+We used a combination of ELISA, immunocytochemistry and FACS to demonstrate the differential presence of sialic acid residues recognized by specific lectins and quantitative sialic acid analysis, and to determine whether the DeltaF508 mutation of the CFTR is responsible for the sialylation defects noted in this common form of cystic fibrosis.
+Fluorescein and Biotin conjugates of Maackia amaurensis lectin (MAL II), avidin D-alkaline phosphatase, Vector Laboratories (Burlingame, CA); biotinlylated conjugate of cholera toxin, List Biological Lab, Campbell, CA.; N-acetylneuraminic acid and N-glycolylneuraminic acid1,2 diamino-4,5-methylenedioxybenzene, N-propyl gallate, N-ethylmaleimide, PMSF, leupeptin, TBST, goat anti-rabbit alkaline phosphatase, Sigma Chemical Company, St.
+Louis, MO; Biorad protein standard assay, alkaline phosphatase substrate kit (p-nitrophenylphosphate, diethanolamine buffer), BioRad, Hercules, CA.
+Mouse mammary C127 epithelial cells, which do not express detectable levels of CFTR [15], transfected with bovine papilloma-based vector containing CFTR cDNA (WT), a CFTR cDNA with the DeltaF508 mutation (DeltaF508) (generously provided by the Genzyme Corporation, Framingham, MA), or vector alone (BPV) were used, as described [15].
+These cell lines have been used in previous experiments on CFTR and processing defects and efficiency of transfection was confirmed [15].
+The primary antibody or lectin-biotin was applied to each well.
+The lectins were diluted in PBS.
+Cholera Toxin (0.1 mg/ml) conjugated to biotin was used in the same manner as lectins.
+For assaying binding of lectins and cholera toxin, the wells were then washed and incubated for one hour with avidin D-alkaline phosphatase.
+The plates were then washed several times and reacted with alkaline phosphatase substrate kit (p-nitrophenyl phosphate, diethanolamine buffer).
+The reaction was stopped with 2M NaOH and read at 410 nm on an ELISA reader (Dynatech Laboratories Inc. MR700).
+A fluorescence activated cell sorter (FACScan, Becton Dickinson and Co, Mountain View, CA) was used to determine the presentation of sialo GM1 on the epithelial cell surfaces of WT, DeltaF508, and BPV cells using the beta-subunit of cholera toxin, which binds to GM1.
+DeltaF508 Cells have Fewer Receptors for Maackia Amaurensis Lectin (MAL II)
+MAL II binds to sialic acids in the Neu5Ac alpha2,3 Gal/GalNAc sequence [21].
+As can be seen in Fig. (1), the MAL II binds intensely to the surfaces of WT and BPV cells.
+This finding suggests that alpha2, 3 sialic acid moieties that bind to the lectin are present on WT cells but are diminished on the cell surfaces of DeltaF508 cells.
+The lighter staining observed with the BPV cells, may be artifactual or a reflection of intermediate presentation of sialic acid moieties in cells without CFTR.
+As shown in Fig. (2) in which ELISA assays using MAL II are shown, the DeltaF508 line have lower absorbance readings at all concentrations ranging from 12.5 microg to 100 microg compared to the WT and BPV cell lines (p<0.0005).
+The membrane sialic acid alpha2,3 residues recognized by MAL II of the DeltaF508 line are consistently reduced when compared to the WT and BPV cells.
+Cholera toxin binds specifically to the carboxyl group of the Neu5Ac moiety and the terminal galactose of GM1 [22].
+The binding of cholera toxin beta-biotin to the cell membrane isolates was measured by spectrophotometric reaction of Avidin D and substrate with bound cholera toxin beta subunit-biotin.
+The DeltaF508 line has significantly less (p<0.05) binding of the cholera toxin beta subunit compared to WT and BPV cell lines in nine experiments.
+As shown, the absorbance reading that corresponds to the binding of cholera toxin is less in DeltaF508 cells compared to either WT or BPV cells.
+A FACScan analysis of sialo-GM1 receptors for cholera toxin beta-subunit demonstrates that DeltaF508 cells have a significantly decreased presentation of such GM1 sites compared to WT cells, as shown in Fig. (4).
+DeltaF508 CFTR cells have decreased surface membrane sialic acids compared to controls.
+For this analysis all sialic acids were converted to the parent conformation by treatment with 0.1M NaOH prior to analysis; this step was performed to increase reproducibility of results even though the only sialic acid noted in untreated samples was Neu5Ac.
+DeltaF508 CFTR cells have similar cytoplasmic levels of sialic acids compared to controls.
+This implies that the CFTR is not required for sialic acid synthesis and that the DeltaF508 mutation does not alter synthesis of sialic acids.
+This study shows that the heterologous expression of DeltaF508 CFTR in cells which do not normally express CFTR results in a quantitative decrease in the sialylation of cell membrane glycoconjugates.
+The specific binding of lectins to sialic acids in the Neu5Acalpha2,3 GaIbeta1-4GlcNAc linkage is significantly higher in WT and BPV cell lines than in cells with the AF508 CFTR.
+The cells with DeltaF508 CFTR also have a lower level of GM1, as evidenced by decreased binding to cholera toxin.
+This study provides direct evidence for a sialylation defect of cells expressing DeltaF508 CFTR and corroborates reports using qualitative observations using lectin and antibody binding to detect membrane sialic acids [15].
+The precise role of CFTR in the trafficking of proteins and gangliosides to the cell surface has not been elucidated.
+The results from this study indicate that the CFTR is not required for normal sialylation because the BPV cells and WT cells have equivalent sialylation of cytosolic components.
+It is possible that the over-expression of the DeltaF508 CFTR, retained in the RER at physiologic temperatures, leads to altered sialylation by a previously undescribed pathway.
+One hypothesis is that the DeltaF508 CFTR defect induces defective acidification of Golgi vesicles, which could decrease activity of pH-dependent sialyltransferases, but Verkman, using ratio-imaging confocal microscopy with liposomal injection into the lumen of trans-Golgi has provided direct evidence that pH of the trans-Golgi compartment is not altered by CFTR expression and activation [24].
+Verkman's additional studies indicated that the CFTR is involved in endosomal fusion, which could alter processing and distribution of membrane components [3], thus providing an alternative hypothesis for defective post-translational modifications.
+Duncan and Kornfeld reported that internalized proteins are exposed to a sialyltransferase in the trans-Golgi network in approximately 10% of internalization cycles [14].
+Therefore, defective vesicle fusion, defective sialyltransferase activity, or a combination of the two may lead to altered post-translational modification of proteins and lipids, as occurs in the cells expressing DeltaF508 CFTR.
+An increase of asialo-GM1 in cells with the DeltaF508 CFTR mutation is important because presentation of the Galbeta1-3GalNAcbeta1-4 Galbeta1-4 Glc-ceramide of asialo-GM1 serves as a receptor for Pseudomonas and other bacteria, such as S. aureus and K. pneumoniae [1].
+A decrease in membrane sialylation of GM1 is likely to be responsible for characteristic pulmonary infections that contribute to the morbidity and mortality of CF [26].
+Further work will be necessary to clarify whether altered sialylation in cells that express DeltaF508 CFTR may contribute to other facets of the clinical presentation.

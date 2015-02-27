@@ -1,0 +1,20 @@
+The number of pups in the litter differed according to mouse strain (nfemales = 52, npups = 387; DeltaAIC (Akaike information criterion) to the closest model (mouse strain x maternal treatment) = 3.01, p = 0.0023), with MF1 mothers giving birth to significantly more pups (4.24 more +/- 0.29) than the two other mouse strains that did not differ significantly (C57Bl/6 6.58 +/- 0.61 and BalbC 5.61 +/- 0.59 pups per dam).
+The ranges of litter sizes were four to nine pups for C57Bl/6 dams, 6-11 pups for BalbC and 6-13 pups for MF1.
+DK 6 5 1
+To minimize the amount of blood collected from each pup, individuals were either sampled for immunological assays (at weaning n = 151 pups) or for RBC counts and thin smears (n = 231 pups).
+RBC density was measured by using flow cytometry (Beckman Coulter).
+Plates (Immunosorb, NUNC) were coated with 50 mul of 1 mug ml-1 solution of P. chabaudi AS MSP1 antigen freeze-thawed crude lysate (plasmid kindly provided by J. Langhorne) in carbonate buffer.
+The plates were coated overnight at 4degreesC and the wells were blocked with 5 per cent bovine serum albumin (Sigma) in carbonate buffer for 2 h at 37degreesC.
+Antibody binding was detected using horseradish peroxidase-conjugated anti-murine IgG2a (Southern Biotech 1080 05) at concentration 1 : 4000 for MF1 and BalbC and 1 : 200 for C57Bl/6 (different IgG2a isotype) and ABTS peroxidase substrate (Sigma).
+Using R statistical software [30], a series of ANOVA/ANCOVA and mixed-effects models (linear mixed models and generalized additive mixed models (GAMM)) was constructed (table 2).
+pups survival pup parasite genotype, maternal treatment, mouse strain, pup sex cage effect nested in dam effect pup parasite genotype x maternal treatment; figure 3
+lowest RBC count pup parasite genotype, maternal treatment, mouse strain, pup sex cage effect nested in dam effect maternal treatment x pup parasite genotype, mouse strain; electronic supplementary material, figure S2
+Once corrected for maternal treatment, C57Bl/6 mice had antibody levels that were 0.45 +/- 0.15 units lower than the other two strains with no significant difference between BalbC and MF1 females.
+Specific anti-malaria (MSP1 antigen) antibody levels of dams at weaning of their pups, according to mouse strain: (a) C57Bl/6, (b) BalbC, (c) MF1 and maternal treatment.
+Specific anti-malaria (MSP1 antigen) antibody levels of dams at weaning of their pups, according to mouse strain: (a) C57Bl/6, (b) BalbC, (c) MF1 and maternal treatment.
+Correlation at weaning of the pups between specific anti-malaria (MSP1 antigen) antibody levels of females and their pups according to maternal treatment and mouse strains: (a) C57Bl/6, (b) BalbC, (c) MF1.
+Correlation at weaning of the pups between specific anti-malaria (MSP1 antigen) antibody levels of females and their pups according to maternal treatment and mouse strains: (a) C57Bl/6, (b) BalbC, (c) MF1.
+Survival of the pups according to pup treatment, maternal treatment and mouse strain: (a) C57Bl/6, (b) BalbC and (c) MF1.
+Survival of the pups according to pup treatment, maternal treatment and mouse strain: (a) C57Bl/6, (b) BalbC and (c) MF1.
+Despite the differences in the Th1- and Th2-oriented immune responses of BalbC and C57Bl/6 strains, Helmby et al. [61] have shown that both strains develop anti-malarial IgG at a similar rate and magnitude after repeated exposures to malaria [61].
+As maternal immunity relies on the production of antibodies, we tested if the difference in the initial orientation of maternal immune responses of C57Bl/6 and BalbC strains might affect the protection transferred to the pups.
