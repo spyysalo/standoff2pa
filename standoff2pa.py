@@ -48,6 +48,10 @@ class Annotation(object):
         """Verify reference text for textbound annotations."""
         pass
 
+    def pa_id(self):
+        """Return the PubAnnotation ID for the annotation."""
+        return self.id
+
     def to_pubannotation(self, ann_by_id):
         raise NotImplementedError
 
@@ -94,7 +98,7 @@ class Textbound(Annotation):
             print >> sys.stderr, 'Warning: flattening span %s to %d-%d' % \
                 (self.spans, start, end)
         doc = {
-            'id': self.id,
+            'id': self.pa_id(),
             'obj': self.type,
             'span': { 'begin': start, 'end': end },
         }
@@ -131,7 +135,7 @@ class Relation(Annotation):
     def to_pubannotation(self, ann_by_id):
         arg1, arg2 = self.get_args()
         doc = {
-            'id': self.id,
+            'id': self.pa_id(),
             'pred': self.type,
             'subj': arg1[1],
             'obj': arg2[1],
@@ -161,6 +165,11 @@ class Event(Annotation):
     def get_args(self):
         return [a.split(':', 1) for a in self.args.split(' ')]        
 
+    def pa_id(self):
+        """Return the PubAnnotation ID for the annotation."""
+        # Events are represented using their triggers only.
+        return self.trigger
+
     def to_pubannotation(self, ann_by_id):
         relations = []
         for key, val in self.get_args():
@@ -169,7 +178,7 @@ class Event(Annotation):
             doc = {
                 'id': rid,
                 'pred': 'has'+key,
-                'subj': val,
+                'subj': ann_by_id[val].pa_id(),
                 'obj': self.trigger,
             }
             relations.append(doc)
@@ -202,7 +211,7 @@ class Normalization(Annotation):
         spans = self.get_spans(ann_by_id)
         start, end = spans[0][0], spans[-1][1]
         denotation = {
-            'id': self.id,
+            'id': self.pa_id(),
             'obj': self.ref,
             'span': { 'begin': start, 'end': end },
         }
@@ -211,8 +220,8 @@ class Normalization(Annotation):
         relation = {
             'id': rid,
             'pred': 'Normalization',
-            'subj': self.arg,
-            'obj': self.id,
+            'subj': ann_by_id[self.arg].pa_id(),
+            'obj': self.pa_id(),
         }
         return {
             'denotations': [denotation],
@@ -240,9 +249,9 @@ class Attribute(Annotation):
     def to_pubannotation(self, ann_by_id):
         pred = self.type + (self.val if self.val is not None else '')
         doc = {
-            'id': self.id,
+            'id': self.pa_id(),
             'pred': pred,
-            'obj': self.arg,
+            'obj': ann_by_id[self.arg].pa_id(),
         }
         return {
             'modifications': [doc],
@@ -270,7 +279,7 @@ class Comment(Annotation):
         spans = self.get_spans(ann_by_id)
         start, end = spans[0][0], spans[-1][1]
         doc = {
-            'id': self.id,
+            'id': self.pa_id(),
             'obj': self.text,
             'span': { 'begin': start, 'end': end },
         }
