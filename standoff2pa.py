@@ -178,8 +178,8 @@ class Event(Annotation):
             doc = {
                 'id': rid,
                 'pred': 'has'+key,
-                'subj': ann_by_id[val].pa_id(),
-                'obj': self.trigger,
+                'subj': self.trigger,
+                'obj': ann_by_id[val].pa_id(),
             }
             relations.append(doc)
         return {
