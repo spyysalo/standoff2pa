@@ -1,0 +1,60 @@
+T1g	GGP 94 102	oxytocin
+NT1g0	Reference T1g ENSGF:43687	oxytocin
+NT1g1	Reference T1g HG:55494	oxytocin
+NT1g3	Reference T1g ENSF:7624	oxytocin
+NT1g4	Reference T1g NCBITaxon:9913	Bos taurus
+T2g	GGP 390 398	oxytocin
+NT2g0	Reference T2g ENSGF:43687	oxytocin
+NT2g1	Reference T2g HG:55494	oxytocin
+NT2g3	Reference T2g ENSF:7624	oxytocin
+NT2g4	Reference T2g NCBITaxon:9913	Bos taurus
+T3g	GGP 400 402	OT
+NT3g0	Reference T3g ENSGF:43687	oxytocin
+NT3g1	Reference T3g HG:55494	oxytocin
+NT3g3	Reference T3g ENSF:7624	oxytocin
+NT3g4	Reference T3g NCBITaxon:9913	Bos taurus
+T4g	GGP 485 495	PGF2 alpha
+NT4g4	Reference T4g NCBITaxon:9913	Bos taurus
+T5g	GGP 692 702	PGF2 alpha
+NT5g4	Reference T5g NCBITaxon:9913	Bos taurus
+T11g	Positive_regulation 471 484	OT-stimulated
+T7g	Regulation 261 267	effect
+T10g	Gene_expression 496 506	production
+T8g	Regulation 347 357	regulation
+T9g	Positive_regulation 461 470	increased
+T6g	Gene_expression 33 43	production
+T12g	Localization 721 729	secreted
+E10g	Gene_expression:T10g Theme:T4g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.8603
+E1g	Gene_expression:T6g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.2816
+E2g	Localization:T12g Theme:T5g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.8538
+E3g	Regulation:T7g Theme:E5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.3277
+E4g	Regulation:T7g Theme:E6g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.5760
+E5g	Regulation:T8g Theme:T2g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.0225
+E6g	Regulation:T8g Theme:T3g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.3198
+E7g	Positive_regulation:T9g Theme:E10g
+AE7gconf	Confidence E7g high
+#E7gconf	Confidence E7g	4.7721
+E8g	Positive_regulation:T11g Theme:T4g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.7592
+E9g	Positive_regulation:T11g Theme:E10g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.8708
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	88.2725
+AE4gS	Speculation E4g
+#E4gSconf	Confidence AE4gS	88.2725

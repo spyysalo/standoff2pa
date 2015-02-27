@@ -1,0 +1,6 @@
+Rare somatic p53 mutation identified in breast cancer: a case report.
+Most p53 mutations occur in the central part of the p53 gene that codes for the DNA-binding domain.
+Functional analysis of p53 transactivation ability in yeast (FASAY) was used to screen for p53 mutations in tumors and a mutant p53 protein retaining partial activity was identified.
+We characterized this somatic p53 mutation in codon 337: transition C-->T, changing codon CGC to TGC and causing substitution of arginine for cysteine in exon 10, which codes for the tetramerization domain of p53.
+We detected high accumulation of this mutant p53 protein within the tumor tissue and found that it cannot be immunoprecipitated by either a wild-type p53-specific antibody (PAb1620) or by a mutant p53-specific antibody (PAb240).
+We confirmed the somatic origin of the mutation by analysis of p53 status in peripheral leukocytes.

@@ -1,0 +1,35 @@
+T1g	GGP 14 19	Fused
+NT1g2	Reference T1g EG:6631340	Fused
+NT1g3	Reference T1g ENSF:4065	fu
+NT1g4	Reference T1g NCBITaxon:7244	Drosophila virilis
+T2g	GGP 21 23	Fu
+NT2g0	Reference T2g ENSGF:28898	fu
+NT2g3	Reference T2g ENSF:4065	fu
+NT2g4	Reference T2g NCBITaxon:7244	Drosophila virilis
+T6r	Entity 88 94	domain
+T3g	GGP 146 193	fu homologous gene from Drosophila virilis (Dv)
+NT3g4	Reference T3g NCBITaxon:7244	Drosophila virilis
+T7r	Entity 433 439	domain
+T8r	Entity 481 485	exon
+T4g	GGP 493 503	Dm fu gene
+NT4g0	Reference T4g ENSGF:28898	fu
+NT4g1	Reference T4g HG:80351	Fu
+NT4g3	Reference T4g ENSF:4065	fu
+NT4g4	Reference T4g NCBITaxon:7244	Drosophila virilis
+T5g	GGP 618 628	Fu protein
+NT5g0	Reference T5g ENSGF:28898	fu
+NT5g3	Reference T5g ENSF:4065	fu
+NT5g4	Reference T5g NCBITaxon:7244	Drosophila virilis
+T6g	Positive_regulation 588 600	conservation
+E1g	Positive_regulation:T6g Theme:T5g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.2230
+R1r	Protein-Component Arg1:T1g Arg2:T6r
+AR1rconf	Confidence R1r medium
+#R1rconf	Confidence R1r	2.6699
+R2r	Protein-Component Arg1:T4g Arg2:T7r
+AR2rconf	Confidence R2r high
+#R2rconf	Confidence R2r	4.4251
+R3r	Protein-Component Arg1:T4g Arg2:T8r
+AR3rconf	Confidence R3r high
+#R3rconf	Confidence R3r	4.1258

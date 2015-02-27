@@ -1,0 +1,12 @@
+T1g	GGP 8 15	Anti-Xa
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 179 186	anti-Xa
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 315 322	anti-Xa
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 518 525	anti-Xa
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	Positive_regulation 501 508	induced
+E1g	Positive_regulation:T5g Theme:T4g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.5430

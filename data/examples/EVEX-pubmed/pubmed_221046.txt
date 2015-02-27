@@ -1,0 +1,3 @@
+Role of cytoskeletal elements in cytochalasin E-induced superoxide production by human polymorphonuclear leukocytes.
+The release of superoxide anions from human polymorphonuclear leukocytes induced by cytochalasin E was greatly enhanced by the pretreatment of the cells either with deuterium oxide or with concanavalin A.
+These observations suggest the involvement of microfilament-microtubule system in the production and release of superoxide anions induced by cytochalasin E.

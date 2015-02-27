@@ -1,0 +1,62 @@
+T1g	GGP 66 76	hemoglobin
+NT1g0	Reference T1g ENSGF:59282	hemoglobin
+NT1g1	Reference T1g HG:68066	hemoglobin
+NT1g2	Reference T1g EG:3043	hemoglobin
+NT1g3	Reference T1g ENSF:362	hemoglobin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 220 230	hemoglobin
+NT2g0	Reference T2g ENSGF:59282	hemoglobin
+NT2g1	Reference T2g HG:68066	hemoglobin
+NT2g2	Reference T2g EG:3043	hemoglobin
+NT2g3	Reference T2g ENSF:362	hemoglobin
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 299 307	Cap site
+NT3g0	Reference T3g ENSGF:203705	CRP
+NT3g1	Reference T3g HG:3974	CAP
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 315 339	human Agamma-globin gene
+NT4g3	Reference T4g ENSF:362	hemoglobin
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 440 456	fetal hemoglobin
+NT5g0	Reference T5g ENSGF:59282	hemoglobin
+NT5g1	Reference T5g HG:68066	hemoglobin
+NT5g2	Reference T5g EG:3043	hemoglobin
+NT5g3	Reference T5g ENSF:362	hemoglobin
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 458 462	Hb F
+NT6g0	Reference T6g ENSGF:112722	F
+NT6g1	Reference T6g HG:122375	F
+NT6g3	Reference T6g ENSF:13029	F
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 631 655	beta-globin gene cluster
+NT7g0	Reference T7g ENSGF:59282	hemoglobin
+NT7g1	Reference T7g HG:68066	hemoglobin
+NT7g2	Reference T7g EG:3043	hemoglobin
+NT7g3	Reference T7g ENSF:362	hemoglobin
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 696 720	gamma-globin gene region
+NT8g0	Reference T8g ENSGF:59282	hemoglobin
+NT8g1	Reference T8g HG:68066	hemoglobin
+NT8g2	Reference T8g EG:3043	hemoglobin
+NT8g3	Reference T8g ENSF:362	hemoglobin
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 780 783	HVR
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 784 788	apoB
+NT10g0	Reference T10g ENSGF:154021	apoB
+NT10g1	Reference T10g HG:328	apoB
+NT10g2	Reference T10g EG:338	apoB
+NT10g3	Reference T10g ENSF:280	apoB
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 793 798	F8vWf
+NT11g1	Reference T11g HG:466	vWF
+NT11g2	Reference T11g EG:7450	vWF
+NT11g3	Reference T11g ENSF:10156	vWF
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	Positive_regulation 421 429	elevated
+E1g	Positive_regulation:T12g Theme:T5g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.1616
+E2g	Positive_regulation:T12g Theme:T6g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.1616

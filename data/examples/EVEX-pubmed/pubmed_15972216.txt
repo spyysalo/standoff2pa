@@ -1,0 +1,3 @@
+The influence of substrate charge and molecular structure on interphase transfer in cloud point extraction systems.
+The specificity of interphase transfer of organic reagents of different types between water and the nonionic-surfactant-rich phases at the cloud point temperature was investigated.
+Further evidence of the specificity of interphase transfer in micellar-extraction systems is independent and cooperative influence of substrate molecular structure and hydrophobicity on their distribution.

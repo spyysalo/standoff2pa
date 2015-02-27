@@ -1,0 +1,11 @@
+T1g	GGP 104 109	HBcAg
+NT1g4	Reference T1g NCBITaxon:10407	Hepatitis B virus
+T2g	GGP 114 119	HBsAg
+NT2g4	Reference T2g NCBITaxon:10407	Hepatitis B virus
+T3g	GGP 286 291	HBcAg
+NT3g4	Reference T3g NCBITaxon:10407	Hepatitis B virus
+T4g	GGP 295 300	HBsAg
+NT4g4	Reference T4g NCBITaxon:10407	Hepatitis B virus
+T5g	GGP 356 360	HBAg
+NT5g0	Reference T5g ENSGF:67710	HBAg
+NT5g4	Reference T5g NCBITaxon:10407	Hepatitis B virus

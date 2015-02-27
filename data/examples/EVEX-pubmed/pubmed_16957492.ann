@@ -1,0 +1,11 @@
+T1g	GGP 90 93	RAN
+NT1g0	Reference T1g ENSGF:195049	RAN
+NT1g1	Reference T1g HG:68143	RAN
+NT1g2	Reference T1g EG:5901	Ran
+NT1g3	Reference T1g ENSF:1878	RAN
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 301 309	early LD
+NT2g0	Reference T2g ENSGF:31847	LD
+NT2g1	Reference T2g HG:122032	LD
+NT2g3	Reference T2g ENSF:2480	LD
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens

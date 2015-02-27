@@ -1,0 +1,65 @@
+T1g	GGP 104 116	FIV env gene
+NT1g1	Reference T1g HG:130358	Env
+NT1g3	Reference T1g ENSF:41750	Env
+NT1g4	Reference T1g NCBITaxon:11673	Feline immunodeficiency virus
+T2g	GGP 128 133	IL-12
+NT2g1	Reference T2g HG:1648	IL-12
+NT2g3	Reference T2g ENSF:8034	IL-12
+NT2g4	Reference T2g NCBITaxon:11673	Feline immunodeficiency virus
+T3g	GGP 353 361	env gene
+NT3g2	Reference T3g EG:1489987	Env
+NT3g4	Reference T3g NCBITaxon:11673	Feline immunodeficiency virus
+T4g	GGP 366 378	feline IL-12
+NT4g1	Reference T4g HG:1648	IL-12
+NT4g3	Reference T4g ENSF:8034	IL-12
+NT4g4	Reference T4g NCBITaxon:11673	Feline immunodeficiency virus
+T5g	GGP 417 422	IL-12
+NT5g1	Reference T5g HG:1648	IL-12
+NT5g3	Reference T5g ENSF:8034	IL-12
+NT5g4	Reference T5g NCBITaxon:11673	Feline immunodeficiency virus
+T6g	GGP 509 515	FIV Z2
+NT6g1	Reference T6g HG:124395	ECs
+NT6g4	Reference T6g NCBITaxon:11673	Feline immunodeficiency virus
+T7g	GGP 676 679	CD4
+NT7g0	Reference T7g ENSGF:155785	CD4
+NT7g1	Reference T7g HG:513	CD4
+NT7g3	Reference T7g ENSF:7901	CD4
+NT7g4	Reference T7g NCBITaxon:11673	Feline immunodeficiency virus
+T8g	GGP 684 687	CD8
+NT8g0	Reference T8g ENSGF:83814	CD8
+NT8g1	Reference T8g HG:1339	CD8
+NT8g3	Reference T8g ENSF:19601	CD8
+NT8g4	Reference T8g NCBITaxon:11673	Feline immunodeficiency virus
+T9g	GGP 873 880	group 3
+NT9g0	Reference T9g ENSGF:129059	CDK11
+NT9g1	Reference T9g HG:22416	CDK11
+NT9g3	Reference T9g ENSF:995	CDK11
+NT9g4	Reference T9g NCBITaxon:9685	Felis catus
+T10g	GGP 882 911	surface-transmembrane protein
+NT10g4	Reference T10g NCBITaxon:9685	Felis catus
+T11g	GGP 916 921	IL-12
+NT11g1	Reference T11g HG:1648	IL-12
+NT11g3	Reference T11g ENSF:8034	IL-12
+NT11g4	Reference T11g NCBITaxon:9685	Felis catus
+T12g	GGP 1078 1125	surface-transmembrane protein domain of FIV env
+NT12g1	Reference T12g HG:130358	Env
+NT12g3	Reference T12g ENSF:41750	Env
+NT12g4	Reference T12g NCBITaxon:11673	Feline immunodeficiency virus
+T13g	GGP 1137 1142	IL-12
+NT13g1	Reference T13g HG:1648	IL-12
+NT13g3	Reference T13g ENSF:8034	IL-12
+NT13g4	Reference T13g NCBITaxon:11673	Feline immunodeficiency virus
+T14g	Gene_expression 134 144	expression
+T15g	Gene_expression 1060 1070	expression
+E1g	Gene_expression:T14g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.5761
+E2g	Gene_expression:T14g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.7669
+E3g	Gene_expression:T15g Theme:T12g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.4719
+E4g	Gene_expression:T15g Theme:T13g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.5310

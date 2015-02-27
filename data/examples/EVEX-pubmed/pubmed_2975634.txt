@@ -1,0 +1,7 @@
+Functional evidence for a monoclonal antibody that binds to the human IL-4 receptor.
+The complex pleiotropic effects of the T-cell derived lymphokine interleukin-4 (IL-4) are becoming increasingly well documented; however, functional studies have been hampered by the lack of reagents directed against the receptor for this factor.
+In this report, we present data which suggest that the monoclonal antibody MR6 binds to the human interleukin-4 receptor (IL-4R).
+Addition of MR6 to cultures of T cells proliferating in response to IL-4 inhibited this response in a dose-dependent fashion, giving total inhibition at 10 micrograms/ml.
+Similarly, the IL-4-dependent production of specific antigen-induced IgE by B-cell populations was completely abrogated by MR6.
+Flow cytometric studies of the modulation of cell surface molecules after T-cell activation suggest that expression of the molecule detected by MR6 (p145-MR6) correlates inversely with that of the interleukin-2 receptor (IL-2R).
+These data, together with the previously determined molecular weight and tissue distribution of this molecule, strongly indicate that MR6 binds to the human IL-4R.

@@ -1,0 +1,84 @@
+T1g	GGP 8 23	GSTP1 genotypes
+NT1g0	Reference T1g ENSGF:339664	GSTP1
+NT1g1	Reference T1g HG:660	GSTP1
+NT1g3	Reference T1g ENSF:5089	GSTP1
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 114 140	glutathione S-transferases
+NT2g0	Reference T2g ENSGF:173422	glutathione S-transferase
+NT2g3	Reference T2g ENSF:2642	glutathione S-transferase
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 354 379	glutathione S-transferase
+NT3g0	Reference T3g ENSGF:173422	glutathione S-transferase
+NT3g3	Reference T3g ENSF:2642	glutathione S-transferase
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 381 384	GST
+NT4g0	Reference T4g ENSGF:198023	GST
+NT4g1	Reference T4g HG:12199	GST
+NT4g3	Reference T4g ENSF:667	GST
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 431 435	GSTs
+NT5g0	Reference T5g ENSGF:198023	GST
+NT5g1	Reference T5g HG:12199	GST
+NT5g3	Reference T5g ENSF:667	GST
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 437 442	GSTP1
+NT6g0	Reference T6g ENSGF:339664	GSTP1
+NT6g1	Reference T6g HG:660	GSTP1
+NT6g3	Reference T6g ENSF:5089	GSTP1
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 599 609	GSTP1 gene
+NT7g0	Reference T7g ENSGF:339664	GSTP1
+NT7g1	Reference T7g HG:660	GSTP1
+NT7g3	Reference T7g ENSF:5089	GSTP1
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 768 778	GSTP1 gene
+NT8g0	Reference T8g ENSGF:339664	GSTP1
+NT8g1	Reference T8g HG:660	GSTP1
+NT8g3	Reference T8g ENSF:5089	GSTP1
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 877 895	plasma osteocalcin
+NT9g0	Reference T9g ENSGF:116258	osteocalcin
+NT9g1	Reference T9g HG:104130	osteocalcin
+NT9g3	Reference T9g ENSF:45397	osteocalcin
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 897 899	OC
+NT10g0	Reference T10g ENSGF:116258	osteocalcin
+NT10g1	Reference T10g HG:104130	osteocalcin
+NT10g3	Reference T10g ENSF:45397	osteocalcin
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 902 933	serum bone alkaline phosphatase
+NT11g0	Reference T11g ENSGF:215110	alkaline phosphatase
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 955 986	RANKL and serum osteoprotegerin
+NT12g0	Reference T12g ENSGF:215736	RANKL
+NT12g1	Reference T12g HG:2744	RANKL
+NT12g3	Reference T12g ENSF:11220	RANKL
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 988 992	sOPG
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 1151 1156	sBALP
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 1161 1180	Ile105Val genotypes
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	Binding 39 51	interactions
+T19g	Positive_regulation 229 238	increased
+T17g	Positive_regulation 99 110	involvement
+T18g	Gene_expression 239 249	production
+E1g	Binding:T16g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.8950
+E2g	Positive_regulation:T17g Theme:E1g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.4567
+E3g	Gene_expression:T18g Theme:T3g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.2668
+E4g	Gene_expression:T18g Theme:T4g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.2668
+E5g	Positive_regulation:T19g Theme:E3g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.7554
+E6g	Positive_regulation:T19g Theme:E4g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.7554

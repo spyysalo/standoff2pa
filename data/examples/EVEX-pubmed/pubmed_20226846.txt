@@ -1,0 +1,4 @@
+Active and passive tumor targeting of a novel poorly soluble cyclin dependent kinase inhibitor, JNJ-7706621.
+The anti-cancer cyclin dependent kinase (CDK) inhibitors are poorly soluble drugs.
+The aims of this work were (i) to formulate a novel CDK inhibitor, JNJ-7706621, in polymeric micelles and nanoparticles, (ii) to compare passive and active targeting on tumor growth and (iii) to evaluate the potential synergy of JNJ-7706621 with Paclitaxel.
+Therefore, JNJ-7706621 was encapsulated in self-assembling diblock copolymers made up of epsilon-caprolactone (CL) and trimethylene carbonate (TMC) (PEG-p-(CL-co-TMC)) polymeric micelles and in (poly(lactide-co-glycolide)) (PLGA)-based PEGylated nanoparticles (passive targeting) as well as in RGD-grafted nanoparticles (active targeting).

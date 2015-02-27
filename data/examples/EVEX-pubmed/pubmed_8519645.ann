@@ -1,0 +1,41 @@
+T1g	GGP 73 84	anti-enzyme
+NT1g4	Reference T1g NCBITaxon:10090	Mus musculus
+T2g	GGP 181 197	carboxypeptidase
+NT2g0	Reference T2g ENSGF:130086	carboxypeptidase
+NT2g1	Reference T2g HG:37541	carboxypeptidase
+NT2g3	Reference T2g ENSF:688	carboxypeptidase
+NT2g4	Reference T2g NCBITaxon:10090	Mus musculus
+T3g	GGP 254 272	anti-CPG2 antibody
+NT3g4	Reference T3g NCBITaxon:10090	Mus musculus
+T4g	GGP 274 282	SB43-GAL
+NT4g4	Reference T4g NCBITaxon:10090	Mus musculus
+T5g	GGP 285 293	SB43-GAL
+NT5g4	Reference T5g NCBITaxon:10090	Mus musculus
+T6g	GGP 504 508	CPG2
+NT6g1	Reference T6g HG:52329	Fig. 8b
+NT6g2	Reference T6g EG:64009	CPG2
+NT6g3	Reference T6g ENSF:1260	Fig. 8b
+NT6g4	Reference T6g NCBITaxon:10090	Mus musculus
+T7g	GGP 557 561	SB43
+NT7g0	Reference T7g ENSGF:8092	SB43
+NT7g4	Reference T7g NCBITaxon:10090	Mus musculus
+T8g	GGP 562 565	GAL
+NT8g0	Reference T8g ENSGF:265179	galanin
+NT8g1	Reference T8g HG:7724	galanin
+NT8g2	Reference T8g EG:14419	galanin
+NT8g3	Reference T8g ENSF:29652	galanin
+NT8g4	Reference T8g NCBITaxon:10090	Mus musculus
+T9g	Negative_regulation 170 180	localising
+T10g	Negative_regulation 488 500	inactivation
+E1g	Negative_regulation:T10g Theme:T6g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.7953
+E2g	Negative_regulation:T9g Theme:T2g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.6358
+E3g	Negative_regulation:T9g Theme:T3g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.6358
+E4g	Negative_regulation:T9g Theme:T4g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.6358

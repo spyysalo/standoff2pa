@@ -1,0 +1,7 @@
+In this report, the secretory response to Ca2+ in GH3 rat pituitary cells permeabilized by electric field discharge has been compared in both magnitude and Ca2+ sensitivity to prolactin (PRL) release from intact GH3 cells.
+The half-maximally effective [Ca2+] for stimulating PRL release in permeable cells was approximately 0.5 microM, and maximal stimulation was obtained at 3-10 microM Ca2+.
+Moreover, the Ca2+ sensitivity of PRL release in intact GH3 cells (measured by Quin 2 fluorescence) closely resembled the Ca2+ sensitivity determined in permeable cells.
+Release of a sulfated proteoglycan whose release is stimulated by secretagogues in intact cells was stimulated by Ca2+ in permeable cells with the same Ca2+ sensitivity as for PRL release.
+Maximal Ca2+ stimulation of PRL release in permeable cells required the addition of MgATP.
+The above results indicated that PRL release from permeable cells resembles the physiological process in intact cells.
+Among calmodulin antagonists tested, only trifluoroperazine inhibited Ca2+-stimulated secretion, whereas pimozide and calmidazolium did not.

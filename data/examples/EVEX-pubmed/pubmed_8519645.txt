@@ -1,0 +1,5 @@
+Plasma clearance of an antibody--enzyme conjugate in ADEPT by monoclonal anti-enzyme: its effect on prodrug activation in vivo.
+Mice bearing LS174T xenografts were given localising carboxypeptidase G2 (CPG)2 conjugate (AEC) and 19 h later galactosylated anti-CPG2 antibody (SB43-GAL).
+SB43-GAL therefore accelerated clearance of enzyme allowing early administration of prodrug.
+Residual prodrug in tumour was unaffected by SB43-GAL, showing the advantage of galactosylation in minimising inactivation of CPG2 in tumour.
+Circulatory clearance of enzyme with SB43-GAL allows prodrug to be administered expediently with reduced toxicity and with the prospect of increasing the dosage.

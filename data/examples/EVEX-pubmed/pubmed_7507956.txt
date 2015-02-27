@@ -1,0 +1,3 @@
+The lytic properties of several clones of rat basophilic leukemia cells transfected with either cytolysin (perforin) alone (RBL-cy) or a combination of cytolysin and granzyme A (RBL-cy-gza) were compared with cloned CTL.
+Using three different tumor target cells, comparison of RBL-cy-gza and RBL-cy clones in multiple experiments shows that RBL-cy-gza are on average more than threefold more lytic than RBL-cy.
+A second approach to this issue consisted of cytoplasmic loading of tumor target cells with aprotinin, a macromolecular protease inhibitor known to inhibit granzyme A and probably other granzymes.

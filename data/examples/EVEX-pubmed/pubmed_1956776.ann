@@ -1,0 +1,81 @@
+T1g	GGP 20 25	HIV-1
+NT1g0	Reference T1g ENSGF:311185	HIV-1
+NT1g1	Reference T1g HG:36056	HIV-1
+NT1g3	Reference T1g ENSF:8520	HIV-1
+NT1g4	Reference T1g NCBITaxon:11676	Human immunodeficiency virus 1
+T2g	GGP 33 44	Tat protein
+NT2g4	Reference T2g NCBITaxon:11676	Human immunodeficiency virus 1
+T3g	GGP 233 240	TAR RNA
+NT3g0	Reference T3g ENSGF:127103	TAR
+NT3g1	Reference T3g HG:3744	TAR
+NT3g3	Reference T3g ENSF:7825	TAR
+NT3g4	Reference T3g NCBITaxon:11676	Human immunodeficiency virus 1
+T4g	GGP 338 341	Tat
+NT4g2	Reference T4g EG:155871	Tat
+NT4g4	Reference T4g NCBITaxon:11676	Human immunodeficiency virus 1
+T5g	GGP 382 385	Tat
+NT5g2	Reference T5g EG:155871	Tat
+NT5g4	Reference T5g NCBITaxon:11676	Human immunodeficiency virus 1
+T6g	GGP 610 613	Tat
+NT6g2	Reference T6g EG:155871	Tat
+NT6g4	Reference T6g NCBITaxon:11676	Human immunodeficiency virus 1
+T7g	GGP 709 712	Tat
+NT7g2	Reference T7g EG:155871	Tat
+NT7g4	Reference T7g NCBITaxon:11676	Human immunodeficiency virus 1
+T8g	GGP 781 784	Tat
+NT8g2	Reference T8g EG:155871	Tat
+NT8g4	Reference T8g NCBITaxon:11676	Human immunodeficiency virus 1
+T9g	GGP 886 889	Tat
+NT9g2	Reference T9g EG:155871	Tat
+NT9g4	Reference T9g NCBITaxon:11676	Human immunodeficiency virus 1
+T10g	GGP 932 949	HIV-2 Tat protein
+NT10g4	Reference T10g NCBITaxon:11676	Human immunodeficiency virus 1
+T11g	GGP 1048 1051	Tat
+NT11g2	Reference T11g EG:155871	Tat
+NT11g4	Reference T11g NCBITaxon:11676	Human immunodeficiency virus 1
+T12g	GGP 1114 1122	HIV gene
+NT12g4	Reference T12g NCBITaxon:11676	Human immunodeficiency virus 1
+T23g	Gene_expression 1123 1133	expression
+T22g	Positive_regulation 1105 1113	increase
+T20g	Binding 916 924	activity
+T16g	Negative_regulation 701 708	inhibit
+T21g	Binding 1052 1061	interacts
+T17g	Positive_regulation 596 605	important
+T15g	Negative_regulation 398 405	reduced
+T19g	Positive_regulation 890 899	induction
+T14g	Positive_regulation 48 56	mediated
+T18g	Negative_regulation 858 867	decreased
+T13g	Positive_regulation 0 16	Trans-activation
+E10g	Negative_regulation:T16g Theme:T7g
+AE10gconf	Confidence E10g low
+#E10gconf	Confidence E10g	1.6919
+E11g	Positive_regulation:T17g Theme:T6g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	2.4351
+E1g	Positive_regulation:T13g Theme:T1g Cause:T2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.4131
+E2g	Positive_regulation:T14g Theme:E1g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.7243
+E3g	Negative_regulation:T18g Theme:E4g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.5008
+E4g	Positive_regulation:T19g Theme:T9g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.5091
+E5g	Binding:T20g Theme:T10g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.5472
+E6g	Positive_regulation:T22g Theme:E7g Cause:T11g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.4607
+E7g	Gene_expression:T23g Theme:T12g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.6490
+E8g	Binding:T21g Theme:T11g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.8525
+E9g	Negative_regulation:T15g Theme:T5g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	2.5189

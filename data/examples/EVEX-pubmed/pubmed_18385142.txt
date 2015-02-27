@@ -1,0 +1,6 @@
+OBJECTIVES: The aim of this study is to evaluate the prevalence and diversity of extended-spectrum beta-lactamases (ESBLs) in Enterobacter cloacae clinical isolates collected from Algerian hospitals and to verify the association with qnr genes.
+METHODS: MICs were determined by Etest for isolates giving positive double-disc synergy tests, and all isolates were screened by PCR and sequenced, respectively, for bla(TEM), bla(CTX-M), bla(SHV) and bla(VEB) genes and for qnr genes (qnrA, qnrB, qnrS), using specific primers.
+RESULTS: The prevalence of ESBLs was 25/141 (17.7%) with 11, 9, 4 and 1 isolates testing positive for genes encoding CTX-M-15, CTX-M-3, SHV-12 and VEB-1, respectively.
+Two SHV-12 producers and one CTX-M-15 producer expressed QnrS1, one isolate produced CTX-M-15 and QnrB1 and one SHV-12 producer co-expressed QnrS1 and QnrB4.
+CONCLUSIONS: SHV-12, QnrS1, QnrB1 and QnrB4 were reported for the first time in Algeria.
+This study also described a co-expression of qnrS1 and qnrB4 by an SHV-12 producer isolate.

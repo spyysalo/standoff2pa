@@ -1,0 +1,5 @@
+Transient Tat activation of the HIVLAV/Lai-1 LTR by primary HIV-1 phenotypic variants in HeLaT4LTRbeta-gal cells.
+To reveal possible differences in Tat-mediated transactivation, the potential for primary isolate Tat proteins to transactivate the LTR from the laboratory strain HIVLAV/Lai-1 was examined.
+Using either cell-mediated or PEG-induced fusion of cells infected with primary HIV-1 isolates and HeLaT4LTRbeta-gal cells, it was clear that the Tat protein encoded by all patient isolates efficiently activated transcription from the HIVLAV/Lai-1 LTR.
+However, infection of HeLaT4LTRbeta-gal cells by primary HIV-1 isolates was transient, suggesting the development of a postpenetration host control of HIV-1 replication at the level of tat activation, a feature not observed for the laboratory-adapted strain HIVIIIB.
+Although plasmid vectors based on the HIVLAV/Lai-1 LTR remain useful for the development of susceptible established cell lines for titrating primary HIV-1 isolates, the efficacy of such a system would depend upon the stability/duration of Tat activation.

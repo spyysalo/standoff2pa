@@ -1,0 +1,5 @@
+A prophenoloxidase from Artemia sinica: cDNA cloning, expression and activity analysis during early development.
+To understand the defense mechanisms of Crustacean animals, brine shrimp Artemia sinica prophenoloxidase (AsproPO) cDNA was cloned and its expression at early developmental stages was examined by reverse-transcription PCR (RT-PCR) and semi-quantitative RT-PCR, and activity of phenoloxidase (PO) at different developmental stages was further detected by using l-3,4-dihydroxyphenylalanine (l-DOPA) as a specific substrate in this study.
+The deduced amino acid sequence of AsproPO has two putative copper binding sites highly conserved in Arthropods.
+Semi-quantitative RT-PCR analyses showed that the gene of AsproPO expressed at Emergence, Instar I and Instar II stages but did not at 0 h and 6 h stages.
+Activity measurement showed that PO activity could only be detected at Instar II stage but the other measured stages.

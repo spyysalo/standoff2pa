@@ -1,0 +1,23 @@
+T1g	GGP 85 97	somatotropin
+NT1g2	Reference T1g EG:396884	growth hormone
+NT1g3	Reference T1g ENSF:1499	GH
+NT1g4	Reference T1g NCBITaxon:9823	Sus scrofa
+T2g	GGP 178 190	somatotropin
+NT2g2	Reference T2g EG:396884	growth hormone
+NT2g3	Reference T2g ENSF:1499	GH
+NT2g4	Reference T2g NCBITaxon:9823	Sus scrofa
+T3g	GGP 192 195	pST
+NT3g0	Reference T3g ENSGF:143431	pST
+NT3g1	Reference T3g HG:120191	pST
+NT3g3	Reference T3g ENSF:25662	pST
+NT3g4	Reference T3g NCBITaxon:9823	Sus scrofa
+T4g	GGP 216 219	pST
+NT4g0	Reference T4g ENSGF:143431	pST
+NT4g1	Reference T4g HG:120191	pST
+NT4g3	Reference T4g ENSF:25662	pST
+NT4g4	Reference T4g NCBITaxon:9823	Sus scrofa
+T5g	GGP 324 342	beta2-adrenoceptor
+NT5g0	Reference T5g ENSGF:145772	beta2AR
+NT5g1	Reference T5g HG:30948	beta2AR
+NT5g3	Reference T5g ENSF:1074	beta2AR
+NT5g4	Reference T5g NCBITaxon:9823	Sus scrofa

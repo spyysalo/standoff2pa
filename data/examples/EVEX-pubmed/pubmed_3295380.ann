@@ -1,0 +1,22 @@
+T1g	GGP 100 114	immunoglobulin
+NT1g0	Reference T1g ENSGF:15152	immunoglobulin
+NT1g1	Reference T1g HG:1195	immunoglobulin
+NT1g2	Reference T1g EG:3547	immunoglobulin
+NT1g3	Reference T1g ENSF:16393	immunoglobulin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 166 180	immunoglobulin
+NT2g0	Reference T2g ENSGF:15152	immunoglobulin
+NT2g1	Reference T2g HG:1195	immunoglobulin
+NT2g2	Reference T2g EG:3547	immunoglobulin
+NT2g3	Reference T2g ENSF:16393	immunoglobulin
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 417 419	7S
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 420 423	IgG
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 561 575	immunoglobulin
+NT5g0	Reference T5g ENSGF:15152	immunoglobulin
+NT5g1	Reference T5g HG:1195	immunoglobulin
+NT5g2	Reference T5g EG:3547	immunoglobulin
+NT5g3	Reference T5g ENSF:16393	immunoglobulin
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens

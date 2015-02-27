@@ -1,0 +1,218 @@
+T1g	GGP 14 18	Cdh1
+NT1g0	Reference T1g ENSGF:316533	E-cadherin
+NT1g1	Reference T1g HG:20917	E-cadherin
+NT1g2	Reference T1g EG:999	E-cadherin
+NT1g3	Reference T1g ENSF:371	E-cadherin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 19 22	APC
+NT2g0	Reference T2g ENSGF:221534	APC
+NT2g1	Reference T2g HG:30950	APC
+NT2g2	Reference T2g EG:324	APC
+NT2g3	Reference T2g ENSF:3335	APC
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 30 57	MAD2-related protein MAD2L2
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 92 96	Cdh1
+NT4g0	Reference T4g ENSGF:316533	E-cadherin
+NT4g1	Reference T4g HG:20917	E-cadherin
+NT4g2	Reference T4g EG:999	E-cadherin
+NT4g3	Reference T4g ENSF:371	E-cadherin
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 186 193	cyclins
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 198 205	securin
+NT6g0	Reference T6g ENSGF:332937	securin
+NT6g1	Reference T6g HG:3110	securin
+NT6g3	Reference T6g ENSF:10728	securin
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 236 262	anaphase promoting complex
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 264 267	APC
+NT8g0	Reference T8g ENSGF:221534	APC
+NT8g1	Reference T8g HG:30950	APC
+NT8g2	Reference T8g EG:324	APC
+NT8g3	Reference T8g ENSF:3335	APC
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 278 283	Cdc20
+NT9g0	Reference T9g ENSGF:46615	Cdc20
+NT9g1	Reference T9g HG:37459	Cdc20
+NT9g2	Reference T9g EG:991	Cdc20
+NT9g3	Reference T9g ENSF:1831	Cdc20
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 287 291	Cdh1
+NT10g0	Reference T10g ENSGF:316533	E-cadherin
+NT10g1	Reference T10g HG:20917	E-cadherin
+NT10g2	Reference T10g EG:999	E-cadherin
+NT10g3	Reference T10g ENSF:371	E-cadherin
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 293 298	Cdc20
+NT11g0	Reference T11g ENSGF:46615	Cdc20
+NT11g1	Reference T11g HG:37459	Cdc20
+NT11g2	Reference T11g EG:991	Cdc20
+NT11g3	Reference T11g ENSF:1831	Cdc20
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 299 302	APC
+NT12g0	Reference T12g ENSGF:221534	APC
+NT12g1	Reference T12g HG:30950	APC
+NT12g2	Reference T12g EG:324	APC
+NT12g3	Reference T12g ENSF:3335	APC
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 378 382	MAD2
+NT13g0	Reference T13g ENSGF:259890	Mad2
+NT13g1	Reference T13g HG:1768	Mad2
+NT13g2	Reference T13g EG:4085	Mad2
+NT13g3	Reference T13g ENSF:5364	Mad2
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 397 401	Cdh1
+NT14g0	Reference T14g ENSGF:316533	E-cadherin
+NT14g1	Reference T14g HG:20917	E-cadherin
+NT14g2	Reference T14g EG:999	E-cadherin
+NT14g3	Reference T14g ENSF:371	E-cadherin
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 402 405	APC
+NT15g0	Reference T15g ENSGF:221534	APC
+NT15g1	Reference T15g HG:30950	APC
+NT15g2	Reference T15g EG:324	APC
+NT15g3	Reference T15g ENSF:3335	APC
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 477 481	Cdh1
+NT16g0	Reference T16g ENSGF:316533	E-cadherin
+NT16g1	Reference T16g HG:20917	E-cadherin
+NT16g2	Reference T16g EG:999	E-cadherin
+NT16g3	Reference T16g ENSF:371	E-cadherin
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 530 534	Cdh1
+NT17g0	Reference T17g ENSGF:316533	E-cadherin
+NT17g1	Reference T17g HG:20917	E-cadherin
+NT17g2	Reference T17g EG:999	E-cadherin
+NT17g3	Reference T17g ENSF:371	E-cadherin
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 542 559	MAD2-related gene
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 561 567	MAD2L2
+NT19g0	Reference T19g ENSGF:300615	MAD2B
+NT19g1	Reference T19g HG:4624	MAD2B
+NT19g2	Reference T19g EG:10459	MAD2B
+NT19g3	Reference T19g ENSF:10660	MAD2B
+NT19g4	Reference T19g NCBITaxon:9606	Homo sapiens
+T20g	GGP 569 575	MAD2L2
+NT20g0	Reference T20g ENSGF:300615	MAD2B
+NT20g1	Reference T20g HG:4624	MAD2B
+NT20g2	Reference T20g EG:10459	MAD2B
+NT20g3	Reference T20g ENSF:10660	MAD2B
+NT20g4	Reference T20g NCBITaxon:9606	Homo sapiens
+T21g	GGP 608 612	Cdh1
+NT21g0	Reference T21g ENSGF:316533	E-cadherin
+NT21g1	Reference T21g HG:20917	E-cadherin
+NT21g2	Reference T21g EG:999	E-cadherin
+NT21g3	Reference T21g ENSF:371	E-cadherin
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 613 616	APC
+NT22g0	Reference T22g ENSGF:221534	APC
+NT22g1	Reference T22g HG:30950	APC
+NT22g2	Reference T22g EG:324	APC
+NT22g3	Reference T22g ENSF:3335	APC
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	GGP 644 648	MAD2
+NT23g0	Reference T23g ENSGF:259890	Mad2
+NT23g1	Reference T23g HG:1768	Mad2
+NT23g2	Reference T23g EG:4085	Mad2
+NT23g3	Reference T23g ENSF:5364	Mad2
+NT23g4	Reference T23g NCBITaxon:9606	Homo sapiens
+T24g	GGP 652 657	Cdc20
+NT24g0	Reference T24g ENSGF:46615	Cdc20
+NT24g1	Reference T24g HG:37459	Cdc20
+NT24g2	Reference T24g EG:991	Cdc20
+NT24g3	Reference T24g ENSF:1831	Cdc20
+NT24g4	Reference T24g NCBITaxon:9606	Homo sapiens
+T25g	GGP 675 681	MAD2L2
+NT25g0	Reference T25g ENSGF:300615	MAD2B
+NT25g1	Reference T25g HG:4624	MAD2B
+NT25g2	Reference T25g EG:10459	MAD2B
+NT25g3	Reference T25g ENSF:10660	MAD2B
+NT25g4	Reference T25g NCBITaxon:9606	Homo sapiens
+T26g	GGP 686 690	MAD2
+NT26g0	Reference T26g ENSGF:259890	Mad2
+NT26g1	Reference T26g HG:1768	Mad2
+NT26g2	Reference T26g EG:4085	Mad2
+NT26g3	Reference T26g ENSF:5364	Mad2
+NT26g4	Reference T26g NCBITaxon:9606	Homo sapiens
+T35g	Negative_regulation 599 607	inhibits
+T34g	Regulation 519 529	regulating
+T33g	Regulation 406 416	regulation
+T31g	Protein_catabolism 129 140	degradation
+T37g	Regulation 634 640	effect
+T36g	Binding 589 594	binds
+T30g	Positive_regulation 116 124	requires
+T28g	Regulation 81 91	regulating
+T27e	Ubiquitination 214 228	ubiquitination
+T28e	Catalysis 214 228	ubiquitination
+T27g	Negative_regulation 0 10	Inhibition
+T29g	Binding 269 274	bound
+T32g	Regulation 306 315	regulated
+E10g	Positive_regulation:T30g Theme:E4g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.4658
+E11g	Positive_regulation:T30g Theme:E5g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	3.8328
+E12g	Regulation:T32g Theme:T11g Cause:T13g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	2.5512
+E13g	Regulation:T32g Cause:T13g Theme:T12g
+AE13gconf	Confidence E13g medium
+#E13gconf	Confidence E13g	3.3462
+E14g	Regulation:T33g Theme:T14g
+AE14gconf	Confidence E14g medium
+#E14gconf	Confidence E14g	2.9001
+E15g	Regulation:T33g Theme:T15g
+AE15gconf	Confidence E15g high
+#E15gconf	Confidence E15g	4.2778
+E16g	Regulation:T34g Theme:T17g
+AE16gconf	Confidence E16g low
+#E16gconf	Confidence E16g	1.4163
+E17g	Regulation:T37g Theme:T24g Cause:T23g
+AE17gconf	Confidence E17g medium
+#E17gconf	Confidence E17g	2.5906
+E18g	Binding:T36g Theme:T20g
+AE18gconf	Confidence E18g medium
+#E18gconf	Confidence E18g	3.2767
+E19g	Negative_regulation:T35g Theme:T21g Cause:T20g
+AE19gconf	Confidence E19g medium
+#E19gconf	Confidence E19g	2.3837
+E1e	Ubiquitination:T27e Theme:T6g
+AE1econf	Confidence E1e medium
+#E1econf	Confidence E1e	3.5602
+E1g	Regulation:T28g Theme:T4g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.8988
+E20g	Negative_regulation:T35g Theme:T22g Cause:T20g
+AE20gconf	Confidence E20g medium
+#E20gconf	Confidence E20g	2.3837
+E2e	Catalysis:T28e Theme:E1e
+AE2econf	Confidence E2e very-high
+#E2econf	Confidence E2e	5.0383
+E2g	Negative_regulation:T27g Cause:T3g Theme:T1g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.7628
+E3g	Negative_regulation:T27g Theme:T2g Cause:T3g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.7628
+E4g	Protein_catabolism:T31g Theme:T5g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.5074
+E5g	Protein_catabolism:T31g Theme:T6g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.8583
+E6g	Binding:T29g Theme:T10g Theme:T8g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.2265
+E7g	Binding:T29g Theme:T7g Theme:T10g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	2.2265
+E8g	Binding:T29g Theme:T8g Theme:T9g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.2265
+E9g	Binding:T29g Theme:T9g Theme:T7g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	2.2265

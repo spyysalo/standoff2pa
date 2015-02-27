@@ -1,0 +1,11 @@
+Toll-like receptor 4 is involved in brain damage and inflammation after experimental stroke.
+Toll-like receptor 4 (TLR4) is a signaling receptor in innate immunity that is a specific immunologic response to systemic bacterial infection and cerebral injury.
+The role of TLR4 in brain ischemia has not been examined yet.
+We have therefore investigated whether cerebral ischemia and inflammation produced by permanent occlusion of the middle cerebral artery differ in mice that lack a functional TLR4 signaling pathway.
+METHODS AND RESULTS: Permanent occlusion of the middle cerebral artery was performed on 2 strains of TLR4-deficient mice (C3H/HeJ and C57BL/10ScNJ) and respective controls (C3H/HeN and C57BL/10ScSn).
+When compared with control mice, TLR4-deficient mice had lower infarct volumes and better outcomes in neurological and behavioral tests.
+Mice that lacked TLR4 had minor expression of stroke-induced interferon regulatory factor-1, inducible nitric oxide synthase, and cyclooxygenase-2, mediators implicated in brain damage.
+The levels of interferon-beta and of the lipid peroxidation marker malondialdehyde were also lower in brains from TLR4-deficient mice than in those from control mice.
+In addition, the expression of matrix metalloproteinase-9, which is induced and mediates brain damage, was also reduced in TLR4-deficient mice after experimental stroke.
+CONCLUSIONS: TLR4-deficient mice have minor infarctions and less inflammatory response after an ischemic insult.
+These data demonstrate that TLR4 signaling and innate immunity are involved in brain damage and in inflammation triggered by ischemic injury.

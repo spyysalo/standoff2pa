@@ -1,0 +1,50 @@
+T1g	GGP 39 74	quinolinic acid synthesizing enzyme
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 76 111	3-hydroxyanthranilic acid oxygenase
+NT2g0	Reference T2g ENSGF:78936	HAD
+NT2g1	Reference T2g HG:8148	HAD
+NT2g2	Reference T2g EG:56823	3-hydroxyanthranilate oxygenase
+NT2g3	Reference T2g ENSF:9279	HAO
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 162 203	endogenous excitatory amino acid receptor
+NT3g0	Reference T3g ENSGF:154649	NMDA receptor
+NT3g1	Reference T3g HG:124357	NMDA receptor
+NT3g3	Reference T3g ENSF:4176	NMDA receptor
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 317 352	3-hydroxyanthranilic acid oxygenase
+NT4g0	Reference T4g ENSGF:78936	HAD
+NT4g1	Reference T4g HG:8148	HAD
+NT4g2	Reference T4g EG:56823	3-hydroxyanthranilate oxygenase
+NT4g3	Reference T4g ENSF:9279	HAO
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 354 358	3HAO
+NT5g0	Reference T5g ENSGF:78936	HAD
+NT5g1	Reference T5g HG:8148	HAD
+NT5g2	Reference T5g EG:56823	3-hydroxyanthranilate oxygenase
+NT5g3	Reference T5g ENSF:9279	HAO
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T8g	Localization 301 313	localization
+T6g	Localization 19 31	localization
+T7g	Regulation 372 383	responsible
+E1g	Localization:T6g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.2427
+E2g	Localization:T6g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.3355
+E3g	Regulation:T7g Theme:T4g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.6691
+E4g	Regulation:T7g Theme:T5g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.4494
+E5g	Localization:T8g Theme:T4g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.2641
+E6g	Localization:T8g Theme:T5g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.2641
+AE5gS	Speculation E5g
+#E5gSconf	Confidence AE5gS	65.4778
+AE6gS	Speculation E6g
+#E6gSconf	Confidence AE6gS	65.4778

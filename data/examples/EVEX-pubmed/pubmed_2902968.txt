@@ -1,0 +1,7 @@
+1. Cholera toxin and glucose induce the synthesis of antisecretory factors (ASF) of isoelectric points 5.0 and 4.3, respectively, and of a molecular mass of ca 60,000.
+ASF, in nanogram amounts, inhibit intestinal secretion induced by cholera toxin, Campylobacter toxin, E. coli heat-stable toxin, C. difficile toxin A, and Dinophysis toxin.
+Intraspinal injection of cholera toxin and glucose induces the synthesis of pituitary ASF much more effectively than does either peroral or intranasal administration.
+Cholera toxin and glucose seem to act synergistically while inducing ASF.
+Vagotomy abolishes both the intestinal effects of ASF and the peroral, but not the intraspinal induction of pituitary ASF.
+ASF has no effect on ion transport across isolated intestinal mucosa from either pig or hen.
+The results suggest that both the induction and the intestinal effects of ASF are mediated via the central and intestinal nervous system.

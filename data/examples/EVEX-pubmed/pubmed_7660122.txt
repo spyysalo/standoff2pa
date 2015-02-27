@@ -1,0 +1,6 @@
+Inhibition of transcription elongation by the VHL tumor suppressor protein.
+Germline mutations in the von Hippel-Lindau tumor suppressor gene (VHL) predispose individuals to a variety of tumors, including renal carcinoma, hemangioblastoma of the central nervous system, and pheochromocytoma.
+Here, a cellular transcription factor, Elongin (SIII), is identified as a functional target of the VHL protein.
+Elongin (SIII) is a heterotrimer consisting of a transcriptionally active subunit (A) and two regulatory subunits (B and C) that activate transcription elongation by RNA polymerase II.
+The VHL protein was shown to bind tightly and specifically to the Elongin B and C subunits and to inhibit Elongin (SIII) transcriptional activity in vitro.
+These findings reveal a potentially important transcriptional regulatory network in which the VHL protein may play a key role.

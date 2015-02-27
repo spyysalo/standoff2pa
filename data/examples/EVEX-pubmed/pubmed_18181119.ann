@@ -1,0 +1,18 @@
+T1g	GGP 30 47	metalloproteinase
+NT1g0	Reference T1g ENSGF:109940	metalloproteinase
+NT1g3	Reference T1g ENSF:6804	metalloproteinase
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 49 52	MMP
+NT2g0	Reference T2g ENSGF:11629	MMP
+NT2g1	Reference T2g HG:129014	MMP
+NT2g3	Reference T2g ENSF:429	collagenase
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 369 386	MMP-1, -2, -3, -7
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	Negative_regulation 54 64	inhibition
+E1g	Negative_regulation:T4g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.8776
+E2g	Negative_regulation:T4g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.8776

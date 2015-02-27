@@ -1,0 +1,28 @@
+T1g	GGP 79 95	xylose isomerase
+NT1g0	Reference T1g ENSGF:50061	isomerase
+NT1g3	Reference T1g ENSF:310477	isomerase
+NT1g4	Reference T1g NCBITaxon:381124	Zea mays subsp. mays
+T6r	Entity 160 161	T
+T2g	GGP 170 186	xylose isomerase
+NT2g0	Reference T2g ENSGF:50061	isomerase
+NT2g3	Reference T2g ENSF:310477	isomerase
+NT2g4	Reference T2g NCBITaxon:381124	Zea mays subsp. mays
+T3g	GGP 572 604	T(80) xylose isomerase isoenzyme
+NT3g4	Reference T3g NCBITaxon:381124	Zea mays subsp. mays
+T4g	GGP 712 726	CPXI isoenzyme
+NT4g0	Reference T4g ENSGF:207013	Cplx1
+NT4g1	Reference T4g HG:21324	Cplx1
+NT4g3	Reference T4g ENSF:10950	Cplx1
+NT4g4	Reference T4g NCBITaxon:381124	Zea mays subsp. mays
+T5g	GGP 990 993	Trp
+NT5g0	Reference T5g ENSGF:54709	Trp
+NT5g1	Reference T5g HG:62211	Trp
+NT5g3	Reference T5g ENSF:803	Trp
+NT5g4	Reference T5g NCBITaxon:381124	Zea mays subsp. mays
+T7r	Entity 994 1001	residue
+R1r	Protein-Component Arg1:T2g Arg2:T6r
+AR1rconf	Confidence R1r medium
+#R1rconf	Confidence R1r	2.3922
+R2r	Protein-Component Arg1:T5g Arg2:T7r
+AR2rconf	Confidence R2r medium
+#R2rconf	Confidence R2r	3.0940

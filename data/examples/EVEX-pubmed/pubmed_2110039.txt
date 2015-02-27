@@ -1,0 +1,6 @@
+Trophic control of the ornithine decarboxylase/polyamine system in neonatal rat brain regions: lesions caused by 6-hydroxydopamine produce effects selective for cerebellum.
+In the current study, neonatal rats were given 6-hydroxydopamine (6-OHDA) to destroy noradrenergic projections and the effects on the ornithine decarboxylase (ODC)/polyamine system were evaluated; ODC initiates the synthesis of polyamines, which are known to control cellular development in the cerebellum, and neonatal ODC activity is regulated in part by beta 2-adrenergic receptors.
+Intracisternal administration of 6-OHDA resulted in complete and permanent depletion of cerebellar norepinephrine and a deficit in ODC, polyamine levels and cerebellar growth.
+Subcutaneous administration of 6-OHDA, which caused only a small initial reduction in cerebellar norepinephrine, did not affect ODC and had only minor effects on tissue growth.
+In contrast to the effects of 6-OHDA on cerebellar development, neither the intracisternal nor subcutaneous drug treatment had any effect on cerebral cortical polyamines or growth, although the intracisternal treatment did impair ODC activity early in development.
+These data suggest that postnatal noradrenergic input, acting through the ODC/polyamine pathway, plays a selective role in cerebellar development.

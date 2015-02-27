@@ -1,0 +1,58 @@
+T1g	GGP 11 18	insulin
+NT1g0	Reference T1g ENSGF:121851	insulin
+NT1g1	Reference T1g HG:173	insulin
+NT1g3	Reference T1g ENSF:15743	insulin
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 129 136	insulin
+NT2g0	Reference T2g ENSGF:121851	insulin
+NT2g1	Reference T2g HG:173	insulin
+NT2g3	Reference T2g ENSF:15743	insulin
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 238 272	plasma adrenocorticotropic hormone
+NT3g0	Reference T3g ENSGF:304398	ACTH
+NT3g1	Reference T3g HG:723	ACTH
+NT3g3	Reference T3g ENSF:179	ACTH
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 274 278	ACTH
+NT4g0	Reference T4g ENSGF:304398	ACTH
+NT4g1	Reference T4g HG:723	ACTH
+NT4g3	Reference T4g ENSF:179	ACTH
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 420 427	insulin
+NT5g0	Reference T5g ENSGF:121851	insulin
+NT5g1	Reference T5g HG:173	insulin
+NT5g3	Reference T5g ENSF:15743	insulin
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 527 531	ACTH
+NT6g0	Reference T6g ENSGF:304398	ACTH
+NT6g1	Reference T6g HG:723	ACTH
+NT6g3	Reference T6g ENSF:179	ACTH
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 536 543	insulin
+NT7g0	Reference T7g ENSGF:121851	insulin
+NT7g1	Reference T7g HG:173	insulin
+NT7g3	Reference T7g ENSF:15743	insulin
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 622 626	ACTH
+NT8g0	Reference T8g ENSGF:304398	ACTH
+NT8g1	Reference T8g HG:723	ACTH
+NT8g3	Reference T8g ENSF:179	ACTH
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 758 762	ACTH
+NT9g0	Reference T9g ENSGF:304398	ACTH
+NT9g1	Reference T9g HG:723	ACTH
+NT9g3	Reference T9g ENSF:179	ACTH
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 967 974	insulin
+NT10g0	Reference T10g ENSGF:121851	insulin
+NT10g1	Reference T10g HG:173	insulin
+NT10g3	Reference T10g ENSF:15743	insulin
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	Regulation 0 7	Changes
+T12g	Positive_regulation 745 754	Increases
+E1g	Regulation:T11g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.1440
+E2g	Positive_regulation:T12g Theme:T9g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.4179

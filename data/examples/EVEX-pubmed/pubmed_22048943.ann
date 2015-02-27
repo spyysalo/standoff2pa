@@ -1,0 +1,109 @@
+T1g	GGP 27 43	cyclooxygenase-2
+NT1g0	Reference T1g ENSGF:238256	cyclooxygenase-2
+NT1g1	Reference T1g HG:31000	cyclooxygenase-2
+NT1g3	Reference T1g ENSF:2590	cyclooxygenase-2
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 45 79	epidermal growth factor receptor 1
+NT2g0	Reference T2g ENSGF:111883	EGF
+NT2g1	Reference T2g HG:1483	EGF
+NT2g3	Reference T2g ENSF:10335	EGF
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 198 214	cyclooxygenase-2
+NT3g0	Reference T3g ENSGF:238256	cyclooxygenase-2
+NT3g1	Reference T3g HG:31000	cyclooxygenase-2
+NT3g3	Reference T3g ENSF:2590	cyclooxygenase-2
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 219 251	epidermal growth factor receptor
+NT4g0	Reference T4g ENSGF:49172	EGFR
+NT4g1	Reference T4g HG:74545	EGFR
+NT4g3	Reference T4g ENSF:708	EGFR
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 499 515	cyclooxygenase-2
+NT5g0	Reference T5g ENSGF:238256	cyclooxygenase-2
+NT5g1	Reference T5g HG:31000	cyclooxygenase-2
+NT5g3	Reference T5g ENSF:2590	cyclooxygenase-2
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 517 549	epidermal growth factor receptor
+NT6g0	Reference T6g ENSGF:49172	EGFR
+NT6g1	Reference T6g HG:74545	EGFR
+NT6g3	Reference T6g ENSF:708	EGFR
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 555 559	CD34
+NT7g0	Reference T7g ENSGF:31693	CD34
+NT7g1	Reference T7g HG:1343	CD34
+NT7g3	Reference T7g ENSF:10020	CD34
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 590 606	cyclooxygenase-2
+NT8g0	Reference T8g ENSGF:238256	cyclooxygenase-2
+NT8g1	Reference T8g HG:31000	cyclooxygenase-2
+NT8g3	Reference T8g ENSF:2590	cyclooxygenase-2
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 611 643	epidermal growth factor receptor
+NT9g0	Reference T9g ENSGF:49172	EGFR
+NT9g1	Reference T9g HG:74545	EGFR
+NT9g3	Reference T9g ENSF:708	EGFR
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 679 711	Epidermal growth factor receptor
+NT10g0	Reference T10g ENSGF:49172	EGFR
+NT10g1	Reference T10g HG:74545	EGFR
+NT10g3	Reference T10g ENSF:708	EGFR
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 912 928	cyclooxygenase-2
+NT11g0	Reference T11g ENSGF:238256	cyclooxygenase-2
+NT11g1	Reference T11g HG:31000	cyclooxygenase-2
+NT11g3	Reference T11g ENSF:2590	cyclooxygenase-2
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 1009 1041	epidermal growth factor receptor
+NT12g0	Reference T12g ENSGF:49172	EGFR
+NT12g1	Reference T12g HG:74545	EGFR
+NT12g3	Reference T12g ENSF:708	EGFR
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 1230 1262	epidermal growth factor receptor
+NT13g0	Reference T13g ENSGF:49172	EGFR
+NT13g1	Reference T13g HG:74545	EGFR
+NT13g3	Reference T13g ENSF:708	EGFR
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 1367 1399	epidermal growth factor receptor
+NT14g0	Reference T14g ENSGF:49172	EGFR
+NT14g1	Reference T14g HG:74545	EGFR
+NT14g3	Reference T14g ENSF:708	EGFR
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 1596 1628	epidermal growth factor receptor
+NT15g0	Reference T15g ENSGF:49172	EGFR
+NT15g1	Reference T15g HG:74545	EGFR
+NT15g3	Reference T15g ENSF:708	EGFR
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T22g	Gene_expression 1353 1363	Expression
+T20g	Gene_expression 1042 1057	over-expression
+T16g	Gene_expression 160 170	expression
+T21g	Gene_expression 1216 1226	expression
+T17g	Gene_expression 570 580	expression
+T19g	Gene_expression 929 944	over-expression
+T18g	Gene_expression 712 727	over-expression
+E1g	Gene_expression:T16g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.7252
+E2g	Gene_expression:T16g Theme:T4g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.7252
+E3g	Gene_expression:T17g Theme:T8g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.6177
+E4g	Gene_expression:T17g Theme:T9g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.6177
+E5g	Gene_expression:T18g Theme:T10g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.8030
+E6g	Gene_expression:T19g Theme:T11g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.2936
+E7g	Gene_expression:T20g Theme:T12g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	2.2556
+E8g	Gene_expression:T21g Theme:T13g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.4147
+E9g	Gene_expression:T22g Theme:T14g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.5949

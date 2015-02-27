@@ -1,0 +1,57 @@
+T1g	GGP 0 10	Bradykinin
+NT1g0	Reference T1g ENSGF:249975	bradykinin
+NT1g1	Reference T1g HG:88343	bradykinin
+NT1g3	Reference T1g ENSF:10687	bradykinin
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 114 124	bradykinin
+NT2g0	Reference T2g ENSGF:249975	bradykinin
+NT2g1	Reference T2g HG:88343	bradykinin
+NT2g3	Reference T2g ENSF:10687	bradykinin
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 186 192	Fura-2
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 304 314	bradykinin
+NT4g0	Reference T4g ENSGF:249975	bradykinin
+NT4g1	Reference T4g HG:88343	bradykinin
+NT4g3	Reference T4g ENSF:10687	bradykinin
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 369 384	phospholipase C
+NT5g0	Reference T5g ENSGF:198248	phospholipase C
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 465 486	reticulum Ca2+-ATPase
+NT6g3	Reference T6g ENSF:562	SERCA
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 514 524	bradykinin
+NT7g0	Reference T7g ENSGF:249975	bradykinin
+NT7g1	Reference T7g HG:88343	bradykinin
+NT7g3	Reference T7g ENSF:10687	bradykinin
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 633 643	bradykinin
+NT8g0	Reference T8g ENSGF:249975	bradykinin
+NT8g1	Reference T8g HG:88343	bradykinin
+NT8g3	Reference T8g ENSF:10687	bradykinin
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 662 672	bradykinin
+NT9g0	Reference T9g ENSGF:249975	bradykinin
+NT9g1	Reference T9g HG:88343	bradykinin
+NT9g3	Reference T9g ENSF:10687	bradykinin
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 854 864	bradykinin
+NT10g0	Reference T10g ENSGF:249975	bradykinin
+NT10g1	Reference T10g HG:88343	bradykinin
+NT10g3	Reference T10g ENSF:10687	bradykinin
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	GGP 989 999	bradykinin
+NT11g0	Reference T11g ENSGF:249975	bradykinin
+NT11g1	Reference T11g HG:88343	bradykinin
+NT11g3	Reference T11g ENSF:10687	bradykinin
+NT11g4	Reference T11g NCBITaxon:10116	Rattus norvegicus
+T12g	GGP 1042 1052	Bradykinin
+NT12g0	Reference T12g ENSGF:249975	bradykinin
+NT12g1	Reference T12g HG:88343	bradykinin
+NT12g3	Reference T12g ENSF:10687	bradykinin
+NT12g4	Reference T12g NCBITaxon:10116	Rattus norvegicus
+T13g	Negative_regulation 436 445	inhibitor
+E1g	Negative_regulation:T13g Theme:T6g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.5161

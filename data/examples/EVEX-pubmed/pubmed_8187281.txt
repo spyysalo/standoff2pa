@@ -1,0 +1,8 @@
+High-density lipoprotein stimulates endothelial cell movement by a mechanism distinct from basic fibroblast growth factor.
+We examined the effect of plasma high-density lipoprotein (HDL) on the movement of ECs in vitro.
+HDL stimulated migration in a concentration-dependent manner with a half-maximal response at 25 to 40 micrograms cholesterol per milliliter and a maximal twofold stimulation at approximately 150 micrograms cholesterol per milliliter.
+HDL-stimulated migration was not due to cell proliferation, since migration was increased in the presence of hydroxyurea at a concentration that blocked proliferation.
+At optimal concentrations, HDL was at least as stimulatory as basic fibroblast growth factor (FGF).
+However, the activity of HDL was not due to contamination by basic FGF, since antibodies to basic FGF did not block HDL-stimulated movement and since the maximum promigratory activities of basic FGF and HDL were additive.
+These results indicate that HDL and basic FGF may use distinct signaling pathways to initiate EC movement.
+This possibility was confirmed by results showing that pertussis toxin suppressed basic FGF-stimulated but not HDL-stimulated EC motility and that inhibitors of phospholipase A2, aristolochic acid and ONO-RS-082, also blocked the promigratory activity of basic FGF but had no effect on the activity of HDL.(ABSTRACT TRUNCATED AT 250 WORDS)

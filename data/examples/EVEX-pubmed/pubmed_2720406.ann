@@ -1,0 +1,53 @@
+T1g	GGP 14 31	adenylate cyclase
+NT1g0	Reference T1g ENSGF:147140	adenylate cyclase
+NT1g1	Reference T1g HG:2978	adenylate cyclase
+NT1g2	Reference T1g EG:109	adenylate cyclase
+NT1g3	Reference T1g ENSF:746	adenylate cyclase
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 287 304	adenylate cyclase
+NT2g0	Reference T2g ENSGF:147140	adenylate cyclase
+NT2g1	Reference T2g HG:2978	adenylate cyclase
+NT2g2	Reference T2g EG:109	adenylate cyclase
+NT2g3	Reference T2g ENSF:746	adenylate cyclase
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 374 391	adenylate cyclase
+NT3g0	Reference T3g ENSGF:147140	adenylate cyclase
+NT3g1	Reference T3g HG:2978	adenylate cyclase
+NT3g2	Reference T3g EG:109	adenylate cyclase
+NT3g3	Reference T3g ENSF:746	adenylate cyclase
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 589 606	adenylate cyclase
+NT4g0	Reference T4g ENSGF:147140	adenylate cyclase
+NT4g1	Reference T4g HG:2978	adenylate cyclase
+NT4g2	Reference T4g EG:109	adenylate cyclase
+NT4g3	Reference T4g ENSF:746	adenylate cyclase
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T10g	Entity 607 616	inhibitor
+T5g	GGP 716 733	adenylate cyclase
+NT5g0	Reference T5g ENSGF:147140	adenylate cyclase
+NT5g1	Reference T5g HG:2978	adenylate cyclase
+NT5g2	Reference T5g EG:109	adenylate cyclase
+NT5g3	Reference T5g ENSF:746	adenylate cyclase
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T8g	Regulation 365 369	role
+T11g	Positive_regulation 707 715	activate
+T6g	Positive_regulation 0 10	Activation
+T9g	Negative_regulation 558 565	reduced
+T7g	Positive_regulation 274 283	activator
+E1g	Positive_regulation:T6g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.0517
+E2g	Positive_regulation:T7g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.9657
+E3g	Regulation:T8g Theme:T3g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.7714
+E4g	Negative_regulation:T9g Site:T10g Theme:T4g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.0391
+E5g	Positive_regulation:T11g Theme:T5g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.3342
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	77.8369

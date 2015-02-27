@@ -1,0 +1,161 @@
+T1g	GGP 0 9	IFN-gamma
+NT1g0	Reference T1g ENSGF:232991	IFN-gamma
+NT1g1	Reference T1g HG:55526	IFN-gamma
+NT1g2	Reference T1g EG:25712	IFN-gamma
+NT1g3	Reference T1g ENSF:39002	IFN-gamma
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 243 259	interferon-gamma
+NT2g0	Reference T2g ENSGF:140316	IFN-gamma
+NT2g1	Reference T2g HG:55526	IFN-gamma
+NT2g2	Reference T2g EG:3458	IFN-gamma
+NT2g3	Reference T2g ENSF:6446	IFN-gamma
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 261 270	IFN-gamma
+NT3g0	Reference T3g ENSGF:140316	IFN-gamma
+NT3g1	Reference T3g HG:55526	IFN-gamma
+NT3g2	Reference T3g EG:3458	IFN-gamma
+NT3g3	Reference T3g ENSF:6446	IFN-gamma
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 346 355	IFN-gamma
+NT4g0	Reference T4g ENSGF:140316	IFN-gamma
+NT4g1	Reference T4g HG:55526	IFN-gamma
+NT4g2	Reference T4g EG:3458	IFN-gamma
+NT4g3	Reference T4g ENSF:6446	IFN-gamma
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 467 490	IFN regulatory factor-1
+NT5g0	Reference T5g ENSGF:236144	IRF-1
+NT5g1	Reference T5g HG:1658	IRF-1
+NT5g2	Reference T5g EG:3659	IRF-1
+NT5g3	Reference T5g ENSF:3158	IRF-1
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 492 497	IRF-1
+NT6g0	Reference T6g ENSGF:236144	IRF-1
+NT6g1	Reference T6g HG:1658	IRF-1
+NT6g2	Reference T6g EG:3659	IRF-1
+NT6g3	Reference T6g ENSF:3158	IRF-1
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 500 504	FasL
+NT7g0	Reference T7g ENSGF:268052	FasL
+NT7g1	Reference T7g HG:533	FasL
+NT7g2	Reference T7g EG:356	FasL
+NT7g3	Reference T7g ENSF:10497	FasL
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 510 513	p53
+NT8g0	Reference T8g ENSGF:68111	p53
+NT8g1	Reference T8g HG:460	p53
+NT8g2	Reference T8g EG:7157	p53
+NT8g3	Reference T8g ENSF:810	p53
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 544 553	IFN-gamma
+NT9g0	Reference T9g ENSGF:140316	IFN-gamma
+NT9g1	Reference T9g HG:55526	IFN-gamma
+NT9g2	Reference T9g EG:3458	IFN-gamma
+NT9g3	Reference T9g ENSF:6446	IFN-gamma
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 632 641	IFN-gamma
+NT10g0	Reference T10g ENSGF:140316	IFN-gamma
+NT10g1	Reference T10g HG:55526	IFN-gamma
+NT10g2	Reference T10g EG:3458	IFN-gamma
+NT10g3	Reference T10g ENSF:6446	IFN-gamma
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 824 833	IFN-gamma
+NT11g0	Reference T11g ENSGF:140316	IFN-gamma
+NT11g1	Reference T11g HG:55526	IFN-gamma
+NT11g2	Reference T11g EG:3458	IFN-gamma
+NT11g3	Reference T11g ENSF:6446	IFN-gamma
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 903 908	IRF-1
+NT12g0	Reference T12g ENSGF:236144	IRF-1
+NT12g1	Reference T12g HG:1658	IRF-1
+NT12g2	Reference T12g EG:3659	IRF-1
+NT12g3	Reference T12g ENSF:3158	IRF-1
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 946 955	caspase-3
+NT13g0	Reference T13g ENSGF:73810	caspase-3
+NT13g1	Reference T13g HG:37912	caspase-3
+NT13g3	Reference T13g ENSF:779	caspase-3
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 972 981	IFN-gamma
+NT14g0	Reference T14g ENSGF:140316	IFN-gamma
+NT14g1	Reference T14g HG:55526	IFN-gamma
+NT14g2	Reference T14g EG:3458	IFN-gamma
+NT14g3	Reference T14g ENSF:6446	IFN-gamma
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 997 1006	IFN-gamma
+NT15g0	Reference T15g ENSGF:140316	IFN-gamma
+NT15g1	Reference T15g HG:55526	IFN-gamma
+NT15g2	Reference T15g EG:3458	IFN-gamma
+NT15g3	Reference T15g ENSF:6446	IFN-gamma
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 1040 1045	IFNGR
+NT16g0	Reference T16g ENSGF:226974	IFN-gammaR
+NT16g1	Reference T16g HG:359	IFN-gammaR
+NT16g2	Reference T16g EG:3459	IFNGR1
+NT16g3	Reference T16g ENSF:11175	IFN-gammaR
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 1050 1053	p53
+NT17g0	Reference T17g ENSGF:68111	p53
+NT17g1	Reference T17g HG:460	p53
+NT17g2	Reference T17g EG:7157	p53
+NT17g3	Reference T17g ENSF:810	p53
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T23g	Gene_expression 889 899	Expression
+T22g	Gene_expression 1026 1036	expression
+T20g	Positive_regulation 913 920	induced
+T21g	Positive_regulation 960 968	promoted
+T25g	Regulation 1015 1021	affect
+T24g	Gene_expression 925 935	expression
+T19g	Regulation 531 540	modulated
+T18g	Gene_expression 514 525	expressions
+E10g	Positive_regulation:T21g Theme:E9g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	2.2066
+E11g	Regulation:T25g Cause:T15g Theme:E13g
+AE11gconf	Confidence E11g high
+#E11gconf	Confidence E11g	4.8733
+E12g	Regulation:T25g Theme:E14g Cause:T15g
+AE12gconf	Confidence E12g high
+#E12gconf	Confidence E12g	4.8733
+E13g	Gene_expression:T22g Theme:T16g
+AE13gconf	Confidence E13g medium
+#E13gconf	Confidence E13g	3.1480
+E14g	Gene_expression:T22g Theme:T17g
+AE14gconf	Confidence E14g medium
+#E14gconf	Confidence E14g	3.2123
+E15g	Gene_expression:T23g Theme:T12g
+AE15gconf	Confidence E15g medium
+#E15gconf	Confidence E15g	3.0892
+E16g	Positive_regulation:T20g Theme:E15g
+AE16gconf	Confidence E16g medium
+#E16gconf	Confidence E16g	3.6784
+E1g	Gene_expression:T18g Theme:T5g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.4609
+E2g	Gene_expression:T18g Theme:T6g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.7403
+E3g	Gene_expression:T18g Theme:T7g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.7403
+E4g	Gene_expression:T18g Theme:T8g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.7403
+E5g	Regulation:T19g Cause:T9g Theme:E3g
+AE5gconf	Confidence E5g high
+#E5gconf	Confidence E5g	4.6238
+E6g	Regulation:T19g Theme:E1g Cause:T9g
+AE6gconf	Confidence E6g high
+#E6gconf	Confidence E6g	4.6238
+E7g	Regulation:T19g Theme:E2g Cause:T9g
+AE7gconf	Confidence E7g high
+#E7gconf	Confidence E7g	4.6238
+E8g	Regulation:T19g Cause:T9g Theme:E4g
+AE8gconf	Confidence E8g high
+#E8gconf	Confidence E8g	4.6238
+E9g	Gene_expression:T24g Theme:T13g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.1115
+AE11gN	Negation E11g
+#E11gNconf	Confidence AE11gN	116.9020
+AE12gN	Negation E12g
+#E12gNconf	Confidence AE12gN	116.9020

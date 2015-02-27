@@ -1,0 +1,7 @@
+Proteolysis involving matrix metalloproteinase 13 (collagenase-3) is required for chondrocyte differentiation that is associated with matrix mineralization.
+Collagenases are involved in cartilage matrix resorption.
+This is characterized by expression of type X collagen and the transcription factor Cbfal and increased incorporation of 45Ca2+ in the extracellular matrix, which is associated with matrix calcification.
+Collagenase activity, attributable only to matrix metalloproteinase (MMP) 13 (collagenase-3), is up-regulated on differentiation.
+A nontoxic carboxylate inhibitor of MMP-13 prevents this differentiation; it suppresses expression of type X collagen, Cbfal, and MMP-13 and inhibits increased calcium incorporation in addition to inhibiting degradation of type II collagen in the extracellular matrix.
+General synthesis of matrix proteins is unaffected.
+These results suggest that proteolysis involving MMP-13 is required for chondrocyte differentiation that occurs as part of growth plate development and which is associated with matrix mineralization.

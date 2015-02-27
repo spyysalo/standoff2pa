@@ -1,0 +1,64 @@
+T1g	GGP 25 45	superoxide dismutase
+NT1g0	Reference T1g ENSGF:246626	superoxide dismutase
+NT1g1	Reference T1g HG:530	superoxide dismutase
+NT1g3	Reference T1g ENSF:585	superoxide dismutase
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 47 57	peroxinorm
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 62 75	interleukin-1
+NT3g0	Reference T3g ENSGF:65237	interleukin-1
+NT3g1	Reference T3g HG:11300	interleukin-1
+NT3g2	Reference T3g EG:134728	interleukin-1
+NT3g3	Reference T3g ENSF:12904	interleukin-1
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 145 155	Peroxinorm
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 157 177	superoxide dismutase
+NT5g0	Reference T5g ENSGF:246626	superoxide dismutase
+NT5g1	Reference T5g HG:530	superoxide dismutase
+NT5g3	Reference T5g ENSF:585	superoxide dismutase
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 198 211	interleukin-1
+NT6g0	Reference T6g ENSGF:65237	interleukin-1
+NT6g1	Reference T6g HG:11300	interleukin-1
+NT6g2	Reference T6g EG:134728	interleukin-1
+NT6g3	Reference T6g ENSF:12904	interleukin-1
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 318 331	interleukin-1
+NT7g0	Reference T7g ENSGF:65237	interleukin-1
+NT7g1	Reference T7g HG:11300	interleukin-1
+NT7g2	Reference T7g EG:134728	interleukin-1
+NT7g3	Reference T7g ENSF:12904	interleukin-1
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 463 467	Il-1
+NT8g0	Reference T8g ENSGF:74241	IL-1
+NT8g1	Reference T8g HG:480	IL-1
+NT8g2	Reference T8g EG:3552	IL-1
+NT8g3	Reference T8g ENSF:10901	IL-1
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T11g	Gene_expression 295 314	activity/production
+T9g	Regulation 15 21	effect
+T12g	Negative_regulation 436 446	suppressed
+T10g	Regulation 135 141	effect
+E1g	Regulation:T9g Cause:T1g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.3963
+E2g	Regulation:T9g Cause:T2g Theme:T3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.6635
+E3g	Regulation:T10g Theme:T6g Cause:T4g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.2464
+E4g	Regulation:T10g Theme:T6g Cause:T5g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.0218
+E5g	Gene_expression:T11g Theme:T7g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.1683
+E6g	Negative_regulation:T12g Theme:T8g
+AE6gconf	Confidence E6g low
+#E6gconf	Confidence E6g	1.4964
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	79.0244
+AE4gS	Speculation E4g
+#E4gSconf	Confidence AE4gS	79.0244

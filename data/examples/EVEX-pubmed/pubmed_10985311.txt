@@ -1,0 +1,7 @@
+Protection against FIV challenge infection by genetic vaccination using minimalistic DNA constructs for FIV env gene and feline IL-12 expression.
+OBJECTIVE: To evaluate the efficacy of a genetic vaccination protocol based on minimalistic, immunogenic defined gene expression (MIDGE) vectors coding for domains of the feline immunodeficiency virus (FIV) env gene and feline IL-12.
+In addition, group 3 received feline IL-12 DNA.
+All cats were challenged by intraperitoneal injection of 25 TCID50 of infectious FIV Z2.
+The following criteria were monitored: clinical signs, antibodies to transmembrane protein, antibodies to whole FIV, haematological parameters and kinetics of CD4 and CD8 cells, FIV proviral load (determined by quantitative polymerase chain reaction; PCR) and cytotoxic T lymphocyte (CTL) activity (in selected cats).
+In contrast, only one of four cats in group 3 (surface-transmembrane protein and IL-12) showed antibodies; it was provirus positive at reduced virus load.
+CONCLUSION: Genetic vaccination using a MIDGE-based construct for the expression of the surface-transmembrane protein domain of FIV env and feline IL-12 DNA led to protection against homologous virus challenge in three out of four vaccinated cats.

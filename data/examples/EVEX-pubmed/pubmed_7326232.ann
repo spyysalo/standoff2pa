@@ -1,0 +1,16 @@
+T1g	GGP 70 103	nicotinic acetylcholine receptors
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 255 288	nicotinic acetylcholine receptors
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 290 295	nAChR
+NT3g1	Reference T3g HG:592	nAChR
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 506 509	Bgt
+NT4g3	Reference T4g ENSF:759	beta-galactosidase
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 650 666	native alpha-Bgt
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	Binding 53 64	interaction
+E1g	Binding:T6g Theme:T1g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.1960

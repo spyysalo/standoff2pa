@@ -1,0 +1,9 @@
+Epidermal growth factor gene expression in human breast cancer biopsy samples: relationship to estrogen and progesterone receptor gene expression.
+This paper addresses the expression of the epidermal growth factor (EGF) gene by human breast tumor biopsy samples.
+Northern analysis was used to demonstrate the presence of an approximately 5-kilobase mRNA which specifically hybridized with radiolabeled human EGF complementary DNA in some human breast tumor biopsy samples.
+Quantitation of EGF mRNA in 60 human breast tumor biopsies using the RNase protection assay revealed that 83% of tumors contained detectable EGF mRNA.
+Estrogen receptor (ER) and progesterone receptor (PgR) mRNAs were similarly quantitated in the same samples.
+It was found that 89.4% of the ER mRNA-positive breast tumor biopsies had detectable EGF mRNA, whereas only 58.3% of the ER mRNA-negative tumors had detectable EGF mRNA.
+Furthermore, whereas 90.5% of the PgR mRNA-positive tumors contained EGF mRNA, only 60% of the PgR mRNA-negative tumors contained EGF mRNA. chi 2 analysis indicated that the increased percentage of tumors expressing EGF in the receptor-positive groups was statistically significant (P less than 0.01).
+It was also found that the mean relative level of EGF mRNA in those tumors which were ER and PgR negative [9.8 +/- 5.6 (SEM) relative units] was significantly lower than those tumors which were ER and PgR positive (40.5 +/- 6.4 relative units, P less than 0.05) or ER positive and PgR negative (68.4 +/- 19.9 relative units, P less than 0.005).
+These observations suggest that the EGF-expressing tumors probably arose originally from hormonally responsive cell types and that EGF expression in a large proportion of human breast tumors in vivo may also be hormonally responsive.

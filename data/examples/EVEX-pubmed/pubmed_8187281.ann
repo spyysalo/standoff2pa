@@ -1,0 +1,127 @@
+T1g	GGP 91 121	basic fibroblast growth factor
+NT1g0	Reference T1g ENSGF:196589	bFGF
+NT1g1	Reference T1g HG:1521	bFGF
+NT1g2	Reference T1g EG:281161	bFGF
+NT1g3	Reference T1g ENSF:10679	bFGF
+NT1g4	Reference T1g NCBITaxon:9913	Bos taurus
+T2g	GGP 149 180	plasma high-density lipoprotein
+NT2g1	Reference T2g HG:38035	HDL
+NT2g2	Reference T2g EG:767882	HDL
+NT2g3	Reference T2g ENSF:5304	HDL
+NT2g4	Reference T2g NCBITaxon:9913	Bos taurus
+T3g	GGP 182 185	HDL
+NT3g1	Reference T3g HG:38035	HDL
+NT3g2	Reference T3g EG:767882	HDL
+NT3g3	Reference T3g ENSF:5304	HDL
+NT3g4	Reference T3g NCBITaxon:9913	Bos taurus
+T4g	GGP 220 223	HDL
+NT4g1	Reference T4g HG:38035	HDL
+NT4g2	Reference T4g EG:767882	HDL
+NT4g3	Reference T4g ENSF:5304	HDL
+NT4g4	Reference T4g NCBITaxon:9913	Bos taurus
+T5g	GGP 454 457	HDL
+NT5g1	Reference T5g HG:38035	HDL
+NT5g2	Reference T5g EG:767882	HDL
+NT5g3	Reference T5g ENSF:5304	HDL
+NT5g4	Reference T5g NCBITaxon:9913	Bos taurus
+T6g	GGP 649 652	HDL
+NT6g1	Reference T6g HG:38035	HDL
+NT6g2	Reference T6g EG:767882	HDL
+NT6g3	Reference T6g ENSF:5304	HDL
+NT6g4	Reference T6g NCBITaxon:9913	Bos taurus
+T7g	GGP 684 714	basic fibroblast growth factor
+NT7g0	Reference T7g ENSGF:196589	bFGF
+NT7g1	Reference T7g HG:1521	bFGF
+NT7g2	Reference T7g EG:281161	bFGF
+NT7g3	Reference T7g ENSF:10679	bFGF
+NT7g4	Reference T7g NCBITaxon:9913	Bos taurus
+T8g	GGP 716 719	FGF
+NT8g1	Reference T8g HG:3766	FGF
+NT8g2	Reference T8g EG:281812	FGF
+NT8g3	Reference T8g ENSF:19055	FGF
+NT8g4	Reference T8g NCBITaxon:9913	Bos taurus
+T9g	GGP 747 750	HDL
+NT9g1	Reference T9g HG:38035	HDL
+NT9g2	Reference T9g EG:767882	HDL
+NT9g3	Reference T9g ENSF:5304	HDL
+NT9g4	Reference T9g NCBITaxon:9913	Bos taurus
+T10g	GGP 789 792	FGF
+NT10g1	Reference T10g HG:3766	FGF
+NT10g2	Reference T10g EG:281812	FGF
+NT10g3	Reference T10g ENSF:19055	FGF
+NT10g4	Reference T10g NCBITaxon:9913	Bos taurus
+T11g	GGP 814 823	basic FGF
+NT11g0	Reference T11g ENSGF:196589	bFGF
+NT11g1	Reference T11g HG:1521	bFGF
+NT11g2	Reference T11g EG:281161	bFGF
+NT11g3	Reference T11g ENSF:10679	bFGF
+NT11g4	Reference T11g NCBITaxon:9913	Bos taurus
+T12g	GGP 838 841	HDL
+NT12g1	Reference T12g HG:38035	HDL
+NT12g2	Reference T12g EG:767882	HDL
+NT12g3	Reference T12g ENSF:5304	HDL
+NT12g4	Reference T12g NCBITaxon:9913	Bos taurus
+T13g	GGP 911 920	basic FGF
+NT13g0	Reference T13g ENSGF:196589	bFGF
+NT13g1	Reference T13g HG:1521	bFGF
+NT13g2	Reference T13g EG:281161	bFGF
+NT13g3	Reference T13g ENSF:10679	bFGF
+NT13g4	Reference T13g NCBITaxon:9913	Bos taurus
+T14g	GGP 925 928	HDL
+NT14g1	Reference T14g HG:38035	HDL
+NT14g2	Reference T14g EG:767882	HDL
+NT14g3	Reference T14g ENSF:5304	HDL
+NT14g4	Reference T14g NCBITaxon:9913	Bos taurus
+T15g	GGP 972 975	HDL
+NT15g1	Reference T15g HG:38035	HDL
+NT15g2	Reference T15g EG:767882	HDL
+NT15g3	Reference T15g ENSF:5304	HDL
+NT15g4	Reference T15g NCBITaxon:9913	Bos taurus
+T16g	GGP 980 989	basic FGF
+NT16g0	Reference T16g ENSGF:196589	bFGF
+NT16g1	Reference T16g HG:1521	bFGF
+NT16g2	Reference T16g EG:281161	bFGF
+NT16g3	Reference T16g ENSF:10679	bFGF
+NT16g4	Reference T16g NCBITaxon:9913	Bos taurus
+T17g	GGP 1106 1121	pertussis toxin
+NT17g4	Reference T17g NCBITaxon:9913	Bos taurus
+T18g	GGP 1162 1165	HDL
+NT18g1	Reference T18g HG:38035	HDL
+NT18g2	Reference T18g EG:767882	HDL
+NT18g3	Reference T18g ENSF:5304	HDL
+NT18g4	Reference T18g NCBITaxon:9913	Bos taurus
+T19g	GGP 1212 1228	phospholipase A2
+NT19g1	Reference T19g HG:32059	cPLA2
+NT19g2	Reference T19g EG:525072	Phospholipase A2
+NT19g3	Reference T19g ENSF:7187	phospholipase A2
+NT19g4	Reference T19g NCBITaxon:9913	Bos taurus
+T20g	GGP 1306 1315	basic FGF
+NT20g0	Reference T20g ENSGF:196589	bFGF
+NT20g1	Reference T20g HG:1521	bFGF
+NT20g2	Reference T20g EG:281161	bFGF
+NT20g3	Reference T20g ENSF:10679	bFGF
+NT20g4	Reference T20g NCBITaxon:9913	Bos taurus
+T23g	Negative_regulation 1198 1208	inhibitors
+T24g	Negative_regulation 1269 1276	blocked
+T21g	Regulation 139 145	effect
+T22g	Gene_expression 1122 1132	suppressed
+T25g	Positive_regulation 1294 1302	activity
+E1g	Gene_expression:T22g Theme:T17g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.5899
+E2g	Negative_regulation:T23g Theme:T19g
+AE2gconf	Confidence E2g high
+#E2gconf	Confidence E2g	4.0326
+E3g	Negative_regulation:T24g Theme:E4g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.9278
+E4g	Positive_regulation:T25g Theme:T20g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.9333
+E5g	Regulation:T21g Theme:T3g Cause:T2g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.9434
+AE1gN	Negation E1g
+#E1gNconf	Confidence AE1gN	63.2901
+AE5gS	Speculation E5g
+#E5gSconf	Confidence AE5gS	105.9270

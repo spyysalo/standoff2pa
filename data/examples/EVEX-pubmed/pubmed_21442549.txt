@@ -1,0 +1,5 @@
+Isolation, purification, and characterization of thermophilic T80 isoenzyme of xylose isomerase from the xerophyte Cereus pterogonus.
+A thermostable isoenzyme (T(80)) of xylose isomerase from the eukaryote xerophyte Cereus pterogonus was purified to homogeneity by precipitation with ammonium sulfate and column chromatography on Dowex-1 ion exchange, with Sephadex G-100 gel filtration, resulting in an approximately 25.55-fold increase in specific activity and a final yield of approximately 17.9%.
+Certain physiochemical and kinetic properties (K(m) and V(max)) of the T(80) xylose isomerase isoenzyme were investigated.
+The use of differential scanning calorimetry established the melting temperature of the CPXI isoenzyme to be 80degreesC, but when studied with added metal ions, melting temperature increases to more than the normal.
+Fluorescence spectroscopy of T(80) isoenzymes yielded an emission peak with lambda(em) at 320 nm and 340 nm, respectively, confirming the presence of Trp residue in these proteins.

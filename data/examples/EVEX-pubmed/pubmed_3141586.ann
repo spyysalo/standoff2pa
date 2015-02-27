@@ -1,0 +1,133 @@
+T1g	GGP 37 49	P400 protein
+NT1g0	Reference T1g ENSGF:2740	P400 protein
+NT1g1	Reference T1g HG:38779	p400
+NT1g2	Reference T1g EG:75560	P400 protein
+NT1g3	Reference T1g ENSF:4613	p400
+NT1g4	Reference T1g NCBITaxon:10090	Mus musculus
+T2g	GGP 122 134	P400 protein
+NT2g0	Reference T2g ENSGF:2740	P400 protein
+NT2g1	Reference T2g HG:38779	p400
+NT2g2	Reference T2g EG:75560	P400 protein
+NT2g3	Reference T2g ENSF:4613	p400
+NT2g4	Reference T2g NCBITaxon:10090	Mus musculus
+T3g	GGP 140 154	concanavalin A
+NT3g4	Reference T3g NCBITaxon:10090	Mus musculus
+T4g	GGP 156 159	Con
+NT4g0	Reference T4g ENSGF:201869	SCF
+NT4g1	Reference T4g HG:692	SCF
+NT4g2	Reference T4g EG:17311	SCF
+NT4g3	Reference T4g ENSF:9122	SCF
+NT4g4	Reference T4g NCBITaxon:10090	Mus musculus
+T5g	GGP 256 268	P400 protein
+NT5g0	Reference T5g ENSGF:2740	P400 protein
+NT5g1	Reference T5g HG:38779	p400
+NT5g2	Reference T5g EG:75560	P400 protein
+NT5g3	Reference T5g ENSF:4613	p400
+NT5g4	Reference T5g NCBITaxon:10090	Mus musculus
+T6g	GGP 319 331	P400 protein
+NT6g0	Reference T6g ENSGF:2740	P400 protein
+NT6g1	Reference T6g HG:38779	p400
+NT6g2	Reference T6g EG:75560	P400 protein
+NT6g3	Reference T6g ENSF:4613	p400
+NT6g4	Reference T6g NCBITaxon:10090	Mus musculus
+T7g	GGP 498 510	P400 protein
+NT7g0	Reference T7g ENSGF:2740	P400 protein
+NT7g1	Reference T7g HG:38779	p400
+NT7g2	Reference T7g EG:75560	P400 protein
+NT7g3	Reference T7g ENSF:4613	p400
+NT7g4	Reference T7g NCBITaxon:10090	Mus musculus
+T8g	GGP 530 545	Sepharose CL-4B
+NT8g4	Reference T8g NCBITaxon:10090	Mus musculus
+T9g	GGP 550 553	Con
+NT9g0	Reference T9g ENSGF:201869	SCF
+NT9g1	Reference T9g HG:692	SCF
+NT9g2	Reference T9g EG:17311	SCF
+NT9g3	Reference T9g ENSF:9122	SCF
+NT9g4	Reference T9g NCBITaxon:10090	Mus musculus
+T10g	GGP 633 645	P400 protein
+NT10g0	Reference T10g ENSGF:2740	P400 protein
+NT10g1	Reference T10g HG:38779	p400
+NT10g2	Reference T10g EG:75560	P400 protein
+NT10g3	Reference T10g ENSF:4613	p400
+NT10g4	Reference T10g NCBITaxon:10090	Mus musculus
+T11g	GGP 647 680	Endo-beta-N-acetylglucosaminidase
+NT11g0	Reference T11g ENSGF:160895	endo-beta-N-acetylglucosaminidase
+NT11g1	Reference T11g HG:13666	endo-beta-N-acetylglucosaminidase
+NT11g2	Reference T11g EG:217364	endo-beta-N-acetylglucosaminidase
+NT11g3	Reference T11g ENSF:6038	endo-beta-N-acetylglucosaminidase
+NT11g4	Reference T11g NCBITaxon:10090	Mus musculus
+T12g	GGP 696 708	P400 protein
+NT12g0	Reference T12g ENSGF:2740	P400 protein
+NT12g1	Reference T12g HG:38779	p400
+NT12g2	Reference T12g EG:75560	P400 protein
+NT12g3	Reference T12g ENSF:4613	p400
+NT12g4	Reference T12g NCBITaxon:10090	Mus musculus
+T13g	GGP 723 735	P400 protein
+NT13g0	Reference T13g ENSGF:2740	P400 protein
+NT13g1	Reference T13g HG:38779	p400
+NT13g2	Reference T13g EG:75560	P400 protein
+NT13g3	Reference T13g ENSF:4613	p400
+NT13g4	Reference T13g NCBITaxon:10090	Mus musculus
+T14g	GGP 842 867	18A10 monoclonal antibody
+NT14g4	Reference T14g NCBITaxon:10090	Mus musculus
+T15g	GGP 948 960	P400 protein
+NT15g0	Reference T15g ENSGF:2740	P400 protein
+NT15g1	Reference T15g HG:38779	p400
+NT15g2	Reference T15g EG:75560	P400 protein
+NT15g3	Reference T15g ENSF:4613	p400
+NT15g4	Reference T15g NCBITaxon:10090	Mus musculus
+T16g	GGP 1034 1046	P400 protein
+NT16g0	Reference T16g ENSGF:2740	P400 protein
+NT16g1	Reference T16g HG:38779	p400
+NT16g2	Reference T16g EG:75560	P400 protein
+NT16g3	Reference T16g ENSF:4613	p400
+NT16g4	Reference T16g NCBITaxon:10090	Mus musculus
+T17g	GGP 1106 1118	P400 protein
+NT17g0	Reference T17g ENSGF:2740	P400 protein
+NT17g1	Reference T17g HG:38779	p400
+NT17g2	Reference T17g EG:75560	P400 protein
+NT17g3	Reference T17g ENSF:4613	p400
+NT17g4	Reference T17g NCBITaxon:10090	Mus musculus
+T18g	GGP 1262 1274	P400 protein
+NT18g0	Reference T18g ENSGF:2740	P400 protein
+NT18g1	Reference T18g HG:38779	p400
+NT18g2	Reference T18g EG:75560	P400 protein
+NT18g3	Reference T18g ENSF:4613	p400
+NT18g4	Reference T18g NCBITaxon:10090	Mus musculus
+T23g	Transcription 932 944	distribution
+T22g	Binding 828 838	recognized
+T20g	Localization 301 315	solubilization
+T21g	Negative_regulation 524 529	using
+T24g	Gene_expression 1279 1290	distributed
+T19g	Binding 162 170	-binding
+E1g	Binding:T19g Theme:T2g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.9242
+E2g	Binding:T19g Theme:T4g Theme:T3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.9242
+E3g	Binding:T19g Theme:T4g Theme:T2g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.9242
+E4g	Localization:T20g Theme:T6g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.8135
+E5g	Negative_regulation:T21g Theme:T8g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.4366
+E6g	Negative_regulation:T21g Theme:T9g
+AE6gconf	Confidence E6g low
+#E6gconf	Confidence E6g	1.4366
+E7g	Binding:T22g Theme:T14g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	2.7223
+E8g	Transcription:T23g Theme:T15g
+AE8gconf	Confidence E8g low
+#E8gconf	Confidence E8g	1.6399
+E9g	Gene_expression:T24g Theme:T18g
+AE9gconf	Confidence E9g low
+#E9gconf	Confidence E9g	1.6365
+AE4gS	Speculation E4g
+#E4gSconf	Confidence AE4gS	54.0437
+AE8gS	Speculation E8g
+#E8gSconf	Confidence AE8gS	89.7971

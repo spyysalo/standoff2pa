@@ -1,0 +1,4 @@
+The predicted Fused (Fu) protein contains a serine/threonine kinase domain and a second domain with unknown function.
+We cloned and sequenced the fu homologous gene from Drosophila virilis (Dv) and made an interspecific DNA sequence comparison to identify regions that have been conserved during evolution.
+Comparison of the predicted amino acid (aa) sequences reveals two regions of strong homology, one corresponding to the kinase domain (268 aa), the other located in the third exon of the Dm fu gene, suggesting a functional importance for this region.
+These findings indicate a high conservation of the predicted Fu protein during the evolution of Drosophila.

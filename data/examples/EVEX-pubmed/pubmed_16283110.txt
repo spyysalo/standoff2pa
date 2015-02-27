@@ -1,0 +1,7 @@
+TGFbeta inhibits IL-1 -induced iNOS expression and NO production in immortalized chondrocytes.
+OBJECTIVE: The balance between anti-inflammatory (e.g. TGFbeta) and proinflammatory cytokines (e.g. IL-1 and TNFalpha), regulates destructive processes in OA cartilage.
+IL-1 and TNFalpha enhance nitric oxide (NO) production in OA cartilage through the inducible nitric oxide synthase (iNOS) pathway and NO mediates many of the destructive effects of these cytokines.
+The aim of the present study was to investigate the effects of TGFbeta on NO production in immortalized H4 chondrocytes exposed to IL-1.RESULTS: IL-1 induced NO production in chondrocytes through nuclear factor kappa B (NF-kappaB) sensitive and dexamethasone insensitive expression of iNOS.
+TGFbeta inhibited IL-1 -induced iNOS expression and NO production in chondrocytes, but it did not have any effect on iNOS mRNA levels.
+iNOS protein levels were similar in cells treated with IL-1 or IL-1+TGFbeta when measured after 8 h incubation, whereas when measured after 12 h and 24 h incubations, iNOS protein levels were 50% and 80% lower in cells treated with IL-1+TGFbeta than in cells treated with IL-1 alone.CONCLUSION: TGFbeta suppressed IL-1-induced iNOS expression and NO production in chondrocytes, probably by enhancing iNOS protein degradation.
+This finding suggests an additional mechanism for TGFbeta to counteract the destructive effects of IL-1 in OA.

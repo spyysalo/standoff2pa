@@ -1,0 +1,2 @@
+The need for selective matrix metalloproteinase (MMP) inhibition is of interest because of the range of pathologies mediated by different MMP isoforms.
+In the present study, six different hydroxypyrone and hydroxypyridinone ZBGs were appended to a common biphenyl backbone and the inhibition efficiency of each inhibitor was determined in vitro (IC(50) values) against MMP-1, -2, -3, -7, -8, -9, -12, and -13.

@@ -1,0 +1,10 @@
+Effect of [Cl(-)]i on ENaC activity from mouse cortical collecting duct cells.
+Na(+) transport via epithelial Na(+) channel (ENaC) occurs across many epithelial surfaces and plays a key role in regulating salt and water absorption.
+In this study, we have examined the effects of cytosolic Na(+) and Cl(-) on ENaC activity by patch clamping single channel recording method in mouse cortical collecting duct cells (M1).
+Cytosolic Na(+) exerts its effect in change of ENaC open probability (Po).
+High cytosolic Na(+) significantly reduces ENaC Po.
+However, decrease of cytosolic Cl(-) concentration significantly increases channel conductance and ENaC Po.
+This effect is due to the right shift of ENaC I-V curve to positive membrane potential.
+The virtue of ENaC conductance remains the same.
+Cl(-) channels like CFTR and VRAC are unlikely to be involved in this regulation.
+The results suggest that cytosolic Cl(-) could serve as a mediator to regulate ENaC activity, in accordance with the activities of Cl(-) channels.

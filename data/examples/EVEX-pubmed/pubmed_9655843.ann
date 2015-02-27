@@ -1,0 +1,51 @@
+T1g	GGP 89 142	guanylyl cyclase-linked natriuretic peptide receptors
+NT1g1	Reference T1g HG:4498	ANP
+NT1g2	Reference T1g EG:608289	ANP
+NT1g3	Reference T1g ENSF:10321	ANP
+NT1g4	Reference T1g NCBITaxon:9615	Canis lupus familiaris
+T2g	GGP 294 320	atrial natriuretic peptide
+NT2g1	Reference T2g HG:4498	ANP
+NT2g2	Reference T2g EG:608289	ANP
+NT2g3	Reference T2g ENSF:10321	ANP
+NT2g4	Reference T2g NCBITaxon:9615	Canis lupus familiaris
+T3g	GGP 322 325	ANP
+NT3g1	Reference T3g HG:4498	ANP
+NT3g2	Reference T3g EG:608289	ANP
+NT3g3	Reference T3g ENSF:10321	ANP
+NT3g4	Reference T3g NCBITaxon:9615	Canis lupus familiaris
+T4g	GGP 421 473	guanylyl cyclase-linked natriuretic peptide receptor
+NT4g1	Reference T4g HG:4498	ANP
+NT4g2	Reference T4g EG:608289	ANP
+NT4g3	Reference T4g ENSF:10321	ANP
+NT4g4	Reference T4g NCBITaxon:9615	Canis lupus familiaris
+T5g	GGP 578 581	CNP
+NT5g1	Reference T5g HG:7672	CNP
+NT5g2	Reference T5g EG:607694	CNP
+NT5g3	Reference T5g ENSF:11042	CNP
+NT5g4	Reference T5g NCBITaxon:9615	Canis lupus familiaris
+T6g	GGP 715 718	CNP
+NT6g1	Reference T6g HG:7672	CNP
+NT6g2	Reference T6g EG:607694	CNP
+NT6g3	Reference T6g ENSF:11042	CNP
+NT6g4	Reference T6g NCBITaxon:9615	Canis lupus familiaris
+T7g	GGP 842 895	guanylyl cyclase-linked natriuretic peptide receptors
+NT7g1	Reference T7g HG:4498	ANP
+NT7g2	Reference T7g EG:608289	ANP
+NT7g3	Reference T7g ENSF:10321	ANP
+NT7g4	Reference T7g NCBITaxon:9615	Canis lupus familiaris
+T8g	GGP 906 922	type B receptors
+NT8g4	Reference T8g NCBITaxon:9615	Canis lupus familiaris
+T11g	Negative_regulation 675 680	block
+T9g	Positive_regulation 510 519	increases
+T10g	Negative_regulation 496 505	inhibited
+E1g	Negative_regulation:T10g Theme:E2g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.5648
+E2g	Positive_regulation:T9g Theme:T5g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.5686
+E3g	Negative_regulation:T11g Theme:T6g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.6255
+AE3gN	Negation E3g
+#E3gNconf	Confidence AE3gN	94.2817

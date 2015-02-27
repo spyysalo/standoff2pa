@@ -1,0 +1,5 @@
+The Drosophila molybdenum cofactor gene cinnamon is homologous to three Escherichia coli cofactor proteins and to the rat protein gephyrin.
+Essentially all organisms depend upon molybdenum oxidoreductases which require a molybdopterin cofactor for catalytic activity.
+Here we report the cloning of cinnamon, a Drosophila molybdenum cofactor gene encoding a protein with sequence similarity to three of the prokaryotic cofactor proteins.
+In addition, the Drosophila cinnamon protein is homologous to gephyrin, a protein isolated from the rat central nervous system.
+Our results suggest that some portions of the prokaryotic cofactor biosynthetic pathway composed of monofunctional proteins have evolved into a multifunctional protein in higher eukaryotes.

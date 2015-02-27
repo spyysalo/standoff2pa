@@ -1,0 +1,39 @@
+T1g	GGP 4 23	urchin egg receptor
+NT1g0	Reference T1g ENSGF:154649	NMDA receptor
+NT1g1	Reference T1g HG:124357	NMDA receptor
+NT1g3	Reference T1g ENSF:4176	NMDA receptor
+NT1g4	Reference T1g NCBITaxon:7668	Strongylocentrotus purpuratus
+T2g	GGP 77 82	hsp70
+NT2g0	Reference T2g ENSGF:138911	Hsp70
+NT2g1	Reference T2g HG:74294	Hsp70
+NT2g3	Reference T2g ENSF:1152	Hsp70
+NT2g4	Reference T2g NCBITaxon:7668	Strongylocentrotus purpuratus
+T3g	GGP 129 157	egg plasma membrane receptor
+NT3g0	Reference T3g ENSGF:154649	NMDA receptor
+NT3g1	Reference T3g HG:124357	NMDA receptor
+NT3g3	Reference T3g ENSF:4176	NMDA receptor
+NT3g4	Reference T3g NCBITaxon:7668	Strongylocentrotus purpuratus
+T4g	GGP 350 371	heat shock protein 70
+NT4g0	Reference T4g ENSGF:138911	Hsp70
+NT4g3	Reference T4g ENSF:81	Hsc70
+NT4g4	Reference T4g NCBITaxon:7668	Strongylocentrotus purpuratus
+T5g	GGP 373 378	hsp70
+NT5g0	Reference T5g ENSGF:138911	Hsp70
+NT5g1	Reference T5g HG:74294	Hsp70
+NT5g3	Reference T5g ENSF:1152	Hsp70
+NT5g4	Reference T5g NCBITaxon:7668	Strongylocentrotus purpuratus
+T6g	GGP 400 419	Recombinant protein
+NT6g4	Reference T6g NCBITaxon:7668	Strongylocentrotus purpuratus
+T7g	GGP 763 766	egg
+NT7g0	Reference T7g ENSGF:284839	Egg
+NT7g1	Reference T7g HG:116089	Egg
+NT7g3	Reference T7g ENSF:13190	Egg
+NT7g4	Reference T7g NCBITaxon:7668	Strongylocentrotus purpuratus
+T8g	Binding 462 467	bound
+T9g	Positive_regulation 767 777	activation
+E1g	Binding:T8g Theme:T6g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.0750
+E2g	Positive_regulation:T9g Theme:T7g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.2506

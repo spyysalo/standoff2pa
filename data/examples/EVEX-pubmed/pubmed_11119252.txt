@@ -1,0 +1,5 @@
+Th1-specific bystander costimulation imparts resistance against Mycobacterium tuberculosis infection.
+The protection against Mycobacterium tuberculosis infection is mediated by T helper type-1 (Th1) cells.
+Infection of BALB/c mice with M. tuberculosis downregulates expression of a Th1-specific costimulatory molecule, M150, on the surface of infected macrophages.
+The proliferation of Th cells and Th1-cytokine production by these cells are higher in case of M. tuberculosis antigen presentation by uninfected macrophages than by infected macrophages.
+The difference in inducing interleukin(IL)-2 and interferon (IFN)-gamma secretion is abolished by providing bystander costimulation through M150 on liposomes.

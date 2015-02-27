@@ -1,0 +1,116 @@
+T1g	GGP 62 71	human CD4
+NT1g0	Reference T1g ENSGF:155785	CD4
+NT1g1	Reference T1g HG:513	CD4
+NT1g3	Reference T1g ENSF:7901	CD4
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 128 131	CD4
+NT2g0	Reference T2g ENSGF:155785	CD4
+NT2g1	Reference T2g HG:513	CD4
+NT2g3	Reference T2g ENSF:7901	CD4
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 312 341	human anti-CD4 autoantibodies
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T18r	Entity 554 559	sites
+T19r	Entity 574 580	domain
+T4g	GGP 584 588	sCD4
+NT4g0	Reference T4g ENSGF:112024	sCD4
+NT4g1	Reference T4g HG:74677	sCD4
+NT4g2	Reference T4g EG:79966	sCD4
+NT4g3	Reference T4g ENSF:357	FAD
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 721 724	CD4
+NT5g0	Reference T5g ENSGF:155785	CD4
+NT5g1	Reference T5g HG:513	CD4
+NT5g3	Reference T5g ENSF:7901	CD4
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 895 917	anti-CD4 serum samples
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 919 930	Soluble CD4
+NT7g0	Reference T7g ENSGF:155785	CD4
+NT7g1	Reference T7g HG:513	CD4
+NT7g3	Reference T7g ENSF:7901	CD4
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 979 983	IgG1
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 1013 1017	mCD4
+NT9g0	Reference T9g ENSGF:336054	mcd4
+NT9g1	Reference T9g HG:6330	mcd4
+NT9g3	Reference T9g ENSF:1970	mcd4
+NT9g4	Reference T9g NCBITaxon:10090	Mus musculus
+T10g	GGP 1024 1029	gp120
+NT10g0	Reference T10g ENSGF:57	gp120
+NT10g1	Reference T10g HG:1670	gp120
+NT10g2	Reference T10g EG:3700	gp120
+NT10g3	Reference T10g ENSF:528	gp120
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 1123 1126	CD4
+NT11g0	Reference T11g ENSGF:155785	CD4
+NT11g1	Reference T11g HG:513	CD4
+NT11g3	Reference T11g ENSF:7901	CD4
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 1199 1209	anti-gp120
+NT12g0	Reference T12g ENSGF:57	gp120
+NT12g1	Reference T12g HG:1670	gp120
+NT12g2	Reference T12g EG:3700	gp120
+NT12g3	Reference T12g ENSF:528	gp120
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 1280 1288	envelope
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 1293 1310	anti-CD4 antibody
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 1356 1381	human anti-CD4 antibodies
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 1456 1459	CD4
+NT16g0	Reference T16g ENSGF:155785	CD4
+NT16g1	Reference T16g HG:513	CD4
+NT16g3	Reference T16g ENSF:7901	CD4
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 1537 1540	CD4
+NT17g0	Reference T17g ENSGF:155785	CD4
+NT17g1	Reference T17g HG:513	CD4
+NT17g3	Reference T17g ENSF:7901	CD4
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T23g	Gene_expression 1311 1321	production
+T22g	Positive_regulation 997 1004	induced
+T20g	Binding 1008 1012	bind
+T21g	Binding 1030 1037	binding
+T24g	Binding 1382 1391	recognize
+T19g	Binding 859 869	recognized
+T18g	Transcription 689 696	exposed
+E1g	Transcription:T18g Theme:T5g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.6574
+E2g	Binding:T19g Theme:T6g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.2400
+E3g	Positive_regulation:T22g Theme:T7g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.5082
+E4g	Binding:T20g Theme:T8g Theme:T9g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.3573
+E5g	Binding:T20g Theme:T7g Theme:T9g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.8036
+E6g	Binding:T21g Theme:T10g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.7294
+E7g	Gene_expression:T23g Theme:T13g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.6726
+E8g	Gene_expression:T23g Theme:T14g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.6799
+E9g	Binding:T24g Theme:T15g Theme:T16g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	2.1414
+AE1gN	Negation E1g
+#E1gNconf	Confidence AE1gN	82.5784
+AE3gN	Negation E3g
+#E3gNconf	Confidence AE3gN	64.2925
+R1r	Protein-Component Arg1:T4g Arg2:T18r
+AR1rconf	Confidence R1r very-high
+#R1rconf	Confidence R1r	6.0000
+R2r	Protein-Component Arg1:T4g Arg2:T19r
+AR2rconf	Confidence R2r very-high
+#R2rconf	Confidence R2r	5.3452

@@ -1,0 +1,9 @@
+T1g	GGP 35 57	tumor specific antigen
+NT1g0	Reference T1g ENSGF:327454	human leukocyte antigen
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 221 244	tumor specific antibody
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	Binding 287 297	recognized
+E1g	Binding:T3g Theme:T2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.6768

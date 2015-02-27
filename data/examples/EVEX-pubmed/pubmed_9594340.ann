@@ -1,0 +1,125 @@
+T1g	GGP 25 42	serum 7S collagen
+NT1g0	Reference T1g ENSGF:105417	collagen
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 47 63	type VI collagen
+NT2g0	Reference T2g ENSGF:105417	collagen
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 132 149	serum 7S collagen
+NT3g0	Reference T3g ENSGF:105417	collagen
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 151 155	7S-C
+NT4g0	Reference T4g ENSGF:206218	C-peptide
+NT4g1	Reference T4g HG:88477	C-peptide
+NT4g3	Reference T4g ENSF:124574	C-peptide
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 161 177	type VI collagen
+NT5g0	Reference T5g ENSGF:105417	collagen
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 179 183	VI-C
+NT6g0	Reference T6g ENSGF:28551	ET-2
+NT6g1	Reference T6g HG:1477	ET-2
+NT6g3	Reference T6g ENSF:16479	ET-2
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 358 368	serum 7S-C
+NT7g0	Reference T7g ENSGF:206218	C-peptide
+NT7g1	Reference T7g HG:30969	tyrosinase
+NT7g3	Reference T7g ENSF:410	Trp
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 373 377	VI-C
+NT8g0	Reference T8g ENSGF:28551	ET-2
+NT8g1	Reference T8g HG:1477	ET-2
+NT8g2	Reference T8g EG:24324	ET-2
+NT8g3	Reference T8g ENSF:16479	ET-2
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 388 398	Serum 7S-C
+NT9g0	Reference T9g ENSGF:206218	C-peptide
+NT9g1	Reference T9g HG:88477	C-peptide
+NT9g3	Reference T9g ENSF:124574	C-peptide
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 403 407	VI-C
+NT10g0	Reference T10g ENSGF:28551	ET-2
+NT10g1	Reference T10g HG:1477	ET-2
+NT10g3	Reference T10g ENSF:16479	ET-2
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 616 626	Serum 7S-C
+NT11g0	Reference T11g ENSGF:206218	C-peptide
+NT11g1	Reference T11g HG:88477	C-peptide
+NT11g3	Reference T11g ENSF:124574	C-peptide
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 631 635	VI-C
+NT12g0	Reference T12g ENSGF:28551	ET-2
+NT12g1	Reference T12g HG:1477	ET-2
+NT12g3	Reference T12g ENSF:16479	ET-2
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 876 886	Serum 7S-C
+NT13g0	Reference T13g ENSGF:206218	C-peptide
+NT13g1	Reference T13g HG:88477	C-peptide
+NT13g3	Reference T13g ENSF:124574	C-peptide
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 888 901	serum laminin
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 950 954	7S-C
+NT15g0	Reference T15g ENSGF:206218	C-peptide
+NT15g1	Reference T15g HG:88477	C-peptide
+NT15g3	Reference T15g ENSF:124574	C-peptide
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 959 963	VI-C
+NT16g0	Reference T16g ENSGF:28551	ET-2
+NT16g1	Reference T16g HG:1477	ET-2
+NT16g3	Reference T16g ENSF:16479	ET-2
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 1035 1051	albumin/globulin
+NT17g0	Reference T17g ENSGF:181484	albumin
+NT17g1	Reference T17g HG:405	albumin
+NT17g3	Reference T17g ENSF:3828	albumin
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 1106 1126	alkaline phosphatase
+NT18g0	Reference T18g ENSGF:243182	alkaline phosphatase
+NT18g1	Reference T18g HG:129600	alkaline phosphatase
+NT18g2	Reference T18g EG:251	alkaline phosphatase
+NT18g3	Reference T18g ENSF:533	alkaline phosphatase
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 1153 1170	serum 7S collagen
+NT19g0	Reference T19g ENSGF:105417	collagen
+NT19g4	Reference T19g NCBITaxon:10116	Rattus norvegicus
+T20g	GGP 1175 1191	type VI collagen
+NT20g0	Reference T20g ENSGF:105417	collagen
+NT20g4	Reference T20g NCBITaxon:10116	Rattus norvegicus
+T21g	GGP 1265 1282	Serum 7S collagen
+NT21g0	Reference T21g ENSGF:105417	collagen
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 1287 1303	type VI collagen
+NT22g0	Reference T22g ENSGF:105417	collagen
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	Gene_expression 9 21	significance
+T24g	Regulation 319 331	significance
+T25g	Positive_regulation 655 663	elevated
+T26g	Gene_expression 1192 1198	levels
+E1g	Gene_expression:T23g Theme:T1g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.2399
+E2g	Gene_expression:T23g Theme:T2g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.2399
+E3g	Regulation:T24g Theme:T7g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.2500
+E4g	Regulation:T24g Theme:T8g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.2500
+E5g	Positive_regulation:T25g Theme:T11g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.8212
+E6g	Positive_regulation:T25g Theme:T12g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.8212
+E7g	Gene_expression:T26g Theme:T19g
+AE7gconf	Confidence E7g low
+#E7gconf	Confidence E7g	1.3067
+E8g	Gene_expression:T26g Theme:T20g
+AE8gconf	Confidence E8g low
+#E8gconf	Confidence E8g	1.3067
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	82.8377
+AE4gS	Speculation E4g
+#E4gSconf	Confidence AE4gS	82.8377

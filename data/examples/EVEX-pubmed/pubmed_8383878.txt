@@ -1,0 +1,5 @@
+Sea urchin egg receptor for sperm: sequence similarity of binding domain and hsp70.
+Overlapping complementary DNA's encoding the egg plasma membrane receptor for sperm from the sea urchin Strongylocentrotus purpuratus were cloned and sequenced.
+In contrast, the extracellular, sperm binding domain of the receptor did show sequence similarity to the heat shock protein 70 (hsp70) family of proteins.
+Recombinant protein representing this portion of the receptor bound to the sperm protein, binding, and also inhibited fertilization in a species-specific manner; beads coated with the protein became specifically bound to acrosome-reacted sperm.
+These data provide a basis for detailed investigations of molecular interactions that occur in gamete recognition and egg activation.

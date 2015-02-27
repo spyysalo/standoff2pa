@@ -1,0 +1,10 @@
+T1g	GGP 35 50	couple receptor
+NT1g0	Reference T1g ENSGF:154649	NMDA receptor
+NT1g1	Reference T1g HG:124357	NMDA receptor
+NT1g3	Reference T1g ENSF:4176	NMDA receptor
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 241 244	lag
+NT2g1	Reference T2g HG:4063	lag
+NT2g2	Reference T2g EG:3925	lag
+NT2g3	Reference T2g ENSF:1881	lag
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens

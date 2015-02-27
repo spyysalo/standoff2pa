@@ -1,0 +1,31 @@
+T1g	GGP 4 16	Philadelphia
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 18 20	Ph
+NT2g0	Reference T2g ENSGF:153795	PAH
+NT2g1	Reference T2g HG:234	PAH
+NT2g3	Reference T2g ENSF:20995	PH
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 263 265	Ph
+NT3g0	Reference T3g ENSGF:153795	PAH
+NT3g1	Reference T3g HG:234	PAH
+NT3g3	Reference T3g ENSF:20995	PH
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 397 418	reverse transcriptase
+NT4g0	Reference T4g ENSGF:196708	Reverse transcriptase
+NT4g1	Reference T4g HG:128561	Reverse transcriptase
+NT4g3	Reference T4g ENSF:322	Reverse transcriptase
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 646 665	BCR-ABL transcripts
+NT5g0	Reference T5g ENSGF:108912	ABL
+NT5g1	Reference T5g HG:3783	ABL
+NT5g3	Reference T5g ENSF:2334	ABL
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 748 764	interferon-alpha
+NT6g1	Reference T6g HG:88661	interferon-alpha
+NT6g2	Reference T6g EG:3452	interferon-alpha
+NT6g3	Reference T6g ENSF:430	IFN
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	Localization 266 279	translocation
+E1g	Localization:T7g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.8376

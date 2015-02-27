@@ -1,0 +1,50 @@
+T1g	GGP 0 10	Hemoglobin
+NT1g0	Reference T1g ENSGF:52483	hemoglobin
+NT1g1	Reference T1g HG:111868	hemoglobin
+NT1g3	Reference T1g ENSF:558488	hemoglobin
+NT1g4	Reference T1g NCBITaxon:9986	Oryctolagus cuniculus
+T2g	GGP 113 123	hemoglobin
+NT2g0	Reference T2g ENSGF:52483	hemoglobin
+NT2g1	Reference T2g HG:111868	hemoglobin
+NT2g3	Reference T2g ENSF:558488	hemoglobin
+NT2g4	Reference T2g NCBITaxon:9986	Oryctolagus cuniculus
+T3g	GGP 150 160	hemoglobin
+NT3g0	Reference T3g ENSGF:52483	hemoglobin
+NT3g1	Reference T3g HG:111868	hemoglobin
+NT3g3	Reference T3g ENSF:558488	hemoglobin
+NT3g4	Reference T3g NCBITaxon:9986	Oryctolagus cuniculus
+T4g	GGP 162 164	Hb
+NT4g0	Reference T4g ENSGF:202305	Hb
+NT4g1	Reference T4g HG:100065	Hb
+NT4g3	Reference T4g ENSF:3056	Hb
+NT4g4	Reference T4g NCBITaxon:9986	Oryctolagus cuniculus
+T5g	GGP 317 335	anti-Hb antibodies
+NT5g4	Reference T5g NCBITaxon:9986	Oryctolagus cuniculus
+T6g	GGP 557 579	Hb immuno-fluorescence
+NT6g4	Reference T6g NCBITaxon:9986	Oryctolagus cuniculus
+T7g	GGP 608 618	Hemoglobin
+NT7g0	Reference T7g ENSGF:52483	hemoglobin
+NT7g1	Reference T7g HG:111868	hemoglobin
+NT7g3	Reference T7g ENSF:558488	hemoglobin
+NT7g4	Reference T7g NCBITaxon:9986	Oryctolagus cuniculus
+T8g	GGP 831 833	Hb
+NT8g0	Reference T8g ENSGF:202305	Hb
+NT8g1	Reference T8g HG:100065	Hb
+NT8g3	Reference T8g ENSF:3056	Hb
+NT8g4	Reference T8g NCBITaxon:9986	Oryctolagus cuniculus
+T9g	GGP 907 909	Hb
+NT9g0	Reference T9g ENSGF:202305	Hb
+NT9g1	Reference T9g HG:100065	Hb
+NT9g3	Reference T9g ENSF:3056	Hb
+NT9g4	Reference T9g NCBITaxon:9986	Oryctolagus cuniculus
+T10g	GGP 1047 1049	Hb
+NT10g0	Reference T10g ENSGF:202305	Hb
+NT10g1	Reference T10g HG:100065	Hb
+NT10g3	Reference T10g ENSF:3056	Hb
+NT10g4	Reference T10g NCBITaxon:9986	Oryctolagus cuniculus
+T11g	Gene_expression 301 313	distribution
+E1g	Gene_expression:T11g Theme:T5g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.4658
+AE1gS	Speculation E1g
+#E1gSconf	Confidence AE1gS	29.9232

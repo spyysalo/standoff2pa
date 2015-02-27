@@ -1,0 +1,26 @@
+T1g	GGP 68 87	rheumatoid shoulder
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 227 229	GH
+NT2g0	Reference T2g ENSGF:259774	GH
+NT2g1	Reference T2g HG:47932	GH
+NT2g3	Reference T2g ENSF:1499	GH
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 285 287	GH
+NT3g0	Reference T3g ENSGF:259774	GH
+NT3g1	Reference T3g HG:47932	GH
+NT3g3	Reference T3g ENSF:1499	GH
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 346 348	GH
+NT4g0	Reference T4g ENSGF:259774	GH
+NT4g1	Reference T4g HG:47932	GH
+NT4g3	Reference T4g ENSF:1499	GH
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 492 494	GH
+NT5g0	Reference T5g ENSGF:259774	GH
+NT5g1	Reference T5g HG:47932	GH
+NT5g3	Reference T5g ENSF:1499	GH
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	Regulation 307 315	affected
+E1g	Regulation:T6g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.0659

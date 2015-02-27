@@ -1,0 +1,36 @@
+T1g	GGP 3 16	Cholera toxin
+NT1g4	Reference T1g NCBITaxon:562	Escherichia coli
+T2g	GGP 234 247	cholera toxin
+NT2g4	Reference T2g NCBITaxon:562	Escherichia coli
+T3g	GGP 249 268	Campylobacter toxin
+NT3g4	Reference T3g NCBITaxon:562	Escherichia coli
+T4g	GGP 323 339	Dinophysis toxin
+NT4g4	Reference T4g NCBITaxon:1496	[Clostridium] difficile
+T5g	GGP 366 379	cholera toxin
+NT5g4	Reference T5g NCBITaxon:562	Escherichia coli
+T6g	GGP 508 521	Cholera toxin
+NT6g4	Reference T6g NCBITaxon:562	Escherichia coli
+T7g	GGP 577 580	ASF
+NT7g1	Reference T7g HG:31411	SF2
+NT7g3	Reference T7g ENSF:3583	SF2
+NT7g4	Reference T7g NCBITaxon:562	Escherichia coli
+T8g	GGP 690 703	pituitary ASF
+NT8g1	Reference T8g HG:31411	SF2
+NT8g3	Reference T8g ENSF:3583	SF2
+NT8g4	Reference T8g NCBITaxon:562	Escherichia coli
+T9g	GGP 705 708	ASF
+NT9g1	Reference T9g HG:31411	SF2
+NT9g3	Reference T9g ENSF:3583	SF2
+NT9g4	Reference T9g NCBITaxon:9823	Sus scrofa
+T10g	GGP 872 875	ASF
+NT10g1	Reference T10g HG:31411	SF2
+NT10g3	Reference T10g ENSF:3583	SF2
+NT10g4	Reference T10g NCBITaxon:562	Escherichia coli
+T11g	Binding 353 362	injection
+T12g	Positive_regulation 568 576	inducing
+E1g	Binding:T11g Theme:T5g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.3233
+E2g	Positive_regulation:T12g Theme:T7g
+AE2gconf	Confidence E2g high
+#E2gconf	Confidence E2g	4.0546

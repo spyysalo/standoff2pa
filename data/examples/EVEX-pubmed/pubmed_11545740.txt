@@ -1,0 +1,5 @@
+Crystal structure of the human nuclear cap binding complex.
+The heterodimeric nuclear cap binding complex (CBC) binds to 5'-capped polymerase II transcripts.
+The 2A crystal structure of human CBC shows that the large subunit, CBP80, comprises three domains, each containing consecutive helical hairpins and resembling the so-called MIF4G domain found in several other proteins involved in RNA metabolism.
+The small subunit, CPB20, has an RNP fold and associates with the second and third domains of CBP80.
+Site-directed mutagenesis revealed 4 residues of CBP20 which are critical for cap binding.

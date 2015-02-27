@@ -1,0 +1,7 @@
+IFN-gamma promotes apoptosis of the uterus and placenta in pregnant rat and human cytotrophoblast cells.
+Growth and development of placentas in all pregnancy periods and that of fetuses in late pregnancy were inhibited after administration of interferon-gamma (IFN-gamma).
+The results of immunohistochemistry and the DNA ladder assay showed that IFN-gamma could promote the apoptosis levels during the entire pregnancy, but it did not change the apoptosis locations.
+IFN regulatory factor-1 (IRF-1), FasL, and p53 expressions were modulated by IFN-gamma during the entire pregnancy.
+In vitro cell proliferation assay indicated that IFN-gamma could inhibit proliferation of human cytotrophoblast cells, and flow assay showed that this effect was mainly due to apoptosis induction.
+TUNEL and Hoechst staining also showed that IFN-gamma could induce apoptosis of human cytotrophoblast cells.
+Expression of IRF-1 was induced and expression of active caspase-3 was promoted by IFN-gamma treatment, but IFN-gamma did not affect the expression of IFNGR and p53.

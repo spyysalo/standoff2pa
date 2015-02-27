@@ -1,0 +1,4 @@
+Studies on the effect of superoxide dismutase (peroxinorm) on interleukin-1 activity.
+The experiments were undertaken to determine the effect of Peroxinorm (superoxide dismutase) on the activity of interleukin-1 in vitro.
+The results give evidence that the influence of the drug examined on the activity/production of interleukin-1 can take different forms, relative to the concentration applied.
+At higher dilution (10(-7)) Peroxinorm suppressed the activity of Il-1, whereas at lower dilutions it was devoid of this effect.

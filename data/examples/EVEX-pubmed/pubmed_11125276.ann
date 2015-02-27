@@ -1,0 +1,90 @@
+T1g	GGP 13 25	p53 mutation
+NT1g0	Reference T1g ENSGF:292441	p53
+NT1g1	Reference T1g HG:460	p53
+NT1g3	Reference T1g ENSF:810	p53
+NT1g4	Reference T1g NCBITaxon:4932	Saccharomyces cerevisiae
+T2g	GGP 75 88	p53 mutations
+NT2g0	Reference T2g ENSGF:292441	p53
+NT2g1	Reference T2g HG:460	p53
+NT2g3	Reference T2g ENSF:810	p53
+NT2g4	Reference T2g NCBITaxon:4932	Saccharomyces cerevisiae
+T3g	GGP 122 130	p53 gene
+NT3g0	Reference T3g ENSGF:292441	p53
+NT3g1	Reference T3g HG:460	p53
+NT3g3	Reference T3g ENSF:810	p53
+NT3g4	Reference T3g NCBITaxon:4932	Saccharomyces cerevisiae
+T15r	Entity 162 168	domain
+T4g	GGP 193 196	p53
+NT4g0	Reference T4g ENSGF:292441	p53
+NT4g1	Reference T4g HG:460	p53
+NT4g3	Reference T4g ENSF:810	p53
+NT4g4	Reference T4g NCBITaxon:4932	Saccharomyces cerevisiae
+T5g	GGP 261 264	p53
+NT5g0	Reference T5g ENSGF:292441	p53
+NT5g1	Reference T5g HG:460	p53
+NT5g3	Reference T5g ENSF:810	p53
+NT5g4	Reference T5g NCBITaxon:4932	Saccharomyces cerevisiae
+T6g	GGP 291 309	mutant p53 protein
+NT6g0	Reference T6g ENSGF:292441	p53
+NT6g1	Reference T6g HG:460	p53
+NT6g3	Reference T6g ENSF:810	p53
+NT6g4	Reference T6g NCBITaxon:4932	Saccharomyces cerevisiae
+T7g	GGP 383 395	p53 mutation
+NT7g0	Reference T7g ENSGF:292441	p53
+NT7g1	Reference T7g HG:460	p53
+NT7g3	Reference T7g ENSF:810	p53
+NT7g4	Reference T7g NCBITaxon:4932	Saccharomyces cerevisiae
+T16r	Entity 552 558	domain
+T8g	GGP 562 565	p53
+NT8g0	Reference T8g ENSGF:292441	p53
+NT8g1	Reference T8g HG:460	p53
+NT8g3	Reference T8g ENSF:810	p53
+NT8g4	Reference T8g NCBITaxon:4932	Saccharomyces cerevisiae
+T9g	GGP 605 623	mutant p53 protein
+NT9g0	Reference T9g ENSGF:292441	p53
+NT9g1	Reference T9g HG:460	p53
+NT9g3	Reference T9g ENSF:810	p53
+NT9g4	Reference T9g NCBITaxon:4932	Saccharomyces cerevisiae
+T10g	GGP 707 738	wild-type p53-specific antibody
+NT10g4	Reference T10g NCBITaxon:4932	Saccharomyces cerevisiae
+T11g	GGP 740 747	PAb1620
+NT11g4	Reference T11g NCBITaxon:4932	Saccharomyces cerevisiae
+T12g	GGP 764 785	p53-specific antibody
+NT12g4	Reference T12g NCBITaxon:4932	Saccharomyces cerevisiae
+T13g	GGP 787 793	PAb240
+NT13g4	Reference T13g NCBITaxon:4932	Saccharomyces cerevisiae
+T14g	GGP 859 862	p53
+NT14g0	Reference T14g ENSGF:292441	p53
+NT14g1	Reference T14g HG:460	p53
+NT14g3	Reference T14g ENSF:810	p53
+NT14g4	Reference T14g NCBITaxon:4932	Saccharomyces cerevisiae
+T16g	Binding 676 694	immunoprecipitated
+T17g	Positive_regulation 584 596	accumulation
+T15g	Gene_expression 89 94	occur
+E1g	Gene_expression:T15g Theme:T2g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.8762
+E2g	Gene_expression:T15g Theme:T3g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.5425
+E3g	Binding:T16g Theme:T10g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.6630
+E4g	Binding:T16g Theme:T11g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.6630
+E5g	Binding:T16g Theme:T13g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.6630
+E6g	Binding:T16g Theme:T12g
+AE6gconf	Confidence E6g low
+#E6gconf	Confidence E6g	1.6630
+E7g	Positive_regulation:T17g Theme:T9g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.5339
+R1r	Protein-Component Arg1:T3g Arg2:T15r
+AR1rconf	Confidence R1r medium
+#R1rconf	Confidence R1r	3.0741
+R2r	Protein-Component Arg1:T8g Arg2:T16r
+AR2rconf	Confidence R2r high
+#R2rconf	Confidence R2r	4.9277

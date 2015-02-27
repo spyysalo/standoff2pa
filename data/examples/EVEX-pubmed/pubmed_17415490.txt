@@ -1,0 +1,6 @@
+One-compartment biofuel cells without separators have been constructed, in which d-fructose dehydrogenase (FDH) from Gluconobacter sp. and laccase from Trametes sp.
+The location and the shape of the catalytic waves suggest strongly that the electron is directly transferred to the KB particles from the heme c site in FDH, of which the formal potential has been determined to be 39 mV vs. Ag|AgCl|sat.
+KCl.
+Electrochemistry of three kinds of multi-copper oxidases has also been investigated and TsLAC has been selected as the best one of the DET-type bioelectrocatalyst for the four-electron reduction of dioxygen in view of the thermodynamics and kinetics at pH 5.
+In the DET-type bioelectrocatalysis, the electron from electrodes seems to be transferred to the type I copper site of multi-copper oxidases.
+The FDH-adsorbed KB-modified CP electrodes and the TsLAC-adsorbed CG-modified CP electrodes have been combined to construct one-compartment biofuel cells without separators.

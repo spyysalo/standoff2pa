@@ -1,0 +1,113 @@
+T1g	GGP 45 57	Shiga toxins
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 61 70	IFN-gamma
+NT2g0	Reference T2g ENSGF:140316	IFN-gamma
+NT2g1	Reference T2g HG:55526	IFN-gamma
+NT2g2	Reference T2g EG:3458	IFN-gamma
+NT2g3	Reference T2g ENSF:6446	IFN-gamma
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 91 103	Shiga toxins
+NT3g4	Reference T3g NCBITaxon:562	Escherichia coli
+T4g	GGP 105 109	Stxs
+NT4g4	Reference T4g NCBITaxon:562	Escherichia coli
+T5g	GGP 284 293	TNF-alpha
+NT5g0	Reference T5g ENSGF:225665	TNF-alpha
+NT5g1	Reference T5g HG:496	TNF-alpha
+NT5g2	Reference T5g EG:7124	TNF-alpha
+NT5g3	Reference T5g ENSF:5399	TNF-alpha
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 328 337	IFN-gamma
+NT6g0	Reference T6g ENSGF:140316	IFN-gamma
+NT6g1	Reference T6g HG:55526	IFN-gamma
+NT6g2	Reference T6g EG:3458	IFN-gamma
+NT6g3	Reference T6g ENSF:6446	IFN-gamma
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 472 481	TNF-alpha
+NT7g0	Reference T7g ENSGF:225665	TNF-alpha
+NT7g1	Reference T7g HG:496	TNF-alpha
+NT7g2	Reference T7g EG:7124	TNF-alpha
+NT7g3	Reference T7g ENSF:5399	TNF-alpha
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 494 503	IFN-gamma
+NT8g0	Reference T8g ENSGF:140316	IFN-gamma
+NT8g1	Reference T8g HG:55526	IFN-gamma
+NT8g2	Reference T8g EG:3458	IFN-gamma
+NT8g3	Reference T8g ENSF:6446	IFN-gamma
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 517 520	Stx
+NT9g0	Reference T9g ENSGF:76348	Stx
+NT9g1	Reference T9g HG:4384	Stx
+NT9g2	Reference T9g EG:8128	STX
+NT9g3	Reference T9g ENSF:2375	Stx
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 607 610	Stx
+NT10g0	Reference T10g ENSGF:76348	Stx
+NT10g1	Reference T10g HG:4384	Stx
+NT10g2	Reference T10g EG:8128	STX
+NT10g3	Reference T10g ENSF:2375	Stx
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 621 626	Toxin
+NT11g0	Reference T11g ENSGF:282376	Toxin
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 670 679	IFN-gamma
+NT12g0	Reference T12g ENSGF:140316	IFN-gamma
+NT12g1	Reference T12g HG:55526	IFN-gamma
+NT12g2	Reference T12g EG:3458	IFN-gamma
+NT12g3	Reference T12g ENSF:6446	IFN-gamma
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 711 714	Stx
+NT13g0	Reference T13g ENSGF:76348	Stx
+NT13g1	Reference T13g HG:4384	Stx
+NT13g2	Reference T13g EG:8128	STX
+NT13g3	Reference T13g ENSF:2375	Stx
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 810 813	Stx
+NT14g0	Reference T14g ENSGF:76348	Stx
+NT14g1	Reference T14g HG:4384	Stx
+NT14g2	Reference T14g EG:8128	STX
+NT14g3	Reference T14g ENSF:2375	Stx
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 930 933	Stx
+NT15g0	Reference T15g ENSGF:76348	Stx
+NT15g1	Reference T15g HG:4384	Stx
+NT15g2	Reference T15g EG:8128	STX
+NT15g3	Reference T15g ENSF:2375	Stx
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 1042 1055	N-glycosidase
+NT16g1	Reference T16g HG:32049	Notch
+NT16g3	Reference T16g ENSF:257	Notch
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 1149 1152	Stx
+NT17g0	Reference T17g ENSGF:76348	Stx
+NT17g1	Reference T17g HG:4384	Stx
+NT17g2	Reference T17g EG:8128	STX
+NT17g3	Reference T17g ENSF:2375	Stx
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 1205 1214	IFN-gamma
+NT18g0	Reference T18g ENSGF:140316	IFN-gamma
+NT18g1	Reference T18g HG:55526	IFN-gamma
+NT18g2	Reference T18g EG:3458	IFN-gamma
+NT18g3	Reference T18g ENSF:6446	IFN-gamma
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	Gene_expression 38 44	resist
+T21g	Regulation 597 603	effect
+T22g	Binding 627 634	binding
+T20g	Gene_expression 111 119	produced
+E1g	Gene_expression:T19g Theme:T1g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.7965
+E2g	Gene_expression:T20g Theme:T3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.3153
+E3g	Gene_expression:T20g Theme:T4g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.1382
+E4g	Gene_expression:T20g Theme:T5g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.9077
+E5g	Regulation:T21g Theme:T10g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.6584
+E6g	Binding:T22g Theme:T12g Theme:T11g
+AE6gconf	Confidence E6g low
+#E6gconf	Confidence E6g	1.6295

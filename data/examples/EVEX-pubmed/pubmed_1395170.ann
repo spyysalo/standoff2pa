@@ -1,0 +1,25 @@
+T1g	GGP 217 237	alkaline phosphatase
+NT1g0	Reference T1g ENSGF:243182	alkaline phosphatase
+NT1g1	Reference T1g HG:129600	alkaline phosphatase
+NT1g2	Reference T1g EG:251	alkaline phosphatase
+NT1g3	Reference T1g ENSF:533	alkaline phosphatase
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 396 403	serum P
+NT2g0	Reference T2g ENSGF:144775	P
+NT2g1	Reference T2g HG:37281	P
+NT2g3	Reference T2g ENSF:22551	P
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 474 482	collagen
+NT3g0	Reference T3g ENSGF:222765	collagen
+NT3g1	Reference T3g HG:55806	collagen
+NT3g2	Reference T3g EG:8974	collagen
+NT3g3	Reference T3g ENSF:377	collagen
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	Positive_regulation 205 213	increase
+T5g	Positive_regulation 428 436	elevated
+E1g	Positive_regulation:T4g Theme:T1g
+AE1gconf	Confidence E1g very-high
+#E1gconf	Confidence E1g	5.1241
+E2g	Positive_regulation:T5g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.8077

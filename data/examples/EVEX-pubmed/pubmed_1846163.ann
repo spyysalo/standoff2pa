@@ -1,0 +1,325 @@
+T1g	GGP 0 7	Insulin
+NT1g0	Reference T1g ENSGF:121851	insulin
+NT1g1	Reference T1g HG:173	insulin
+NT1g2	Reference T1g EG:3630	insulin
+NT1g3	Reference T1g ENSF:15743	insulin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 155 160	SCL-1
+NT2g0	Reference T2g ENSGF:260001	Scl1
+NT2g3	Reference T2g ENSF:2287	PRC2
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 266 293	insulin-like growth factors
+NT3g0	Reference T3g ENSGF:121851	insulin
+NT3g1	Reference T3g HG:173	insulin
+NT3g2	Reference T3g EG:3630	insulin
+NT3g3	Reference T3g ENSF:15743	insulin
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 295 298	IGF
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 304 311	insulin
+NT5g0	Reference T5g ENSGF:121851	insulin
+NT5g1	Reference T5g HG:173	insulin
+NT5g2	Reference T5g EG:3630	insulin
+NT5g3	Reference T5g ENSF:15743	insulin
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 368 373	IGF-1
+NT6g1	Reference T6g HG:515	IGF-I
+NT6g2	Reference T6g EG:3479	IGF-I
+NT6g3	Reference T6g ENSF:3247	IGF-I
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 375 380	IGF-2
+NT7g0	Reference T7g ENSGF:315170	IGF-II
+NT7g1	Reference T7g HG:510	IGF-II
+NT7g2	Reference T7g EG:3481	IGF-II
+NT7g3	Reference T7g ENSF:9327	IGF-II
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 386 393	insulin
+NT8g0	Reference T8g ENSGF:121851	insulin
+NT8g1	Reference T8g HG:173	insulin
+NT8g2	Reference T8g EG:3630	insulin
+NT8g3	Reference T8g ENSF:15743	insulin
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 453 473	type I IGF receptors
+NT9g0	Reference T9g ENSGF:124820	Type I
+NT9g1	Reference T9g HG:2871	Type I
+NT9g2	Reference T9g EG:3631	Type I
+NT9g3	Reference T9g ENSF:2935	Type I
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 493 498	IGF-1
+NT10g1	Reference T10g HG:515	IGF-I
+NT10g2	Reference T10g EG:3479	IGF-I
+NT10g3	Reference T10g ENSF:3247	IGF-I
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 512 517	IGF-2
+NT11g0	Reference T11g ENSGF:315170	IGF-II
+NT11g1	Reference T11g HG:510	IGF-II
+NT11g2	Reference T11g EG:3481	IGF-II
+NT11g3	Reference T11g ENSF:9327	IGF-II
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 536 543	insulin
+NT12g0	Reference T12g ENSGF:121851	insulin
+NT12g1	Reference T12g HG:173	insulin
+NT12g2	Reference T12g EG:3630	insulin
+NT12g3	Reference T12g ENSF:15743	insulin
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 545 562	Insulin receptors
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 590 597	insulin
+NT14g0	Reference T14g ENSGF:121851	insulin
+NT14g1	Reference T14g HG:173	insulin
+NT14g2	Reference T14g EG:3630	insulin
+NT14g3	Reference T14g ENSF:15743	insulin
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 683 693	125I-IGF-2
+NT15g0	Reference T15g ENSGF:315170	IGF-II
+NT15g1	Reference T15g HG:510	IGF-II
+NT15g3	Reference T15g ENSF:9327	IGF-II
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 703 713	125I-IGF-2
+NT16g0	Reference T16g ENSGF:315170	IGF-II
+NT16g1	Reference T16g HG:510	IGF-II
+NT16g3	Reference T16g ENSF:9327	IGF-II
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 728 760	type I and type II IGF receptors
+NT17g0	Reference T17g ENSGF:124820	Type I
+NT17g1	Reference T17g HG:2871	Type I
+NT17g2	Reference T17g EG:3631	Type I
+NT17g3	Reference T17g ENSF:2935	Type I
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 833 836	IGF
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 857 862	SCL-1
+NT19g0	Reference T19g ENSGF:260001	Scl1
+NT19g3	Reference T19g ENSF:2287	PRC2
+NT19g4	Reference T19g NCBITaxon:9606	Homo sapiens
+T20g	GGP 864 869	IGF-1
+NT20g1	Reference T20g HG:515	IGF-I
+NT20g2	Reference T20g EG:3479	IGF-I
+NT20g3	Reference T20g ENSF:3247	IGF-I
+NT20g4	Reference T20g NCBITaxon:9606	Homo sapiens
+T21g	GGP 900 905	IGF-2
+NT21g0	Reference T21g ENSGF:315170	IGF-II
+NT21g1	Reference T21g HG:510	IGF-II
+NT21g2	Reference T21g EG:3481	IGF-II
+NT21g3	Reference T21g ENSF:9327	IGF-II
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 1003 1008	IGF-1
+NT22g1	Reference T22g HG:515	IGF-I
+NT22g2	Reference T22g EG:3479	IGF-I
+NT22g3	Reference T22g ENSF:3247	IGF-I
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	GGP 1042 1047	IGF-2
+NT23g0	Reference T23g ENSGF:315170	IGF-II
+NT23g1	Reference T23g HG:510	IGF-II
+NT23g2	Reference T23g EG:3481	IGF-II
+NT23g3	Reference T23g ENSF:9327	IGF-II
+NT23g4	Reference T23g NCBITaxon:9606	Homo sapiens
+T24g	GGP 1159 1164	IGF-1
+NT24g1	Reference T24g HG:515	IGF-I
+NT24g2	Reference T24g EG:3479	IGF-I
+NT24g3	Reference T24g ENSF:3247	IGF-I
+NT24g4	Reference T24g NCBITaxon:9606	Homo sapiens
+T25g	GGP 1168 1173	IGF-2
+NT25g0	Reference T25g ENSGF:315170	IGF-II
+NT25g1	Reference T25g HG:510	IGF-II
+NT25g2	Reference T25g EG:3481	IGF-II
+NT25g3	Reference T25g ENSF:9327	IGF-II
+NT25g4	Reference T25g NCBITaxon:9606	Homo sapiens
+T26g	GGP 1234 1239	IGF-1
+NT26g1	Reference T26g HG:515	IGF-I
+NT26g2	Reference T26g EG:3479	IGF-I
+NT26g3	Reference T26g ENSF:3247	IGF-I
+NT26g4	Reference T26g NCBITaxon:9606	Homo sapiens
+T27g	GGP 1261 1266	IGF-2
+NT27g0	Reference T27g ENSGF:315170	IGF-II
+NT27g1	Reference T27g HG:510	IGF-II
+NT27g2	Reference T27g EG:3481	IGF-II
+NT27g3	Reference T27g ENSF:9327	IGF-II
+NT27g4	Reference T27g NCBITaxon:9606	Homo sapiens
+T28g	GGP 1270 1277	insulin
+NT28g0	Reference T28g ENSGF:121851	insulin
+NT28g1	Reference T28g HG:173	insulin
+NT28g2	Reference T28g EG:3630	insulin
+NT28g3	Reference T28g ENSF:15743	insulin
+NT28g4	Reference T28g NCBITaxon:9606	Homo sapiens
+T29g	GGP 1314 1319	IGF-1
+NT29g1	Reference T29g HG:515	IGF-I
+NT29g2	Reference T29g EG:3479	IGF-I
+NT29g3	Reference T29g ENSF:3247	IGF-I
+NT29g4	Reference T29g NCBITaxon:9606	Homo sapiens
+T30g	GGP 1323 1328	IGF-2
+NT30g0	Reference T30g ENSGF:315170	IGF-II
+NT30g1	Reference T30g HG:510	IGF-II
+NT30g2	Reference T30g EG:3481	IGF-II
+NT30g3	Reference T30g ENSF:9327	IGF-II
+NT30g4	Reference T30g NCBITaxon:9606	Homo sapiens
+T31g	GGP 1457 1464	insulin
+NT31g0	Reference T31g ENSGF:121851	insulin
+NT31g1	Reference T31g HG:173	insulin
+NT31g2	Reference T31g EG:3630	insulin
+NT31g3	Reference T31g ENSF:15743	insulin
+NT31g4	Reference T31g NCBITaxon:9606	Homo sapiens
+T32g	GGP 1468 1473	SCL-1
+NT32g0	Reference T32g ENSGF:260001	Scl1
+NT32g3	Reference T32g ENSF:2287	PRC2
+NT32g4	Reference T32g NCBITaxon:9606	Homo sapiens
+T33g	GGP 1519 1522	IGF
+NT33g4	Reference T33g NCBITaxon:9606	Homo sapiens
+T34g	GGP 1545 1557	IGF on SCL-1
+NT34g0	Reference T34g ENSGF:260001	Scl1
+NT34g3	Reference T34g ENSF:2287	PRC2
+NT34g4	Reference T34g NCBITaxon:9606	Homo sapiens
+T35g	GGP 1597 1609	IGF receptor
+NT35g0	Reference T35g ENSGF:185408	IR
+NT35g1	Reference T35g HG:20090	insulin receptor
+NT35g2	Reference T35g EG:3643	insulin receptor
+NT35g3	Reference T35g ENSF:482	insulin receptor
+NT35g4	Reference T35g NCBITaxon:9606	Homo sapiens
+T36g	GGP 1619 1629	alpha IR-3
+NT36g4	Reference T36g NCBITaxon:9606	Homo sapiens
+T37g	GGP 1652 1656	IGFs
+NT37g4	Reference T37g NCBITaxon:9606	Homo sapiens
+T38g	GGP 1683 1702	type I IGF receptor
+NT38g0	Reference T38g ENSGF:185408	IR
+NT38g1	Reference T38g HG:20090	insulin receptor
+NT38g2	Reference T38g EG:3643	insulin receptor
+NT38g3	Reference T38g ENSF:482	insulin receptor
+NT38g4	Reference T38g NCBITaxon:9606	Homo sapiens
+T39g	GGP 1704 1711	Insulin
+NT39g0	Reference T39g ENSGF:121851	insulin
+NT39g1	Reference T39g HG:173	insulin
+NT39g2	Reference T39g EG:3630	insulin
+NT39g3	Reference T39g ENSF:15743	insulin
+NT39g4	Reference T39g NCBITaxon:9606	Homo sapiens
+T40g	GGP 1744 1754	alpha IR-3
+NT40g4	Reference T40g NCBITaxon:9606	Homo sapiens
+T41g	GGP 1772 1779	insulin
+NT41g0	Reference T41g ENSGF:121851	insulin
+NT41g1	Reference T41g HG:173	insulin
+NT41g2	Reference T41g EG:3630	insulin
+NT41g3	Reference T41g ENSF:15743	insulin
+NT41g4	Reference T41g NCBITaxon:9606	Homo sapiens
+T42g	GGP 1805 1812	insulin
+NT42g0	Reference T42g ENSGF:121851	insulin
+NT42g1	Reference T42g HG:173	insulin
+NT42g2	Reference T42g EG:3630	insulin
+NT42g3	Reference T42g ENSF:15743	insulin
+NT42g4	Reference T42g NCBITaxon:9606	Homo sapiens
+T43g	GGP 1817 1837	type I IGF receptors
+NT43g0	Reference T43g ENSGF:124820	Type I
+NT43g1	Reference T43g HG:2871	Type I
+NT43g2	Reference T43g EG:3631	Type I
+NT43g3	Reference T43g ENSF:2935	Type I
+NT43g4	Reference T43g NCBITaxon:9606	Homo sapiens
+T44g	GGP 1860 1865	IGF-1
+NT44g1	Reference T44g HG:515	IGF-I
+NT44g2	Reference T44g EG:3479	IGF-I
+NT44g3	Reference T44g ENSF:3247	IGF-I
+NT44g4	Reference T44g NCBITaxon:9606	Homo sapiens
+T45g	GGP 1870 1875	IGF-2
+NT45g0	Reference T45g ENSGF:315170	IGF-II
+NT45g1	Reference T45g HG:510	IGF-II
+NT45g2	Reference T45g EG:3481	IGF-II
+NT45g3	Reference T45g ENSF:9327	IGF-II
+NT45g4	Reference T45g NCBITaxon:9606	Homo sapiens
+T46g	GGP 2001 2013	IGF receptor
+NT46g0	Reference T46g ENSGF:185408	IR
+NT46g1	Reference T46g HG:20090	insulin receptor
+NT46g2	Reference T46g EG:3643	insulin receptor
+NT46g3	Reference T46g ENSF:482	insulin receptor
+NT46g4	Reference T46g NCBITaxon:9606	Homo sapiens
+T47g	GGP 2023 2030	insulin
+NT47g0	Reference T47g ENSGF:121851	insulin
+NT47g1	Reference T47g HG:173	insulin
+NT47g2	Reference T47g EG:3630	insulin
+NT47g3	Reference T47g ENSF:15743	insulin
+NT47g4	Reference T47g NCBITaxon:9606	Homo sapiens
+T48g	GGP 2061 2075	IGF-1 receptor
+NT48g0	Reference T48g ENSGF:185408	IR
+NT48g1	Reference T48g HG:20090	insulin receptor
+NT48g2	Reference T48g EG:3643	insulin receptor
+NT48g3	Reference T48g ENSF:482	insulin receptor
+NT48g4	Reference T48g NCBITaxon:9606	Homo sapiens
+T49g	GGP 2084 2100	insulin receptor
+NT49g0	Reference T49g ENSGF:185408	IR
+NT49g1	Reference T49g HG:20090	insulin receptor
+NT49g2	Reference T49g EG:3643	insulin receptor
+NT49g3	Reference T49g ENSF:482	insulin receptor
+NT49g4	Reference T49g NCBITaxon:9606	Homo sapiens
+T50g	Gene_expression 238 248	expression
+T56g	Binding 694 701	binding
+T59g	Negative_regulation 1573 1582	inhibited
+T57g	Binding 790 795	bound
+T55g	Gene_expression 609 616	present
+T58g	Binding 714 719	bound
+T54g	Binding 577 585	affinity
+T61g	Negative_regulation 1733 1740	blocked
+T60g	Positive_regulation 1528 1534	effect
+T52g	Binding 480 488	affinity
+T53g	Gene_expression 443 452	expressed
+T51g	Binding 394 399	bound
+E10g	Gene_expression:T53g Theme:T9g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.5497
+E11g	Binding:T52g Theme:T10g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	2.2018
+E12g	Binding:T52g Theme:T11g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	2.2018
+E13g	Binding:T52g Theme:T12g
+AE13gconf	Confidence E13g medium
+#E13gconf	Confidence E13g	2.2018
+E14g	Gene_expression:T55g Theme:T13g
+AE14gconf	Confidence E14g medium
+#E14gconf	Confidence E14g	2.7513
+E15g	Binding:T54g Theme:T14g Theme:T13g
+AE15gconf	Confidence E15g low
+#E15gconf	Confidence E15g	1.9355
+E16g	Binding:T56g Theme:T15g
+AE16gconf	Confidence E16g medium
+#E16gconf	Confidence E16g	2.9161
+E17g	Binding:T57g Theme:T18g
+AE17gconf	Confidence E17g medium
+#E17gconf	Confidence E17g	2.4601
+E18g	Binding:T57g Theme:T19g
+AE18gconf	Confidence E18g medium
+#E18gconf	Confidence E18g	2.7122
+E19g	Binding:T58g Theme:T17g Theme:T16g
+AE19gconf	Confidence E19g medium
+#E19gconf	Confidence E19g	2.7152
+E1g	Gene_expression:T50g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.5191
+E2g	Gene_expression:T50g Theme:T4g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.5191
+E3g	Gene_expression:T50g Theme:T5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.5191
+E4g	Negative_regulation:T59g Theme:E5g Cause:T35g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.8874
+E5g	Positive_regulation:T60g Theme:T34g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.9317
+E6g	Negative_regulation:T61g Theme:T39g Cause:T40g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.9243
+E7g	Binding:T51g Theme:T6g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.1757
+E8g	Binding:T51g Theme:T7g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.1757
+E9g	Binding:T51g Theme:T8g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.2554
+AE1gS	Speculation E1g
+#E1gSconf	Confidence AE1gS	73.9421
+AE2gS	Speculation E2g
+#E2gSconf	Confidence AE2gS	73.9421
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	73.9421
+AE5gS	Speculation E5g
+#E5gSconf	Confidence AE5gS	28.1722

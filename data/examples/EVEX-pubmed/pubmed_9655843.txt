@@ -1,0 +1,5 @@
+C-type natriuretic peptide increases myocardial contractility and sinus rate mediated by guanylyl cyclase-linked natriuretic peptide receptors in isolated, blood-perfused dog heart preparations.
+Thus we studied the inotropic and chronotropic effects of CNP-22 and BNP-32 compared with those of atrial natriuretic peptide (ANP)-28 using the isolated, blood-perfused canine right atrial or left ventricular preparations.
+A guanylyl cyclase-linked natriuretic peptide receptor antagonist, HS-142-1, inhibited the increases in atrial contractile force and sinus rate in response to CNP, but it did not affect the positive cardiac responses to norepinephrine.
+Propranolol did not block the positive cardiac responses to CNP.
+These results demonstrate that CNP increases myocardial contractile force with a small increase in sinus rate mediated by guanylyl cyclase-linked natriuretic peptide receptors, probably type B receptors in the dog heart, and suggest that the positive inotropic response to CNP is influenced by the cyclic adenosine 3',5'-monophosphate-dependent signal transduction.

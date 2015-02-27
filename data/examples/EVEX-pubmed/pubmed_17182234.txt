@@ -1,0 +1,9 @@
+Effect of poly(ethylene glycol)-block-polylactide nanoparticles on hepatic cells of mouse: low cytotoxicity, but efflux of the nanoparticles by ATP-binding cassette transporters.
+Blank PLA-PEG nanoparticles have been successfully prepared and MTT assay suggested that the nanoparticles with HepG2 cell co-culture model did not cause significant changes in membrane integrity in controlled concentration range (0.001-0.1 mg/ml).
+Immunohistochemical analysis demonstrated that large dose of PLA-PEG nanoparticles injection (42.04 mg/kg, i.v.) did not induce hepatic cell apoptosis.
+From biochemical assay experiments, although the levels of SOD decreased and those of MDA, NOS increased after treatment with large dose of PLA-PEG nanoparticles injection (42.04 mg/kg, i.v.), they were all not significant (p>0.05).
+Then Kunming mice were treated with large dose of PLA-PEG nanoparticles (42.04 mg/kg, i.v.) and after 4 days total RNA was isolated to elucidate patterns of gene expression using a mouse cDNA-microarray (SuperArray).
+Treatment with nanoparticles resulted in over-expression of a lot of ATP-binding cassette (ABC) transporters, especially two ABC transporters (ABCA8 and ABCC5/MRP5), and down-regulation of GSTP1, in comparison with the control.
+ABCA8 could extrude low molecular weight polymers after PLA-PEG nanoparticles hydrolysis outside the cells.
+We also discovered that ABCC5 expressed multidrug resistance protein 5 (MRP5) to pump out conjugate (GS-X) of PLA-PEG nanoparticles with GSH.
+The results suggested that ABC transporters (especially ABCA8) pump out the polymers after hydrolysis from mouse hepatic cells and large dose of PLA-PEG nanoparticles make mouse hepatic cells gain drug resistance to PLA-PEG nanoparticles.

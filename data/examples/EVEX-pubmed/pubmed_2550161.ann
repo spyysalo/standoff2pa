@@ -1,0 +1,44 @@
+T1g	GGP 0 12	NGF receptor
+NT1g0	Reference T1g ENSGF:200555	p75NTR
+NT1g1	Reference T1g HG:1877	p75NTR
+NT1g2	Reference T1g EG:24596	p75NTR
+NT1g3	Reference T1g ENSF:6390	p75NTR
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 123 157	nerve growth factor (NGF) receptor
+NT2g0	Reference T2g ENSGF:200555	p75NTR
+NT2g1	Reference T2g HG:1877	p75NTR
+NT2g2	Reference T2g EG:24596	p75NTR
+NT2g3	Reference T2g ENSF:6390	p75NTR
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 159 163	NGFR
+NT3g0	Reference T3g ENSGF:200555	p75NTR
+NT3g1	Reference T3g HG:1877	p75NTR
+NT3g2	Reference T3g EG:24596	p75NTR
+NT3g3	Reference T3g ENSF:6390	p75NTR
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 296 300	NGFR
+NT4g0	Reference T4g ENSGF:200555	p75NTR
+NT4g1	Reference T4g HG:1877	p75NTR
+NT4g2	Reference T4g EG:24596	p75NTR
+NT4g3	Reference T4g ENSF:6390	p75NTR
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 397 401	NGFR
+NT5g0	Reference T5g ENSGF:200555	p75NTR
+NT5g1	Reference T5g HG:1877	p75NTR
+NT5g2	Reference T5g EG:24596	p75NTR
+NT5g3	Reference T5g ENSF:6390	p75NTR
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 558 563	NGFRs
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T8g	Positive_regulation 385 393	increase
+T9g	Positive_regulation 546 554	increase
+T7g	Positive_regulation 286 295	increased
+E1g	Positive_regulation:T7g Theme:T4g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.8088
+E2g	Positive_regulation:T8g Theme:T5g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.0147
+E3g	Positive_regulation:T9g Theme:T6g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.6561

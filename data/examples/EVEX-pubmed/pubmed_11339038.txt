@@ -1,0 +1,7 @@
+[Time course of interferon status of patients with herpetic keratitis during treatment with actipol, a new inteferon inducer]
+Interferon (IFN) status was evaluated in 20 patients with various forms of herpetic keratitis over the course of treatment with actipol (0.07% para-aminobenzoic acid).
+The following parameters were evaluated: 1) total content of various IFN types in circulating blood and 2) leukocyte capacity to produce IFN in vitro in patient's whole blood cells.
+IFN-alpha was induced with Newcastle disease virus and IFN-beta with staphylococcal enterotoxin.
+Plasma concentrations of IFN were moderately increased in 45% patients.
+All IFN parameters in patients with initially disordered IFN status normalized during actipol therapy and after clinical cure and did not change in the patients with initially normal IFN values.
+Hence, local actipol therapy in patients with various forms of ophthalmic herpes modifies IFN status.

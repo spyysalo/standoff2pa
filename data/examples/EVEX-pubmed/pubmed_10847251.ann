@@ -1,0 +1,36 @@
+T1g	GGP 58 63	renin
+NT1g0	Reference T1g ENSGF:39338	renin
+NT1g1	Reference T1g HG:20151	renin
+NT1g2	Reference T1g EG:5972	renin
+NT1g3	Reference T1g ENSF:290	renin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 98 127	angiotensin-converting enzyme
+NT2g0	Reference T2g ENSGF:39338	renin
+NT2g1	Reference T2g HG:20151	renin
+NT2g2	Reference T2g EG:5972	renin
+NT2g3	Reference T2g ENSF:290	renin
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 241 264	angiotensin II receptor
+NT3g0	Reference T3g ENSGF:39338	renin
+NT3g1	Reference T3g HG:20151	renin
+NT3g2	Reference T3g EG:5972	renin
+NT3g3	Reference T3g ENSF:290	renin
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 353 382	angiotensin-converting enzyme
+NT4g0	Reference T4g ENSGF:39338	renin
+NT4g1	Reference T4g HG:20151	renin
+NT4g2	Reference T4g EG:5972	renin
+NT4g3	Reference T4g ENSF:290	renin
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T6g	Negative_regulation 128 138	inhibition
+T7g	Negative_regulation 383 393	inhibitors
+T5g	Negative_regulation 83 91	blockade
+E1g	Negative_regulation:T7g Theme:T4g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.6896
+E2g	Negative_regulation:T5g Theme:T1g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.3549
+E3g	Negative_regulation:T6g Theme:T2g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.7578

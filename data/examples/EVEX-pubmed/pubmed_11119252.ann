@@ -1,0 +1,65 @@
+T1g	GGP 0 3	Th1
+NT1g0	Reference T1g ENSGF:153399	TH1
+NT1g1	Reference T1g HG:9496	TH1
+NT1g3	Reference T1g ENSF:5765	TH1
+NT1g4	Reference T1g NCBITaxon:1773	Mycobacterium tuberculosis
+T2g	GGP 177 192	T helper type-1
+NT2g0	Reference T2g ENSGF:167948	T
+NT2g1	Reference T2g HG:2393	T
+NT2g3	Reference T2g ENSF:2615	T
+NT2g4	Reference T2g NCBITaxon:1773	Mycobacterium tuberculosis
+T3g	GGP 194 197	Th1
+NT3g0	Reference T3g ENSGF:153399	TH1
+NT3g1	Reference T3g HG:9496	TH1
+NT3g3	Reference T3g ENSF:5765	TH1
+NT3g4	Reference T3g NCBITaxon:1773	Mycobacterium tuberculosis
+T4g	GGP 282 317	Th1-specific costimulatory molecule
+NT4g0	Reference T4g ENSGF:153399	TH1
+NT4g1	Reference T4g HG:9496	TH1
+NT4g3	Reference T4g ENSF:5765	TH1
+NT4g4	Reference T4g NCBITaxon:1773	Mycobacterium tuberculosis
+T5g	GGP 399 411	Th1-cytokine
+NT5g0	Reference T5g ENSGF:153399	TH1
+NT5g1	Reference T5g HG:9496	TH1
+NT5g3	Reference T5g ENSF:5765	TH1
+NT5g4	Reference T5g NCBITaxon:1773	Mycobacterium tuberculosis
+T6g	GGP 580 597	interleukin(IL)-2
+NT6g4	Reference T6g NCBITaxon:1773	Mycobacterium tuberculosis
+T7g	GGP 602 624	interferon (IFN)-gamma
+NT7g0	Reference T7g ENSGF:140316	IFN-gamma
+NT7g1	Reference T7g HG:55526	IFN-gamma
+NT7g3	Reference T7g ENSF:6446	IFN-gamma
+NT7g4	Reference T7g NCBITaxon:1773	Mycobacterium tuberculosis
+T11g	Negative_regulation 638 647	abolished
+T10g	Gene_expression 412 422	production
+T8g	Gene_expression 266 276	expression
+T9g	Negative_regulation 252 265	downregulates
+T12g	Positive_regulation 571 579	inducing
+T13g	Localization 625 634	secretion
+E1g	Negative_regulation:T9g Theme:E2g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.3966
+E2g	Gene_expression:T8g Theme:T4g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.5894
+E3g	Gene_expression:T10g Theme:T5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.8757
+E4g	Positive_regulation:T12g Theme:E6g
+AE4gconf	Confidence E4g high
+#E4gconf	Confidence E4g	4.4622
+E5g	Positive_regulation:T12g Theme:E7g
+AE5gconf	Confidence E5g high
+#E5gconf	Confidence E5g	4.4622
+E6g	Localization:T13g Theme:T6g
+AE6gconf	Confidence E6g high
+#E6gconf	Confidence E6g	4.2778
+E7g	Localization:T13g Theme:T7g
+AE7gconf	Confidence E7g high
+#E7gconf	Confidence E7g	4.3028
+E8g	Negative_regulation:T11g Theme:E4g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.6772
+E9g	Negative_regulation:T11g Theme:E5g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	2.6772

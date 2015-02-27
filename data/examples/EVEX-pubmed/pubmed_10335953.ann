@@ -1,0 +1,39 @@
+T1g	GGP 10 13	Tat
+NT1g2	Reference T1g EG:155871	Tat
+NT1g4	Reference T1g NCBITaxon:11676	Human immunodeficiency virus 1
+T2g	GGP 32 48	HIVLAV/Lai-1 LTR
+NT2g4	Reference T2g NCBITaxon:11676	Human immunodeficiency virus 1
+T3g	GGP 60 65	HIV-1
+NT3g0	Reference T3g ENSGF:311185	HIV-1
+NT3g1	Reference T3g HG:36056	HIV-1
+NT3g3	Reference T3g ENSF:8520	HIV-1
+NT3g4	Reference T3g NCBITaxon:11676	Human immunodeficiency virus 1
+T4g	GGP 89 102	HeLaT4LTRbeta
+NT4g4	Reference T4g NCBITaxon:11676	Human immunodeficiency virus 1
+T5g	GGP 148 151	Tat
+NT5g2	Reference T5g EG:155871	Tat
+NT5g4	Reference T5g NCBITaxon:11676	Human immunodeficiency virus 1
+T6g	GGP 212 224	Tat proteins
+NT6g0	Reference T6g ENSGF:30677	Tat
+NT6g1	Reference T6g HG:37293	Tat
+NT6g3	Reference T6g ENSF:5227	Tat
+NT6g4	Reference T6g NCBITaxon:11676	Human immunodeficiency virus 1
+T7g	GGP 403 416	HeLaT4LTRbeta
+NT7g4	Reference T7g NCBITaxon:11676	Human immunodeficiency virus 1
+T8g	GGP 450 461	Tat protein
+NT8g4	Reference T8g NCBITaxon:11676	Human immunodeficiency virus 1
+T9g	GGP 579 592	HeLaT4LTRbeta
+NT9g4	Reference T9g NCBITaxon:11676	Human immunodeficiency virus 1
+T10g	GGP 742 745	tat
+NT10g2	Reference T10g EG:155871	Tat
+NT10g4	Reference T10g NCBITaxon:11676	Human immunodeficiency virus 1
+T11g	GGP 1063 1066	Tat
+NT11g2	Reference T11g EG:155871	Tat
+NT11g4	Reference T11g NCBITaxon:11676	Human immunodeficiency virus 1
+T12g	Positive_regulation 14 24	activation
+E1g	Positive_regulation:T12g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.6813
+E2g	Positive_regulation:T12g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.6813

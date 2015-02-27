@@ -1,0 +1,310 @@
+T1g	GGP 0 7	TGFbeta
+NT1g0	Reference T1g ENSGF:76713	TGF-beta
+NT1g1	Reference T1g HG:540	TGF-beta1
+NT1g2	Reference T1g EG:7040	TGF-beta
+NT1g3	Reference T1g ENSF:1512	TGF-beta
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 17 21	IL-1
+NT2g0	Reference T2g ENSGF:80578	IL-22
+NT2g1	Reference T2g HG:9669	IL-22
+NT2g2	Reference T2g EG:50616	IL-1
+NT2g3	Reference T2g ENSF:15064	IL-22
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 31 35	iNOS
+NT3g0	Reference T3g ENSGF:338492	iNOS
+NT3g1	Reference T3g HG:6222	iNOS
+NT3g2	Reference T3g EG:51477	iNOS
+NT3g3	Reference T3g ENSF:3016	iNOS
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 150 157	TGFbeta
+NT4g0	Reference T4g ENSGF:76713	TGF-beta
+NT4g1	Reference T4g HG:540	TGF-beta1
+NT4g2	Reference T4g EG:7040	TGF-beta
+NT4g3	Reference T4g ENSF:1512	TGF-beta
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 195 199	IL-1
+NT5g0	Reference T5g ENSGF:80578	IL-22
+NT5g1	Reference T5g HG:9669	IL-22
+NT5g2	Reference T5g EG:50616	IL-1
+NT5g3	Reference T5g ENSF:15064	IL-22
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 204 212	TNFalpha
+NT6g0	Reference T6g ENSGF:225665	TNF-alpha
+NT6g1	Reference T6g HG:496	TNF-alpha
+NT6g2	Reference T6g EG:7124	TNF-alpha
+NT6g3	Reference T6g ENSF:5399	TNF-alpha
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 264 268	IL-1
+NT7g0	Reference T7g ENSGF:80578	IL-22
+NT7g1	Reference T7g HG:9669	IL-22
+NT7g2	Reference T7g EG:50616	IL-1
+NT7g3	Reference T7g ENSF:15064	IL-22
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 273 281	TNFalpha
+NT8g0	Reference T8g ENSGF:225665	TNF-alpha
+NT8g1	Reference T8g HG:496	TNF-alpha
+NT8g2	Reference T8g EG:7124	TNF-alpha
+NT8g3	Reference T8g ENSF:5399	TNF-alpha
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 357 378	nitric oxide synthase
+NT9g0	Reference T9g ENSGF:338492	iNOS
+NT9g1	Reference T9g HG:6222	iNOS
+NT9g2	Reference T9g EG:51477	iNOS
+NT9g3	Reference T9g ENSF:3016	iNOS
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 380 384	iNOS
+NT10g0	Reference T10g ENSGF:338492	iNOS
+NT10g1	Reference T10g HG:6222	iNOS
+NT10g2	Reference T10g EG:51477	iNOS
+NT10g3	Reference T10g ENSF:3016	iNOS
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 525 532	TGFbeta
+NT11g0	Reference T11g ENSGF:76713	TGF-beta
+NT11g1	Reference T11g HG:540	TGF-beta1
+NT11g2	Reference T11g EG:7040	TGF-beta
+NT11g3	Reference T11g ENSF:1512	TGF-beta
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 593 605	IL-1.RESULTS
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 607 611	IL-1
+NT13g0	Reference T13g ENSGF:80578	IL-22
+NT13g1	Reference T13g HG:9669	IL-22
+NT13g2	Reference T13g EG:50616	IL-1
+NT13g3	Reference T13g ENSF:15064	IL-22
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 658 680	nuclear factor kappa B
+NT14g0	Reference T14g ENSGF:76713	TGF-beta
+NT14g1	Reference T14g HG:540	TGF-beta1
+NT14g2	Reference T14g EG:7040	TGF-beta
+NT14g3	Reference T14g ENSF:1512	TGF-beta
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 682 691	NF-kappaB
+NT15g0	Reference T15g ENSGF:71934	NF-kappaB
+NT15g1	Reference T15g HG:2971	NF-kappaB
+NT15g2	Reference T15g EG:4790	NF-kappaB
+NT15g3	Reference T15g ENSF:3788	NF-kappaB
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 747 751	iNOS
+NT16g0	Reference T16g ENSGF:338492	iNOS
+NT16g1	Reference T16g HG:6222	iNOS
+NT16g2	Reference T16g EG:51477	iNOS
+NT16g3	Reference T16g ENSF:3016	iNOS
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 753 760	TGFbeta
+NT17g0	Reference T17g ENSGF:76713	TGF-beta
+NT17g1	Reference T17g HG:540	TGF-beta1
+NT17g2	Reference T17g EG:7040	TGF-beta
+NT17g3	Reference T17g ENSF:1512	TGF-beta
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 771 775	IL-1
+NT18g0	Reference T18g ENSGF:80578	IL-22
+NT18g1	Reference T18g HG:9669	IL-22
+NT18g2	Reference T18g EG:50616	IL-1
+NT18g3	Reference T18g ENSF:15064	IL-22
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 785 789	iNOS
+NT19g0	Reference T19g ENSGF:338492	iNOS
+NT19g1	Reference T19g HG:6222	iNOS
+NT19g2	Reference T19g EG:51477	iNOS
+NT19g3	Reference T19g ENSF:3016	iNOS
+NT19g4	Reference T19g NCBITaxon:9606	Homo sapiens
+T20g	GGP 870 879	iNOS mRNA
+NT20g0	Reference T20g ENSGF:164606	iNOS
+NT20g1	Reference T20g HG:55473	iNOS
+NT20g3	Reference T20g ENSF:675	nitric oxide synthase
+NT20g4	Reference T20g NCBITaxon:9606	Homo sapiens
+T21g	GGP 888 900	iNOS protein
+NT21g0	Reference T21g ENSGF:164606	iNOS
+NT21g1	Reference T21g HG:55473	iNOS
+NT21g3	Reference T21g ENSF:675	nitric oxide synthase
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 943 947	IL-1
+NT22g0	Reference T22g ENSGF:80578	IL-22
+NT22g1	Reference T22g HG:9669	IL-22
+NT22g2	Reference T22g EG:50616	IL-1
+NT22g3	Reference T22g ENSF:15064	IL-22
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	GGP 951 955	IL-1
+NT23g0	Reference T23g ENSGF:80578	IL-22
+NT23g1	Reference T23g HG:9669	IL-22
+NT23g2	Reference T23g EG:50616	IL-1
+NT23g3	Reference T23g ENSF:15064	IL-22
+NT23g4	Reference T23g NCBITaxon:9606	Homo sapiens
+T24g	GGP 956 963	TGFbeta
+NT24g0	Reference T24g ENSGF:76713	TGF-beta
+NT24g1	Reference T24g HG:540	TGF-beta1
+NT24g2	Reference T24g EG:7040	TGF-beta
+NT24g3	Reference T24g ENSF:1512	TGF-beta
+NT24g4	Reference T24g NCBITaxon:9606	Homo sapiens
+T25g	GGP 1055 1067	iNOS protein
+NT25g0	Reference T25g ENSGF:164606	iNOS
+NT25g1	Reference T25g HG:55473	iNOS
+NT25g3	Reference T25g ENSF:675	nitric oxide synthase
+NT25g4	Reference T25g NCBITaxon:9606	Homo sapiens
+T26g	GGP 1120 1124	IL-1
+NT26g0	Reference T26g ENSGF:80578	IL-22
+NT26g1	Reference T26g HG:9669	IL-22
+NT26g2	Reference T26g EG:50616	IL-1
+NT26g3	Reference T26g ENSF:15064	IL-22
+NT26g4	Reference T26g NCBITaxon:9606	Homo sapiens
+T27g	GGP 1125 1132	TGFbeta
+NT27g0	Reference T27g ENSGF:76713	TGF-beta
+NT27g1	Reference T27g HG:540	TGF-beta1
+NT27g2	Reference T27g EG:7040	TGF-beta
+NT27g3	Reference T27g ENSF:1512	TGF-beta
+NT27g4	Reference T27g NCBITaxon:9606	Homo sapiens
+T28g	GGP 1160 1164	IL-1
+NT28g0	Reference T28g ENSGF:80578	IL-22
+NT28g1	Reference T28g HG:9669	IL-22
+NT28g2	Reference T28g EG:50616	IL-1
+NT28g3	Reference T28g ENSF:15064	IL-22
+NT28g4	Reference T28g NCBITaxon:9606	Homo sapiens
+T29g	GGP 1183 1190	TGFbeta
+NT29g0	Reference T29g ENSGF:76713	TGF-beta
+NT29g1	Reference T29g HG:540	TGF-beta1
+NT29g2	Reference T29g EG:7040	TGF-beta
+NT29g3	Reference T29g ENSF:1512	TGF-beta
+NT29g4	Reference T29g NCBITaxon:9606	Homo sapiens
+T30g	GGP 1202 1206	IL-1
+NT30g0	Reference T30g ENSGF:80578	IL-22
+NT30g1	Reference T30g HG:9669	IL-22
+NT30g2	Reference T30g EG:50616	IL-1
+NT30g3	Reference T30g ENSF:15064	IL-22
+NT30g4	Reference T30g NCBITaxon:9606	Homo sapiens
+T31g	GGP 1215 1219	iNOS
+NT31g0	Reference T31g ENSGF:338492	iNOS
+NT31g1	Reference T31g HG:6222	iNOS
+NT31g2	Reference T31g EG:51477	iNOS
+NT31g3	Reference T31g ENSF:3016	iNOS
+NT31g4	Reference T31g NCBITaxon:9606	Homo sapiens
+T32g	GGP 1288 1300	iNOS protein
+NT32g0	Reference T32g ENSGF:164606	iNOS
+NT32g1	Reference T32g HG:55473	iNOS
+NT32g3	Reference T32g ENSF:675	nitric oxide synthase
+NT32g4	Reference T32g NCBITaxon:9606	Homo sapiens
+T33g	GGP 1364 1371	TGFbeta
+NT33g0	Reference T33g ENSGF:76713	TGF-beta
+NT33g1	Reference T33g HG:540	TGF-beta1
+NT33g2	Reference T33g EG:7040	TGF-beta
+NT33g3	Reference T33g ENSF:1512	TGF-beta
+NT33g4	Reference T33g NCBITaxon:9606	Homo sapiens
+T34g	GGP 1413 1417	IL-1
+NT34g0	Reference T34g ENSGF:80578	IL-22
+NT34g1	Reference T34g HG:9669	IL-22
+NT34g2	Reference T34g EG:50616	IL-1
+NT34g3	Reference T34g ENSF:15064	IL-22
+NT34g4	Reference T34g NCBITaxon:9606	Homo sapiens
+T49g	Positive_regulation 1278 1287	enhancing
+T43g	Positive_regulation 776 784	-induced
+T48g	Protein_catabolism 1301 1312	degradation
+T45g	Positive_regulation 1207 1214	induced
+T44g	Regulation 851 855	have
+T46g	Gene_expression 1220 1230	expression
+T35g	Positive_regulation 22 30	-induced
+T50g	Binding 1375 1385	counteract
+T37g	Gene_expression 36 46	expression
+T47g	Positive_regulation 1191 1201	suppressed
+T36g	Negative_regulation 8 16	inhibits
+T41g	Gene_expression 790 800	expression
+T40g	Positive_regulation 612 619	induced
+T38g	Positive_regulation 347 356	inducible
+T42g	Negative_regulation 761 770	inhibited
+T39g	Gene_expression 733 743	expression
+E10g	Positive_regulation:T38g Theme:T10g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.3826
+E11g	Positive_regulation:T40g Cause:T13g Theme:E16g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	3.1597
+E12g	Positive_regulation:T40g Cause:T13g Theme:E15g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	3.1597
+E13g	Positive_regulation:T40g Cause:T13g Theme:E14g
+AE13gconf	Confidence E13g medium
+#E13gconf	Confidence E13g	3.1597
+E14g	Gene_expression:T39g Theme:T14g
+AE14gconf	Confidence E14g medium
+#E14gconf	Confidence E14g	2.7938
+E15g	Gene_expression:T39g Theme:T15g
+AE15gconf	Confidence E15g medium
+#E15gconf	Confidence E15g	3.5417
+E16g	Gene_expression:T39g Theme:T16g
+AE16gconf	Confidence E16g medium
+#E16gconf	Confidence E16g	3.6382
+E17g	Regulation:T44g Theme:T20g
+AE17gconf	Confidence E17g high
+#E17gconf	Confidence E17g	4.1670
+E18g	Negative_regulation:T42g Cause:T17g Theme:E23g
+AE18gconf	Confidence E18g medium
+#E18gconf	Confidence E18g	2.8840
+E19g	Negative_regulation:T42g Theme:E22g Cause:T17g
+AE19gconf	Confidence E19g medium
+#E19gconf	Confidence E19g	2.8840
+E1g	Negative_regulation:T36g Theme:E7g Cause:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.2734
+E20g	Negative_regulation:T42g Cause:T17g Theme:E24g
+AE20gconf	Confidence E20g medium
+#E20gconf	Confidence E20g	2.8840
+E21g	Negative_regulation:T42g Theme:E25g Cause:T17g
+AE21gconf	Confidence E21g medium
+#E21gconf	Confidence E21g	2.8840
+E22g	Positive_regulation:T43g Theme:E24g
+AE22gconf	Confidence E22g high
+#E22gconf	Confidence E22g	4.6590
+E23g	Positive_regulation:T43g Theme:E25g
+AE23gconf	Confidence E23g high
+#E23gconf	Confidence E23g	4.7710
+E24g	Gene_expression:T41g Theme:T18g
+AE24gconf	Confidence E24g medium
+#E24gconf	Confidence E24g	3.7709
+E25g	Gene_expression:T41g Theme:T19g
+AE25gconf	Confidence E25g medium
+#E25gconf	Confidence E25g	3.8593
+E26g	Positive_regulation:T47g Theme:E29g Cause:T29g
+AE26gconf	Confidence E26g high
+#E26gconf	Confidence E26g	4.0171
+E27g	Positive_regulation:T47g Theme:E28g Cause:T29g
+AE27gconf	Confidence E27g medium
+#E27gconf	Confidence E27g	3.9741
+E28g	Positive_regulation:T45g Cause:T30g Theme:E29g
+AE28gconf	Confidence E28g high
+#E28gconf	Confidence E28g	4.8108
+E29g	Gene_expression:T46g Theme:T31g
+AE29gconf	Confidence E29g medium
+#E29gconf	Confidence E29g	3.4265
+E2g	Negative_regulation:T36g Theme:E8g Cause:T1g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.2734
+E30g	Positive_regulation:T49g Theme:E31g
+AE30gconf	Confidence E30g medium
+#E30gconf	Confidence E30g	2.9994
+E31g	Protein_catabolism:T48g Theme:T32g
+AE31gconf	Confidence E31g medium
+#E31gconf	Confidence E31g	3.0614
+E32g	Binding:T50g Theme:T33g Theme:T34g
+AE32gconf	Confidence E32g medium
+#E32gconf	Confidence E32g	2.5164
+E3g	Negative_regulation:T36g Cause:T1g Theme:E5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.2734
+E4g	Negative_regulation:T36g Theme:E6g Cause:T1g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.2734
+E5g	Positive_regulation:T35g Theme:E7g
+AE5gconf	Confidence E5g high
+#E5gconf	Confidence E5g	4.5633
+E6g	Positive_regulation:T35g Theme:E8g
+AE6gconf	Confidence E6g high
+#E6gconf	Confidence E6g	4.7574
+E7g	Gene_expression:T37g Theme:T2g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.6953
+E8g	Gene_expression:T37g Theme:T3g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.8486
+E9g	Positive_regulation:T38g Theme:T9g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.3288
+AE17gN	Negation E17g
+#E17gNconf	Confidence AE17gN	132.1950

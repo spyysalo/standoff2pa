@@ -1,0 +1,22 @@
+T1g	GGP 186 189	DRA
+NT1g0	Reference T1g ENSGF:220651	DRA
+NT1g1	Reference T1g HG:55435	DRA
+NT1g2	Reference T1g EG:1811	DRA
+NT1g3	Reference T1g ENSF:191	SLC26A4
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 191 212	beta(2)-Microglobulin
+NT2g0	Reference T2g ENSGF:17688	beta 2-Microglobulin
+NT2g1	Reference T2g HG:2987	beta 2-Microglobulin
+NT2g2	Reference T2g EG:567	beta 2-Microglobulin
+NT2g3	Reference T2g ENSF:7392	beta 2-Microglobulin
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 214 223	beta(2)-m
+NT3g1	Reference T3g HG:2987	beta 2-Microglobulin
+NT3g3	Reference T3g ENSF:7392	beta 2-Microglobulin
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 446 492	monocyte chemoattractant protein-1 GG genotype
+NT4g0	Reference T4g ENSGF:208663	interleukin-1
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 498 522	apolipoprotein E4 allele
+NT5g3	Reference T5g ENSF:29757	E4
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens

@@ -1,0 +1,9 @@
+Lovastatin-induced cholesterol depletion affects both apical sorting and endocytosis of aquaporin-2 in renal cells.
+Vasopressin causes the redistribution of the water channel aquaporin-2 (AQP2) from cytoplasmic storage vesicles to the apical plasma membrane of collecting duct principal cells, leading to urine concentration.
+The molecular mechanisms regulating the selective apical sorting of AQP2 are only partially uncovered.
+In this work, we investigate whether AQP2 sorting/trafficking is regulated by its association with membrane rafts.
+In both MCD4 cells and rat kidney, AQP2 preferentially associated with Lubrol WX-insoluble membranes regardless of its presence in the storage compartment or at the apical membrane.
+Block-and-release experiments indicate that 1) AQP2 associates with detergent-resistant membranes early in the biosynthetic pathway; 2) strong cholesterol depletion delays the exit of AQP2 from the trans-Golgi network.
+Interestingly, mild cholesterol depletion promoted a dramatic accumulation of AQP2 at the apical plasma membrane in MCD4 cells in the absence of forskolin stimulation.
+An internalization assay showed that AQP2 endocytosis was clearly reduced under this experimental condition.
+Taken together, these data suggest that association with membrane rafts may regulate both AQP2 apical sorting and endocytosis.

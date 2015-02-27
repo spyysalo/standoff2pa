@@ -1,0 +1,14 @@
+T1g	GGP 135 138	DSH
+NT1g2	Reference T1g EG:8215	DSH
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 353 356	DSH
+NT2g2	Reference T2g EG:8215	DSH
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	Localization 121 131	repetition
+T4g	Negative_regulation 113 120	reduced
+E1g	Negative_regulation:T4g Theme:E2g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.3266
+E2g	Localization:T3g Theme:T1g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.1987

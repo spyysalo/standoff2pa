@@ -1,0 +1,109 @@
+T1g	GGP 64 83	human IL-4 receptor
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 150 163	interleukin-4
+NT2g1	Reference T2g HG:491	IL-4
+NT2g2	Reference T2g EG:3565	IL-4
+NT2g3	Reference T2g ENSF:18171	IL-4
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 165 169	IL-4
+NT3g1	Reference T3g HG:491	IL-4
+NT3g2	Reference T3g EG:3565	IL-4
+NT3g3	Reference T3g ENSF:18171	IL-4
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 407 410	MR6
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 424 452	human interleukin-4 receptor
+NT5g0	Reference T5g ENSGF:60459	IL-4Ralpha
+NT5g1	Reference T5g HG:7784	IL-4Ralpha
+NT5g3	Reference T5g ENSF:9823	IL-4Ralpha
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 454 459	IL-4R
+NT6g0	Reference T6g ENSGF:60459	IL-4Ralpha
+NT6g1	Reference T6g HG:7784	IL-4Ralpha
+NT6g2	Reference T6g EG:3566	IL-4R
+NT6g3	Reference T6g ENSF:9823	IL-4Ralpha
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 530 534	IL-4
+NT7g1	Reference T7g HG:491	IL-4
+NT7g2	Reference T7g EG:3565	IL-4
+NT7g3	Reference T7g ENSF:18171	IL-4
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 648 652	IL-4
+NT8g1	Reference T8g HG:491	IL-4
+NT8g2	Reference T8g EG:3565	IL-4
+NT8g3	Reference T8g ENSF:18171	IL-4
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 702 705	IgE
+NT9g2	Reference T9g EG:3497	IgE
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 756 759	MR6
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 905 908	MR6
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 910 918	p145-MR6
+NT12g0	Reference T12g ENSGF:49744	p145
+NT12g1	Reference T12g HG:4261	UK114
+NT12g3	Reference T12g ENSF:8142	UK114
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 958 980	interleukin-2 receptor
+NT13g1	Reference T13g HG:491	IL-4
+NT13g2	Reference T13g EG:3565	IL-4
+NT13g3	Reference T13g ENSF:18171	IL-4
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 982 987	IL-2R
+NT14g0	Reference T14g ENSGF:232858	CD25
+NT14g1	Reference T14g HG:360	CD25
+NT14g2	Reference T14g EG:3559	CD25
+NT14g3	Reference T14g ENSF:12431	CD25
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 1124 1127	MR6
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 1141 1152	human IL-4R
+NT16g0	Reference T16g ENSGF:60459	IL-4Ralpha
+NT16g1	Reference T16g HG:7784	IL-4Ralpha
+NT16g3	Reference T16g ENSF:9823	IL-4Ralpha
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T23g	Gene_expression 866 876	expression
+T22g	Binding 893 901	detected
+T20g	Positive_regulation 653 662	dependent
+T21g	Gene_expression 663 673	production
+T17g	Binding 51 56	binds
+T24g	Binding 1128 1133	binds
+T19g	Positive_regulation 686 701	antigen-induced
+T18g	Binding 411 416	binds
+E10g	Binding:T22g Theme:T12g Theme:T14g
+AE10gconf	Confidence E10g very-low
+#E10gconf	Confidence E10g	0.8851
+E11g	Binding:T22g Theme:T14g Theme:T11g
+AE11gconf	Confidence E11g very-low
+#E11gconf	Confidence E11g	0.8851
+E12g	Binding:T24g Theme:T16g Theme:T15g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	3.6253
+E1g	Binding:T17g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.3322
+E2g	Binding:T18g Theme:T6g Theme:T4g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.5245
+E3g	Binding:T18g Theme:T5g Theme:T4g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.4527
+E4g	Positive_regulation:T19g Theme:T9g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.2301
+E5g	Positive_regulation:T20g Cause:T8g Theme:E6g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.7332
+E6g	Gene_expression:T21g Theme:T9g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.1214
+E7g	Gene_expression:T23g Theme:T14g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	2.1318
+E8g	Binding:T22g Theme:T12g Theme:T13g
+AE8gconf	Confidence E8g very-low
+#E8gconf	Confidence E8g	0.8851
+E9g	Binding:T22g Theme:T13g Theme:T11g
+AE9gconf	Confidence E9g very-low
+#E9gconf	Confidence E9g	0.8851

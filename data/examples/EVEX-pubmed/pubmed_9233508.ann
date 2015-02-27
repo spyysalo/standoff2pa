@@ -1,0 +1,168 @@
+T1g	GGP 59 64	p-FSH
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 75 78	FSH
+NT2g0	Reference T2g ENSGF:8844	FSH
+NT2g1	Reference T2g HG:74540	FSH
+NT2g2	Reference T2g EG:6046	FSH
+NT2g3	Reference T2g ENSF:1222	FSH
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 79 81	LH
+NT3g0	Reference T3g ENSGF:321783	LH
+NT3g1	Reference T3g HG:256	LH
+NT3g3	Reference T3g ENSF:1624	LH
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 312 316	p-LH
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 320 334	purified p-FSH
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 361 364	FSH
+NT6g0	Reference T6g ENSGF:8844	FSH
+NT6g1	Reference T6g HG:74540	FSH
+NT6g2	Reference T6g EG:6046	FSH
+NT6g3	Reference T6g ENSF:1222	FSH
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 365 367	LH
+NT7g0	Reference T7g ENSGF:321783	LH
+NT7g1	Reference T7g HG:256	LH
+NT7g3	Reference T7g ENSF:1624	LH
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 566 571	p-FSH
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 576 580	p-LH
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 620 623	FSH
+NT10g0	Reference T10g ENSGF:8844	FSH
+NT10g1	Reference T10g HG:74540	FSH
+NT10g2	Reference T10g EG:6046	FSH
+NT10g3	Reference T10g ENSF:1222	FSH
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 624 626	LH
+NT11g0	Reference T11g ENSGF:321783	LH
+NT11g1	Reference T11g HG:256	LH
+NT11g3	Reference T11g ENSF:1624	LH
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 673 676	FSH
+NT12g0	Reference T12g ENSGF:8844	FSH
+NT12g1	Reference T12g HG:74540	FSH
+NT12g2	Reference T12g EG:6046	FSH
+NT12g3	Reference T12g ENSF:1222	FSH
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 811 814	FSH
+NT13g0	Reference T13g ENSGF:8844	FSH
+NT13g1	Reference T13g HG:74540	FSH
+NT13g2	Reference T13g EG:6046	FSH
+NT13g3	Reference T13g ENSF:1222	FSH
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 835 837	LH
+NT14g0	Reference T14g ENSGF:321783	LH
+NT14g1	Reference T14g HG:256	LH
+NT14g3	Reference T14g ENSF:1624	LH
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 879 882	FSH
+NT15g0	Reference T15g ENSGF:8844	FSH
+NT15g1	Reference T15g HG:74540	FSH
+NT15g2	Reference T15g EG:6046	FSH
+NT15g3	Reference T15g ENSF:1222	FSH
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 903 906	FSH
+NT16g0	Reference T16g ENSGF:8844	FSH
+NT16g1	Reference T16g HG:74540	FSH
+NT16g2	Reference T16g EG:6046	FSH
+NT16g3	Reference T16g ENSF:1222	FSH
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 907 909	LH
+NT17g0	Reference T17g ENSGF:321783	LH
+NT17g1	Reference T17g HG:256	LH
+NT17g3	Reference T17g ENSF:1624	LH
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 1027 1030	FSH
+NT18g0	Reference T18g ENSGF:8844	FSH
+NT18g1	Reference T18g HG:74540	FSH
+NT18g2	Reference T18g EG:6046	FSH
+NT18g3	Reference T18g ENSF:1222	FSH
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 1051 1053	LH
+NT19g0	Reference T19g ENSGF:321783	LH
+NT19g1	Reference T19g HG:256	LH
+NT19g3	Reference T19g ENSF:1624	LH
+NT19g4	Reference T19g NCBITaxon:9606	Homo sapiens
+T20g	GGP 1095 1098	FSH
+NT20g0	Reference T20g ENSGF:8844	FSH
+NT20g1	Reference T20g HG:74540	FSH
+NT20g2	Reference T20g EG:6046	FSH
+NT20g3	Reference T20g ENSF:1222	FSH
+NT20g4	Reference T20g NCBITaxon:9606	Homo sapiens
+T21g	GGP 1126 1129	FSH
+NT21g0	Reference T21g ENSGF:8844	FSH
+NT21g1	Reference T21g HG:74540	FSH
+NT21g2	Reference T21g EG:6046	FSH
+NT21g3	Reference T21g ENSF:1222	FSH
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 1130 1132	LH
+NT22g0	Reference T22g ENSGF:321783	LH
+NT22g1	Reference T22g HG:256	LH
+NT22g3	Reference T22g ENSF:1624	LH
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	GGP 1276 1278	LH
+NT23g0	Reference T23g ENSGF:321783	LH
+NT23g1	Reference T23g HG:256	LH
+NT23g3	Reference T23g ENSF:1624	LH
+NT23g4	Reference T23g NCBITaxon:9606	Homo sapiens
+T24g	GGP 1298 1301	FSH
+NT24g0	Reference T24g ENSGF:8844	FSH
+NT24g1	Reference T24g HG:74540	FSH
+NT24g2	Reference T24g EG:6046	FSH
+NT24g3	Reference T24g ENSF:1222	FSH
+NT24g4	Reference T24g NCBITaxon:9606	Homo sapiens
+T25g	GGP 1302 1304	LH
+NT25g0	Reference T25g ENSGF:321783	LH
+NT25g1	Reference T25g HG:256	LH
+NT25g3	Reference T25g ENSF:1624	LH
+NT25g4	Reference T25g NCBITaxon:9606	Homo sapiens
+T26g	GGP 1442 1444	LH
+NT26g0	Reference T26g ENSGF:321783	LH
+NT26g1	Reference T26g HG:256	LH
+NT26g3	Reference T26g ENSF:1624	LH
+NT26g4	Reference T26g NCBITaxon:9606	Homo sapiens
+T27g	GGP 1840 1844	p-LH
+NT27g4	Reference T27g NCBITaxon:9606	Homo sapiens
+T28g	GGP 1863 1868	p-FSH
+NT28g4	Reference T28g NCBITaxon:9606	Homo sapiens
+T29g	GGP 2038 2040	LH
+NT29g0	Reference T29g ENSGF:321783	LH
+NT29g1	Reference T29g HG:256	LH
+NT29g3	Reference T29g ENSF:1624	LH
+NT29g4	Reference T29g NCBITaxon:9606	Homo sapiens
+T30g	GGP 2062 2065	FSH
+NT30g0	Reference T30g ENSGF:8844	FSH
+NT30g1	Reference T30g HG:74540	FSH
+NT30g2	Reference T30g EG:6046	FSH
+NT30g3	Reference T30g ENSF:1222	FSH
+NT30g4	Reference T30g NCBITaxon:9606	Homo sapiens
+T31g	GGP 2076 2079	FSH
+NT31g0	Reference T31g ENSGF:8844	FSH
+NT31g1	Reference T31g HG:74540	FSH
+NT31g2	Reference T31g EG:6046	FSH
+NT31g3	Reference T31g ENSF:1222	FSH
+NT31g4	Reference T31g NCBITaxon:9606	Homo sapiens
+T32g	GGP 2080 2082	LH
+NT32g0	Reference T32g ENSGF:321783	LH
+NT32g1	Reference T32g HG:256	LH
+NT32g3	Reference T32g ENSF:1624	LH
+NT32g4	Reference T32g NCBITaxon:9606	Homo sapiens
+T34g	Negative_regulation 609 619	decreasing
+T33g	Negative_regulation 346 356	decreasing
+T36g	Negative_regulation 1815 1825	decreasing
+T35g	Positive_regulation 1283 1293	decreasing
+E1g	Negative_regulation:T33g Theme:T6g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.7706
+E2g	Negative_regulation:T36g Theme:T27g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.2118
+E3g	Negative_regulation:T34g Theme:T10g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.6955
+E4g	Positive_regulation:T35g Theme:T24g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.8461

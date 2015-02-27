@@ -1,0 +1,77 @@
+T1g	GGP 22 42	Tn1546-like elements
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 219 239	Tn1546-like elements
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 295 301	vanC-1
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 306 316	vanA genes
+NT4g0	Reference T4g ENSGF:207212	vanA
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 419 433	SmaI fragments
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 563 569	Tn1546
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 602 606	orf2
+NT7g2	Reference T7g EG:55354	orf1
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 608 612	vanR
+NT8g0	Reference T8g ENSGF:181232	VanR
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 614 618	vanS
+NT9g0	Reference T9g ENSGF:161187	vanS
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 620 624	vanH
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 626 630	vanA
+NT11g0	Reference T11g ENSGF:207212	vanA
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 635 645	vanX genes
+NT12g0	Reference T12g ENSGF:157520	vanX
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 741 753	vanA cluster
+NT13g0	Reference T13g ENSGF:207212	vanA
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 766 769	IRL
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 798 802	orf2
+NT15g2	Reference T15g EG:55354	orf1
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 829 833	orf1
+NT16g2	Reference T16g EG:55354	orf1
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 880 884	vanY
+NT17g0	Reference T17g ENSGF:216318	vanY
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 886 890	vanZ
+NT18g0	Reference T18g ENSGF:231994	vanZ
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 895 898	IRR
+NT19g1	Reference T19g HG:56539	IRR
+NT19g2	Reference T19g EG:3645	IRR
+NT19g3	Reference T19g ENSF:482	insulin receptor
+NT19g4	Reference T19g NCBITaxon:9606	Homo sapiens
+T20g	GGP 982 991	vanZ gene
+NT20g0	Reference T20g ENSGF:231994	vanZ
+NT20g4	Reference T20g NCBITaxon:9606	Homo sapiens
+T21g	GGP 1069 1085	region vanX-vanY
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 1158 1190	chromosomal Tn1546-like elements
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	Binding 392 405	hybridization
+T24g	Positive_regulation 759 765	lacked
+T25g	Negative_regulation 873 879	lacked
+E1g	Binding:T23g Theme:T5g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.3947
+E2g	Positive_regulation:T24g Theme:T14g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.3150
+E3g	Negative_regulation:T25g Theme:T17g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.5687
+E4g	Negative_regulation:T25g Theme:T18g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.5687
+E5g	Negative_regulation:T25g Theme:T19g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.5687

@@ -1,0 +1,11 @@
+Regulation of tristetraprolin expression by interleukin-1 beta and dexamethasone in human pulmonary epithelial cells: roles for nuclear factor-kappa B and p38 mitogen-activated protein kinase.
+The mRNA-destabilizing protein tristetraprolin (TTP) negatively regulates adenine- and uridine-rich element (ARE)-containing mRNAs.
+In A549 pulmonary cells, TTP mRNA and both a approximately 40- and a approximately 45-kDa phosphorylated version of TTP protein were rapidly induced in response to interleukin (IL)-1beta.
+Analysis with IkappaBalphaDeltaN, a dominant version of inhibitor of kappaBalpha (IkappaBalpha), as well as dominant-negative and small-molecule IkappaB kinase (IKK) inhibitors demonstrated that IL-1beta-induced TTP is nuclear factor-kappaB (NF-kappaB)-dependent.
+Likewise, TTP expression and formation of the approximately 45-kDa phosphorylated form of TTP are blocked by the p38 mitogen-activated protein kinase (MAPK) inhibitor 4-(4-fluorophenyl)-2-(4-methylsulfinylphenyl)-5-(4-pyridyl)1H-imidazole (SB203580).
+By contrast, and despite a 3- to 4-fold induction of TTP mRNA, the anti-inflammatory glucocorticoid dexamethasone only modestly induced expression of the approximately 40-kDa form of TTP.
+In the context of IL-1beta, dexamethasone exerted a marginal repressive effect on TTP mRNA expression and more considerably reduced TTP protein.
+Given a requirement for p38 MAPK in the induction of TTP by IL-1beta, this repressive effect may be explained by repression of the p38 MAPK pathway by dexamethasone.
+Knockdown of TTP protein by siRNA elevated IL-1beta-induced expression of granulocyte macrophage-colony-stimulating factor (GM-CSF) and IL-8, demonstrating a role for TTP in feedback control.
+Likewise, knockdown of TTP increased GM-CSF expression in the presence of IL-1beta plus dexamethasone, suggesting that feedback control by TTP also occurs in the context of IL-1beta plus dexamethasone.
+Taken together, our data demonstrate that NF-kappaB and p38 MAPK are critical to the induction of TTP by IL-1beta and that TTP induction provides feedback control of the ARE-containing genes GM-CSF and IL-8.

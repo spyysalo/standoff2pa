@@ -1,0 +1,67 @@
+T1g	GGP 25 58	human nuclear cap binding complex
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 78 105	nuclear cap binding complex
+NT2g0	Reference T2g ENSGF:129584	CBP20
+NT2g1	Reference T2g HG:56377	CBP20
+NT2g2	Reference T2g EG:22916	CBP20
+NT2g3	Reference T2g ENSF:3606	CBP20
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 107 110	CBC
+NT3g0	Reference T3g ENSGF:191474	CBC
+NT3g1	Reference T3g HG:4975	CBC
+NT3g3	Reference T3g ENSF:5604	CBC
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 124 156	capped polymerase II transcripts
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 186 195	human CBC
+NT5g0	Reference T5g ENSGF:191474	CBC
+NT5g1	Reference T5g HG:4975	CBC
+NT5g3	Reference T5g ENSF:5604	CBC
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 226 231	CBP80
+NT6g0	Reference T6g ENSGF:146673	ENS
+NT6g1	Reference T6g HG:1859	CBP80
+NT6g2	Reference T6g EG:4686	CBP80
+NT6g3	Reference T6g ENSF:5127	CBP80
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 332 337	MIF4G
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T10r	Entity 338 344	domain
+T11r	Entity 488 495	domains
+T8g	GGP 499 504	CBP80
+NT8g0	Reference T8g ENSGF:146673	ENS
+NT8g1	Reference T8g HG:1859	CBP80
+NT8g2	Reference T8g EG:4686	CBP80
+NT8g3	Reference T8g ENSF:5127	CBP80
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T12r	Entity 543 551	residues
+T9g	GGP 555 560	CBP20
+NT9g0	Reference T9g ENSGF:129584	CBP20
+NT9g1	Reference T9g HG:56377	CBP20
+NT9g2	Reference T9g EG:22916	CBP20
+NT9g3	Reference T9g ENSF:3606	CBP20
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T11g	Binding 451 461	associates
+T12g	Binding 588 595	binding
+T10g	Binding 112 117	binds
+E1g	Binding:T10g Theme:T3g Theme:T4g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.2992
+E2g	Binding:T10g Theme:T2g Theme:T4g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.2992
+E3g	Binding:T11g Theme:T8g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.6198
+E4g	Binding:T12g Theme:T9g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.2445
+R1r	Protein-Component Arg1:T7g Arg2:T10r
+AR1rconf	Confidence R1r medium
+#R1rconf	Confidence R1r	2.3709
+R2r	Protein-Component Arg1:T8g Arg2:T11r
+AR2rconf	Confidence R2r high
+#R2rconf	Confidence R2r	4.5925
+R3r	Protein-Component Arg1:T9g Arg2:T12r
+AR3rconf	Confidence R3r high
+#R3rconf	Confidence R3r	4.0670

@@ -1,0 +1,4 @@
+The serum of a patient with subacute cerebellar dysfunction was used to probe a cDNA expression library and isolate two genes: Zic1 (zinc-finger of the cerebellum) and Zic4.
+The patient had intrathecal synthesis of Zic antibodies, suggesting that the Zic proteins were autoantigens of the neurologic disorder.
+The Zic proteins are involved in cerebellar development and are reported as being preferentially expressed by medulloblastomas.
+It was found that the expression of Zic proteins is enriched in, but not limited to, medulloblastomas and primitive neuroectodermal tumors.

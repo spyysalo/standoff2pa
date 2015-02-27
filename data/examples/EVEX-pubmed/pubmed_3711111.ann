@@ -1,0 +1,69 @@
+T1g	GGP 176 185	prolactin
+NT1g0	Reference T1g ENSGF:129692	prolactin
+NT1g1	Reference T1g HG:732	prolactin
+NT1g2	Reference T1g EG:24683	prolactin
+NT1g3	Reference T1g ENSF:5028	prolactin
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 187 190	PRL
+NT2g0	Reference T2g ENSGF:129692	prolactin
+NT2g1	Reference T2g HG:732	prolactin
+NT2g2	Reference T2g EG:24683	prolactin
+NT2g3	Reference T2g ENSF:5028	prolactin
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 275 278	PRL
+NT3g0	Reference T3g ENSGF:129692	prolactin
+NT3g1	Reference T3g HG:732	prolactin
+NT3g2	Reference T3g EG:24683	prolactin
+NT3g3	Reference T3g ENSF:5028	prolactin
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 428 439	PRL release
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 564 571	Release
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 740 743	PRL
+NT6g0	Reference T6g ENSGF:129692	prolactin
+NT6g1	Reference T6g HG:732	prolactin
+NT6g2	Reference T6g EG:24683	prolactin
+NT6g3	Reference T6g ENSF:5028	prolactin
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 781 784	PRL
+NT7g0	Reference T7g ENSGF:129692	prolactin
+NT7g1	Reference T7g HG:732	prolactin
+NT7g2	Reference T7g EG:24683	prolactin
+NT7g3	Reference T7g ENSF:5028	prolactin
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 877 880	PRL
+NT8g0	Reference T8g ENSGF:129692	prolactin
+NT8g1	Reference T8g HG:732	prolactin
+NT8g2	Reference T8g EG:24683	prolactin
+NT8g3	Reference T8g ENSF:5028	prolactin
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 969 979	calmodulin
+NT9g0	Reference T9g ENSGF:53998	calmodulin
+NT9g1	Reference T9g HG:116117	calmodulin
+NT9g2	Reference T9g EG:24244	calmodulin
+NT9g3	Reference T9g ENSF:1331	calmodulin
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T11g	Localization 279 286	release
+T14g	Localization 881 888	release
+T12g	Localization 744 751	release
+T10g	Localization 192 199	release
+T13g	Localization 785 792	release
+E1g	Localization:T10g Theme:T1g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.3741
+E2g	Localization:T10g Theme:T2g
+AE2gconf	Confidence E2g high
+#E2gconf	Confidence E2g	4.7531
+E3g	Localization:T11g Theme:T3g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.4502
+E4g	Localization:T12g Theme:T6g
+AE4gconf	Confidence E4g high
+#E4gconf	Confidence E4g	4.1879
+E5g	Localization:T13g Theme:T7g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.0354
+E6g	Localization:T14g Theme:T8g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.8385

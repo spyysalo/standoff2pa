@@ -1,0 +1,6 @@
+Deficiency in complement C1q improves histological and functional locomotor outcome after spinal cord injury.
+Thus, to investigate the role of the classical complement pathway in contusion-induced SCI, male C1q knock-out (KO) and wild-type (WT) mice on a complement sufficient background (BUB) received a mild-moderate T9 contusion injury with the Infinite Horizon impactor.
+BUB C1q KO mice exhibited greater locomotor recovery compared with BUB WT mice (p<0.05).
+Surprisingly, quantification of microglia/macrophages (F4/80) by FACS analysis showed that BUB C1q KO mice exhibited a significantly greater percentage of macrophages in the spinal cord compared with BUB WT mice 3 d post-injury (p<0.05).
+Stereological assessment of spinal cord tissue showed that BUB C1q KO mice had reduced lesion volume and an increase in tissue sparing compared with BUB WT mice (p<0.05).
+Together, these data suggest that initiation of the classical complement pathway via C1q is detrimental to recovery after SCI.

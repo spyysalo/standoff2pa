@@ -1,0 +1,9 @@
+Purification and characterization of P400 protein, a glycoprotein characteristic of Purkinje cell, from mouse cerebellum.
+P400 protein is a concanavalin A (Con A)-binding, 250-kilodalton glycoprotein characteristic of cerebellum.
+Extraction conditions for P400 protein were investigated, and complete solubilization of P400 protein from a submicrosomal fraction (P31 fraction) of mouse cerebellum was attained by the combination of 4% Zwittergent 3-14 and 4 M guanidinium chloride.
+The solubilized P400 protein was purified using Sepharose CL-4B and Con A-Sepharose chromatography.
+A monoclonal antibody (18A10) was prepared against P400 protein.
+Endo-beta-N-acetylglucosaminidase F digestion of P400 protein revealed that P400 protein has a small number of asparagine-linked oligosaccharide chains and that the epitope that is recognized by 18A10 monoclonal antibody is not on the asparagine-linked oligosaccharide portion.
+Tissue distribution of P400 protein was investigated by immunoblot analysis using 18A10 monoclonal antibody.
+P400 protein was abundant in the cerebellum, but a very small amount of P400 protein or related antigen was also detected in other parts of the nervous system and in nonneural tissues.
+Immunohistochemical studies indicated that P400 protein was distributed abundantly in the soma, the dendritic arborization, and the axon of the Purkinje cell.

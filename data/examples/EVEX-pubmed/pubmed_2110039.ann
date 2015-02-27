@@ -1,0 +1,68 @@
+T1g	GGP 23 46	ornithine decarboxylase
+NT1g0	Reference T1g ENSGF:178234	ODC
+NT1g1	Reference T1g HG:1906	ODC
+NT1g2	Reference T1g EG:24609	ODC
+NT1g3	Reference T1g ENSF:483	ODC
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 47 56	polyamine
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 307 330	ornithine decarboxylase
+NT3g0	Reference T3g ENSGF:178234	ODC
+NT3g1	Reference T3g HG:1906	ODC
+NT3g2	Reference T3g EG:24609	ODC
+NT3g3	Reference T3g ENSF:483	ODC
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 332 335	ODC
+NT4g0	Reference T4g ENSGF:178234	ODC
+NT4g1	Reference T4g HG:1906	ODC
+NT4g2	Reference T4g EG:24609	ODC
+NT4g3	Reference T4g ENSF:483	ODC
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 493 496	ODC
+NT5g0	Reference T5g ENSGF:178234	ODC
+NT5g1	Reference T5g HG:1906	ODC
+NT5g2	Reference T5g EG:24609	ODC
+NT5g3	Reference T5g ENSF:483	ODC
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 530 557	beta 2-adrenergic receptors
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 690 693	ODC
+NT7g0	Reference T7g ENSGF:178234	ODC
+NT7g1	Reference T7g HG:1906	ODC
+NT7g2	Reference T7g EG:24609	ODC
+NT7g3	Reference T7g ENSF:483	ODC
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 863 866	ODC
+NT8g0	Reference T8g ENSGF:178234	ODC
+NT8g1	Reference T8g HG:1906	ODC
+NT8g2	Reference T8g EG:24609	ODC
+NT8g3	Reference T8g ENSF:483	ODC
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 1142 1145	ODC
+NT9g0	Reference T9g ENSGF:178234	ODC
+NT9g1	Reference T9g HG:1906	ODC
+NT9g2	Reference T9g EG:24609	ODC
+NT9g3	Reference T9g ENSF:483	ODC
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 1251 1254	ODC
+NT10g0	Reference T10g ENSGF:178234	ODC
+NT10g1	Reference T10g HG:1906	ODC
+NT10g2	Reference T10g EG:24609	ODC
+NT10g3	Reference T10g ENSF:483	ODC
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	GGP 1255 1264	polyamine
+NT11g4	Reference T11g NCBITaxon:10116	Rattus norvegicus
+T14g	Regulation 856 862	affect
+T12g	Regulation 8 15	control
+T13g	Negative_regulation 634 643	depletion
+E1g	Regulation:T12g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.5796
+E2g	Negative_regulation:T13g Theme:T7g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.7145
+E3g	Regulation:T14g Theme:T8g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.4434
+AE3gN	Negation E3g
+#E3gNconf	Confidence AE3gN	144.3620

@@ -1,0 +1,2 @@
+Among those, a two-state reaction model reproduced well the sensorgram of AmB binding to an ergosterol-containing membrane; in this model, two states of membrane-bound complexes, AB and AB*, are assumed, which correspond to a simple binding to the surface of the membrane (AB) and formation of another assembly in the membrane (AB*) such as an ion channel complex.
+Kinetic analysis demonstrated that the association constant in ergosterol-containing POPC liposomes is larger by 1 order of magnitude than that in the cholesterol-containing counterpart.

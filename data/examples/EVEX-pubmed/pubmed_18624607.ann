@@ -1,0 +1,22 @@
+T1g	GGP 0 11	Thyrotropin
+NT1g4	Reference T1g NCBITaxon:3847	Glycine max
+T2g	GGP 50 68	thyroid peroxidase
+NT2g0	Reference T2g ENSGF:239620	TPO
+NT2g1	Reference T2g HG:461	TPO
+NT2g3	Reference T2g ENSF:531	MPO
+NT2g4	Reference T2g NCBITaxon:3847	Glycine max
+T3g	GGP 76 89	thyroglobulin
+NT3g0	Reference T3g ENSGF:50915	TG
+NT3g1	Reference T3g HG:2430	TG
+NT3g3	Reference T3g ENSF:7224	TG
+NT3g4	Reference T3g NCBITaxon:3847	Glycine max
+T4g	GGP 380 391	thyrotropin
+NT4g4	Reference T4g NCBITaxon:3847	Glycine max
+T5g	GGP 572 583	thyrotropin
+NT5g4	Reference T5g NCBITaxon:3847	Glycine max
+T6g	GGP 585 615	daidzein and antithyroglobulin
+NT6g4	Reference T6g NCBITaxon:3847	Glycine max
+T7g	Positive_regulation 368 376	increase
+E1g	Positive_regulation:T7g Theme:T4g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.4504

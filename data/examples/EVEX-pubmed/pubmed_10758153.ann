@@ -1,0 +1,88 @@
+T1g	GGP 45 53	MLL gene
+NT1g0	Reference T1g ENSGF:37188	MLL
+NT1g1	Reference T1g HG:4338	MLL
+NT1g3	Reference T1g ENSF:1913	MLL
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 134 142	MLL gene
+NT2g0	Reference T2g ENSGF:37188	MLL
+NT2g1	Reference T2g HG:4338	MLL
+NT2g3	Reference T2g ENSF:1913	MLL
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 378 407	MLL breakpoint cluster region
+NT3g0	Reference T3g ENSGF:273411	BCR
+NT3g1	Reference T3g HG:3192	BCR
+NT3g2	Reference T3g EG:613	BCR
+NT3g3	Reference T3g ENSF:1806	BCR
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 409 412	BCR
+NT4g0	Reference T4g ENSGF:273411	BCR
+NT4g1	Reference T4g HG:3192	BCR
+NT4g2	Reference T4g EG:613	BCR
+NT4g3	Reference T4g ENSF:1806	BCR
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 427 434	MLL BCR
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 583 604	MLL BCR cleavage site
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 649 658	etoposide
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 660 664	VP16
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 670 681	doxorubicin
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 683 686	Dox
+NT10g0	Reference T10g ENSGF:212127	DOX
+NT10g1	Reference T10g HG:2102	DOX
+NT10g3	Reference T10g ENSF:2405	DOX
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 751 767	topoisomerase II
+NT11g0	Reference T11g ENSGF:328497	topoisomerase II
+NT11g1	Reference T11g HG:101558	topoisomerase II
+NT11g3	Reference T11g ENSF:10042	topoisomerase II
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 769 776	topo II
+NT12g0	Reference T12g ENSGF:11666	topo II
+NT12g1	Reference T12g HG:830	topo II
+NT12g3	Reference T12g ENSF:616	topo II
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 820 824	VP16
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 829 832	Dox
+NT14g0	Reference T14g ENSGF:212127	DOX
+NT14g1	Reference T14g HG:2102	DOX
+NT14g3	Reference T14g ENSF:2405	DOX
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 915 922	topo II
+NT15g0	Reference T15g ENSGF:11666	topo II
+NT15g1	Reference T15g HG:830	topo II
+NT15g3	Reference T15g ENSF:616	topo II
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 1032 1036	VP16
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 1133 1140	topo II
+NT17g0	Reference T17g ENSGF:11666	topo II
+NT17g1	Reference T17g HG:830	topo II
+NT17g3	Reference T17g ENSF:616	topo II
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 1187 1194	topo II
+NT18g0	Reference T18g ENSGF:11666	topo II
+NT18g1	Reference T18g HG:830	topo II
+NT18g3	Reference T18g ENSF:616	topo II
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	Positive_regulation 605 612	induced
+T20g	Binding 562 573	colocalized
+E1g	Binding:T20g Theme:T6g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.2588
+E2g	Positive_regulation:T19g Cause:T7g Theme:T6g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.9141
+E3g	Positive_regulation:T19g Theme:T6g Cause:T9g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.9141
+E4g	Positive_regulation:T19g Theme:T6g Cause:T8g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.1887
+E5g	Positive_regulation:T19g Cause:T10g Theme:T6g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.1887

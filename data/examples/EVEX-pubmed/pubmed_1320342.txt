@@ -1,0 +1,7 @@
+Changes in insulin sensitivity from stress during repetitive sampling in anesthetized rats.
+The effect of repetitive sampling on insulin sensitivity was studied in anesthetized rats.
+During repetitive sampling under identical conditions, plasma adrenocorticotropic hormone (ACTH) increased, despite simultaneous saline infusion, from 68 +/- 11 to 102 +/- 15 pg/ml (P less than 0.05) with a loss of 8 ml/kg, while plasma insulin increased from 39 +/- 7 to 124 +/- 20 mU/l (P less than 0.01) with a loss of 10 ml/kg.
+Thereafter, ACTH and insulin rose progressively.
+Plasma corticosterone closely followed the pattern of the ACTH response, indicating that the stress of cumulative blood loss had a significant effect on adrenal steroid production.
+Increases in ACTH were retarded by reduced volume loss and accelerated by increased loss.
+It is concluded that stress from blood loss greater than 7 ml/kg may be a source of error in the evaluation of glucose turnover and insulin sensitivity during clamp experiments in rats.

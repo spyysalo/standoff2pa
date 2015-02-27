@@ -1,0 +1,36 @@
+T1g	GGP 20 27	insulin
+NT1g0	Reference T1g ENSGF:121851	insulin
+NT1g1	Reference T1g HG:173	insulin
+NT1g2	Reference T1g EG:3630	insulin
+NT1g3	Reference T1g ENSF:15743	insulin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 156 163	insulin
+NT2g0	Reference T2g ENSGF:121851	insulin
+NT2g1	Reference T2g HG:173	insulin
+NT2g2	Reference T2g EG:3630	insulin
+NT2g3	Reference T2g ENSF:15743	insulin
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 372 379	insulin
+NT3g0	Reference T3g ENSGF:121851	insulin
+NT3g1	Reference T3g HG:173	insulin
+NT3g2	Reference T3g EG:3630	insulin
+NT3g3	Reference T3g ENSF:15743	insulin
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 455 462	insulin
+NT4g0	Reference T4g ENSGF:121851	insulin
+NT4g1	Reference T4g HG:173	insulin
+NT4g2	Reference T4g EG:3630	insulin
+NT4g3	Reference T4g ENSF:15743	insulin
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T6g	Negative_regulation 324 332	lowering
+T7g	Negative_regulation 486 496	diminished
+T5g	Binding 9 18	tolerance
+E1g	Binding:T5g Theme:T1g
+AE1gconf	Confidence E1g very-low
+#E1gconf	Confidence E1g	0.9846
+E2g	Negative_regulation:T6g Theme:T3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.0562
+E3g	Negative_regulation:T7g Theme:T4g
+AE3gconf	Confidence E3g high
+#E3gconf	Confidence E3g	4.0761

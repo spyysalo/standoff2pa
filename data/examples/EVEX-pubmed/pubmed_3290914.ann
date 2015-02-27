@@ -1,0 +1,42 @@
+T1g	GGP 71 77	casein
+NT1g4	Reference T1g NCBITaxon:9685	Felis catus
+T2g	GGP 201 233	plasma dopamine-beta-hydroxylase
+NT2g0	Reference T2g ENSGF:225376	DBH
+NT2g1	Reference T2g HG:615	DBH
+NT2g3	Reference T2g ENSF:1455	DBH
+NT2g4	Reference T2g NCBITaxon:9685	Felis catus
+T3g	GGP 307 356	Cats fed hypoglucidic casein diet, plasma glucose
+NT3g4	Reference T3g NCBITaxon:9685	Felis catus
+T4g	GGP 358 365	insulin
+NT4g2	Reference T4g EG:493804	insulin
+NT4g3	Reference T4g ENSF:105448	insulin
+NT4g4	Reference T4g NCBITaxon:9685	Felis catus
+T5g	GGP 505 530	dopamine-beta-hydroxylase
+NT5g0	Reference T5g ENSGF:225376	DBH
+NT5g1	Reference T5g HG:615	DBH
+NT5g3	Reference T5g ENSF:1455	DBH
+NT5g4	Reference T5g NCBITaxon:9685	Felis catus
+T6g	GGP 711 718	insulin
+NT6g2	Reference T6g EG:493804	insulin
+NT6g3	Reference T6g ENSF:105448	insulin
+NT6g4	Reference T6g NCBITaxon:9685	Felis catus
+T7g	GGP 729 754	dopamine-beta-hydroxylase
+NT7g0	Reference T7g ENSGF:225376	DBH
+NT7g1	Reference T7g HG:615	DBH
+NT7g3	Reference T7g ENSF:1455	DBH
+NT7g4	Reference T7g NCBITaxon:9685	Felis catus
+T8g	GGP 892 898	casein
+NT8g4	Reference T8g NCBITaxon:9685	Felis catus
+T9g	GGP 903 915	soya protein
+NT9g4	Reference T9g NCBITaxon:9685	Felis catus
+T11g	Positive_regulation 540 549	increased
+T10g	Positive_regulation 405 414	increased
+E1g	Positive_regulation:T11g Theme:T5g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.0020
+E2g	Positive_regulation:T10g Theme:T3g
+AE2gconf	Confidence E2g high
+#E2gconf	Confidence E2g	4.9638
+E3g	Positive_regulation:T10g Theme:T4g
+AE3gconf	Confidence E3g very-high
+#E3gconf	Confidence E3g	5.0641

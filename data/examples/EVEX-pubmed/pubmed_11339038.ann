@@ -1,0 +1,80 @@
+T1g	GGP 16 26	interferon
+NT1g1	Reference T1g HG:68536	IFN
+NT1g2	Reference T1g EG:3439	IFN
+NT1g3	Reference T1g ENSF:430	IFN
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 107 124	inteferon inducer
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 126 136	Interferon
+NT3g1	Reference T3g HG:68536	IFN
+NT3g2	Reference T3g EG:3439	IFN
+NT3g3	Reference T3g ENSF:430	IFN
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 138 141	IFN
+NT4g1	Reference T4g HG:68536	IFN
+NT4g2	Reference T4g EG:3439	IFN
+NT4g3	Reference T4g ENSF:430	IFN
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 363 366	IFN
+NT5g1	Reference T5g HG:68536	IFN
+NT5g2	Reference T5g EG:3439	IFN
+NT5g3	Reference T5g ENSF:430	IFN
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 431 434	IFN
+NT6g1	Reference T6g HG:68536	IFN
+NT6g2	Reference T6g EG:3439	IFN
+NT6g3	Reference T6g ENSF:430	IFN
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 476 485	IFN-alpha
+NT7g3	Reference T7g ENSF:430	IFN
+NT7g4	Reference T7g NCBITaxon:11176	Newcastle disease virus
+T8g	GGP 503 539	Newcastle disease virus and IFN-beta
+NT8g0	Reference T8g ENSGF:211265	IFN-beta
+NT8g1	Reference T8g HG:1640	IFN-beta
+NT8g3	Reference T8g ENSF:11618	IFN-beta
+NT8g4	Reference T8g NCBITaxon:11176	Newcastle disease virus
+T9g	GGP 545 571	staphylococcal enterotoxin
+NT9g0	Reference T9g ENSGF:325804	ChIP-seq
+NT9g4	Reference T9g NCBITaxon:11176	Newcastle disease virus
+T10g	GGP 598 601	IFN
+NT10g1	Reference T10g HG:68536	IFN
+NT10g2	Reference T10g EG:3439	IFN
+NT10g3	Reference T10g ENSF:430	IFN
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 702 705	IFN
+NT11g1	Reference T11g HG:68536	IFN
+NT11g2	Reference T11g EG:3439	IFN
+NT11g3	Reference T11g ENSF:430	IFN
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 828 831	IFN
+NT12g1	Reference T12g HG:68536	IFN
+NT12g2	Reference T12g EG:3439	IFN
+NT12g3	Reference T12g ENSF:430	IFN
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 930 933	IFN
+NT13g1	Reference T13g HG:68536	IFN
+NT13g2	Reference T13g EG:3439	IFN
+NT13g3	Reference T13g ENSF:430	IFN
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T16g	Positive_regulation 490 497	induced
+T14g	Gene_expression 27 33	status
+T17g	Positive_regulation 618 627	increased
+T15g	Gene_expression 423 430	produce
+E1g	Gene_expression:T14g Theme:T1g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.2150
+E2g	Gene_expression:T15g Theme:T5g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.6884
+E3g	Gene_expression:T15g Theme:T6g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.5818
+E4g	Positive_regulation:T16g Theme:T7g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.4818
+E5g	Positive_regulation:T16g Theme:T8g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.4550
+E6g	Positive_regulation:T17g Theme:T10g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.7761

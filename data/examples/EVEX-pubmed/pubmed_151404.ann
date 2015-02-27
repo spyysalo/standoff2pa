@@ -1,0 +1,21 @@
+T1g	GGP 36 47	Ig receptor
+NT1g0	Reference T1g ENSGF:154649	NMDA receptor
+NT1g1	Reference T1g HG:124357	NMDA receptor
+NT1g3	Reference T1g ENSF:4176	NMDA receptor
+NT1g4	Reference T1g NCBITaxon:10090	Mus musculus
+T2g	GGP 344 355	Ig receptor
+NT2g0	Reference T2g ENSGF:154649	NMDA receptor
+NT2g1	Reference T2g HG:124357	NMDA receptor
+NT2g3	Reference T2g ENSF:4176	NMDA receptor
+NT2g4	Reference T2g NCBITaxon:10090	Mus musculus
+T3g	Negative_regulation 332 340	decrease
+T4g	Gene_expression 369 379	expression
+E1g	Negative_regulation:T3g Theme:T2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.3258
+E2g	Negative_regulation:T3g Theme:E3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.0581
+E3g	Gene_expression:T4g Theme:T2g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.6804

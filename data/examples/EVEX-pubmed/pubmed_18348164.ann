@@ -1,0 +1,78 @@
+T1g	GGP 22 26	ENaC
+NT1g0	Reference T1g ENSGF:166867	ENaC
+NT1g1	Reference T1g HG:811	ENaC
+NT1g2	Reference T1g EG:20276	ENaC
+NT1g3	Reference T1g ENSF:1886	ENaC
+NT1g4	Reference T1g NCBITaxon:10090	Mus musculus
+T2g	GGP 110 123	Na(+) channel
+NT2g0	Reference T2g ENSGF:166867	ENaC
+NT2g1	Reference T2g HG:811	ENaC
+NT2g2	Reference T2g EG:20276	ENaC
+NT2g3	Reference T2g ENSF:1886	ENaC
+NT2g4	Reference T2g NCBITaxon:10090	Mus musculus
+T3g	GGP 125 129	ENaC
+NT3g0	Reference T3g ENSGF:166867	ENaC
+NT3g1	Reference T3g HG:811	ENaC
+NT3g2	Reference T3g EG:20276	ENaC
+NT3g3	Reference T3g ENSF:1886	ENaC
+NT3g4	Reference T3g NCBITaxon:10090	Mus musculus
+T4g	GGP 308 312	ENaC
+NT4g0	Reference T4g ENSGF:166867	ENaC
+NT4g1	Reference T4g HG:811	ENaC
+NT4g2	Reference T4g EG:20276	ENaC
+NT4g3	Reference T4g ENSF:1886	ENaC
+NT4g4	Reference T4g NCBITaxon:10090	Mus musculus
+T5g	GGP 465 469	ENaC
+NT5g0	Reference T5g ENSGF:166867	ENaC
+NT5g1	Reference T5g HG:811	ENaC
+NT5g2	Reference T5g EG:20276	ENaC
+NT5g3	Reference T5g ENSF:1886	ENaC
+NT5g4	Reference T5g NCBITaxon:10090	Mus musculus
+T6g	GGP 536 543	ENaC Po
+NT6g0	Reference T6g ENSGF:166867	ENaC
+NT6g1	Reference T6g HG:811	ENaC
+NT6g3	Reference T6g ENSF:1886	ENaC
+NT6g4	Reference T6g NCBITaxon:10090	Mus musculus
+T7g	GGP 644 651	ENaC Po
+NT7g0	Reference T7g ENSGF:166867	ENaC
+NT7g1	Reference T7g HG:811	ENaC
+NT7g3	Reference T7g ENSF:1886	ENaC
+NT7g4	Reference T7g NCBITaxon:10090	Mus musculus
+T8g	GGP 694 702	ENaC I-V
+NT8g0	Reference T8g ENSGF:166867	ENaC
+NT8g1	Reference T8g HG:811	ENaC
+NT8g3	Reference T8g ENSF:1886	ENaC
+NT8g4	Reference T8g NCBITaxon:10090	Mus musculus
+T9g	GGP 755 759	ENaC
+NT9g0	Reference T9g ENSGF:166867	ENaC
+NT9g1	Reference T9g HG:811	ENaC
+NT9g2	Reference T9g EG:20276	ENaC
+NT9g3	Reference T9g ENSF:1886	ENaC
+NT9g4	Reference T9g NCBITaxon:10090	Mus musculus
+T10g	GGP 790 814	Cl(-) channels like CFTR
+NT10g4	Reference T10g NCBITaxon:10090	Mus musculus
+T11g	GGP 819 823	VRAC
+NT11g0	Reference T11g ENSGF:140484	VRAC
+NT11g4	Reference T11g NCBITaxon:10090	Mus musculus
+T12g	GGP 951 955	ENaC
+NT12g0	Reference T12g ENSGF:166867	ENaC
+NT12g1	Reference T12g HG:811	ENaC
+NT12g2	Reference T12g EG:20276	ENaC
+NT12g3	Reference T12g ENSF:1886	ENaC
+NT12g4	Reference T12g NCBITaxon:10090	Mus musculus
+T16g	Regulation 942 950	regulate
+T14g	Positive_regulation 610 619	increases
+T15g	Positive_regulation 760 771	conductance
+T13g	Negative_regulation 528 535	reduces
+E1g	Regulation:T16g Theme:T12g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.6987
+E2g	Negative_regulation:T13g Theme:T6g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.5462
+E3g	Positive_regulation:T14g Theme:T7g
+AE3gconf	Confidence E3g high
+#E3gconf	Confidence E3g	4.3220
+E4g	Positive_regulation:T15g Theme:T9g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.0674

@@ -1,0 +1,42 @@
+T1g	GGP 0 18	A prophenoloxidase
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 179 232	shrimp Artemia sinica prophenoloxidase (AsproPO) cDNA
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 390 403	phenoloxidase
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 405 407	PO
+NT4g1	Reference T4g HG:74447	PO
+NT4g3	Reference T4g ENSF:33303	G1
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T8r	Entity 573 581	sequence
+T5g	GGP 585 592	AsproPO
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T9r	Entity 625 630	sites
+T6g	GGP 721 728	AsproPO
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 851 853	PO
+NT7g1	Reference T7g HG:74447	PO
+NT7g3	Reference T7g ENSF:33303	G1
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	Gene_expression 54 64	expression
+T9g	Gene_expression 252 262	expression
+T10g	Gene_expression 729 738	expressed
+E1g	Gene_expression:T8g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.6922
+E2g	Gene_expression:T9g Theme:T2g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.9912
+E3g	Gene_expression:T10g Theme:T6g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.0817
+AE1gS	Speculation E1g
+#E1gSconf	Confidence AE1gS	65.4487
+AE2gS	Speculation E2g
+#E2gSconf	Confidence AE2gS	108.7210
+R1r	Protein-Component Arg1:T5g Arg2:T8r
+AR1rconf	Confidence R1r medium
+#R1rconf	Confidence R1r	3.6863
+R2r	Protein-Component Arg1:T5g Arg2:T9r
+AR2rconf	Confidence R2r high
+#R2rconf	Confidence R2r	4.8381

@@ -1,0 +1,11 @@
+Homogeneous assays for cellular protein degradation using beta-galactosidase complementation: NF-kappaB/IkappaB pathway signaling.
+Activation of cells by the tumor necrosis factor-alpha (TNF-alpha) and interleukin-1 (IL-1) cytokines results in activation of the nuclear factor-kappaB (NF-kappaB) via proteasomal degradation of an associated IkappaB molecule.
+To monitor cellular IkappaB, the protein was recombinantly expressed as a fusion protein with a novel enzymatic tag, ProLabel (PL).
+ProLabel is a small 5.5-kDa sequence from the amino-terminal amino acids of beta-galactosidase, possesses a simple ribbon structure, and can be fused to many proteins via the amino or carboxyl terminus.
+Expression of this construct allows quantitative detection of the recombinant protein in crude lysates by using a method based on beta-galactosidase enzyme fragment complementation (EFC).
+Transient transfection of IkappaB-PL in HeLa cells generated an EFC signal that was highly correlated with a western analysis of the protein construct.
+TNF-alpha and IL-1 treatment induced a concentration-dependent degradation of IkappaB-PL, with potency values similar to those reported using other methods.
+IkappaBM-PL (mutant of IkappaB-PL), in contrast, did not undergo degradation for concentrations up to and including 10 ng/ml TNF-alpha or IL-1, demonstrating that degradation of IkappaB-PL was specific to the NF-kappaB pathway activation.
+TNF-alpha and IL-1 induced maximal IkappaB-PL degradation within 30 min of induction.
+This was reversed by several agents that ablate this pathway, including anti-TNF-alpha antibodies and the proteasome inhibitor, MG-132.
+Z' values and coefficients of variance for IkappaB-PL degradation were 0.6 and <9%, respectively.

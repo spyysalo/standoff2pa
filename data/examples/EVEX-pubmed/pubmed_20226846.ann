@@ -1,0 +1,26 @@
+T1g	GGP 61 84	cyclin dependent kinase
+NT1g0	Reference T1g ENSGF:184802	cyclin-dependent kinase
+NT1g1	Reference T1g HG:74409	CDK2
+NT1g3	Reference T1g ENSF:331	CDK2
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 113 148	anti-cancer cyclin dependent kinase
+NT2g0	Reference T2g ENSGF:184802	cyclin-dependent kinase
+NT2g1	Reference T2g HG:74409	CDK2
+NT2g3	Reference T2g ENSF:331	CDK2
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 150 153	CDK
+NT3g0	Reference T3g ENSGF:178318	CDK
+NT3g1	Reference T3g HG:963	CDK
+NT3g3	Reference T3g ENSF:3450	CDK
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 244 247	CDK
+NT4g0	Reference T4g ENSGF:178318	CDK
+NT4g1	Reference T4g HG:963	CDK
+NT4g3	Reference T4g ENSF:3450	CDK
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 539 564	epsilon-caprolactone (CL)
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	Negative_regulation 85 94	inhibitor
+E1g	Negative_regulation:T6g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.0482

@@ -1,0 +1,5 @@
+Activation of adenylate cyclase by forskolin prolongs calcium action potential duration in lamprey sensory neurons.
+Calcium-dependent action potentials of primary sensory neurons in the isolated spinal cord of the lamprey were greatly prolonged in duration by forskolin, an activator of adenylate cyclase in other systems.
+Experiments were performed to establish a role for adenylate cyclase and adenosine 3',5'-cyclic monophosphate (cAMP) as mediators of the forskolin effect.
+The prolonging action of forskolin on the Ca action potential was significantly reduced in the presence of the adenylate cyclase inhibitor 2',5'-dideoxyadenosine.
+It is concluded that forskolin acts in lamprey sensory neurons to activate adenylate cyclase and raise intracellular cAMP levels which in turn mediate the increase in Ca action potential duration.

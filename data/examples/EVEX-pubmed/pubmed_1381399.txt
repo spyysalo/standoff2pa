@@ -1,0 +1,11 @@
+Analysis of HIV-induced autoantibodies to cryptic epitopes on human CD4.
+Antilymphocyte antibodies, including autoantibodies to CD4, have been reported in AIDS patients and are postulated to contribute to T cell depletion and immunologic dysfunction.
+In this paper, we characterize and localize binding sites of human anti-CD4 autoantibodies from a number of HIV+ patients.
+Epitope mapping by ELISA and Western blotting, together with cross-competition experiments, showed that common autoepitopes were localized to at least two topographically separate sites on the fourth domain of sCD4.
+These sites were partially dependent on the carboxyl terminus of the soluble molecule and were not exposed on full length membrane CD4, even under denaturing Western blotting conditions.
+Peptide screening identified peptides from the fourth and third domains that were recognized by several, but not all, anti-CD4 serum samples.
+Soluble CD4 affinity-purified antibodies were predominantly IgG1 and were not induced to bind mCD4 after gp120 binding to T cells.
+Analysis of HIV seroconversion panels showed that the appearance of anti-CD4 antibodies followed HIV seroconversion by 6 to 12 months and paralleled anti-gp120 reactivity.
+This suggested a correlation between immune reactivity to envelope and anti-CD4 antibody production.
+Together, the data indicate that human anti-CD4 antibodies recognize cryptic conformational and linear epitopes on a cleaved form of CD4.
+These findings suggest that HIV may induce abnormal cleavage of full length CD4, thereby exposing immunogenic self epitopes normally hidden from humoral and cellular immune interactions.

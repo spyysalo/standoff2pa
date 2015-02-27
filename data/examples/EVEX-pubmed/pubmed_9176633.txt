@@ -1,0 +1,2 @@
+In order to probe the events which couple receptor occupancy to elevation of cytosolic free Ca2+ fast laser scanning of fluo3-loaded neutrophils was used to determine the timing of the initial phase of the Ca2+ response.
+The distribution of lag times was similar to that expected if the delay resulted from a series of obligatory stochastic processes.

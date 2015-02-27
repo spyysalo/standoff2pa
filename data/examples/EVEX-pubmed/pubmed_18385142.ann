@@ -1,0 +1,119 @@
+T1g	GGP 81 114	extended-spectrum beta-lactamases
+NT1g2	Reference T1g EG:7397560	bla
+NT1g4	Reference T1g NCBITaxon:550	Enterobacter cloacae
+T2g	GGP 116 121	ESBLs
+NT2g4	Reference T2g NCBITaxon:550	Enterobacter cloacae
+T3g	GGP 234 243	qnr genes
+NT3g4	Reference T3g NCBITaxon:550	Enterobacter cloacae
+T4g	GGP 411 419	bla(TEM)
+NT4g2	Reference T4g EG:7397560	bla
+NT4g4	Reference T4g NCBITaxon:550	Enterobacter cloacae
+T5g	GGP 421 424	bla
+NT5g2	Reference T5g EG:7397560	bla
+NT5g4	Reference T5g NCBITaxon:550	Enterobacter cloacae
+T6g	GGP 425 430	CTX-M
+NT6g4	Reference T6g NCBITaxon:550	Enterobacter cloacae
+T7g	GGP 433 460	bla(SHV) and bla(VEB) genes
+NT7g2	Reference T7g EG:7397560	bla
+NT7g4	Reference T7g NCBITaxon:550	Enterobacter cloacae
+T8g	GGP 469 478	qnr genes
+NT8g4	Reference T8g NCBITaxon:550	Enterobacter cloacae
+T9g	GGP 480 484	qnrA
+NT9g4	Reference T9g NCBITaxon:550	Enterobacter cloacae
+T10g	GGP 486 490	qnrB
+NT10g4	Reference T10g NCBITaxon:550	Enterobacter cloacae
+T11g	GGP 492 496	qnrS
+NT11g4	Reference T11g NCBITaxon:550	Enterobacter cloacae
+T12g	GGP 640 648	CTX-M-15
+NT12g4	Reference T12g NCBITaxon:550	Enterobacter cloacae
+T13g	GGP 650 657	CTX-M-3
+NT13g4	Reference T13g NCBITaxon:550	Enterobacter cloacae
+T14g	GGP 659 665	SHV-12
+NT14g4	Reference T14g NCBITaxon:550	Enterobacter cloacae
+T15g	GGP 670 675	VEB-1
+NT15g0	Reference T15g ENSGF:137965	cepA
+NT15g4	Reference T15g NCBITaxon:550	Enterobacter cloacae
+T16g	GGP 720 728	CTX-M-15
+NT16g4	Reference T16g NCBITaxon:550	Enterobacter cloacae
+T17g	GGP 748 753	QnrS1
+NT17g4	Reference T17g NCBITaxon:550	Enterobacter cloacae
+T18g	GGP 776 784	CTX-M-15
+NT18g4	Reference T18g NCBITaxon:550	Enterobacter cloacae
+T19g	GGP 789 794	QnrB1
+NT19g4	Reference T19g NCBITaxon:550	Enterobacter cloacae
+T20g	GGP 832 837	QnrS1
+NT20g4	Reference T20g NCBITaxon:550	Enterobacter cloacae
+T21g	GGP 842 847	QnrB4
+NT21g4	Reference T21g NCBITaxon:550	Enterobacter cloacae
+T22g	GGP 870 875	QnrS1
+NT22g4	Reference T22g NCBITaxon:550	Enterobacter cloacae
+T23g	GGP 877 882	QnrB1
+NT23g4	Reference T23g NCBITaxon:550	Enterobacter cloacae
+T24g	GGP 887 892	QnrB4
+NT24g4	Reference T24g NCBITaxon:550	Enterobacter cloacae
+T25g	GGP 983 988	qnrS1
+NT25g4	Reference T25g NCBITaxon:550	Enterobacter cloacae
+T26g	GGP 993 998	qnrB4
+NT26g4	Reference T26g NCBITaxon:550	Enterobacter cloacae
+T33g	Gene_expression 966 979	co-expression
+T30g	Positive_regulation 767 775	produced
+T28g	Positive_regulation 362 370	screened
+T31g	Gene_expression 819 831	co-expressed
+T27g	Binding 217 228	association
+T29g	Gene_expression 738 747	expressed
+T32g	Gene_expression 729 737	producer
+E10g	Positive_regulation:T30g Theme:T18g
+AE10gconf	Confidence E10g low
+#E10gconf	Confidence E10g	1.6069
+E11g	Positive_regulation:T30g Theme:T19g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	2.2213
+E12g	Gene_expression:T31g Theme:T20g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	2.1692
+E13g	Gene_expression:T31g Theme:T21g
+AE13gconf	Confidence E13g medium
+#E13gconf	Confidence E13g	2.1692
+E14g	Gene_expression:T33g Theme:T25g
+AE14gconf	Confidence E14g medium
+#E14gconf	Confidence E14g	3.0821
+E15g	Gene_expression:T33g Theme:T26g
+AE15gconf	Confidence E15g medium
+#E15gconf	Confidence E15g	3.0821
+E1g	Binding:T27g Theme:T3g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.2269
+E2g	Binding:T27g Theme:T3g Theme:T2g
+AE2gconf	Confidence E2g high
+#E2gconf	Confidence E2g	4.4005
+E3g	Positive_regulation:T28g Theme:T8g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.9786
+E4g	Positive_regulation:T28g Theme:T7g
+AE4gconf	Confidence E4g low
+#E4gconf	Confidence E4g	1.9786
+E5g	Positive_regulation:T28g Theme:T11g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	2.0071
+E6g	Positive_regulation:T28g Theme:T4g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.0071
+E7g	Positive_regulation:T28g Theme:T5g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	2.0071
+E8g	Gene_expression:T32g Theme:T16g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.2524
+E9g	Gene_expression:T29g Theme:T17g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.5304
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	88.8831
+AE4gS	Speculation E4g
+#E4gSconf	Confidence AE4gS	88.8831
+AE5gS	Speculation E5g
+#E5gSconf	Confidence AE5gS	88.8831
+AE6gS	Speculation E6g
+#E6gSconf	Confidence AE6gS	88.8831
+AE7gS	Speculation E7g
+#E7gSconf	Confidence AE7gS	88.8831

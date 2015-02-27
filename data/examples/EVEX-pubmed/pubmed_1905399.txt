@@ -1,0 +1,6 @@
+The genomic organization of immunoglobulin VH genes in Xenopus laevis shows evidence for interspersion of families.
+The complete genomic sequences of Xenopus laevis immunoglobulin heavy chain variable region (VH) genes comprising families IV-XI are reported.
+Using VH family-specific probes, linkage relationships for Xenopus VHI-VHXI have been determined.
+With the possible exceptions of VHIII and VHVII, Xenopus VH genes appear to be interspersed.
+Although the relationships of promoter sequences, including the regulatory octamer, resemble those seen in other vertebrate VH genes, several Xenopus VH families are associated with additional 5' octamer sequences and octamer-like motifs.
+The similarities between the genomic organization of VH genes in Xenopus and higher vertebrates, indicate an early phylogenetic emergence of the mammalian-type of gene organization and regulation.

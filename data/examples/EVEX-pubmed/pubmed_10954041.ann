@@ -1,0 +1,86 @@
+T1g	GGP 41 72	pituitary-gonadal axis hormones
+NT1g0	Reference T1g ENSGF:160831	ALK7
+NT1g1	Reference T1g HG:20906	activin
+NT1g3	Reference T1g ENSF:252	activin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 107 121	beta-endorphin
+NT2g0	Reference T2g ENSGF:304398	ACTH
+NT2g1	Reference T2g HG:723	ACTH
+NT2g3	Reference T2g ENSF:179	ACTH
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 126 135	prolactin
+NT3g0	Reference T3g ENSGF:129692	prolactin
+NT3g1	Reference T3g HG:732	prolactin
+NT3g2	Reference T3g EG:5617	prolactin
+NT3g3	Reference T3g ENSF:5028	prolactin
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 368 382	beta-endorphin
+NT4g0	Reference T4g ENSGF:304398	ACTH
+NT4g1	Reference T4g HG:723	ACTH
+NT4g3	Reference T4g ENSF:179	ACTH
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 384 388	BEND
+NT5g0	Reference T5g ENSGF:179840	BEND
+NT5g1	Reference T5g HG:100734	Ubc13
+NT5g3	Reference T5g ENSF:2230	Ubc13
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 395 404	prolactin
+NT6g0	Reference T6g ENSGF:129692	prolactin
+NT6g1	Reference T6g HG:732	prolactin
+NT6g2	Reference T6g EG:5617	prolactin
+NT6g3	Reference T6g ENSF:5028	prolactin
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 406 409	PRL
+NT7g0	Reference T7g ENSGF:129692	prolactin
+NT7g1	Reference T7g HG:732	prolactin
+NT7g2	Reference T7g EG:5617	prolactin
+NT7g3	Reference T7g ENSF:5028	prolactin
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 544 554	plasma PRL
+NT8g0	Reference T8g ENSGF:129692	prolactin
+NT8g1	Reference T8g HG:732	prolactin
+NT8g3	Reference T8g ENSF:5028	prolactin
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 556 560	ACTH
+NT9g0	Reference T9g ENSGF:304398	ACTH
+NT9g1	Reference T9g HG:723	ACTH
+NT9g2	Reference T9g EG:5443	ACTH
+NT9g3	Reference T9g ENSF:179	ACTH
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 708 712	ACTH
+NT10g0	Reference T10g ENSGF:304398	ACTH
+NT10g1	Reference T10g HG:723	ACTH
+NT10g2	Reference T10g EG:5443	ACTH
+NT10g3	Reference T10g ENSF:179	ACTH
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 717 720	PRL
+NT11g0	Reference T11g ENSGF:129692	prolactin
+NT11g1	Reference T11g HG:732	prolactin
+NT11g2	Reference T11g EG:5617	prolactin
+NT11g3	Reference T11g ENSF:5028	prolactin
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 829 832	PRL
+NT12g0	Reference T12g ENSGF:129692	prolactin
+NT12g1	Reference T12g HG:732	prolactin
+NT12g2	Reference T12g EG:5617	prolactin
+NT12g3	Reference T12g ENSF:5028	prolactin
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 837 841	ACTH
+NT13g0	Reference T13g ENSGF:304398	ACTH
+NT13g1	Reference T13g HG:723	ACTH
+NT13g2	Reference T13g EG:5443	ACTH
+NT13g3	Reference T13g ENSF:179	ACTH
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 978 981	AAI
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T16g	Positive_regulation 532 540	increase
+T15g	Regulation 0 7	Effects
+E1g	Regulation:T15g Theme:T1g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.9285
+E2g	Positive_regulation:T16g Theme:T8g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.7587
+E3g	Positive_regulation:T16g Theme:T9g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.7646

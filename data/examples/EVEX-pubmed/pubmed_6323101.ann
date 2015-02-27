@@ -1,0 +1,32 @@
+T1g	GGP 13 18	HBeAg
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 41 51	sero-HBeAg
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 133 138	HBeAg
+NT3g4	Reference T3g NCBITaxon:10407	Hepatitis B virus
+T4g	GGP 245 250	HBeAg
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 256 261	HBeAg
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 373 378	HBsAg
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 383 388	HBeAg
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 394 410	lymphocyte HBeAg
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T11g	Gene_expression 148 156	detected
+T9g	Gene_expression 0 9	Detection
+T12g	Gene_expression 411 417	exists
+T10g	Gene_expression 228 240	seronegative
+E1g	Gene_expression:T9g Theme:T1g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.7478
+E2g	Gene_expression:T10g Theme:T4g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.5088
+E3g	Gene_expression:T11g Theme:T3g
+AE3gconf	Confidence E3g low
+#E3gconf	Confidence E3g	1.9325
+E4g	Gene_expression:T12g Theme:T8g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	2.0581

@@ -1,0 +1,14 @@
+T1g	GGP 0 29	Vasoactive intestinal peptide
+NT1g0	Reference T1g ENSGF:42164	VIP
+NT1g1	Reference T1g HG:2539	VIP
+NT1g2	Reference T1g EG:7432	VIP
+NT1g3	Reference T1g ENSF:13560	VIP
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 31 34	VIP
+NT2g0	Reference T2g ENSGF:42164	VIP
+NT2g1	Reference T2g HG:2539	VIP
+NT2g2	Reference T2g EG:7432	VIP
+NT2g3	Reference T2g ENSF:13560	VIP
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 319 344	beta-adrenergic receptors
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens

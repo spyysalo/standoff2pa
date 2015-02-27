@@ -1,0 +1,33 @@
+T1g	GGP 25 28	C1q
+NT1g1	Reference T1g HG:7249	C1q
+NT1g2	Reference T1g EG:12259	C1q
+NT1g3	Reference T1g ENSF:17461	C1q
+NT1g4	Reference T1g NCBITaxon:10090	Mus musculus
+T2g	GGP 197 200	SCI
+NT2g0	Reference T2g ENSGF:215363	SCI
+NT2g1	Reference T2g HG:128544	SCI
+NT2g3	Reference T2g ENSF:3822	SCI
+NT2g4	Reference T2g NCBITaxon:10090	Mus musculus
+T3g	GGP 207 210	C1q
+NT3g1	Reference T3g HG:7249	C1q
+NT3g2	Reference T3g EG:12259	C1q
+NT3g3	Reference T3g ENSF:17461	C1q
+NT3g4	Reference T3g NCBITaxon:10090	Mus musculus
+T4g	GGP 375 382	BUB C1q
+NT4g4	Reference T4g NCBITaxon:10090	Mus musculus
+T5g	GGP 555 562	BUB C1q
+NT5g4	Reference T5g NCBITaxon:10090	Mus musculus
+T6g	GGP 761 768	BUB C1q
+NT6g4	Reference T6g NCBITaxon:10090	Mus musculus
+T7g	GGP 958 961	C1q
+NT7g1	Reference T7g HG:7249	C1q
+NT7g2	Reference T7g EG:12259	C1q
+NT7g3	Reference T7g ENSF:17461	C1q
+NT7g4	Reference T7g NCBITaxon:10090	Mus musculus
+T8g	Regulation 135 139	role
+E1g	Regulation:T8g Theme:T2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.3472
+E2g	Regulation:T8g Theme:T3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.3472

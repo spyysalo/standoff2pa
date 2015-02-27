@@ -1,0 +1,39 @@
+T1g	GGP 51 54	PTH
+NT1g0	Reference T1g ENSGF:78141	PTH
+NT1g1	Reference T1g HG:266	PTH
+NT1g2	Reference T1g EG:5741	PTH
+NT1g3	Reference T1g ENSF:15996	PTH
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 158 171	PTH molecules
+NT2g0	Reference T2g ENSGF:78141	PTH
+NT2g1	Reference T2g HG:266	PTH
+NT2g3	Reference T2g ENSF:15996	PTH
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 220 223	PTH
+NT3g0	Reference T3g ENSGF:78141	PTH
+NT3g1	Reference T3g HG:266	PTH
+NT3g2	Reference T3g EG:5741	PTH
+NT3g3	Reference T3g ENSF:15996	PTH
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 228 245	Whole PTH/7-84PTH
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 286 289	PTH
+NT5g0	Reference T5g ENSGF:78141	PTH
+NT5g1	Reference T5g HG:266	PTH
+NT5g2	Reference T5g EG:5741	PTH
+NT5g3	Reference T5g ENSF:15996	PTH
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 427 430	PTH
+NT6g0	Reference T6g ENSGF:78141	PTH
+NT6g1	Reference T6g HG:266	PTH
+NT6g2	Reference T6g EG:5741	PTH
+NT6g3	Reference T6g ENSF:15996	PTH
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T8g	Positive_regulation 144 152	measured
+T7g	Gene_expression 102 109	existed
+E1g	Gene_expression:T7g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.2183
+E2g	Positive_regulation:T8g Theme:T2g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.8434

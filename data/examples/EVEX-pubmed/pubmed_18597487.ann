@@ -1,0 +1,9 @@
+T1g	GGP 74 77	AmB
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 450 454	POPC
+NT2g0	Reference T2g ENSGF:110006	POPC
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	Binding 78 85	binding
+E1g	Binding:T3g Theme:T1g
+AE1gconf	Confidence E1g high
+#E1gconf	Confidence E1g	4.3376

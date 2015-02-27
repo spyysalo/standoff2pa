@@ -1,0 +1,156 @@
+T1g	GGP 36 58	progesterone receptors
+NT1g0	Reference T1g ENSGF:194467	PR
+NT1g1	Reference T1g HG:713	PR
+NT1g2	Reference T1g EG:5241	progesterone receptor
+NT1g3	Reference T1g ENSF:755	PR
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 223 241	oestrogen receptor
+NT2g0	Reference T2g ENSGF:194467	PR
+NT2g1	Reference T2g HG:713	PR
+NT2g2	Reference T2g EG:5241	progesterone receptor
+NT2g3	Reference T2g ENSF:755	PR
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 243 245	ER
+NT3g0	Reference T3g ENSGF:151454	ER
+NT3g1	Reference T3g HG:47906	ER
+NT3g3	Reference T3g ENSF:439	ER
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 249 256	ERalpha
+NT4g0	Reference T4g ENSGF:151454	ER
+NT4g1	Reference T4g HG:47906	ER
+NT4g2	Reference T4g EG:2099	estrogen receptor
+NT4g3	Reference T4g ENSF:439	ER
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 262 283	progesterone receptor
+NT5g0	Reference T5g ENSGF:194467	PR
+NT5g1	Reference T5g HG:713	PR
+NT5g2	Reference T5g EG:5241	progesterone receptor
+NT5g3	Reference T5g ENSF:755	PR
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 285 287	PR
+NT6g0	Reference T6g ENSGF:194467	PR
+NT6g1	Reference T6g HG:713	PR
+NT6g3	Reference T6g ENSF:755	PR
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 364 366	ER
+NT7g0	Reference T7g ENSGF:151454	ER
+NT7g1	Reference T7g HG:47906	ER
+NT7g3	Reference T7g ENSF:439	ER
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 419 421	PR
+NT8g0	Reference T8g ENSGF:194467	PR
+NT8g1	Reference T8g HG:713	PR
+NT8g3	Reference T8g ENSF:755	PR
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 585 587	ER
+NT9g0	Reference T9g ENSGF:151454	ER
+NT9g1	Reference T9g HG:47906	ER
+NT9g3	Reference T9g ENSF:439	ER
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 673 675	PR
+NT10g0	Reference T10g ENSGF:194467	PR
+NT10g1	Reference T10g HG:713	PR
+NT10g3	Reference T10g ENSF:755	PR
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 833 835	ER
+NT11g0	Reference T11g ENSGF:151454	ER
+NT11g1	Reference T11g HG:47906	ER
+NT11g3	Reference T11g ENSF:439	ER
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 840 842	PR
+NT12g0	Reference T12g ENSGF:194467	PR
+NT12g1	Reference T12g HG:713	PR
+NT12g3	Reference T12g ENSF:755	PR
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 950 952	ER
+NT13g0	Reference T13g ENSGF:151454	ER
+NT13g1	Reference T13g HG:47906	ER
+NT13g3	Reference T13g ENSF:439	ER
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 972 984	cytosolic PR
+NT14g0	Reference T14g ENSGF:194467	PR
+NT14g1	Reference T14g HG:713	PR
+NT14g3	Reference T14g ENSF:755	PR
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T23g	Gene_expression 958 968	expression
+T22g	Gene_expression 843 859	immunoexpression
+T20g	Gene_expression 680 689	expressed
+T16g	Gene_expression 193 209	immunoexpression
+T21g	Positive_regulation 820 828	negative
+T17g	Gene_expression 433 441	detected
+T15g	Localization 0 18	Immunolocalization
+T19g	Gene_expression 375 384	expressed
+T18g	Gene_expression 491 500	expressed
+E10g	Gene_expression:T19g Theme:T7g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.4102
+E11g	Gene_expression:T20g Theme:T10g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	2.4958
+E12g	Positive_regulation:T21g Theme:T11g
+AE12gconf	Confidence E12g low
+#E12gconf	Confidence E12g	1.7786
+E13g	Positive_regulation:T21g Theme:T12g
+AE13gconf	Confidence E13g low
+#E13gconf	Confidence E13g	1.7786
+E14g	Positive_regulation:T21g Theme:E17g
+AE14gconf	Confidence E14g low
+#E14gconf	Confidence E14g	1.7164
+E15g	Positive_regulation:T21g Theme:E16g
+AE15gconf	Confidence E15g low
+#E15gconf	Confidence E15g	1.7164
+E16g	Gene_expression:T22g Theme:T11g
+AE16gconf	Confidence E16g medium
+#E16gconf	Confidence E16g	3.5273
+E17g	Gene_expression:T22g Theme:T12g
+AE17gconf	Confidence E17g medium
+#E17gconf	Confidence E17g	3.5273
+E1g	Localization:T15g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.9528
+E2g	Gene_expression:T23g Theme:T14g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.6417
+E3g	Gene_expression:T16g Theme:T5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.5547
+E4g	Gene_expression:T16g Theme:T4g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.7053
+E5g	Gene_expression:T16g Theme:T2g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.5547
+E6g	Gene_expression:T16g Theme:T3g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.7053
+E7g	Gene_expression:T16g Theme:T6g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.7053
+E8g	Gene_expression:T17g Theme:T8g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.4815
+E9g	Gene_expression:T18g Theme:T8g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.6471
+AE10gN	Negation E10g
+#E10gNconf	Confidence AE10gN	93.3758
+AE12gN	Negation E12g
+#E12gNconf	Confidence AE12gN	44.8053
+AE13gN	Negation E13g
+#E13gNconf	Confidence AE13gN	44.8053
+AE14gN	Negation E14g
+#E14gNconf	Confidence AE14gN	44.8053
+AE15gN	Negation E15g
+#E15gNconf	Confidence AE15gN	44.8053
+AE3gS	Speculation E3g
+#E3gSconf	Confidence AE3gS	68.0806
+AE4gS	Speculation E4g
+#E4gSconf	Confidence AE4gS	68.0806
+AE5gS	Speculation E5g
+#E5gSconf	Confidence AE5gS	68.0806
+AE6gS	Speculation E6g
+#E6gSconf	Confidence AE6gS	68.0806
+AE7gS	Speculation E7g
+#E7gSconf	Confidence AE7gS	68.0806
+AE8gN	Negation E8g
+#E8gNconf	Confidence AE8gN	64.8573

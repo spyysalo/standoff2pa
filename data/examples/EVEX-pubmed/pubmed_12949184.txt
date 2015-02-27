@@ -1,0 +1,9 @@
+Human microvascular endothelial cells resist Shiga toxins by IFN-gamma treatment in vitro.
+Shiga toxins (Stxs) produced by enterohaemorrhagic Escherichia coli or Shigella dysenteriae damage human endothelial cells predominantly in cooperation with pro-inflammatory cytokines, such as TNF-alpha.
+However, in this study, in vitro IFN-gamma pre-treatment resulted in human lung microvascular endothelial cells becoming over 10,000-fold less sensitive to Stxs.
+Interestingly, TNF-alpha addition to IFN-gamma reverted the Stx-resistant phenotype, which corresponded with its well-established enhancing effect on Stx toxicity.
+Toxin binding to the cell was barely affected by IFN-gamma.
+Also, the toxin uptake in the Stx-resistant phenotype was more than 100-fold greater than that of normal cells, when compared at Stx concentrations resulting in equivalent degrees of cell damage.
+Protein synthesis was inhibited by nearly 90% in the Stx-resistant phenotype after 24 h toxin exposure.
+This indicated that the intracellular toxin was active as an N-glycosidase, while cells were still over 60% viable, suggesting a possible unknown cytotoxic function of Stx.
+In conclusion, this study shows a unique effect of IFN-gamma in the suppression of the toxicity of Stxs in a human microvascular endothelial cell model and the involvement of a novel mechanism in this suppression.

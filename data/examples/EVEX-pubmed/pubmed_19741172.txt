@@ -1,0 +1,7 @@
+Activation of native TRPC3 cation channels by phospholipase D.
+In the mammalian nervous system, stimulation of G-protein-coupled type I glutamate receptors triggers various forms of neuronal plasticity, including cerebellar long-term depression and hippocampal long-term potentiation.
+Activation of these receptors in the cerebellum also leads to a slow excitatory postsynaptic current mediated by nonselective TRPC3 cation channels.
+How TRPC3 channels are opened is unknown, although it is widely thought that channel gating requires phospholipase C activation.
+Using the patch-clamp technique and immunohistochemistry in rat cerebellar slices, we show that metabotropic glutamate receptors activate TRPC3 channels through the small GTP-binding protein Rho and subsequent phospholipase D stimulation.
+TRPC3 channel gating is independent of phospholipase C activity.
+These results reveal a new mechanism for the gating of the ubiquitous TRPC3 channel and identify a key role for phospholipase D in the generation of the slow excitatory postsynaptic current in cerebellar Purkinje cells.

@@ -1,0 +1,52 @@
+T1g	GGP 142 153	translocase
+NT1g0	Reference T1g ENSGF:34480	SecA
+NT1g4	Reference T1g NCBITaxon:782	Rickettsia prowazekii
+T2g	GGP 242 245	lac
+NT2g0	Reference T2g ENSGF:254816	Lac
+NT2g1	Reference T2g HG:80461	Lac
+NT2g3	Reference T2g ENSF:13372	Lac
+NT2g4	Reference T2g NCBITaxon:562	Escherichia coli
+T3g	GGP 340 343	Tn5
+NT3g4	Reference T3g NCBITaxon:562	Escherichia coli
+T4g	GGP 357 366	Tnpholac1
+NT4g4	Reference T4g NCBITaxon:562	Escherichia coli
+T5g	GGP 371 380	Tnpholac2
+NT5g4	Reference T5g NCBITaxon:562	Escherichia coli
+T6g	GGP 494 497	Cre
+NT6g1	Reference T6g HG:41481	Cre
+NT6g3	Reference T6g ENSF:9303	Cre
+NT6g4	Reference T6g NCBITaxon:562	Escherichia coli
+T7g	GGP 498 501	lox
+NT7g0	Reference T7g ENSGF:50705	lox
+NT7g1	Reference T7g HG:1741	lox
+NT7g3	Reference T7g ENSF:3071	lox
+NT7g4	Reference T7g NCBITaxon:562	Escherichia coli
+T8g	GGP 661 702	Rickettsia prowazekii ATP/ADP translocase
+NT8g3	Reference T8g ENSF:27725	ATP/ADP translocase
+NT8g4	Reference T8g NCBITaxon:782	Rickettsia prowazekii
+T9g	GGP 704 707	Tlc
+NT9g0	Reference T9g ENSGF:286065	TLC1
+NT9g1	Reference T9g HG:48099	Tlc
+NT9g3	Reference T9g ENSF:2860	SFRP1
+NT9g4	Reference T9g NCBITaxon:782	Rickettsia prowazekii
+T15r	Entity 760 767	domains
+T10g	GGP 771 774	Tlc
+NT10g0	Reference T10g ENSGF:286065	TLC1
+NT10g1	Reference T10g HG:48099	Tlc
+NT10g3	Reference T10g ENSF:2860	SFRP1
+NT10g4	Reference T10g NCBITaxon:562	Escherichia coli
+T11g	GGP 894 918	E. coli lactose permease
+NT11g1	Reference T11g HG:67012	lactose permease
+NT11g3	Reference T11g ENSF:427	lactose permease
+NT11g4	Reference T11g NCBITaxon:562	Escherichia coli
+T12g	GGP 920 924	LacY
+NT12g0	Reference T12g ENSGF:316205	LacY
+NT12g4	Reference T12g NCBITaxon:562	Escherichia coli
+T13g	GGP 1180 1184	LacY
+NT13g0	Reference T13g ENSGF:316205	LacY
+NT13g4	Reference T13g NCBITaxon:562	Escherichia coli
+T14g	GGP 1312 1315	Tn5
+NT14g4	Reference T14g NCBITaxon:562	Escherichia coli
+R1r	Protein-Component Arg1:T10g Arg2:T15r
+AR1rconf	Confidence R1r medium
+#R1rconf	Confidence R1r	3.3348

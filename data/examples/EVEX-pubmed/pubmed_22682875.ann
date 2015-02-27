@@ -1,0 +1,10 @@
+T1g	GGP 41 51	plasma CoQ
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 155 162	CoQ(10)
+NT2g0	Reference T2g ENSGF:324253	CoQ10
+NT2g1	Reference T2g HG:40224	CoQ10
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 345 352	CoQ(10)
+NT3g0	Reference T3g ENSGF:324253	CoQ10
+NT3g1	Reference T3g HG:40224	CoQ10
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens

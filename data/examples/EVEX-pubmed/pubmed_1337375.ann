@@ -1,0 +1,56 @@
+T1g	GGP 95 105	bradykinin
+NT1g0	Reference T1g ENSGF:249975	bradykinin
+NT1g1	Reference T1g HG:88343	bradykinin
+NT1g3	Reference T1g ENSF:10687	bradykinin
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 118 128	Bradykinin
+NT2g0	Reference T2g ENSGF:249975	bradykinin
+NT2g1	Reference T2g HG:88343	bradykinin
+NT2g3	Reference T2g ENSF:10687	bradykinin
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 130 132	BK
+NT3g0	Reference T3g ENSGF:71229	Bk
+NT3g1	Reference T3g HG:9553	BK
+NT3g3	Reference T3g ENSF:11559	BK
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 368 370	BK
+NT4g0	Reference T4g ENSGF:71229	Bk
+NT4g1	Reference T4g HG:9553	BK
+NT4g3	Reference T4g ENSF:11559	BK
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 457 469	neurokinin A
+NT5g0	Reference T5g ENSGF:305332	neurokinin A
+NT5g1	Reference T5g HG:2394	TAC
+NT5g3	Reference T5g ENSF:12024	TAC
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 471 474	NKA
+NT6g2	Reference T6g EG:326405	NKA
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 574 577	IGP
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 667 680	BK2 receptors
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 923 925	BK
+NT9g0	Reference T9g ENSGF:71229	Bk
+NT9g1	Reference T9g HG:9553	BK
+NT9g3	Reference T9g ENSF:11559	BK
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 987 989	BK
+NT10g0	Reference T10g ENSGF:71229	Bk
+NT10g1	Reference T10g HG:9553	BK
+NT10g3	Reference T10g ENSF:11559	BK
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	GGP 1045 1048	IGP
+NT11g4	Reference T11g NCBITaxon:10116	Rattus norvegicus
+T14g	Negative_regulation 1053 1062	abolished
+T12g	Negative_regulation 657 663	effect
+T13g	Negative_regulation 927 936	inhibited
+E1g	Negative_regulation:T12g Theme:T8g
+AE1gconf	Confidence E1g low
+#E1gconf	Confidence E1g	1.8032
+E2g	Negative_regulation:T13g Theme:T9g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.1220
+E3g	Negative_regulation:T14g Theme:T10g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.3959

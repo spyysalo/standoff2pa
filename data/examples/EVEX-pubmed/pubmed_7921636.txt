@@ -1,0 +1,6 @@
+After collagenase digestion of the pancreas, islet isolation is traditionally performed under hypothermic conditions in physiological solutions such as Hanks and RPMI.
+Loss of amylase (30%) and swelling of the acinar cells were observed in RPMI.
+In contrast, no loss of amylase and slight shrinkage of the acinar cells were observed in the UWS.
+Islets isolated in UWS demonstrated a superior basal and glucose stimulated insulin release during perifusion.
+Electron microscopy demonstrated a well-preserved islet ultrastructure after isolation in both solutions--except for slightly swollen mitochondria after isolation in RPMI.
+Autotransplantation of islets in pancreatectomised dogs was successful both after isolation in UWS and RPMI.

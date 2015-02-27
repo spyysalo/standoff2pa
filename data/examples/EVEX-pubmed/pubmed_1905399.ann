@@ -1,0 +1,55 @@
+T1g	GGP 28 51	immunoglobulin VH genes
+NT1g2	Reference T1g EG:373730	immunoglobulin VH genes
+NT1g4	Reference T1g NCBITaxon:8355	Xenopus laevis
+T2g	GGP 150 207	Xenopus laevis immunoglobulin heavy chain variable region
+NT2g4	Reference T2g NCBITaxon:8355	Xenopus laevis
+T3g	GGP 209 211	VH
+NT3g0	Reference T3g ENSGF:309375	VH
+NT3g1	Reference T3g HG:20883	VH
+NT3g3	Reference T3g ENSF:1942	Vitellogenin
+NT3g4	Reference T3g NCBITaxon:8355	Xenopus laevis
+T4g	GGP 265 274	VH family
+NT4g0	Reference T4g ENSGF:309375	VH
+NT4g1	Reference T4g HG:20883	VH
+NT4g3	Reference T4g ENSF:1942	Vitellogenin
+NT4g4	Reference T4g NCBITaxon:8355	Xenopus laevis
+T5g	GGP 318 334	Xenopus VHI-VHXI
+NT5g4	Reference T5g NCBITaxon:8355	Xenopus laevis
+T6g	GGP 389 394	VHIII
+NT6g4	Reference T6g NCBITaxon:8355	Xenopus laevis
+T7g	GGP 399 404	VHVII
+NT7g4	Reference T7g NCBITaxon:8355	Xenopus laevis
+T8g	GGP 406 422	Xenopus VH genes
+NT8g0	Reference T8g ENSGF:309375	VH
+NT8g1	Reference T8g HG:20883	VH
+NT8g3	Reference T8g ENSF:1942	Vitellogenin
+NT8g4	Reference T8g NCBITaxon:8355	Xenopus laevis
+T9g	GGP 563 582	vertebrate VH genes
+NT9g0	Reference T9g ENSGF:309375	VH
+NT9g1	Reference T9g HG:20883	VH
+NT9g3	Reference T9g ENSF:1942	Vitellogenin
+NT9g4	Reference T9g NCBITaxon:8355	Xenopus laevis
+T10g	GGP 592 611	Xenopus VH families
+NT10g0	Reference T10g ENSGF:309375	VH
+NT10g1	Reference T10g HG:20883	VH
+NT10g3	Reference T10g ENSF:1942	Vitellogenin
+NT10g4	Reference T10g NCBITaxon:8355	Xenopus laevis
+T11g	GGP 742 750	VH genes
+NT11g0	Reference T11g ENSGF:309375	VH
+NT11g1	Reference T11g HG:20883	VH
+NT11g3	Reference T11g ENSF:1942	Vitellogenin
+NT11g4	Reference T11g NCBITaxon:8355	Xenopus laevis
+T12g	Gene_expression 423 429	appear
+T13g	Binding 616 626	associated
+E1g	Gene_expression:T12g Theme:T6g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.6012
+E2g	Gene_expression:T12g Theme:T7g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.6012
+E3g	Gene_expression:T12g Theme:T8g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.3328
+E4g	Binding:T13g Theme:T10g
+AE4gconf	Confidence E4g high
+#E4gconf	Confidence E4g	4.1402

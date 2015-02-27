@@ -1,0 +1,4 @@
+Radiolabeled alpha-bungarotoxin derivatives: kinetic interaction with nicotinic acetylcholine receptors.
+The binding interactions of purified tritiated [3H]-alpha-Bgt and monoiodinated and diiodinated derivatives of alpha-bungarotoxin with membrane-bound nicotinic acetylcholine receptors (nAChR) from Torpedo californica electroplax and rat brain have been characterized by several kinetic and equilibrium techniques.
+By all criteria, [3H]-alpha-Bgt and 125I-labeled monoiodinated alpha-Bgt ([125I]-alpha-Bgt) exhibited comparable specificities and affinities for nAChR.
+[125I]-alpha-Bgt and [125I2]-alpha-Bgt binding was inhibited most potently by native alpha-Bgt as opposed to iodinated toxins.

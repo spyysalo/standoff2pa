@@ -1,0 +1,14 @@
+Angiotensin blockade inhibits activation of mitogen-activated protein kinases in rat balloon-injured artery.
+In vitro studies show that extracellular signal-regulated kinases (ERKs) and c-Jun NH2-terminal kinases (JNKs), belonging to the mitogen-activated protein kinase (MAPK) family, play a critical role in the activation of transcription factor activator protein-1 (AP-1) and cell proliferation or apoptosis.
+However, the activation and role of MAPKs in vascular diseases in vivo remain to be determined.
+Therefore, we examined the effect of balloon injury on arterial MAPKs and the possible role of angiotensin II.
+METHODS AND RESULTS: Arterial JNK and ERK activities were measured by in-gel kinase assay.
+AP-1 DNA binding activity was determined by gel mobility shift analysis.
+After balloon injury of rat carotid artery, JNK (p46JNK and p55JNK) and ERK (p44ERK and p42ERK) activities were increased as early as 2 minutes, reached their peak (6- to 18-fold) at 5 minutes, and thereafter rapidly declined to control levels.
+JNK and ERK activations were followed by a 3.9-fold increase in arterial AP-1 DNA binding activity, which contained c-Jun and c-Fos proteins.
+Arterial JNK activation at 2 or 5 minutes was remarkably suppressed by E4177 (an angiotensin AT1 receptor antagonist) and cilazapril (an ACE inhibitor).
+E4177 also prevented activation of ERKs by suppressing their tyrosine phosphorylation, whereas cilazapril failed to prevent such activation.
+The increased AP-1 DNA binding activity was significantly inhibited by both E4177 and cilazapril.
+CONCLUSIONS: Arterial JNKs and ERKs are dramatically activated by balloon injury associated with the activation of the AP-1 complex.
+These MAPK activations, followed by AP-1 activation, are mediated at least in part by the AT1 receptor.
+Thus, activation of JNKs and ERKs may be responsible for balloon injury-induced neointima formation.

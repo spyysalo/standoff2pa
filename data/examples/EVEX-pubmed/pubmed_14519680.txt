@@ -1,0 +1,9 @@
+Molecular analysis of Tn1546-like elements mediating high-level vancomycin resistance in Enterococcus gallinarum.
+METHODS: Extensive molecular analysis was performed to compare the four E. gallinarum isolates and their Tn1546-like elements.
+Genotypic analysis demonstrated that all carried both vanC-1 and vanA genes.
+Using a vanA probe, no hybridization was detected to plasmid DNA, whereas hybridization to different SmaI fragments of the four strains was obtained with total DNA.
+Amplification and sequencing experiments showed that all four strains carried a Tn1546-like element that contained the orf2, vanR, vanS, vanH, vanA and vanX genes and was flanked at both ends by oppositely oriented IS1216V sequences.
+On the left side of the vanA cluster, all lacked IRL, and all had, upstream from orf2, 1029 bp of the 3' end of orf1.
+On the right side, one of the strains lacked vanY, vanZ and IRR, whereas in one of the other three there was an IS1542 element inserted within the vanZ gene.
+In one strain, an additional IS1216V element was inserted in the intergenic region vanX-vanY.
+CONCLUSIONS: This is the first study providing a molecular analysis of chromosomal Tn1546-like elements (possibly composite transposons) associated with high-level vancomycin resistance in human and animal strains of E. gallinarum.

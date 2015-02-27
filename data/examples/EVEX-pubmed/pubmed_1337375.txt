@@ -1,0 +1,7 @@
+Reflex gastric motor inhibition caused by intraperitoneal bradykinin: antagonism by Hoe 140, a bradykinin antagonist.
+Bradykinin (BK) has been reported to have mixed excitatory/inhibitory effects on gastrointestinal motility.
+The present study examined the mechanism responsible for the inhibition of gastric motor activity caused by intraperitoneal administration of BK.
+To facilitate the study of inhibitory influences, gastric motility was stimulated by neurokinin A (NKA), which on intravenous injection evoked reproducible gastric contractions as measured by a rise of IGP.
+The inhibitory effect of intraperitoneal BK on gastric motility was due to an effect on BK2 receptors because it was blocked by prior intraperitoneal injection of the BK2 antagonist Hoe 140.
+The specificity of this BK antagonist was demonstrated by its inability to antagonize the effect of intraperitoneal hydrochloric acid (HCl), which, like BK, inhibited the NKA-induced gastric contractions.
+Because the BK- and HCl-induced inhibition of the NKA-induced rise of IGP was abolished by acute removal of the celiac-superior mesenteric ganglion complex, but left unaltered by acute bilateral subdiaphragmatic vagotomy, it is inferred that intraperitoneal BK inhibits gastric motor activity via activation of an autonomic reflex that involves prevertebral ganglia.

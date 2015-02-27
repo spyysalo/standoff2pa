@@ -1,0 +1,34 @@
+T1g	GGP 96 105	cytolysin
+NT1g1	Reference T1g HG:3698	P1
+NT1g2	Reference T1g EG:50669	cytolysin
+NT1g3	Reference T1g ENSF:4630	perforin
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 107 115	perforin
+NT2g1	Reference T2g HG:3698	P1
+NT2g2	Reference T2g EG:50669	cytolysin
+NT2g3	Reference T2g ENSF:4630	perforin
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 152 176	cytolysin and granzyme A
+NT3g0	Reference T3g ENSGF:280190	HF
+NT3g1	Reference T3g HG:21237	granzyme A
+NT3g2	Reference T3g EG:266708	granzyme A
+NT3g3	Reference T3g ENSF:3789	granzyme A
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 178 188	RBL-cy-gza
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 277 287	RBL-cy-gza
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 292 295	RBL
+NT6g1	Reference T6g HG:99152	RBL
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 341 351	RBL-cy-gza
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 516 539	macromolecular protease
+NT8g0	Reference T8g ENSGF:229556	collagenase
+NT8g1	Reference T8g HG:119436	HIV-1 protease
+NT8g3	Reference T8g ENSF:5629	HIV-1 protease
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	Negative_regulation 540 549	inhibitor
+E1g	Negative_regulation:T9g Theme:T8g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.8685

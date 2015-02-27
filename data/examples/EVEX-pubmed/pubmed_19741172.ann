@@ -1,0 +1,90 @@
+T1g	GGP 21 42	TRPC3 cation channels
+NT1g0	Reference T1g ENSGF:302109	TRPC3
+NT1g1	Reference T1g HG:20708	TRPC3
+NT1g2	Reference T1g EG:7222	TRPC3
+NT1g3	Reference T1g ENSF:729	TRPC6
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 46 61	phospholipase D
+NT2g0	Reference T2g ENSGF:61716	Phospholipase D
+NT2g1	Reference T2g HG:111231	Phospholipase D
+NT2g3	Reference T2g ENSF:1066	PLD
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 111 155	G-protein-coupled type I glutamate receptors
+NT3g0	Reference T3g ENSGF:189418	G protein
+NT3g1	Reference T3g HG:8260	G protein
+NT3g3	Reference T3g ENSF:6967	G protein
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 411 416	TRPC3
+NT4g0	Reference T4g ENSGF:302109	TRPC3
+NT4g1	Reference T4g HG:20708	TRPC3
+NT4g2	Reference T4g EG:7222	TRPC3
+NT4g3	Reference T4g ENSF:729	TRPC6
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 438 443	TRPC3
+NT5g0	Reference T5g ENSGF:302109	TRPC3
+NT5g1	Reference T5g HG:20708	TRPC3
+NT5g2	Reference T5g EG:7222	TRPC3
+NT5g3	Reference T5g ENSF:729	TRPC6
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 535 550	phospholipase C
+NT6g0	Reference T6g ENSGF:198248	phospholipase C
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 672 691	glutamate receptors
+NT7g0	Reference T7g ENSGF:37688	glutamate receptor
+NT7g1	Reference T7g HG:20227	glutamate receptor
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 701 706	TRPC3
+NT8g1	Reference T8g HG:20708	TRPC3
+NT8g2	Reference T8g EG:60395	TRPC3
+NT8g3	Reference T8g ENSF:729	TRPC6
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 728 757	small GTP-binding protein Rho
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 762 788	subsequent phospholipase D
+NT10g0	Reference T10g ENSGF:61716	Phospholipase D
+NT10g1	Reference T10g HG:111231	Phospholipase D
+NT10g3	Reference T10g ENSF:1066	PLD
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	GGP 802 807	TRPC3
+NT11g0	Reference T11g ENSGF:302109	TRPC3
+NT11g1	Reference T11g HG:20708	TRPC3
+NT11g2	Reference T11g EG:7222	TRPC3
+NT11g3	Reference T11g ENSF:729	TRPC6
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 841 856	phospholipase C
+NT12g0	Reference T12g ENSGF:198248	phospholipase C
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 937 950	TRPC3 channel
+NT13g0	Reference T13g ENSGF:302109	TRPC3
+NT13g1	Reference T13g HG:20708	TRPC3
+NT13g2	Reference T13g EG:7222	TRPC3
+NT13g3	Reference T13g ENSF:729	TRPC6
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 979 994	phospholipase D
+NT14g0	Reference T14g ENSGF:61716	Phospholipase D
+NT14g1	Reference T14g HG:111231	Phospholipase D
+NT14g3	Reference T14g ENSF:1066	PLD
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T16g	Positive_regulation 551 561	activation
+T19g	Positive_regulation 970 974	role
+T17g	Positive_regulation 526 534	requires
+T15g	Positive_regulation 0 10	Activation
+T18g	Positive_regulation 692 700	activate
+E1g	Positive_regulation:T15g Cause:T2g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.8718
+E2g	Positive_regulation:T17g Theme:E3g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.4723
+E3g	Positive_regulation:T16g Theme:T6g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.6798
+E4g	Positive_regulation:T18g Cause:T7g Theme:T8g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.3581
+E5g	Positive_regulation:T18g Theme:T9g Cause:T7g
+AE5gconf	Confidence E5g low
+#E5gconf	Confidence E5g	1.8455
+E6g	Positive_regulation:T19g Theme:T14g
+AE6gconf	Confidence E6g low
+#E6gconf	Confidence E6g	1.9061

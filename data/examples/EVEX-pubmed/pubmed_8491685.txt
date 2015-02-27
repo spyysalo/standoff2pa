@@ -1,0 +1,2 @@
+METHODS AND MATERIALS: We injected radiolabeled 16 alpha-iodo,17 beta-estradiol ([I]-E), an estrogen receptor ligand, into the femoral artery of swine in a solution that contained [125I]-E in a known ratio to [99mTc]-labeled red blood cells.
+CONCLUSION: A large fraction of [I]-E escapes from the vascular system during the first pass through an organ or limb, without regard to the estrogen receptor content of the tissue.

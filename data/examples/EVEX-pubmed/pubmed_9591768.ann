@@ -1,0 +1,276 @@
+T1g	GGP 0 11	Angiotensin
+NT1g0	Reference T1g ENSGF:251429	angiotensin
+NT1g1	Reference T1g HG:84871	angiotensin
+NT1g2	Reference T1g EG:81638	angiotensin
+NT1g3	Reference T1g ENSF:5090	angiotensin II
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 44 77	mitogen-activated protein kinases
+NT2g1	Reference T2g HG:56760	JNK
+NT2g2	Reference T2g EG:116554	JNK
+NT2g3	Reference T2g ENSF:1182	JNK
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 136 174	extracellular signal-regulated kinases
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 176 180	ERKs
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 186 212	c-Jun NH2-terminal kinases
+NT5g1	Reference T5g HG:56760	JNK
+NT5g2	Reference T5g EG:116554	JNK
+NT5g3	Reference T5g ENSF:1182	JNK
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 214 218	JNKs
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 238 270	mitogen-activated protein kinase
+NT7g0	Reference T7g ENSGF:318122	ERK
+NT7g1	Reference T7g HG:20936	ERK
+NT7g2	Reference T7g EG:24338	ERK
+NT7g3	Reference T7g ENSF:615	ERK
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 272 276	MAPK
+NT8g0	Reference T8g ENSGF:330663	MAPK
+NT8g1	Reference T8g HG:3254	MAPK
+NT8g2	Reference T8g EG:114856	MAPK
+NT8g3	Reference T8g ENSF:2249	MAPK
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 328 368	transcription factor activator protein-1
+NT9g0	Reference T9g ENSGF:91534	c-jun
+NT9g1	Reference T9g HG:1679	c-jun
+NT9g3	Reference T9g ENSF:2769	AP-1
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 370 374	AP-1
+NT10g0	Reference T10g ENSGF:91534	c-jun
+NT10g1	Reference T10g HG:1679	c-jun
+NT10g2	Reference T10g EG:24516	AP-1
+NT10g3	Reference T10g ENSF:2769	AP-1
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	GGP 449 454	MAPKs
+NT11g4	Reference T11g NCBITaxon:10116	Rattus norvegicus
+T12g	GGP 604 618	angiotensin II
+NT12g0	Reference T12g ENSGF:275672	angiotensin II
+NT12g1	Reference T12g HG:20172	angiotensin II
+NT12g2	Reference T12g EG:24182	angiotensin II
+NT12g3	Reference T12g ENSF:5090	angiotensin II
+NT12g4	Reference T12g NCBITaxon:10116	Rattus norvegicus
+T13g	GGP 650 653	JNK
+NT13g1	Reference T13g HG:56760	JNK
+NT13g2	Reference T13g EG:116554	JNK
+NT13g3	Reference T13g ENSF:1182	JNK
+NT13g4	Reference T13g NCBITaxon:10116	Rattus norvegicus
+T14g	GGP 658 661	ERK
+NT14g0	Reference T14g ENSGF:318122	ERK
+NT14g1	Reference T14g HG:20936	ERK
+NT14g2	Reference T14g EG:24338	ERK
+NT14g3	Reference T14g ENSF:615	ERK
+NT14g4	Reference T14g NCBITaxon:10116	Rattus norvegicus
+T15g	GGP 711 715	AP-1
+NT15g0	Reference T15g ENSGF:91534	c-jun
+NT15g1	Reference T15g HG:1679	c-jun
+NT15g2	Reference T15g EG:24516	AP-1
+NT15g3	Reference T15g ENSF:2769	AP-1
+NT15g4	Reference T15g NCBITaxon:10116	Rattus norvegicus
+T16g	GGP 828 831	JNK
+NT16g1	Reference T16g HG:56760	JNK
+NT16g2	Reference T16g EG:116554	JNK
+NT16g3	Reference T16g ENSF:1182	JNK
+NT16g4	Reference T16g NCBITaxon:10116	Rattus norvegicus
+T17g	GGP 833 839	p46JNK
+NT17g4	Reference T17g NCBITaxon:10116	Rattus norvegicus
+T18g	GGP 844 850	p55JNK
+NT18g4	Reference T18g NCBITaxon:10116	Rattus norvegicus
+T19g	GGP 856 859	ERK
+NT19g0	Reference T19g ENSGF:318122	ERK
+NT19g1	Reference T19g HG:20936	ERK
+NT19g2	Reference T19g EG:24338	ERK
+NT19g3	Reference T19g ENSF:615	ERK
+NT19g4	Reference T19g NCBITaxon:10116	Rattus norvegicus
+T20g	GGP 861 867	p44ERK
+NT20g4	Reference T20g NCBITaxon:10116	Rattus norvegicus
+T21g	GGP 872 878	p42ERK
+NT21g4	Reference T21g NCBITaxon:10116	Rattus norvegicus
+T22g	GGP 1029 1032	JNK
+NT22g1	Reference T22g HG:56760	JNK
+NT22g2	Reference T22g EG:116554	JNK
+NT22g3	Reference T22g ENSF:1182	JNK
+NT22g4	Reference T22g NCBITaxon:10116	Rattus norvegicus
+T23g	GGP 1037 1040	ERK
+NT23g0	Reference T23g ENSGF:318122	ERK
+NT23g1	Reference T23g HG:20936	ERK
+NT23g2	Reference T23g EG:24338	ERK
+NT23g3	Reference T23g ENSF:615	ERK
+NT23g4	Reference T23g NCBITaxon:10116	Rattus norvegicus
+T24g	GGP 1102 1106	AP-1
+NT24g0	Reference T24g ENSGF:91534	c-jun
+NT24g1	Reference T24g HG:1679	c-jun
+NT24g2	Reference T24g EG:24516	AP-1
+NT24g3	Reference T24g ENSF:2769	AP-1
+NT24g4	Reference T24g NCBITaxon:10116	Rattus norvegicus
+T25g	GGP 1145 1150	c-Jun
+NT25g0	Reference T25g ENSGF:91534	c-jun
+NT25g1	Reference T25g HG:1679	c-jun
+NT25g3	Reference T25g ENSF:2769	AP-1
+NT25g4	Reference T25g NCBITaxon:10116	Rattus norvegicus
+T26g	GGP 1155 1169	c-Fos proteins
+NT26g0	Reference T26g ENSGF:27794	c-fos
+NT26g1	Reference T26g HG:3844	c-fos
+NT26g3	Reference T26g ENSF:5397	c-fos
+NT26g4	Reference T26g NCBITaxon:10116	Rattus norvegicus
+T27g	GGP 1180 1183	JNK
+NT27g1	Reference T27g HG:56760	JNK
+NT27g2	Reference T27g EG:116554	JNK
+NT27g3	Reference T27g ENSF:1182	JNK
+NT27g4	Reference T27g NCBITaxon:10116	Rattus norvegicus
+T28g	GGP 1252 1276	angiotensin AT1 receptor
+NT28g0	Reference T28g ENSGF:46836	Angiotensin II
+NT28g1	Reference T28g HG:14	ANG II
+NT28g2	Reference T28g EG:24179	ANG II
+NT28g3	Reference T28g ENSF:10228	ANG II
+NT28g4	Reference T28g NCBITaxon:10116	Rattus norvegicus
+T29g	GGP 1308 1311	ACE
+NT29g0	Reference T29g ENSGF:149353	ACE
+NT29g1	Reference T29g HG:37351	ACE
+NT29g2	Reference T29g EG:24310	ACE
+NT29g3	Reference T29g ENSF:640	ACE
+NT29g4	Reference T29g NCBITaxon:10116	Rattus norvegicus
+T30g	GGP 1324 1329	E4177
+NT30g4	Reference T30g NCBITaxon:10116	Rattus norvegicus
+T31g	GGP 1359 1363	ERKs
+NT31g4	Reference T31g NCBITaxon:10116	Rattus norvegicus
+T32g	GGP 1479 1483	AP-1
+NT32g0	Reference T32g ENSGF:91534	c-jun
+NT32g1	Reference T32g HG:1679	c-jun
+NT32g2	Reference T32g EG:24516	AP-1
+NT32g3	Reference T32g ENSF:2769	AP-1
+NT32g4	Reference T32g NCBITaxon:10116	Rattus norvegicus
+T33g	GGP 1585 1589	JNKs
+NT33g4	Reference T33g NCBITaxon:10116	Rattus norvegicus
+T34g	GGP 1594 1598	ERKs
+NT34g4	Reference T34g NCBITaxon:10116	Rattus norvegicus
+T35g	GGP 1682 1694	AP-1 complex
+NT35g0	Reference T35g ENSGF:91534	c-jun
+NT35g1	Reference T35g HG:1679	c-jun
+NT35g3	Reference T35g ENSF:2769	AP-1
+NT35g4	Reference T35g NCBITaxon:10116	Rattus norvegicus
+T36g	GGP 1702 1706	MAPK
+NT36g0	Reference T36g ENSGF:330663	MAPK
+NT36g1	Reference T36g HG:3254	MAPK
+NT36g2	Reference T36g EG:114856	MAPK
+NT36g3	Reference T36g ENSF:2249	MAPK
+NT36g4	Reference T36g NCBITaxon:10116	Rattus norvegicus
+T37g	GGP 1732 1736	AP-1
+NT37g0	Reference T37g ENSGF:91534	c-jun
+NT37g1	Reference T37g HG:1679	c-jun
+NT37g2	Reference T37g EG:24516	AP-1
+NT37g3	Reference T37g ENSF:2769	AP-1
+NT37g4	Reference T37g NCBITaxon:10116	Rattus norvegicus
+T38g	GGP 1786 1798	AT1 receptor
+NT38g0	Reference T38g ENSGF:251429	angiotensin
+NT38g1	Reference T38g HG:84871	angiotensin
+NT38g2	Reference T38g EG:81638	angiotensin
+NT38g3	Reference T38g ENSF:5090	angiotensin II
+NT38g4	Reference T38g NCBITaxon:10116	Rattus norvegicus
+T39g	GGP 1820 1824	JNKs
+NT39g4	Reference T39g NCBITaxon:10116	Rattus norvegicus
+T40g	GGP 1829 1833	ERKs
+NT40g4	Reference T40g NCBITaxon:10116	Rattus norvegicus
+T49g	Positive_regulation 1345 1355	activation
+T43g	Negative_regulation 1001 1009	declined
+T48g	Negative_regulation 1335 1344	prevented
+T45g	Positive_regulation 1081 1089	increase
+T44g	Positive_regulation 896 905	increased
+T46g	Positive_regulation 1041 1052	activations
+T50g	Positive_regulation 1469 1478	increased
+T47g	Negative_regulation 1228 1238	suppressed
+T51g	Positive_regulation 1664 1674	activation
+T52g	Positive_regulation 1707 1718	activations
+T54g	Positive_regulation 1806 1816	activation
+T41g	Positive_regulation 30 40	activation
+T41e	Phosphorylation 1394 1409	phosphorylation
+T53g	Positive_regulation 1737 1747	activation
+T42g	Positive_regulation 314 324	activation
+E10g	Positive_regulation:T54g Theme:T40g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.4541
+E11g	Positive_regulation:T42g Theme:T9g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	3.9832
+E12g	Positive_regulation:T42g Theme:T10g
+AE12gconf	Confidence E12g high
+#E12gconf	Confidence E12g	4.0658
+E13g	Positive_regulation:T44g Theme:T16g
+AE13gconf	Confidence E13g high
+#E13gconf	Confidence E13g	4.3472
+E14g	Positive_regulation:T44g Theme:T17g
+AE14gconf	Confidence E14g very-high
+#E14gconf	Confidence E14g	5.1949
+E15g	Positive_regulation:T44g Theme:T18g
+AE15gconf	Confidence E15g very-high
+#E15gconf	Confidence E15g	5.1949
+E16g	Positive_regulation:T44g Theme:T21g
+AE16gconf	Confidence E16g very-high
+#E16gconf	Confidence E16g	5.1949
+E17g	Positive_regulation:T44g Theme:T19g
+AE17gconf	Confidence E17g high
+#E17gconf	Confidence E17g	4.3542
+E18g	Positive_regulation:T44g Theme:T20g
+AE18gconf	Confidence E18g very-high
+#E18gconf	Confidence E18g	5.1949
+E19g	Negative_regulation:T43g Theme:T16g
+AE19gconf	Confidence E19g low
+#E19gconf	Confidence E19g	1.6019
+E1e	Phosphorylation:T41e Theme:T31g
+AE1econf	Confidence E1e medium
+#E1econf	Confidence E1e	2.9743
+E1g	Positive_regulation:T41g Theme:T2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.9205
+E20g	Negative_regulation:T43g Theme:T17g
+AE20gconf	Confidence E20g low
+#E20gconf	Confidence E20g	1.6019
+E21g	Negative_regulation:T43g Theme:T18g
+AE21gconf	Confidence E21g low
+#E21gconf	Confidence E21g	1.6019
+E22g	Negative_regulation:T43g Theme:T21g
+AE22gconf	Confidence E22g low
+#E22gconf	Confidence E22g	1.6019
+E23g	Negative_regulation:T43g Theme:T19g
+AE23gconf	Confidence E23g low
+#E23gconf	Confidence E23g	1.6019
+E24g	Negative_regulation:T43g Theme:T20g
+AE24gconf	Confidence E24g low
+#E24gconf	Confidence E24g	1.6019
+E25g	Positive_regulation:T45g Theme:T24g
+AE25gconf	Confidence E25g medium
+#E25gconf	Confidence E25g	3.6003
+E26g	Positive_regulation:T46g Theme:T22g
+AE26gconf	Confidence E26g medium
+#E26gconf	Confidence E26g	3.2442
+E27g	Positive_regulation:T46g Theme:T23g
+AE27gconf	Confidence E27g medium
+#E27gconf	Confidence E27g	3.2442
+E28g	Negative_regulation:T47g Theme:T27g
+AE28gconf	Confidence E28g medium
+#E28gconf	Confidence E28g	2.9711
+E2g	Negative_regulation:T48g Theme:E3g Cause:T30g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.2269
+E3g	Positive_regulation:T49g Theme:T31g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.9138
+E4g	Positive_regulation:T50g Theme:T32g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.0877
+E5g	Positive_regulation:T51g Theme:T35g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.6225
+E6g	Positive_regulation:T52g Theme:T36g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.5155
+E7g	Positive_regulation:T52g Theme:E8g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	2.0116
+E8g	Positive_regulation:T53g Theme:T37g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.0983
+E9g	Positive_regulation:T54g Theme:T39g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.4541

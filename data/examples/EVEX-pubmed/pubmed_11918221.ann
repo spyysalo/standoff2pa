@@ -1,0 +1,99 @@
+T1g	GGP 0 65	Proteolysis involving matrix metalloproteinase 13 (collagenase-3)
+NT1g0	Reference T1g ENSGF:288153	MMP-13
+NT1g1	Reference T1g HG:20548	MMP-13
+NT1g2	Reference T1g EG:281914	MMP-13
+NT1g3	Reference T1g ENSF:429	collagenase
+NT1g4	Reference T1g NCBITaxon:9913	Bos taurus
+T2g	GGP 157 169	Collagenases
+NT2g4	Reference T2g NCBITaxon:9913	Bos taurus
+T3g	GGP 254 269	type X collagen
+NT3g4	Reference T3g NCBITaxon:9913	Bos taurus
+T4g	GGP 419 430	Collagenase
+NT4g0	Reference T4g ENSGF:229556	collagenase
+NT4g3	Reference T4g ENSF:429	collagenase
+NT4g4	Reference T4g NCBITaxon:9913	Bos taurus
+T5g	GGP 462 495	matrix metalloproteinase (MMP) 13
+NT5g0	Reference T5g ENSGF:288153	MMP-13
+NT5g1	Reference T5g HG:20548	MMP-13
+NT5g2	Reference T5g EG:281914	MMP-13
+NT5g3	Reference T5g ENSF:429	collagenase
+NT5g4	Reference T5g NCBITaxon:9913	Bos taurus
+T6g	GGP 497 510	collagenase-3
+NT6g0	Reference T6g ENSGF:288153	MMP-13
+NT6g1	Reference T6g HG:20548	MMP-13
+NT6g2	Reference T6g EG:281914	MMP-13
+NT6g3	Reference T6g ENSF:429	collagenase
+NT6g4	Reference T6g NCBITaxon:9913	Bos taurus
+T7g	GGP 585 591	MMP-13
+NT7g0	Reference T7g ENSGF:288153	MMP-13
+NT7g1	Reference T7g HG:20548	MMP-13
+NT7g2	Reference T7g EG:281914	MMP-13
+NT7g3	Reference T7g ENSF:429	collagenase
+NT7g4	Reference T7g NCBITaxon:9913	Bos taurus
+T8g	GGP 651 666	type X collagen
+NT8g4	Reference T8g NCBITaxon:9913	Bos taurus
+T9g	GGP 668 673	Cbfal
+NT9g4	Reference T9g NCBITaxon:9913	Bos taurus
+T10g	GGP 772 788	type II collagen
+NT10g0	Reference T10g ENSGF:105417	collagen
+NT10g4	Reference T10g NCBITaxon:9913	Bos taurus
+T11g	GGP 839 854	matrix proteins
+NT11g0	Reference T11g ENSGF:288153	MMP-13
+NT11g1	Reference T11g HG:20548	MMP-13
+NT11g2	Reference T11g EG:281914	MMP-13
+NT11g3	Reference T11g ENSF:429	collagenase
+NT11g4	Reference T11g NCBITaxon:9913	Bos taurus
+T12g	GGP 919 925	MMP-13
+NT12g0	Reference T12g ENSGF:288153	MMP-13
+NT12g1	Reference T12g HG:20548	MMP-13
+NT12g2	Reference T12g EG:281914	MMP-13
+NT12g3	Reference T12g ENSF:429	collagenase
+NT12g4	Reference T12g NCBITaxon:9913	Bos taurus
+T22g	Protein_catabolism 897 908	proteolysis
+T20g	Regulation 858 868	unaffected
+T16g	Negative_regulation 572 581	inhibitor
+T21g	Gene_expression 826 835	synthesis
+T17g	Gene_expression 637 647	expression
+T15g	Negative_regulation 746 756	inhibiting
+T19g	Protein_catabolism 757 768	degradation
+T14g	Positive_regulation 516 528	up-regulated
+T18g	Negative_regulation 626 636	suppresses
+T13g	Gene_expression 240 250	expression
+E10g	Gene_expression:T21g Theme:T11g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.5031
+E11g	Regulation:T20g Theme:E10g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	3.3583
+E12g	Protein_catabolism:T22g Theme:T12g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	3.8059
+E1g	Gene_expression:T13g Theme:T3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.8700
+E2g	Positive_regulation:T14g Theme:T4g
+AE2gconf	Confidence E2g high
+#E2gconf	Confidence E2g	4.0434
+E3g	Negative_regulation:T18g Theme:E5g
+AE3gconf	Confidence E3g high
+#E3gconf	Confidence E3g	4.3000
+E4g	Negative_regulation:T18g Theme:E6g
+AE4gconf	Confidence E4g high
+#E4gconf	Confidence E4g	4.3000
+E5g	Gene_expression:T17g Theme:T8g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.8379
+E6g	Gene_expression:T17g Theme:T9g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.8379
+E7g	Negative_regulation:T15g Theme:E8g
+AE7gconf	Confidence E7g high
+#E7gconf	Confidence E7g	4.2936
+E8g	Protein_catabolism:T19g Theme:T10g
+AE8gconf	Confidence E8g high
+#E8gconf	Confidence E8g	4.2688
+E9g	Negative_regulation:T16g Theme:T7g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.9995
+AE11gN	Negation E11g
+#E11gNconf	Confidence AE11gN	60.6088

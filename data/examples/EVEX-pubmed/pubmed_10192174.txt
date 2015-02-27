@@ -1,0 +1,8 @@
+Bradykinin elevates cytosolic Ca2+ concentration in smooth muscle cells isolated from rat duodenum.
+The effect of bradykinin on the cytosolic Ca2+ concentration were measured in single, Fura-2 loaded, smooth muscle cells isolated from rat duodenum.
+All cells responded with a Ca2+ signal when exposed to bradykinin.
+Pre-treatment of single muscle cells with either the phospholipase C blocker U-73122 or thapsigargin, which is a potent inhibitor of the endoplasmic reticulum Ca2+-ATPase, inhibited the response to bradykinin.
+Pre-treatment of the cells with EGTA or La3+ to inhibit the Ca2+ influx, abolished the response induced by bradykinin.
+We conclude that bradykinin applied to single smooth muscle cells from rat duodenum, increases cytosolic Ca2+ by emptying intracellular Ca2+ stores, and by contribution from extracellular Ca2+.
+In contrast to bradykinin-induced response in isolated rat duodenum (a relaxation followed by a contraction), we did not observe a biphasic effect of bradykinin on cytosolic Ca2+ in single muscle cells.
+Bradykinin may thus cause relaxation of duodenal smooth muscle indirectly through an effect on neighbouring cells as dilatation is brought about by this agent in blood vessels.

@@ -1,0 +1,36 @@
+T1g	GGP 112 131	amyloid P component
+NT1g0	Reference T1g ENSGF:144775	P
+NT1g1	Reference T1g HG:37281	P
+NT1g3	Reference T1g ENSF:22551	P
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 133 151	C-reactive protein
+NT2g0	Reference T2g ENSGF:112128	CRP
+NT2g1	Reference T2g HG:128039	CRP
+NT2g2	Reference T2g EG:1401	CRP
+NT2g3	Reference T2g ENSF:3684	CRP
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 153 170	apolipoprotein A1
+NT3g1	Reference T3g HG:1242	apoA-II
+NT3g2	Reference T3g EG:336	apoA-II
+NT3g3	Reference T3g ENSF:42649	apoA-II
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 172 189	apolipoprotein A2
+NT4g1	Reference T4g HG:1242	apoA-II
+NT4g2	Reference T4g EG:336	apoA-II
+NT4g3	Reference T4g ENSF:42649	apoA-II
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 191 231	glyceraldehyde-3-phosphate dehydrogenase
+NT5g0	Reference T5g ENSGF:169740	GAPDH
+NT5g1	Reference T5g HG:107053	GAPDH
+NT5g2	Reference T5g EG:2597	GAPDH
+NT5g3	Reference T5g ENSF:87	GAPDH
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 236 252	beta-actin mRNAs
+NT6g0	Reference T6g ENSGF:288230	beta-actin
+NT6g1	Reference T6g HG:110648	beta-actin
+NT6g3	Reference T6g ENSF:38	beta-actin
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 359 364	pSP64
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 365 370	polyA
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens

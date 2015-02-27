@@ -1,0 +1,105 @@
+T1g	GGP 45 72	tumor necrosis factor-alpha
+NT1g0	Reference T1g ENSGF:176910	tumor necrosis factor-alpha
+NT1g1	Reference T1g HG:2395	tumor necrosis factor-alpha
+NT1g2	Reference T1g EG:6868	tumor necrosis factor-alpha
+NT1g3	Reference T1g ENSF:4155	tumor necrosis factor-alpha
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 207 236	human endothelial NO synthase
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 238 242	eNOS
+NT3g0	Reference T3g ENSGF:92999	eNOS
+NT3g1	Reference T3g HG:504	eNOS
+NT3g2	Reference T3g EG:4846	eNOS
+NT3g3	Reference T3g ENSF:675	nitric oxide synthase
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 247 267	murine inducible NOS
+NT4g0	Reference T4g ENSGF:136956	iNOS
+NT4g1	Reference T4g HG:55473	iNOS
+NT4g3	Reference T4g ENSF:675	nitric oxide synthase
+NT4g4	Reference T4g NCBITaxon:10090	Mus musculus
+T5g	GGP 269 273	iNOS
+NT5g0	Reference T5g ENSGF:136956	iNOS
+NT5g1	Reference T5g HG:55473	iNOS
+NT5g2	Reference T5g EG:18126	iNOS
+NT5g3	Reference T5g ENSF:675	nitric oxide synthase
+NT5g4	Reference T5g NCBITaxon:10090	Mus musculus
+T6g	GGP 422 426	eNOS
+NT6g0	Reference T6g ENSGF:92999	eNOS
+NT6g1	Reference T6g HG:504	eNOS
+NT6g2	Reference T6g EG:4846	eNOS
+NT6g3	Reference T6g ENSF:675	nitric oxide synthase
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 430 434	iNOS
+NT7g0	Reference T7g ENSGF:164606	iNOS
+NT7g1	Reference T7g HG:55473	iNOS
+NT7g2	Reference T7g EG:4843	iNOS
+NT7g3	Reference T7g ENSF:675	nitric oxide synthase
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 591 595	eNOS
+NT8g0	Reference T8g ENSGF:92999	eNOS
+NT8g1	Reference T8g HG:504	eNOS
+NT8g2	Reference T8g EG:4846	eNOS
+NT8g3	Reference T8g ENSF:675	nitric oxide synthase
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 762 789	tumor necrosis factor-alpha
+NT9g0	Reference T9g ENSGF:176910	tumor necrosis factor-alpha
+NT9g1	Reference T9g HG:2395	tumor necrosis factor-alpha
+NT9g2	Reference T9g EG:6868	tumor necrosis factor-alpha
+NT9g3	Reference T9g ENSF:4155	tumor necrosis factor-alpha
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 791 800	TNF-alpha
+NT10g0	Reference T10g ENSGF:225665	TNF-alpha
+NT10g1	Reference T10g HG:496	TNF-alpha
+NT10g2	Reference T10g EG:7124	TNF-alpha
+NT10g3	Reference T10g ENSF:5399	TNF-alpha
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 1109 1118	TNF-alpha
+NT11g0	Reference T11g ENSGF:225665	TNF-alpha
+NT11g1	Reference T11g HG:496	TNF-alpha
+NT11g2	Reference T11g EG:7124	TNF-alpha
+NT11g3	Reference T11g ENSF:5399	TNF-alpha
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T12g	GGP 1381 1390	TNF-alpha
+NT12g0	Reference T12g ENSGF:225665	TNF-alpha
+NT12g1	Reference T12g HG:496	TNF-alpha
+NT12g2	Reference T12g EG:7124	TNF-alpha
+NT12g3	Reference T12g ENSF:5399	TNF-alpha
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T20g	Positive_regulation 1370 1380	upregulate
+T16g	Gene_expression 536 546	expressing
+T17g	Gene_expression 748 756	produced
+T15g	Gene_expression 408 418	expression
+T19g	Gene_expression 1391 1401	production
+T14g	Positive_regulation 35 44	increases
+T18g	Gene_expression 1119 1129	production
+T13g	Gene_expression 73 83	production
+E10g	Gene_expression:T18g Theme:T11g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.6971
+E1g	Positive_regulation:T14g Theme:E2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.9784
+E2g	Gene_expression:T13g Theme:T1g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.2331
+E3g	Positive_regulation:T20g Theme:E4g
+AE3gconf	Confidence E3g high
+#E3gconf	Confidence E3g	4.1988
+E4g	Gene_expression:T19g Theme:T12g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.4072
+E5g	Gene_expression:T15g Theme:T6g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.7335
+E6g	Gene_expression:T15g Theme:T7g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.8542
+E7g	Gene_expression:T16g Theme:T8g
+AE7gconf	Confidence E7g high
+#E7gconf	Confidence E7g	4.3436
+E8g	Gene_expression:T17g Theme:T9g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.6064
+E9g	Gene_expression:T17g Theme:T10g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.8779

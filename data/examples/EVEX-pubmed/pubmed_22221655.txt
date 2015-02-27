@@ -1,0 +1,6 @@
+Testing GSTP1 genotypes and haplotypes interactions in Slovenian post-/pre-menopausal women: novel involvement of glutathione S-transferases in bone remodeling process.
+Osteoporosis (OP) is an age-related disease associated with increased production of reactive oxygen species (ROS) and a reduction in antioxidant defense system, such as low activity of glutathione S-transferase (GST) family.
+The enzyme activity of the member of GSTs, GSTP1, depends on gene polymorphisms such as: Ala114Val and Ile105Val.
+The aim of this study was to evaluate the association between genetic polymorphisms of the GSTP1 gene and BMD variation and biochemical bone remodeling markers in 523 Slovenian pre- and post-menopausal women.
+Ala114Val and Ile105Val polymorphisms genotypes of GSTP1 gene, bone mineral density (BMD) values of total hip (_th), femoral neck (_fn) and lumbar spine (_ls), plasma osteocalcin (OC), serum bone alkaline phosphatase (BALP), free soluble RANKL and serum osteoprotegerin (sOPG) concentrations were determined.
+In addition, in pre-menopausal women the significant associations between sOPG and Ala114Val genotypes subgroups and between sBALP and Ile105Val genotypes subgroups, alone or in combination with Ala114Val, were determined (0.032, 0.026 and 0.008, respectively).

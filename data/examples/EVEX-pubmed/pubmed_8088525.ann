@@ -1,0 +1,31 @@
+T1g	GGP 4 48	Drosophila molybdenum cofactor gene cinnamon
+NT1g4	Reference T1g NCBITaxon:7227	Drosophila melanogaster
+T2g	GGP 72 106	Escherichia coli cofactor proteins
+NT2g4	Reference T2g NCBITaxon:562	Escherichia coli
+T3g	GGP 118 138	rat protein gephyrin
+NT3g0	Reference T3g ENSGF:120186	gephyrin
+NT3g1	Reference T3g HG:10820	gephyrin
+NT3g3	Reference T3g ENSF:4851	gephyrin
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 178 204	molybdenum oxidoreductases
+NT4g4	Reference T4g NCBITaxon:7227	Drosophila melanogaster
+T5g	GGP 310 345	Drosophila molybdenum cofactor gene
+NT5g4	Reference T5g NCBITaxon:7227	Drosophila melanogaster
+T6g	GGP 406 435	prokaryotic cofactor proteins
+NT6g4	Reference T6g NCBITaxon:7227	Drosophila melanogaster
+T7g	GGP 454 481	Drosophila cinnamon protein
+NT7g0	Reference T7g ENSGF:311185	HIV-1
+NT7g1	Reference T7g HG:36056	HIV-1
+NT7g3	Reference T7g ENSF:8520	HIV-1
+NT7g4	Reference T7g NCBITaxon:7227	Drosophila melanogaster
+T8g	GGP 499 507	gephyrin
+NT8g0	Reference T8g ENSGF:120186	gephyrin
+NT8g1	Reference T8g HG:10820	gephyrin
+NT8g3	Reference T8g ENSF:4851	gephyrin
+NT8g4	Reference T8g NCBITaxon:7227	Drosophila melanogaster
+T9g	GGP 665 688	monofunctional proteins
+NT9g4	Reference T9g NCBITaxon:7227	Drosophila melanogaster
+T10g	Binding 166 172	depend
+E1g	Binding:T10g Theme:T4g
+AE1gconf	Confidence E1g very-low
+#E1gconf	Confidence E1g	0.9853

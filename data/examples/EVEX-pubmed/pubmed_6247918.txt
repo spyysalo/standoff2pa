@@ -1,0 +1,5 @@
+Complement receptors on normal human lymphocytes containing parallel tubular arrays.
+Membrane complement receptors have been identified on a subpopulation of normal lymphocytes containing cytoplasmic inclusions called parallel tubular arrays (PTA) using two different rosetting techniques.
+This eliminates binding of marker particles by lymphocytes having Fc receptors.
+The presence of PTA lymphocytes at the center of EAC rosettes and FBC rosettes was demonstrated by electron microscopy, indicating that the PTA lymphocyte has a complement receptor.
+These phagocytic cells were placed in the lymphocytic series instead of the monocytic series by virtue of complete lack of endogenous peroxidase activity.

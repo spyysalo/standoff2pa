@@ -1,0 +1,7 @@
+Immunohistochemistry predicts nucleophosmin (NPM) mutations in acute myeloid leukemia.
+Nucleophosmin (NPM) exon-12 mutations occur in 50% to 60% of adult acute myeloid leukemia (AML) with normal karyotype and are predictors of favorable prognosis.
+All 200 AML cases expressing cytoplasmic NPM (NPMc(+) AML) carried NPM mutations.
+None of the 250 cases with nucleus-restricted NPM (NPMc(-) AML) was mutated.
+At the C-terminus, NPM leukemic mutants carried mutations of only tryptophan 290 or of both tryptophans 288 and 290 and a new nuclear export signal (NES) motif, which appear to underlie their nuclear export.
+The specific Crm1/exportin-1 inhibitor leptomycin-B relocated NPM mutants from cytoplasm to nucleus of primary NPMc(+) AML cells, demonstrating that nuclear export is NES dependent.
+Because alterations at C-terminus of leukemic NPM mutants are similar, immunohistochemistry detects all exon-12 NPM mutations and is a valuable, inexpensive tool in the diagnostic-prognostic work-up of patients with AML with normal karyotype.

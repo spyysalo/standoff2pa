@@ -1,0 +1,8 @@
+Dietary bioflavonoids induce cleavage in the MLL gene and may contribute to infant leukemia.
+Chromosomal translocations involving the MLL gene occur in about 80% of infant leukemia.
+In the search for possible agents inducing infant leukemia, we identified bioflavonoids, natural substances in food as well as in dietary supplements, that cause site-specific DNA cleavage in the MLL breakpoint cluster region (BCR) in vivo.
+The MLL BCR DNA cleavage was shown in primary progenitor hematopoietic cells from healthy newborns and adults as well as in cell lines; it colocalized with the MLL BCR cleavage site induced by chemotherapeutic agents, such as etoposide (VP16) and doxorubicin (Dox).
+Both in vivo and additional in vitro experiments demonstrated topoisomerase II (topo II) as the target of bioflavonoids similar to VP16 and Dox.
+Based on 20 bioflavonoids tested, we identified a common structure essential for topo II-induced DNA cleavage.
+Reversibility experiments demonstrated a religation of the bioflavonoid as well as the VP16-induced MLL cleavage site.
+Our observations support a two-stage model of cellular processing of topo II inhibitors: The first and reversible stage of topo II-induced DNA cleavage results in DNA repair, but also rarely in chromosome translocations; whereas the second, nonreversible stage leads to cell death because of an accumulation of DNA damage.

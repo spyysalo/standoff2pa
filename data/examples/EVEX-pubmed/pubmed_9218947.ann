@@ -1,0 +1,44 @@
+T1g	GGP 136 153	alpha-fetoprotein
+NT1g0	Reference T1g ENSGF:126007	AFP
+NT1g1	Reference T1g HG:36278	AFP
+NT1g2	Reference T1g EG:174	alpha-fetoprotein
+NT1g3	Reference T1g ENSF:3828	albumin
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 180 197	alpha-fetoprotein
+NT2g0	Reference T2g ENSGF:126007	AFP
+NT2g1	Reference T2g HG:36278	AFP
+NT2g2	Reference T2g EG:174	alpha-fetoprotein
+NT2g3	Reference T2g ENSF:3828	albumin
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 230 262	maternal serum alpha-fetoprotein
+NT3g0	Reference T3g ENSGF:126007	AFP
+NT3g1	Reference T3g HG:36278	AFP
+NT3g2	Reference T3g EG:174	alpha-fetoprotein
+NT3g3	Reference T3g ENSF:3828	albumin
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 264 269	MSAFP
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 484 507	serum alpha-fetoprotein
+NT5g0	Reference T5g ENSGF:126007	AFP
+NT5g1	Reference T5g HG:36278	AFP
+NT5g2	Reference T5g EG:174	alpha-fetoprotein
+NT5g3	Reference T5g ENSF:3828	albumin
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T8g	Positive_regulation 466 474	elevated
+T6g	Positive_regulation 333 342	increased
+T7g	Positive_regulation 221 229	elevated
+E1g	Positive_regulation:T6g Theme:E3g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	3.6177
+E2g	Positive_regulation:T6g Theme:E4g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.6177
+E3g	Positive_regulation:T7g Theme:T3g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.8371
+E4g	Positive_regulation:T7g Theme:T4g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.8371
+E5g	Positive_regulation:T8g Theme:T5g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.8476

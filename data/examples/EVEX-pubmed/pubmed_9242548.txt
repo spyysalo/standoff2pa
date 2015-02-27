@@ -1,0 +1,7 @@
+Endogenously produced nitric oxide increases tumor necrosis factor-alpha production in transfected human U937 cells.
+We transfected the human U937 monoblastoid cell line with an expression vector containing human endothelial NO synthase (eNOS) or murine inducible NOS (iNOS) cDNA to study the regulatory role of NO without the nonspecific effects associated with exogenous NO sources.
+Western blot confirmed expression of eNOS or iNOS in respectively transfected cells, but not in naive or empty-vector transfected cells.
+Transfectants expressing iNOS, a calcium-independent enzyme, but not eNOS, a calcium-dependent enzyme, spontaneously produced NO (P < .001).
+After differentiation with phorbol-12-myristate-13-acetate (PMA), iNOS transfectants produced more tumor necrosis factor-alpha (TNF-alpha) (124.9 +/- 25.4 pg/5 x 10(5) cells per 24 hours) than did empty-vector transfected cells (21.9 +/- 1.9 pg/5 x 10(5) cells per 24 hours; P = .02).
+However, in the presence of high concentrations of lipopolysaccharide (1 microg/mL), which further increased NO production in iNOS transfected cells (P = .044), TNF-alpha production was similar comparing PMA-differentiated iNOS and empty-vector transfectants (12.2 +/- 0.8 and 13.1 +/- 1.7 ng/5 x 10(5) cells per 24 hours, respectively; P = .5).
+The results show that under certain conditions endogenously produced NO can upregulate TNF-alpha production in human phagocytes.

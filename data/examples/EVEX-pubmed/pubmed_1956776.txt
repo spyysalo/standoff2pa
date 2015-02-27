@@ -1,0 +1,9 @@
+Trans-activation of HIV-1 by the Tat protein is mediated through a cis-acting element (TAR) in the viral RNA.
+In order to obtain further insight into the molecular interactions for trans-activation, a detailed mutational analysis of TAR RNA was carried out.
+We found that the sequence of the base-pairs flanking the bulge is critical for Tat-mediated trans-activation.
+In addition, Tat-response is reduced when the bulge is forced into a base-paired configuration through the introduction of complementary nucleotides on the opposite side of the stem.
+Accessibility of the loop sequences is also important for Tat function, since base-pairing through the formation of a pseudoknot-like structure does inhibit Tat action.
+A third critical parameter that influences the magnitude of Tat response is the number of loop nucleotides.
+Such mutations progressively decreased the efficiency of Tat induction.
+Interestingly, activity of the HIV-2 Tat protein did markedly increase on targets with one or two additional basepairs.
+These results suggest that Tat interacts with a cellular loop-binding protein(s) to increase HIV gene expression.

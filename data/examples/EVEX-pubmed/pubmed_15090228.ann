@@ -1,0 +1,213 @@
+T1g	GGP 58 76	beta-galactosidase
+NT1g0	Reference T1g ENSGF:110929	beta-galactosidase
+NT1g1	Reference T1g HG:47922	beta-galactosidase
+NT1g2	Reference T1g EG:2720	beta-galactosidase
+NT1g3	Reference T1g ENSF:759	beta-galactosidase
+NT1g4	Reference T1g NCBITaxon:9606	Homo sapiens
+T2g	GGP 94 103	NF-kappaB
+NT2g0	Reference T2g ENSGF:71934	NF-kappaB
+NT2g1	Reference T2g HG:2971	NF-kappaB
+NT2g2	Reference T2g EG:4790	NF-kappaB
+NT2g3	Reference T2g ENSF:3788	NF-kappaB
+NT2g4	Reference T2g NCBITaxon:9606	Homo sapiens
+T3g	GGP 104 111	IkappaB
+NT3g3	Reference T3g ENSF:105202	IkappaB
+NT3g4	Reference T3g NCBITaxon:9606	Homo sapiens
+T4g	GGP 158 185	tumor necrosis factor-alpha
+NT4g0	Reference T4g ENSGF:24660	IL-10
+NT4g1	Reference T4g HG:478	IL-10
+NT4g2	Reference T4g EG:3586	IL-10
+NT4g3	Reference T4g ENSF:7672	IL-10
+NT4g4	Reference T4g NCBITaxon:9606	Homo sapiens
+T5g	GGP 187 196	TNF-alpha
+NT5g0	Reference T5g ENSGF:225665	TNF-alpha
+NT5g1	Reference T5g HG:496	TNF-alpha
+NT5g2	Reference T5g EG:7124	TNF-alpha
+NT5g3	Reference T5g ENSF:5399	TNF-alpha
+NT5g4	Reference T5g NCBITaxon:9606	Homo sapiens
+T6g	GGP 202 215	interleukin-1
+NT6g0	Reference T6g ENSGF:24660	IL-10
+NT6g1	Reference T6g HG:478	IL-10
+NT6g2	Reference T6g EG:3586	IL-10
+NT6g3	Reference T6g ENSF:7672	IL-10
+NT6g4	Reference T6g NCBITaxon:9606	Homo sapiens
+T7g	GGP 217 221	IL-1
+NT7g0	Reference T7g ENSGF:74241	IL-1
+NT7g1	Reference T7g HG:480	IL-1
+NT7g2	Reference T7g EG:3552	IL-1
+NT7g3	Reference T7g ENSF:10901	IL-1
+NT7g4	Reference T7g NCBITaxon:9606	Homo sapiens
+T8g	GGP 262 283	nuclear factor-kappaB
+NT8g0	Reference T8g ENSGF:24660	IL-10
+NT8g1	Reference T8g HG:478	IL-10
+NT8g2	Reference T8g EG:3586	IL-10
+NT8g3	Reference T8g ENSF:7672	IL-10
+NT8g4	Reference T8g NCBITaxon:9606	Homo sapiens
+T9g	GGP 285 294	NF-kappaB
+NT9g0	Reference T9g ENSGF:71934	NF-kappaB
+NT9g1	Reference T9g HG:2971	NF-kappaB
+NT9g2	Reference T9g EG:4790	NF-kappaB
+NT9g3	Reference T9g ENSF:3788	NF-kappaB
+NT9g4	Reference T9g NCBITaxon:9606	Homo sapiens
+T10g	GGP 341 348	IkappaB
+NT10g3	Reference T10g ENSF:105202	IkappaB
+NT10g4	Reference T10g NCBITaxon:9606	Homo sapiens
+T11g	GGP 379 386	IkappaB
+NT11g3	Reference T11g ENSF:105202	IkappaB
+NT11g4	Reference T11g NCBITaxon:9606	Homo sapiens
+T29r	Entity 519 527	sequence
+T30r	Entity 558 563	acids
+T12g	GGP 567 585	beta-galactosidase
+NT12g0	Reference T12g ENSGF:110929	beta-galactosidase
+NT12g1	Reference T12g HG:47922	beta-galactosidase
+NT12g2	Reference T12g EG:2720	beta-galactosidase
+NT12g3	Reference T12g ENSF:759	beta-galactosidase
+NT12g4	Reference T12g NCBITaxon:9606	Homo sapiens
+T13g	GGP 824 842	beta-galactosidase
+NT13g0	Reference T13g ENSGF:110929	beta-galactosidase
+NT13g1	Reference T13g HG:47922	beta-galactosidase
+NT13g2	Reference T13g EG:2720	beta-galactosidase
+NT13g3	Reference T13g ENSF:759	beta-galactosidase
+NT13g4	Reference T13g NCBITaxon:9606	Homo sapiens
+T14g	GGP 908 918	IkappaB-PL
+NT14g3	Reference T14g ENSF:105202	IkappaB
+NT14g4	Reference T14g NCBITaxon:9606	Homo sapiens
+T15g	GGP 1034 1043	TNF-alpha
+NT15g0	Reference T15g ENSGF:225665	TNF-alpha
+NT15g1	Reference T15g HG:496	TNF-alpha
+NT15g2	Reference T15g EG:7124	TNF-alpha
+NT15g3	Reference T15g ENSF:5399	TNF-alpha
+NT15g4	Reference T15g NCBITaxon:9606	Homo sapiens
+T16g	GGP 1048 1052	IL-1
+NT16g0	Reference T16g ENSGF:74241	IL-1
+NT16g1	Reference T16g HG:480	IL-1
+NT16g2	Reference T16g EG:3552	IL-1
+NT16g3	Reference T16g ENSF:10901	IL-1
+NT16g4	Reference T16g NCBITaxon:9606	Homo sapiens
+T17g	GGP 1112 1122	IkappaB-PL
+NT17g3	Reference T17g ENSF:105202	IkappaB
+NT17g4	Reference T17g NCBITaxon:9606	Homo sapiens
+T18g	GGP 1191 1202	IkappaBM-PL
+NT18g4	Reference T18g NCBITaxon:9606	Homo sapiens
+T19g	GGP 1214 1224	IkappaB-PL
+NT19g3	Reference T19g ENSF:105202	IkappaB
+NT19g4	Reference T19g NCBITaxon:9606	Homo sapiens
+T20g	GGP 1316 1325	TNF-alpha
+NT20g0	Reference T20g ENSGF:225665	TNF-alpha
+NT20g1	Reference T20g HG:496	TNF-alpha
+NT20g2	Reference T20g EG:7124	TNF-alpha
+NT20g3	Reference T20g ENSF:5399	TNF-alpha
+NT20g4	Reference T20g NCBITaxon:9606	Homo sapiens
+T21g	GGP 1329 1333	IL-1
+NT21g0	Reference T21g ENSGF:74241	IL-1
+NT21g1	Reference T21g HG:480	IL-1
+NT21g2	Reference T21g EG:3552	IL-1
+NT21g3	Reference T21g ENSF:10901	IL-1
+NT21g4	Reference T21g NCBITaxon:9606	Homo sapiens
+T22g	GGP 1369 1379	IkappaB-PL
+NT22g3	Reference T22g ENSF:105202	IkappaB
+NT22g4	Reference T22g NCBITaxon:9606	Homo sapiens
+T23g	GGP 1400 1409	NF-kappaB
+NT23g0	Reference T23g ENSGF:71934	NF-kappaB
+NT23g1	Reference T23g HG:2971	NF-kappaB
+NT23g2	Reference T23g EG:4790	NF-kappaB
+NT23g3	Reference T23g ENSF:3788	NF-kappaB
+NT23g4	Reference T23g NCBITaxon:9606	Homo sapiens
+T24g	GGP 1430 1439	TNF-alpha
+NT24g0	Reference T24g ENSGF:225665	TNF-alpha
+NT24g1	Reference T24g HG:496	TNF-alpha
+NT24g2	Reference T24g EG:7124	TNF-alpha
+NT24g3	Reference T24g ENSF:5399	TNF-alpha
+NT24g4	Reference T24g NCBITaxon:9606	Homo sapiens
+T25g	GGP 1444 1448	IL-1
+NT25g0	Reference T25g ENSGF:74241	IL-1
+NT25g1	Reference T25g HG:480	IL-1
+NT25g2	Reference T25g EG:3552	IL-1
+NT25g3	Reference T25g ENSF:10901	IL-1
+NT25g4	Reference T25g NCBITaxon:9606	Homo sapiens
+T26g	GGP 1465 1472	IkappaB
+NT26g3	Reference T26g ENSF:105202	IkappaB
+NT26g4	Reference T26g NCBITaxon:9606	Homo sapiens
+T27g	GGP 1588 1613	anti-TNF-alpha antibodies
+NT27g0	Reference T27g ENSGF:225665	TNF-alpha
+NT27g1	Reference T27g HG:496	TNF-alpha
+NT27g2	Reference T27g EG:7124	TNF-alpha
+NT27g3	Reference T27g ENSF:5399	TNF-alpha
+NT27g4	Reference T27g NCBITaxon:9606	Homo sapiens
+T28g	GGP 1695 1705	IkappaB-PL
+NT28g3	Reference T28g ENSF:105202	IkappaB
+NT28g4	Reference T28g NCBITaxon:9606	Homo sapiens
+T34g	Gene_expression 892 904	transfection
+T35g	Positive_regulation 1063 1070	induced
+T37g	Protein_catabolism 1354 1365	degradation
+T36g	Protein_catabolism 1097 1108	degradation
+T30g	Positive_regulation 244 254	activation
+T31g	Protein_catabolism 312 323	degradation
+T41g	Positive_regulation 1449 1456	induced
+T33g	Positive_regulation 892 904	transfection
+T29g	Binding 77 92	complementation
+T40g	Protein_catabolism 1476 1487	degradation
+T38g	Protein_catabolism 1256 1267	degradation
+T42g	Protein_catabolism 1706 1717	degradation
+T32g	Gene_expression 418 427	expressed
+T39g	Positive_regulation 1418 1428	activation
+E10g	Positive_regulation:T35g Cause:T16g Theme:E11g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.5398
+E11g	Protein_catabolism:T36g Theme:T17g
+AE11gconf	Confidence E11g high
+#E11gconf	Confidence E11g	4.0703
+E12g	Protein_catabolism:T38g Theme:T20g
+AE12gconf	Confidence E12g medium
+#E12gconf	Confidence E12g	3.5926
+E13g	Protein_catabolism:T38g Theme:T21g
+AE13gconf	Confidence E13g medium
+#E13gconf	Confidence E13g	3.8175
+E14g	Protein_catabolism:T37g Theme:T22g
+AE14gconf	Confidence E14g medium
+#E14gconf	Confidence E14g	3.7119
+E15g	Positive_regulation:T39g Theme:T23g
+AE15gconf	Confidence E15g medium
+#E15gconf	Confidence E15g	3.0187
+E16g	Positive_regulation:T41g Cause:T24g Theme:E18g
+AE16gconf	Confidence E16g medium
+#E16gconf	Confidence E16g	3.7813
+E17g	Positive_regulation:T41g Theme:E18g Cause:T25g
+AE17gconf	Confidence E17g medium
+#E17gconf	Confidence E17g	3.7813
+E18g	Protein_catabolism:T40g Theme:T26g
+AE18gconf	Confidence E18g medium
+#E18gconf	Confidence E18g	3.3265
+E1g	Binding:T29g Theme:T1g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.0792
+E2g	Positive_regulation:T30g Theme:T8g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	3.7884
+E3g	Positive_regulation:T30g Theme:T9g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.8157
+E4g	Protein_catabolism:T31g Theme:T10g
+AE4gconf	Confidence E4g high
+#E4gconf	Confidence E4g	4.0607
+E5g	Protein_catabolism:T42g Theme:T28g
+AE5gconf	Confidence E5g high
+#E5gconf	Confidence E5g	4.1141
+E6g	Gene_expression:T32g Theme:T11g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	2.3520
+E7g	Positive_regulation:T33g Theme:E8g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.4341
+E8g	Gene_expression:T34g Theme:T14g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	2.8031
+E9g	Positive_regulation:T35g Cause:T15g Theme:E11g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.5398
+R1r	Protein-Component Arg1:T12g Arg2:T29r
+AR1rconf	Confidence R1r high
+#R1rconf	Confidence R1r	4.1032
+R2r	Protein-Component Arg1:T12g Arg2:T30r
+AR2rconf	Confidence R2r high
+#R2rconf	Confidence R2r	4.1626

@@ -1,0 +1,109 @@
+T1g	GGP 0 10	Lovastatin
+NT1g4	Reference T1g NCBITaxon:10116	Rattus norvegicus
+T2g	GGP 88 99	aquaporin-2
+NT2g0	Reference T2g ENSGF:35129	AQP2
+NT2g1	Reference T2g HG:20137	AQP2
+NT2g2	Reference T2g EG:25386	AQP2
+NT2g3	Reference T2g ENSF:971	AQP1
+NT2g4	Reference T2g NCBITaxon:10116	Rattus norvegicus
+T3g	GGP 116 127	Vasopressin
+NT3g4	Reference T3g NCBITaxon:10116	Rattus norvegicus
+T4g	GGP 175 186	aquaporin-2
+NT4g0	Reference T4g ENSGF:35129	AQP2
+NT4g1	Reference T4g HG:20137	AQP2
+NT4g2	Reference T4g EG:25386	AQP2
+NT4g3	Reference T4g ENSF:971	AQP1
+NT4g4	Reference T4g NCBITaxon:10116	Rattus norvegicus
+T5g	GGP 188 192	AQP2
+NT5g0	Reference T5g ENSGF:35129	AQP2
+NT5g1	Reference T5g HG:20137	AQP2
+NT5g2	Reference T5g EG:25386	AQP2
+NT5g3	Reference T5g ENSF:971	AQP1
+NT5g4	Reference T5g NCBITaxon:10116	Rattus norvegicus
+T6g	GGP 394 398	AQP2
+NT6g0	Reference T6g ENSGF:35129	AQP2
+NT6g1	Reference T6g HG:20137	AQP2
+NT6g2	Reference T6g EG:25386	AQP2
+NT6g3	Reference T6g ENSF:971	AQP1
+NT6g4	Reference T6g NCBITaxon:10116	Rattus norvegicus
+T7g	GGP 466 470	AQP2
+NT7g0	Reference T7g ENSGF:35129	AQP2
+NT7g1	Reference T7g HG:20137	AQP2
+NT7g2	Reference T7g EG:25386	AQP2
+NT7g3	Reference T7g ENSF:971	AQP1
+NT7g4	Reference T7g NCBITaxon:10116	Rattus norvegicus
+T8g	GGP 579 583	AQP2
+NT8g0	Reference T8g ENSGF:35129	AQP2
+NT8g1	Reference T8g HG:20137	AQP2
+NT8g2	Reference T8g EG:25386	AQP2
+NT8g3	Reference T8g ENSF:971	AQP1
+NT8g4	Reference T8g NCBITaxon:10116	Rattus norvegicus
+T9g	GGP 773 777	AQP2
+NT9g0	Reference T9g ENSGF:35129	AQP2
+NT9g1	Reference T9g HG:20137	AQP2
+NT9g2	Reference T9g EG:25386	AQP2
+NT9g3	Reference T9g ENSF:971	AQP1
+NT9g4	Reference T9g NCBITaxon:10116	Rattus norvegicus
+T10g	GGP 910 914	AQP2
+NT10g0	Reference T10g ENSGF:35129	AQP2
+NT10g1	Reference T10g HG:20137	AQP2
+NT10g2	Reference T10g EG:25386	AQP2
+NT10g3	Reference T10g ENSF:971	AQP1
+NT10g4	Reference T10g NCBITaxon:10116	Rattus norvegicus
+T11g	GGP 1023 1027	AQP2
+NT11g0	Reference T11g ENSGF:35129	AQP2
+NT11g1	Reference T11g HG:20137	AQP2
+NT11g2	Reference T11g EG:25386	AQP2
+NT11g3	Reference T11g ENSF:971	AQP1
+NT11g4	Reference T11g NCBITaxon:10116	Rattus norvegicus
+T12g	GGP 1150 1154	AQP2
+NT12g0	Reference T12g ENSGF:35129	AQP2
+NT12g1	Reference T12g HG:20137	AQP2
+NT12g2	Reference T12g EG:25386	AQP2
+NT12g3	Reference T12g ENSF:971	AQP1
+NT12g4	Reference T12g NCBITaxon:10116	Rattus norvegicus
+T13g	GGP 1312 1316	AQP2
+NT13g0	Reference T13g ENSGF:35129	AQP2
+NT13g1	Reference T13g HG:20137	AQP2
+NT13g2	Reference T13g EG:25386	AQP2
+NT13g3	Reference T13g ENSF:971	AQP1
+NT13g4	Reference T13g NCBITaxon:10116	Rattus norvegicus
+T22g	Regulation 1298 1306	regulate
+T20g	Positive_regulation 1007 1019	accumulation
+T16g	Regulation 351 361	regulating
+T21g	Negative_regulation 1179 1186	reduced
+T17g	Regulation 494 503	regulated
+T15g	Positive_regulation 128 134	causes
+T19g	Binding 778 788	associates
+T14g	Regulation 41 48	affects
+T18g	Binding 599 609	associated
+E10g	Regulation:T22g Theme:T13g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.5691
+E1g	Regulation:T14g Theme:T2g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.8786
+E2g	Positive_regulation:T15g Theme:T4g Cause:T3g
+AE2gconf	Confidence E2g low
+#E2gconf	Confidence E2g	1.8635
+E3g	Positive_regulation:T15g Cause:T3g Theme:T5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	3.3655
+E4g	Regulation:T16g Theme:T6g
+AE4gconf	Confidence E4g medium
+#E4gconf	Confidence E4g	3.3819
+E5g	Regulation:T17g Theme:T7g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.5357
+E6g	Binding:T18g Theme:T8g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.6896
+E7g	Binding:T19g Theme:T9g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.2661
+E8g	Positive_regulation:T20g Theme:T11g
+AE8gconf	Confidence E8g medium
+#E8gconf	Confidence E8g	3.5752
+E9g	Negative_regulation:T21g Theme:T12g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.5111

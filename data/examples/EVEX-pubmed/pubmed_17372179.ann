@@ -1,0 +1,144 @@
+T1g	GGP 0 20	Toll-like receptor 4
+NT1g0	Reference T1g ENSGF:156176	TLR4
+NT1g1	Reference T1g HG:41317	TLR4
+NT1g2	Reference T1g EG:21898	TLR4
+NT1g3	Reference T1g ENSF:1875	TLR4
+NT1g4	Reference T1g NCBITaxon:10090	Mus musculus
+T2g	GGP 93 113	Toll-like receptor 4
+NT2g0	Reference T2g ENSGF:156176	TLR4
+NT2g1	Reference T2g HG:41317	TLR4
+NT2g2	Reference T2g EG:21898	TLR4
+NT2g3	Reference T2g ENSF:1875	TLR4
+NT2g4	Reference T2g NCBITaxon:10090	Mus musculus
+T3g	GGP 115 119	TLR4
+NT3g0	Reference T3g ENSGF:156176	TLR4
+NT3g1	Reference T3g HG:41317	TLR4
+NT3g2	Reference T3g EG:21898	TLR4
+NT3g3	Reference T3g ENSF:1875	TLR4
+NT3g4	Reference T3g NCBITaxon:10090	Mus musculus
+T4g	GGP 269 273	TLR4
+NT4g0	Reference T4g ENSGF:156176	TLR4
+NT4g1	Reference T4g HG:41317	TLR4
+NT4g2	Reference T4g EG:21898	TLR4
+NT4g3	Reference T4g ENSF:1875	TLR4
+NT4g4	Reference T4g NCBITaxon:10090	Mus musculus
+T5g	GGP 493 497	TLR4
+NT5g0	Reference T5g ENSGF:156176	TLR4
+NT5g1	Reference T5g HG:41317	TLR4
+NT5g2	Reference T5g EG:21898	TLR4
+NT5g3	Reference T5g ENSF:1875	TLR4
+NT5g4	Reference T5g NCBITaxon:10090	Mus musculus
+T6g	GGP 618 622	TLR4
+NT6g0	Reference T6g ENSGF:156176	TLR4
+NT6g1	Reference T6g HG:41317	TLR4
+NT6g2	Reference T6g EG:21898	TLR4
+NT6g3	Reference T6g ENSF:1875	TLR4
+NT6g4	Reference T6g NCBITaxon:10090	Mus musculus
+T7g	GGP 702 714	C57BL/10ScSn
+NT7g4	Reference T7g NCBITaxon:10090	Mus musculus
+T8g	GGP 750 754	TLR4
+NT8g0	Reference T8g ENSGF:156176	TLR4
+NT8g1	Reference T8g HG:41317	TLR4
+NT8g2	Reference T8g EG:21898	TLR4
+NT8g3	Reference T8g ENSF:1875	TLR4
+NT8g4	Reference T8g NCBITaxon:10090	Mus musculus
+T9g	GGP 871 875	TLR4
+NT9g0	Reference T9g ENSGF:156176	TLR4
+NT9g1	Reference T9g HG:41317	TLR4
+NT9g2	Reference T9g EG:21898	TLR4
+NT9g3	Reference T9g ENSF:1875	TLR4
+NT9g4	Reference T9g NCBITaxon:10090	Mus musculus
+T10g	GGP 915 945	interferon regulatory factor-1
+NT10g0	Reference T10g ENSGF:236144	IRF-1
+NT10g1	Reference T10g HG:1658	IRF-1
+NT10g2	Reference T10g EG:16362	IRF-1
+NT10g3	Reference T10g ENSF:3158	IRF-1
+NT10g4	Reference T10g NCBITaxon:10090	Mus musculus
+T11g	GGP 957 978	nitric oxide synthase
+NT11g0	Reference T11g ENSGF:238256	cyclooxygenase-2
+NT11g1	Reference T11g HG:31000	cyclooxygenase-2
+NT11g2	Reference T11g EG:19225	cyclooxygenase-2
+NT11g3	Reference T11g ENSF:2590	cyclooxygenase-2
+NT11g4	Reference T11g NCBITaxon:10090	Mus musculus
+T12g	GGP 984 1000	cyclooxygenase-2
+NT12g0	Reference T12g ENSGF:238256	cyclooxygenase-2
+NT12g1	Reference T12g HG:31000	cyclooxygenase-2
+NT12g2	Reference T12g EG:19225	cyclooxygenase-2
+NT12g3	Reference T12g ENSF:2590	cyclooxygenase-2
+NT12g4	Reference T12g NCBITaxon:10090	Mus musculus
+T13g	GGP 1054 1069	interferon-beta
+NT13g0	Reference T13g ENSGF:211265	IFN-beta
+NT13g1	Reference T13g HG:1640	IFN-beta
+NT13g2	Reference T13g EG:15977	IFN-beta
+NT13g3	Reference T13g ENSF:84016	IFN-beta
+NT13g4	Reference T13g NCBITaxon:10090	Mus musculus
+T14g	GGP 1154 1158	TLR4
+NT14g0	Reference T14g ENSGF:156176	TLR4
+NT14g1	Reference T14g HG:41317	TLR4
+NT14g2	Reference T14g EG:21898	TLR4
+NT14g3	Reference T14g ENSF:1875	TLR4
+NT14g4	Reference T14g NCBITaxon:10090	Mus musculus
+T15g	GGP 1238 1264	matrix metalloproteinase-9
+NT15g0	Reference T15g ENSGF:55931	MMP-9
+NT15g1	Reference T15g HG:3659	MMP-9
+NT15g3	Reference T15g ENSF:2993	MMP-9
+NT15g4	Reference T15g NCBITaxon:10090	Mus musculus
+T16g	GGP 1330 1334	TLR4
+NT16g0	Reference T16g ENSGF:156176	TLR4
+NT16g1	Reference T16g HG:41317	TLR4
+NT16g2	Reference T16g EG:21898	TLR4
+NT16g3	Reference T16g ENSF:1875	TLR4
+NT16g4	Reference T16g NCBITaxon:10090	Mus musculus
+T17g	GGP 1390 1394	TLR4
+NT17g0	Reference T17g ENSGF:156176	TLR4
+NT17g1	Reference T17g HG:41317	TLR4
+NT17g2	Reference T17g EG:21898	TLR4
+NT17g3	Reference T17g ENSF:1875	TLR4
+NT17g4	Reference T17g NCBITaxon:10090	Mus musculus
+T18g	GGP 1518 1522	TLR4
+NT18g0	Reference T18g ENSGF:156176	TLR4
+NT18g1	Reference T18g HG:41317	TLR4
+NT18g2	Reference T18g EG:21898	TLR4
+NT18g3	Reference T18g ENSF:1875	TLR4
+NT18g4	Reference T18g NCBITaxon:10090	Mus musculus
+T23g	Positive_regulation 1044 1050	levels
+T22g	Positive_regulation 900 914	stroke-induced
+T20g	Positive_regulation 947 956	inducible
+T21g	Negative_regulation 864 870	lacked
+T26g	Gene_expression 1224 1234	expression
+T19g	Gene_expression 886 896	expression
+T24g	Positive_regulation 1275 1282	induced
+T25g	Negative_regulation 1319 1326	reduced
+E10g	Gene_expression:T19g Theme:T11g
+AE10gconf	Confidence E10g medium
+#E10gconf	Confidence E10g	3.6339
+E11g	Gene_expression:T19g Theme:T12g
+AE11gconf	Confidence E11g medium
+#E11gconf	Confidence E11g	3.7716
+E1g	Positive_regulation:T23g Theme:T13g
+AE1gconf	Confidence E1g medium
+#E1gconf	Confidence E1g	2.0189
+E2g	Positive_regulation:T24g Theme:T15g
+AE2gconf	Confidence E2g medium
+#E2gconf	Confidence E2g	2.9906
+E3g	Positive_regulation:T24g Theme:E5g
+AE3gconf	Confidence E3g medium
+#E3gconf	Confidence E3g	2.8357
+E4g	Negative_regulation:T25g Theme:E5g
+AE4gconf	Confidence E4g high
+#E4gconf	Confidence E4g	4.5768
+E5g	Gene_expression:T26g Theme:T15g
+AE5gconf	Confidence E5g medium
+#E5gconf	Confidence E5g	3.8957
+E6g	Positive_regulation:T22g Theme:T10g
+AE6gconf	Confidence E6g medium
+#E6gconf	Confidence E6g	3.0291
+E7g	Positive_regulation:T20g Theme:T11g
+AE7gconf	Confidence E7g medium
+#E7gconf	Confidence E7g	3.0045
+E8g	Negative_regulation:T21g Theme:T9g
+AE8gconf	Confidence E8g low
+#E8gconf	Confidence E8g	1.6582
+E9g	Gene_expression:T19g Theme:T10g
+AE9gconf	Confidence E9g medium
+#E9gconf	Confidence E9g	3.4427
