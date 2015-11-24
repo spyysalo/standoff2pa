@@ -247,7 +247,7 @@ class Attribute(Annotation):
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
     def to_pubannotation(self, ann_by_id):
-        pred = self.type + (self.val if self.val is not None else '')
+        pred = self.type + (':' + self.val if self.val is not None else '')
         doc = {
             'id': self.pa_id(),
             'pred': pred,
@@ -275,16 +275,14 @@ class Comment(Annotation):
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
     def to_pubannotation(self, ann_by_id):
-        # map to denotation using span associated with target
-        spans = self.get_spans(ann_by_id)
-        start, end = spans[0][0], spans[-1][1]
+        # map to modification of target
         doc = {
             'id': self.pa_id(),
-            'obj': self.text,
-            'span': { 'begin': start, 'end': end },
+            'pred': self.type + ':' + self.text,
+            'obj': ann_by_id[self.arg].pa_id()
         }
         return {
-            'denotations': [doc],
+            'modifications': [doc],
         }
 
     def __str__(self):
