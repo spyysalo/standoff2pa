@@ -23,10 +23,24 @@ def argparser():
                         help='Output directory')
     parser.add_argument('-t', '--textdir', metavar='DIR', default=None,
                         help='Text directory')
+    parser.add_argument('-m', '--typemap', metavar='FILE', default=None,
+                        help='Map from standoff to pubannotation types.')
     parser.add_argument('file', metavar='FILE', nargs='+',
                         help='File(s) to convert')
 
     return parser
+
+class KeyDefaultDict(defaultdict):
+    """Dictionary that defaults to key."""
+    def __missing__(self, key):
+        return key
+
+def load_typemap(options):
+    typemap = KeyDefaultDict()
+    if options.typemap is not None:
+        with open(options.typemap, 'rt') as f:
+            typemap.update(dict(l.strip().split() for l in f))
+    return typemap
 
 def new_id(prefix, ann_by_id):
     for i in count(1):
@@ -52,7 +66,7 @@ class Annotation(object):
         """Return the PubAnnotation ID for the annotation."""
         return self.id
 
-    def to_pubannotation(self, ann_by_id):
+    def to_pubannotation(self, ann_by_id, options=None):
         raise NotImplementedError
 
     STANDOFF_RE = None
@@ -91,15 +105,16 @@ class Textbound(Annotation):
                 (text[start:end], self.text[offset:endoff])
             offset = endoff + 1
 
-    def to_pubannotation(self, ann_by_id):        
+    def to_pubannotation(self, ann_by_id, options=None):
         spans = self.get_spans()
         start, end = spans[0][0], spans[-1][1]
         if len(spans) > 1:
             print >> sys.stderr, 'Warning: flattening span %s to %d-%d' % \
                 (self.spans, start, end)
+        obj = self.type if options is None else options.typemap[self.type]
         doc = {
             'id': self.pa_id(),
-            'obj': self.type,
+            'obj': obj,
             'span': { 'begin': start, 'end': end },
         }
         return {
@@ -132,11 +147,12 @@ class Relation(Annotation):
         a2key, a2val = a2.split(':', 1)
         return ((a1key, a1val), (a2key, a2val))
     
-    def to_pubannotation(self, ann_by_id):
+    def to_pubannotation(self, ann_by_id, options=None):
         arg1, arg2 = self.get_args()
+        pred = self.type if options is None else options.typemap[self.type]
         doc = {
             'id': self.pa_id(),
-            'pred': self.type,
+            'pred': pred,
             'subj': arg1[1],
             'obj': arg2[1],
         }
@@ -170,14 +186,17 @@ class Event(Annotation):
         # Events are represented using their triggers only.
         return self.trigger
 
-    def to_pubannotation(self, ann_by_id):
+    def to_pubannotation(self, ann_by_id, options=None):
+        # PubAnnotation does not provide a facility for representing
+        # events as a whole, so only map to relations.
         relations = []
         for key, val in self.get_args():
             rid = new_id('R', ann_by_id)
             ann_by_id[rid] = None # reserve
+            pred = key if options is None else options.typemap[key]
             doc = {
                 'id': rid,
-                'pred': 'has'+key,
+                'pred': pred,
                 'subj': self.trigger,
                 'obj': ann_by_id[val].pa_id(),
             }
@@ -191,10 +210,11 @@ class Event(Annotation):
 class Normalization(Annotation):
     """Reference relating annotation to external resource."""
 
-    def __init__(self, id_, type_, arg, ref, text):
+    def __init__(self, id_, type_, arg, refdb, refid, text):
         super(Normalization, self).__init__(id_, type_)
         self.arg = arg
-        self.ref = ref
+        self.refdb = refdb
+        self.refid = refid
         self.text = text
 
     def get_spans(self, ann_by_id=None):
@@ -205,21 +225,23 @@ class Normalization(Annotation):
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
-    def to_pubannotation(self, ann_by_id):
+    def to_pubannotation(self, ann_by_id, options=None):
         # map to denotation + relation using Pierre Zweigenbaum's approach:
         # https://github.com/linkedannotation/blah2015/wiki/PubAnnotation-system
         spans = self.get_spans(ann_by_id)
         start, end = spans[0][0], spans[-1][1]
+        refdb = self.refdb if options is None else options.typemap[self.refdb]
         denotation = {
             'id': self.pa_id(),
-            'obj': self.ref,
+            'obj': refdb + ':' + self.refid,
             'span': { 'begin': start, 'end': end },
         }
         rid = new_id('R', ann_by_id)
         ann_by_id[rid] = None # reserve
+        pred = 'Normalization' if options is None else options.typemap['Normalization']
         relation = {
             'id': rid,
-            'pred': 'Normalization',
+            'pred': pred,
             'subj': ann_by_id[self.arg].pa_id(),
             'obj': self.pa_id(),
         }
@@ -228,7 +250,7 @@ class Normalization(Annotation):
             'relations': [relation],
         }
 
-    STANDOFF_RE = re.compile(r'^(\S+)\t(\S+) (\S+) (\S+:\S+)\t?(.*)$')
+    STANDOFF_RE = re.compile(r'^(\S+)\t(\S+) (\S+) (\S+):(\S+)\t?(.*)$')
 
 class Attribute(Annotation):
     """Attribute with optional value associated with another annotation."""
@@ -246,7 +268,7 @@ class Attribute(Annotation):
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
-    def to_pubannotation(self, ann_by_id):
+    def to_pubannotation(self, ann_by_id, options=None):
         pred = self.type + (':' + self.val if self.val is not None else '')
         doc = {
             'id': self.pa_id(),
@@ -274,7 +296,7 @@ class Comment(Annotation):
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
-    def to_pubannotation(self, ann_by_id):
+    def to_pubannotation(self, ann_by_id, options=None):
         # map to modification of target
         doc = {
             'id': self.pa_id(),
@@ -342,8 +364,8 @@ def to_pubannotation(annotations, text, files, options=None):
     ann_by_id = { a.id: a for a in annotations }
     pubann = defaultdict(list)
     for a in annotations:
-        for category, annotations in a.to_pubannotation(ann_by_id).items():
-            pubann[category].extend(annotations)
+        for cat, anns in a.to_pubannotation(ann_by_id, options).items():
+            pubann[cat].extend(anns)
     pubann['sourcedb'] = get_source_db(files, options)
     pubann['sourceid'] = get_source_id(files, options)
     pubann['text'] = text
@@ -417,6 +439,8 @@ def group_files(filenames):
 
 def main(argv):
     args = argparser().parse_args(argv[1:])
+
+    args.typemap = load_typemap(args)
 
     for group in group_files(args.file):
         process_files(group, args)
