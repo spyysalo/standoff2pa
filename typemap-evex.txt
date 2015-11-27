@@ -1,5 +1,5 @@
-GGP	Gene_or_gene_product
 NCBITaxon	taxonomy
 EG	entrezgene
-ENSF	ensembl-family
-ENSGF	ensembl-genomes-family
+HG	homologene
+ENSF	ensemblfamily
+ENSGF	ensemblgfamily
