@@ -9,6 +9,7 @@ import codecs
 from collections import defaultdict
 from itertools import count
 from os import path
+from logging import warn
 
 DEFAULT_ENCODING='utf-8'
 DEFAULT_DB='PubMed'
@@ -109,8 +110,7 @@ class Textbound(Annotation):
         spans = self.get_spans()
         start, end = spans[0][0], spans[-1][1]
         if len(spans) > 1:
-            print >> sys.stderr, 'Warning: flattening span %s to %d-%d' % \
-                (self.spans, start, end)
+            warn('flattening span %s to %d-%d' % (self.spans, start, end))
         obj = self.type if options is None else options.typemap[self.type]
         doc = {
             'id': self.pa_id(),
@@ -133,7 +133,7 @@ class Relation(Annotation):
     def get_spans(self, ann_by_id=None):
         """Return list of associated (start, end) spans."""
         if ann_by_id is None:
-            print >> sys.stderr, 'Relation.get_spans: missing ann_by_id'
+            warn('Relation.get_spans: missing ann_by_id')
             return []
         else:
             arg1, arg2 = self.get_args()
@@ -173,7 +173,7 @@ class Event(Annotation):
     def get_spans(self, ann_by_id=None):
         """Return list of associated (start, end) spans."""
         if ann_by_id is None:
-            print >> sys.stderr, 'Event.get_spans: missing ann_by_id'
+            warn('Event.get_spans: missing ann_by_id')
             return []
         else:
             return ann_by_id[self.trigger].get_spans(ann_by_id)
@@ -220,7 +220,7 @@ class Normalization(Annotation):
     def get_spans(self, ann_by_id=None):
         """Return list of associated (start, end) spans."""
         if ann_by_id is None:
-            print >> sys.stderr, 'Normalization.get_spans: missing ann_by_id'
+            warn('Normalization.get_spans: missing ann_by_id')
             return []
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
@@ -263,7 +263,7 @@ class Attribute(Annotation):
     def get_spans(self, ann_by_id=None):
         """Return list of associated (start, end) spans."""
         if ann_by_id is None:
-            print >> sys.stderr, 'Attribute.get_spans: missing ann_by_id'
+            warn('Attribute.get_spans: missing ann_by_id')
             return []
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
@@ -292,7 +292,7 @@ class Comment(Annotation):
     def get_spans(self, ann_by_id=None):
         """Return list of associated (start, end) spans."""
         if ann_by_id is None:
-            print >> sys.stderr, 'Comment.get_spans: missing ann_by_id'
+            warn('Comment.get_spans: missing ann_by_id')
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
@@ -328,7 +328,7 @@ def parse_standoff_line(line):
     elif line[0] == '#':
         return Comment.from_standoff(line)
     else:
-        print >> sys.stderr, 'Warning: discarding unrecognized line:', line
+        warn('discarding unrecognized line: %s' % line)
 
 def parse_standoff(source):
     annotations = []
@@ -351,7 +351,7 @@ def get_source_id(filenames, options=None):
     roots = [path.splitext(bn)[0] for bn in bases]
     uniques = set(roots)
     if len(uniques) > 1:
-        print >> sys.stderr, 'Warning: ambiguous source: %s' % str(uniques)
+        warn('ambiguous source: %s' % str(uniques))
     source = list(uniques)[0]
     # fix common variants
     m = re.match(r'^(?:(?:PMID|pubmed)[_-]?)?(\d+)$', source)
@@ -396,7 +396,7 @@ def annotations_and_text(filenames, options=None):
         texts = find_texts(annotations, options)
         assert texts != [], 'Failed to find text for %s' % str(annotations)
     if len(texts) > 1:
-        print >> sys.stderr, 'Warning: multiple texts for %s' % str(annotations)
+        warn('multiple texts for %s' % str(annotations))
     return annotations, texts[0]
 
 def verify_text(annotations, text):
@@ -410,7 +410,7 @@ def output_file_name(annotation, options):
     elif source == 'PubMed':
         prefix = 'PMID-'
     else:
-        print >> sys.stderr, 'Warning: unrecognized source %s' % source
+        warn('unrecognized source %s' % source)
         prefix = ''
     base = prefix + annotation['sourceid'] + '.json'
     return path.join(options.output, base)
