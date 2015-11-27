@@ -11,21 +11,26 @@ from itertools import count
 from os import path
 from logging import warn
 
-DEFAULT_ENCODING='utf-8'
-DEFAULT_DB='PubMed'
+DEFAULT_ENCODING = 'utf-8'
+DEFAULT_DB = 'PubMed'
+DEFAULT_LIMIT = 10000
 
 def argparser():
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-s', '--source', metavar='DB', default=DEFAULT_DB,
-                        help='Source database (default %s)' % DEFAULT_DB)
-    parser.add_argument('-o', '--output', metavar='DIR', default=None,
-                        help='Output directory')
-    parser.add_argument('-t', '--textdir', metavar='DIR', default=None,
-                        help='Text directory')
+    parser.add_argument('-l', '--limit', metavar='INT', type=int,
+                        default=DEFAULT_LIMIT,
+                        help='Max annotations per file (default %s)' %
+                        DEFAULT_LIMIT)
     parser.add_argument('-m', '--typemap', metavar='FILE', default=None,
                         help='Map from standoff to pubannotation types.')
+    parser.add_argument('-o', '--output', metavar='DIR', default=None,
+                        help='Output directory')
+    parser.add_argument('-s', '--source', metavar='DB', default=DEFAULT_DB,
+                        help='Source database (default %s)' % DEFAULT_DB)
+    parser.add_argument('-t', '--textdir', metavar='DIR', default=None,
+                        help='Text directory')
     parser.add_argument('file', metavar='FILE', nargs='+',
                         help='File(s) to convert')
 
@@ -69,6 +74,9 @@ class Annotation(object):
 
     def to_pubannotation(self, ann_by_id, options=None):
         raise NotImplementedError
+
+    def __str__(self):
+        return '<%s %s %s>' % (type(self).__name__, self.type, self.id)
 
     STANDOFF_RE = None
 
@@ -330,13 +338,17 @@ def parse_standoff_line(line):
     else:
         warn('discarding unrecognized line: %s' % line)
 
-def parse_standoff(source):
+def parse_standoff(source, options=None):
     annotations = []
     for line in source:
         line = line.rstrip('\n')
         if line.strip() == '':
             continue
         annotations.append(parse_standoff_line(line))
+        if options is not None and len(annotations) >= options.limit:
+            warn('discarding annotations after first %d in %s' %
+                 (len(annotations), source.filename()))
+            break
     return annotations
 
 def get_source_db(files, options=None):
@@ -363,9 +375,15 @@ def get_source_id(filenames, options=None):
 def to_pubannotation(annotations, text, files, options=None):
     ann_by_id = { a.id: a for a in annotations }
     pubann = defaultdict(list)
+    failcount = 0
     for a in annotations:
-        for cat, anns in a.to_pubannotation(ann_by_id, options).items():
-            pubann[cat].extend(anns)
+        try:
+            for cat, anns in a.to_pubannotation(ann_by_id, options).items():
+                pubann[cat].extend(anns)
+        except Exception, e:
+            failcount += 1
+    if failcount:
+        warn('Failed to convert %d annotations in %s' % (failcount, str(files)))
     pubann['sourcedb'] = get_source_db(files, options)
     pubann['sourceid'] = get_source_id(files, options)
     pubann['text'] = text
@@ -424,7 +442,11 @@ def output_pubannotation(annotation, options=None):
 
 def process_files(files, options=None):
     annfiles, textfile = annotations_and_text(files, options)
-    standoff = parse_standoff(fileinput.input(annfiles))
+    anninput = fileinput.input(annfiles)
+    try:
+        standoff = parse_standoff(anninput, options)
+    finally:
+        anninput.close()
     text = codecs.open(textfile, encoding=DEFAULT_ENCODING).read()
     verify_text(standoff, text)
     pubann = to_pubannotation(standoff, text, files, options)
