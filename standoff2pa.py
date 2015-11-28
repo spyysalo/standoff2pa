@@ -304,6 +304,12 @@ class Comment(Annotation):
         else:
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
+    def pa_id(self):
+        """Return the PubAnnotation ID for the annotation."""
+        # brat comment IDs start with "#", which is disallowed in
+        # PubAnnotation, so replace. (TODO: check for collisions).
+        return self.id.replace('#', 'C')
+
     def to_pubannotation(self, ann_by_id, options=None):
         # map to modification of target
         doc = {
