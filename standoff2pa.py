@@ -9,7 +9,7 @@ import codecs
 from collections import defaultdict
 from itertools import count
 from os import path
-from logging import warn
+from logging import warn, debug
 
 DEFAULT_ENCODING = 'utf-8'
 DEFAULT_DB = 'PubMed'
@@ -277,7 +277,13 @@ class Attribute(Annotation):
             return ann_by_id[self.arg].get_spans(ann_by_id)
 
     def to_pubannotation(self, ann_by_id, options=None):
-        pred = self.type + (':' + self.val if self.val is not None else '')
+        # As PubAnnotation doesn't allow modifications on
+        # modifications, these need to be discarded.
+        if (isinstance(ann_by_id[self.arg], Attribute) or
+            isinstance(ann_by_id[self.arg], Comment)):
+            debug('Discarding modification of modification %s' % self.id)
+            return {}
+        pred = self.type + (':' + self.val if self.val else '')
         doc = {
             'id': self.pa_id(),
             'pred': pred,
@@ -311,7 +317,13 @@ class Comment(Annotation):
         return self.id.replace('#', 'C')
 
     def to_pubannotation(self, ann_by_id, options=None):
-        # map to modification of target
+        # map to modification of target unless target also maps to
+        # modification: as PubAnnotation doesn't allow modifications
+        # on modifications, these need to be discarded.
+        if (isinstance(ann_by_id[self.arg], Attribute) or
+            isinstance(ann_by_id[self.arg], Comment)):
+            debug('Discarding modification of modification %s' % self.id)
+            return {}
         doc = {
             'id': self.pa_id(),
             'pred': self.type + ':' + self.text,
