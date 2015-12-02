@@ -32,10 +32,10 @@ for f in "$@"; do
     find "$TMPDIR" -name '*.ann' | \
 	xargs python "$SO2PA" -m "$TYPEMAP" -o "$TMPDIR"
     
-    o=`basename "$f" .tar.gz`.zip
+    o=`basename "$f" .tar.gz`.tar.gz
     echo "Packaging into $o ..." >&2
     cd "$TMPDIR"
-    ls | egrep '\.json$' | xargs zip -q "$OUTDIR/$o"
+    ls | egrep '\.json$' | xargs tar czf "$OUTDIR/$o"
     cd ..
 
     echo "Cleaning up for $f ..." >&2
