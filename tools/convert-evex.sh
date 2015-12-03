@@ -35,7 +35,8 @@ for f in "$@"; do
     o=`basename "$f" .tar.gz`.tar.gz
     echo "Packaging into $o ..." >&2
     cd "$TMPDIR"
-    ls | egrep '\.json$' | xargs tar czf "$OUTDIR/$o"
+    ls | egrep '\.json$' > filelist
+    tar czf "$OUTDIR/$o" -T filelist
     cd ..
 
     echo "Cleaning up for $f ..." >&2
